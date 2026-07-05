@@ -27,14 +27,12 @@
   </ul>
 
   {{ if gt (len $special) 0 }}
-    <h2 style="margin-top: 3rem;">Other Resources</h2>
-    <ul class="tab-list">
+    <h2>Other Resources</h2>
+    <div class="other-links">
       {{ range $special }}
-        <li class="tab-item">
-          <a href="{{ .RelPermalink }}" style="border-color: var(--accent-purple); color: var(--text-main);">{{ .Title }}</a>
-        </li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
-    </ul>
+    </div>
   {{ end }}
 </div>
 {{ end }}

@@ -10,16 +10,13 @@
 
   <header class="nav-header">
     <div class="nav-container">
-      <a href="{{ site.Home.RelPermalink }}" class="site-logo">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect><rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect><line x1="6" y1="6" x2="6.01" y2="6"></line><line x1="6" y1="18" x2="6.01" y2="18"></line></svg>
-        BIOS Archive
-      </a>
+      <a href="{{ site.Home.RelPermalink }}" class="site-logo">BIOS Archive</a>
       {{ if not .IsHome }}
       <nav>
         <ul class="nav-menu">
           <li><a href="{{ site.Home.RelPermalink }}" class="nav-link">Home</a></li>
           <li><a href="{{ "mrbios/" | relURL }}" class="nav-link">MR BIOS</a></li>
-          <li><a href="{{ "unicore/" | relURL }}" class="nav-link">Unicore upgrades</a></li>
+          <li><a href="{{ "unicore/" | relURL }}" class="nav-link">Unicore Award</a></li>
         </ul>
       </nav>
       {{ end }}
@@ -32,7 +29,7 @@
 
   <footer class="site-footer">
     <div class="footer-links">
-      <a href="https://github.com/{{ .Site.Params.githubRepo }}" target="_blank">GitHub Repository</a>
+      <a href="https://github.com/{{ .Site.Params.githubRepo }}" target="_blank">GitHub</a>
     </div>
   </footer>
 
