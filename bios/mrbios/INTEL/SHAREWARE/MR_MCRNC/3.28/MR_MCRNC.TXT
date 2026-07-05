@@ -1,0 +1,403 @@
+System BIOS for Micronics "M54Hi" motherboard (Intel Triton)
+
+MR BIOS (r) V097B50H Version 3.28
+Copyright (c) 1996, Microid Research, Inc.
+
+MR BIOS is a registered trademark of Microid Research, Inc.
+MR CHIPS is a registered trademark of Microid Research, Inc.
+Instant! Boot is a trademark of Microid Research, Inc.
+Patents Pending.
+All Rights Reserved.
+
+Other trademarks are property of their respective owners.
+
+------------------------------------------------------------------------------
+
+ShareWare Version:  "Please copy this program in its entirety, without
+modification, and pass it on to others.  If you like it, please pay for
+each copy you install.  If you don't pay for it, please uninstall it.
+Remember, your purchase is a vote."
+
+License Fee:  USD $15.00 per installed copy
+
+Microid Research, Inc.
+2336-D Walsh Ave.
+Santa Clara, CA, 95051
+USA
+
+email: mrbios@mrbios.com
+web-site: http://www.mrbios.com
+
+------------------------------------------------------------------------------
+
+MR BIOS (r)  Copyright (c) 1996  Microid Research, Inc.
+
+Patents Pending
+
+Advanced buzzword features include:
+
+ (1) Plug 'n Play card support.
+       1a) Auto resource steering
+       1b) Win95 compatible
+ (2) PCI and Bridge support.
+       2a) Auto resource steering
+       2b) DEC PCI-PCI bridges
+ (3) Energy Star power management.
+       3a) APM for Windows and DOS
+       3b) VESA DPMS video mgmt
+       3c) SMI and STPCLK
+       3d) Timewarp correction
+ (4) Fast-ATA support.
+       4a) ATA Mode 4/5 (to 20 MB/S)
+       4b) Built-in CMD-640, OPTi-621 drivers
+ (5) Enhanced IDE support.
+       5a) LBA and CHS translations
+       5b) EDPT Table support
+       5c) IBM/Microsoft INT13 extensions
+       5c) 8 discs max, each to 137 GByte
+       5d) Drive remapping
+       5e) Boot SCSI (ahead of IDE)
+ (6) Atapi and Removable IDE.
+       6a) CD-ROM recognition
+       6b) SyQuest and Ejectable Media
+ (7) Enhanced Floppy support.
+       7a) 4 floppy/tape-drives max
+       7b) Drive remapping
+ (8) Enhanced Parallel Port.
+       8a) SPP, Bidir, EPP, ECP modes
+ (9) Anti-Virus protection.
+(10) Password Security.
+(11) PS/2 Mouse support.
+(12) Pentium and 6x86 CPU support.
+(13) Instant! Boot (tm).
+
+------------------------------------------------------------------------------
+--- READ THIS FIRST ------ READ THIS FIRST ------ READ THIS FIRST ---
+------------------------------------------------------------------------------
+
+---------------------------------------
+Micronics M54Hi - Boot Block Jumper W10
+---------------------------------------
+
+NOTE!  There is a jumper (W10) on the M54Hi motherboard that you
+will need to change in the course of installation of MR BIOS (r).
+If you do not want to do this, or cannot do so, then stop reading
+now and abandon loading MR BIOS (r) into your Micronics M54Hi...
+
+-----------
+Explanation
+-----------
+With respect to the Flash-ROM, the Micronics M54Hi motherboard
+design closely parallels Intel's Zappa, Endeavor and etc.
+
+(1) The Flash-ROM is a 28F001-BXT that contains a write-protected
+"boot-block" whose purpose is to provide failsafe recovery in the
+unlikely event the Flash somehow becomes corrupted.
+
+(2) Also, a 2-way jumper (W10) exists on the M54Hi motherboard that
+allows the bottom and top halves of the Flash-ROM to be swapped.
+The equivalent jumper on Intel designs is used to manually engage
+their Failsafe Flash Recovery mode.
+
+With the Intel design, the write-protected boot-block and jumper are
+used collectively to effect a failsafe recovery mode.  When the jumper
+is manually plugged in the "recovery" position, the Flash's boot-block
+is relocated in memory to a position that causes it to take control
+when the computer is powered-up.  When set this way, the computer
+single-mindedly waits for you to insert a recovery diskette that
+contains a flash-loader and BIOS image.  After completing the Flash
+recovery process, you plug the jumper back to its normal position
+and things are back to normal.
+
+It appears the Micronics board was designed to support this same
+scheme, but their BIOS vendor had different ideas about how to
+implement the recovery mode.  The jumper W10 is unused (?), and the
+boot-block always resides in the top-most region of the Flash-ROM.
+
+------------------------
+How this Effects MR BIOS
+------------------------
+There are two important effects to the M54Hi's proprietary way of
+doing things.
+
+First, it precludes use of any Failsafe Flash Recovery program except
+one compatible with their original BIOS.
+
+Second, the protected "boot-block" is located in a position that
+interferes with normal operations of MR BIOS.  The MR BIOS Flash
+Loader Utility was therefore customized to load the BIOS around this
+write-protected "boot-block".  Upon completion of loading MR BIOS
+into the Flash-ROM, you will need to change the position of jumper
+W10 to relocate the "boot-block" out of the way.
+
+------------------------
+W10 Location and Setting
+------------------------
+The jumper W10 is a 3-pin berg-strip which provides two different
+settings by plugging pins 1-2 or 2-3.  It is found a little right
+of dead-center of the motherboard, in front if the IDE headers.
+It is silkscreened "W10" with a single numeral "1" closest to pin #1.
+
+From the factory, W10 is plugged [2-3].  This position maps the
+"boot-block" to the top region of the Flash-ROM.  It is required
+to be in this position to run the BIOS supplied by Micronics.
+
+After loading MR BIOS, W10 needs to be plugged in the [1-2] position.
+This relocates the "boot-block" out of the way to the low half of the
+Flash-ROM.  You will be "reminded" to do this after loading MR BIOS
+into the Flash-ROM by the fact that your computer simply won't boot
+otherwise.
+
+After loading MR BIOS into the Flash-ROM and setting W10 to [1-2],
+you never need to touch it again.  The MR BIOS Flash Loader can upload
+updated versions of MR BIOS, or it can restore the original backup BIOS
+image without replacing the jumper to its factory position.
+
+If you do restore the original BIOS that came with the computer, you
+will need to restore the jumper W10 to its original [2-3] position
+afterwards.
+
+If you ever have occasion to use (or find?) Micronics' Flash Utility,
+follow their directions.
+
+------------------------------------------------------------------------------
+
+---------------------------------
+Contents, Overview and Disclaimer
+---------------------------------
+
+Three files are included in this distribution kit.
+
+MR_MCRNC.BIO - MR BIOS (r) System BIOS
+MR_MCRNC.TXT - This file you're reading
+MR_MCRNC.EXE - Flash Loader Utility
+
+
+The System BIOS file contains the Microid Research BIOS ("MR BIOS (r)"),
+customized for your Micronics M54Hi motherboard.  The 1995 MR BIOS (r)
+core provides the latest state-of-the-art BIOS technologies that automate
+your computer's setup and deliver unmatched performance and utility.
+
+Unlike most programs that you are familiar with, the System BIOS does
+not execute from disk.  Instead, it is stored in a Flash-ROM component
+that resides on the motherboard and begins executing immediately upon
+powerup.  This Flash-ROM can be reprogrammed by means of a Flash Upload
+Utility.  In order to install MR BIOS (r) in your computer, you'll need
+to reprogram its Flash-ROM through use of the Flash Loader utility.
+
+Usual Disclaimer:
+-----------------
+BE ADVISED THAT THERE IS AN ELEMENT OF DANGER IN REPROGRAMMING THE
+COMPUTER'S FLASH SYSTEM BIOS.  If the Flash Load procedure begins,
+but fails to completely load a valid BIOS image, your computer will be
+out of commission and you'll have to have it serviced.  The Flash-ROM
+will need to be physically replaced with another that contains valid
+code.  Reasons for the Flash Upload failure include 1) losing power
+while the upload is in progress, and 2) specifying and uploading the
+wrong file.  Needless to say, this would be a horribly disappointing
+experience.  Microid Research Inc. would most sincerely regret such
+a misfortune, however, understand that MICROID RESEARCH INC. DISCLAIMS
+ALL RESPONSIBILITY AND LIABILITY FOR THE USE AND CONSEQUENCES OF THE
+USE OF THIS PRODUCT.  So, please, take your time and be careful!
+
+However...
+----------
+If you have Micronics' Flash Loader Utility, it presumably provides
+a failsafe recovery mode.  Microid Research Inc. recommends that you
+obtain it and follow its directions for preparing a failsafe diskette.
+Please be advised that Microid Research Inc. has not tested Micronics'
+Flash Utility and will not be responsible for its results.
+
+Jumper W10
+----------
+Upon completion of loading MR BIOS into your computer's Flash-ROM,
+you will need to change the position of a hardware plug on jumper
+"W10".  If you are unwilling or unable to do so, DO NOT install
+MR BIOS into your computer!
+
+
+
+The Flash Loader provides a simple menu of 4 options (5, including
+"exit").  There are three objectives of this utility.  First, it
+provides the facility to copy the existing BIOS into a disk-file
+for backup purposes.  This is option "1. Backup".  The companion
+function "2. Verify" allows you to confirm the backup file matches
+the existing BIOS.  Selection "3. Install" is used to copy MR BIOS
+into the Flash-ROM.  Selection "4. Restore" allows you to replace
+the original (backup) BIOS back into the Flash-ROM.
+
+Be sure to backup the original BIOS before uploading MR BIOS into
+the Flash-ROM.  Otherwise, you won't be able to uninstall MR BIOS
+should you want to do so.  Even if you're sure you won't, it is a
+good practice to retain all original equipment that is supplied with
+your computer, "just in case".
+
+The exact steps for uploading MR BIOS are enumerated in the Instructions
+section below.  Assuming you have followed those instructions and the
+upload has just completed, the Flash Loader will display a message
+directing you to reset the computer or re-cycle its power.  Upon doing
+so, you will be greeted with an alarming message that the "CMOS Memory
+is Corrupt", and the BIOS Setup Utility will be activated.  Don't be
+alarmed.  The Flash Loader Utility intentionally clears the CMOS to
+simulate a factory-new condition and provoke the Setup session.
+
+Upon arriving in the Setup Utility, you will need to reset the time
+and date, and manually input the type(s) of Floppy drive(s) in your
+computer.  Beyond that, everything else will already be set for optimal
+performance and you can simply exit by pressing <F10>.  Or, you might
+browse around and tailor some options like Password Security or Power
+Management per your preference.  After this Setup session, your computer
+will reboot thereafter without any hysterical messages.
+
+------------------------------------------------------------------------------
+
+-------------------------------------
+MR BIOS (r) Installation Instructions
+-------------------------------------
+
+Step 1
+------
+Disable power management in the BIOS Setup Utility.
+
+Step 2
+------
+Boot your computer "clean", to a non-Protected-Mode DOS environment.
+This is easily done by booting a floppy that contains only DOS, but
+neither CONFIG.SYS nor AUTOEXEC.BAT.
+
+Step 3
+------
+Invoke MR_MCRNC.EXE Flash Loader by typing "MR_MCRNC" at the DOS prompt.
+
+Step 4
+------
+Select option "1. Backup" to make a copy of the original BIOS that
+came with the motherboard.  It will be generated with the filename
+"MICRONIC.BAK".
+
+Step 5
+------
+Select option "2. Verify" to confirm the backup was successful.
+The status will be reported to you, either success or failure.
+
+If it worked OK, proceed to Step 6.  Else figure out what is wrong
+and correct it.  Repeat Steps 4 and 5.
+
+Step 6
+------
+Select option "3. Install" to copy the file "MR_MCRNC.BIO" into
+the Flash-ROM.  This file contains the actual MR BIOS image.  Be
+aware that part of what is going on here is the erasure of the
+original content of the Flash-ROM.
+
+Step 6a
+------
+The upload process may take up to 15 eternal seconds, during which
+time you are likely to begin worrying.  Relax, and do NOT shut off
+the power or otherwise disturb the computer.
+
+You'll be notified with a message on the CRT when the upload has
+completed.
+
+Step 6b
+-------
+Turn off the computer's power.
+
+If this is the 1st time you have installed MR BIOS into your computer,
+the jumper W10 will currently be plugged in the [2-3] position.  Change
+it to the [1-2] position.
+
+Turn the computer's power back on.
+
+
+Step 7
+------
+The first bootup after loading the new BIOS, you will be directed into
+the BIOS Setup Utility.  Configure time, date, floppy drive(s) and other
+options.  Exit by pressing <F10>.
+
+Step 8
+------
+Win95 Users:  In a few installations, Windows 95 has been reported to
+"remember" certain properties of the BIOS that has been replaced by
+MR BIOS.  This can lead to some bewildering behavior.  The best rule
+of thumb is to unconditionally run Win95's "Hardware Wizard" once after
+installing MR BIOS.  If weirdness persists, use the sledge-hammer
+approach and run Win95's "Setup".
+
+Step 9
+------
+Enjoy!
+
+------------------------------------------------------------------------------
+
+----------------------------
+Un-Installation Instructions
+----------------------------
+
+Use the "4. Restore" option to reload "MICRONIC.BAK" back into the
+Flash-ROM.  If you followed the instructions above, this backup
+file was created (above, in Step 4) before you installed MR BIOS.
+
+Upon completion, shut off the computer's power, and replace the
+jumper W10 to its factory position [2-3].
+
+------------------------------------------------------------------------------
+
+----------------
+Revision History
+----------------
+
+Microid Research Inc. is grateful for your suggestions, criticisms,
+and bug reports.  We're proud to share with you evidence of continued
+progress and improvements, much to your credit.  Thank you!
+
+Ver 3.10 - Original Zappa ED,ZP ShareWare release; with new PnP core.
+Ver 3.11 - n/a
+Ver 3.12 - Bugfix: PnP core overlapped "manual" setup of PCI interrupts.
+Ver 3.13 - n/a
+Ver 3.14 - Force bidirectional parallel-port for Nat'l Semi Super-I/O.
+Ver 3.15 - n/a
+Ver 3.16 - Asymmetric 2M dram support (16M/bank, single-sided).
+Ver 3.17 - Limit ATA-disc "auto" to Mode 3.  Mode 4 only avail via "manual".
+Ver 3.18 - Update for production Cyrix 6x86.
+Ver 3.19 - LPT modes: SPP,Bidir,EPP,ECP now user options. (SMC & NSC chips).
+Ver 3.20 - Upgrade: Add CMD 646 EIDE built-in driver.
+           Upgrade: Longer IDE spindown timer values (1,2,5 --> 2,5,10 min).
+           Upgrade: Provide setup field to disable soundblaster totally.
+           Workaround: De-enhance disk seeks to eliminate Norton8 complaint.
+           Workaround: Fix for Adaptec 2940 bios Ver 1.20 bug.
+           Workaround: Fix for S3 '968 32MB pageframe decode bug.
+           Workaround: Fix for Supra PnP Modem bug (drop Adaptec 1542CP fix).
+Ver 3.21 - Upgrade: Add aggressive "55nS" memory-type option.
+           Bugfix: Obscure bug in "manual" PCI-Int Setup affects mapping over
+                   bridge of Ints B,C,D (not A) for a few non-Zappa's.
+Ver 3.22 - Workaround: Fix for Adaptec 2940 bios Ver 1.21 warm-boot bug.
+           Workaround: Fix for nVidia/SGS VGA, replicated PCI ROM register.
+           Workaround: Fix for Holtek asic 8042 bug.
+           Workaround: Endeavor: Move Pnp-Data-Read port to avoid gameport
+                       decode bug.
+Ver 3.23 - Workaround: Apply v3.22 fix to *all* Adaptec PCI devices.
+           LPT modes: SPP,Bidir,EPP,ECP options for Winbond Super I/O too.
+           Upgrade: Add "CPU-Pipeline" on/off option (for debug purposes).
+           Upgrade: RAID-0 disk striping option, interleave 2-8 IDE drives.
+Ver 3.24 - Workaround: Disable CPU Pipelining during POST.
+           Upgrade: Higher performance for Mode4 IDE drives.
+Ver 3.25 - Fix: Timing problem with certain 512K pipeline cache modules.
+           Fix: Incompatibility with WD 719X SCSI controllers.
+Ver 3.26 - Workaround: Aha2940 PCI I/O alignment for Chinese OS/2 (TWarp).
+           Reduced binary bios image to 92K.  Changed flash loader, now
+           does not clear cmos century byte (ref: NDD95).
+Ver 3.27 - Workaround: PnP issues with Crystal soundblaster.
+           Workaround: COM4 port usage by ATI video.
+           Update: Aggressive CMOS-default memory settings.
+           Update: Roundup CPU MHz display (cosmetic).
+           Update: Display dram config in Chipset setup screen.
+           Update: Performance tweaks for 6x86 CPU.
+Ver 3.28 - Update: Deleting on-board COM/LPT ports in "Ports" setup
+           utility now fully disables them.
+           Fix: 6x86 cacheable range for non-binary memory sizes.
+
+------------------------------------------------------------------------------
+End document
+------------------------------------------------------------------------------

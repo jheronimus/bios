@@ -1,0 +1,439 @@
+[Image] - Triton FAQ
+
+Frequently Asked Questions
+
+Triton IDE Subsystem
+Why can't I select Mode 4 (16.7 MB/S)?
+Why can't I select both drives' speeds separately?
+Why does my CD-ROM seem to run so slowly?
+How can I enable Bus-Master IDE?
+Which EIDE plug-in cards does MR BIOS support?
+
+Disk Questions & Answers
+Where's my CD-ROM?
+Where's my IDE drive?
+Why doesn't my >512M IDE work right?
+Does Linux O/S work with MR BIOS?
+Norton 8 says my disk is slower now !
+Norton 9 Disk Doctor or Mortician?
+
+Chipset and Motherboard
+Does MR BIOS support my motherboard?
+The flash-loader refuses to run !?
+Does MR BIOS have built-in NCR SCSI bios?
+Which vendor's chipset is best?
+Upgrades for Mercury, Neptune, Aires, &tc.?
+I want to tweak cache and bus timings !?
+
+Other Hardware Issues
+Adaptec 2940 bios 1.20 bugfix
+Adaptec 2940 bios 1.21 bugfix
+Adaptec 8371 component "discrepency"
+Supra PnP modem bugfix
+NSC Parallel Port problems
+Does MR BIOS have built-in NCR SCSI bios?
+Does MR BIOS support EDO-RAM ?
+I bought a different type cache than reported !?
+
+Windows 95
+I just loaded MR BIOS, and now Win95 won't work!
+Does 32-bit driver really improve IDE performance?
+
+Microsoft Mouse Driver
+Where's my PS/2 Mouse?
+
+Power Management
+Power Management Terminology
+
+---------------------------------------------------------------------------
+
+                            Triton IDE Subsystem
+
+Why can't I select Mode 4 (16.7 MB/S)?
+The first reason for this is a physical limitation of the Triton chipset.
+It derives its timing from the PCI clock, and provides a minimum (fastest)
+cycle of 5 clocks. The maximum transfer rates achievable, in terms of
+MegaBytes/Second, are as follows:
+
+PCI-Clock = 25 MHz ..... Transfer Rate = 10 MB/S
+PCI-Clock = 30 MHz ..... Transfer Rate = 12 MB/S
+PCI-Clock = 33 MHz ..... Transfer Rate = 13.3 MB/S
+
+It slides downhill from here. The second reason is one of reliability. You
+will probably experience data corruption when the Triton is configured to
+run your Mode 4 (16.7 MB/S) drive at rates in excess of approximately 11
+MB/S. For this reason, MR BIOS no longer selects rates beyond that
+automatically. If you want to run your drives faster, you'll need to
+manually override the automatic settings and experiment a little. To
+understand the Triton's Mode 4 problem better, obtain a small manual
+entitled "ATA SIGNAL INTEGRITY ISSUES" from Quantum Corporation.
+
+Why can't I select both drives' speeds separately?
+
+Could this be a manifestation of Intel's obsession with fair competition?
+
+In several aspects, the Triton's IDE subsystem appears to be a
+stripped-down imitation of genuine EIDE controllers from CMD, OPTi and
+others. It simply omits the provision to independently program the
+master+slave drive pair with separate EIDE transfer rates. Instead, they
+share a common timing register set. Each drive in the pair has two options:
+Run at the common EIDE speed, or run at the ancient AT-Bus speed (approx
+1.8 MB/S). This means that both drives on the same cable must be run per
+the slower drive's requirements, or the faster drive may be run at full
+speed and the slower drive penalized all the way back to 1983 speeds.
+
+MR BIOS has a patent-pending ATA interface that is uniquely capable of
+managing a wide variety of IDE controllers. But never was such an
+uncompromisingly asymmetrical design anticipated. A back-door provision to
+select the one-fast, other-slow configuration is as follows: In the
+ATA-Disc setup utility, move the cursor to one of the drives' MB/S field.
+Scroll the rates until the slowest value is visible, noting that both
+drives' rates scroll simultaneously. Now, while the slowest rate is
+selected, either of the drive-pair's MB/S value may be increased
+independent of the other's. (In programmers' terms, the slow speed is
+sticky). Be aware that MR BIOS incorrectly displays the slowest rate as
+approximately 5 MB/S. That setting actually enables the sub-standard AT-Bus
+rate.
+
+Why does my CD-ROM seem to run so slowly?
+Because it is being run slowly! Again, this results from a limitation in
+the Triton design. When the "enhanced" transfer rate is enabled for a
+drive, the Triton automatically and cleverly enables fixed-size sector
+read-ahead and write-posting operations. Too cleverly, because Atapi
+CD-ROM's hybrid-SCSI protocol employs variable-size blocks which prohibit
+those advanced functions. As consequence, the EIDE transfer rate must be
+disabled and the ancient AT-Bus rate is the only remaining option. Be
+aware, the MR BIOS Setup Utility is unaware of Triton's shortcoming and
+incorrectly displays EIDE speeds for Atapi CD-ROMs. Failsafe code
+ultimately disregards the cmos setting (auto or manual MB/S) and enforces
+the required sub-standard AT-Bus rate.
+
+How can I enable Bus-Master IDE?
+Bus-Mastering IDE is claimed to deliver higher performance than
+conventional PIO methods. It cannot be implemented directly in BIOS though,
+instead requiring a device driver that is activated upon bootup. Did you
+receive such a diskette with your Intel Triton motherboard? If not, email
+support@cs.intel.com and learn why!
+
+[Image]
+
+---------------------------------------------------------------------------
+
+                          Disk Questions & Answers
+
+Where's my CD-ROM?
+Per ATA specifications, MR BIOS requires that a single, stand-alone CD-ROM
+drive is configured as "master", and not as "slave". Change the jumper on
+the rear of your CD-ROM drive to "master", and it will then be recognized.
+
+This might seem a little unaccommodating of MR BIOS, and it is under review
+here at Microid Research. However, the slave-only config can actually leads
+to runtime problems. If software ever logged onto the (absent) master, you
+would likely end up with a "busy" situation that would be impossible to
+clear. While one drive is "busy", ATA protocol demands that you refrain
+from accessing the drives' shared registers. Thus, you could never log back
+onto the slave, except by violating ATA protocol. This could result in a
+hung system when accessing the CD-ROM drive. Sound familiar?
+
+Where's my IDE drive?
+A number of IDE drives tend to lose sanity if accessed too early during
+their initial spinup cycle. For this reason, the System Warmup Delay.....3
+Sec field is provided in the Boot-Seq Setup Utility screen. If you disabled
+this in order to accelerate the poweron bootup speed and now your drive has
+vanished, you will apparently need to restore the delay. If it is still set
+to 3 seconds, try increasing it.
+
+Some recent model Maxtor drives refuse to be logged-in by MR BIOS when
+configured as the second drive (slave) on a cable. The technical reason is
+that those drives lose their reset status, and are then rejected by MR BIOS
+during a diagnostic status check. (It appears that an Adaptec 8371
+component in the drive's electronics is the cause, and suggests that a few
+other OEM drives may also be afflicted with this "discrepency"). Currently,
+the only solution is to configure the Maxtor as the master, and the other
+drive as the slave. In the case of two Maxtor drives, place them on
+separate cables, both as masters.
+
+Why doesn't my >512M IDE work right?
+MR BIOS has supported multi-GByte discs since 1990. In the Version 3 core,
+ATA-disc setup was fully automated and the ability to manually
+select/disable translation was abandoned altogether as obsolete. If you are
+trying to re-use a >512M drive from a computer that contained another
+vendor's bios, it probably is formatted to a maximum of 512M, or contains a
+so-called disk-manager to break the 512M barrier. Either way, that drive's
+format is incompatible with the modern methods of MR BIOS. The only way to
+use it with MR BIOS is to re-FDISK and FORMAT it. Be sure to backup its
+content with the previous computer/bios beforehand!
+
+Does Linux O/S work with MR BIOS?
+If your IDE drive is >512M and your version of Linux does not understand
+translated drives, then MR BIOS will not work for you. There is no
+provision in MR BIOS to reduce a drive's size beneath its reported
+capacity. (Sorry). However, all 1.2.x versions do support this
+configuration. You can upgrade the kernel and version of LILO if necessary
+to enjoy the full capacity of your >512M IDE drive. (Thank you, C.G., for
+pointing this out!)
+
+Norton 8 says my disk is slower now !
+After exclaiming that MR BIOS was using some kind of advanced disk
+controller and warning its results would be artifically high, Norton 8 in
+fact demerited MR BIOS disk performance with a lower index. ...And some of
+you folks actually believed it !? To solve this nuisance, MR BIOS Ver 3.20
+reverts back to archaic methods that make Peter happy. (Don't worry, no
+performance was measurably lost).
+
+Norton 9 Disk Doctor or Mortician?
+After installing MR BIOS, there have been a few reports that NDD95 will
+misdiagnose your disk as ill even though Scandisk finds it to be totally
+healthy. Administering NDD95's cure at this point is likely to embalm your
+filesystem, so don't be tricked into doing it! Rehabilitate Peter instead.
+Un-install and then re-install Norton Utilities once prior to usage.
+
+Updated info: Most (all?) of the NDD95 problem reports have been traced to
+the cmos date being reset after running the flash loader utility. The flash
+loader intentionally clears the cmos memory to assure a clean-slate startup
+with the newly installed bios. Be sure to re-edit the date (especially, the
+century part of the year) after flashing MR BIOS into your computer.
+Beginning with Ver 3.26, the MR BIOS flash loader carefully avoids clearing
+the cmos date.
+
+                                  [Image]
+
+---------------------------------------------------------------------------
+
+                          Chipset and Motherboard
+
+Does MR BIOS support my motherboard?
+If it's a Triton design and you see it on the MR BIOS ShareWare page, then
+the answer is yes. If it's not a Triton design, please refer to the the MR
+BIOS Upgrades page. Otherwise, the answer is at best not yet. Please don't
+flood MR BIOS email with this inquiry!
+
+The flash-loader refuses to run !?
+For Intel and a few other vendors' motherboards, the MR BIOS ZIP file
+contains a single flash-loader that was specifically customized for it. The
+filename.EXE of that flash-loader will resemble the bios image
+filename.BIO. The remainder of the supported motherboards will typically
+use one of two categories of flash-rom, and their ZIP files contain either
+29C010.EXE or 28F010.EXE or both flash-loaders. These loaders are general
+purpose, each supporting a family of similar flash-roms. In all cases,
+whether custom or generic, the flash-loader attempts to qualify the
+flash-rom in your computer is the type it is able to program. If not, a
+message to that effect is displayed and the flash-loader aborts upon your
+first keystroke. In such an instance, you should check that a write-protect
+jumper or other mechanism applicable to your motherboard is correctly
+conditioned to permit flash-write operations. If everything appears correct
+yet the loader refuses to operate, there is nothing left to do. Your
+motherboard cannot be upgraded with MR BIOS at this time. (Sorry). Do NOT
+attempt to use another vendor's flash-loader to upload the MR BIOS image!
+
+Does MR BIOS have built-in NCR SCSI bios?
+No, MR BIOS is not supplied with built-in NCR bios. But you can cook it up.
+Here's the recipe: First, download the 16K binary file
+ftp://ftp.symbios.com/pub/ncrchips/scsi/drivers/Utilities/flash3x.zip.
+Next, rename the 92K distribution MR BIOS ".BIO" file to a temporary
+filename, like MRBIOS. Then, pre-pend the NCR bios to the MRBIOS file using
+the DOS copy command:
+
+C:> COPY /b NCRBIOS + MRBIOS MRBIOS.BIO
+
+The "/b" means "binary" (as opposed to ascii text). The "+" causes the two
+files NCRBIOS and MRBIOS to be combined into the final, single file
+MRBIOS.BIO. Note the SCSI bios needs to be listed 1st before the MRBIOS
+file. Note also, the filenames used here are examples; you need to supply
+the actual filenames. Confirm the result MRBIOS.BIO is exactly 16K+92K=108K
+(110,592 bytes). If not, stop and figure out what went wrong! If yes, the
+MRBIOS.BIO is now ready to be loaded according to the instructions in the
+MRBIOS.TXT file. WARNING! Do this AT YOUR OWN RISK! If you're not sure you
+know what you're doing, then get someone to help you who does. Please be
+careful!
+
+Note: There is also now a file flash4x.zip on the Symbios site that appears
+to be more recent. It contains both a 16K and 32K ROM image. They appear to
+be intended for use directly on a PCI plugin card. If you choose to use one
+of these (instead of the version in the flash3x.zip file), you will also
+need to change the setting of the E000: Shadow-RAM to RW_Shadow in the MR
+BIOS Setup Utility.
+
+Which vendor's chipset is best?
+What kind of a question is this? Are there any competitors left in
+business?
+
+Upgrades for Mercury, Neptune, Aires, &tc.?
+Emphatically NO! Information was witheld from Microid Research during these
+chipsets' development cycles, and now it is impossible to backtrack the
+hideous details of their extensive revision histories. Good luck getting a
+bios upgrade from your original vendor. Remember, your purchase was a vote!
+
+I want to tweak cache and bus timings !?
+Then charge up your electric screwdriver, because you'll be using it.
+Unlike most chipsets in recent history (and contrary to the spirit of Plug
+'n Play), the Triton chipset offers no provision to program these
+parameters. You can select (only two) AT-Bus speeds via jumper or
+dipswitch. The cache timing is not programmable at all. You expect
+performance can be increased by selecting more aggressive timing for
+dual-bank, interleaved asynchronous cache? Forget it with Triton, the cache
+is not interleaved.
+
+                                  [Image]
+
+---------------------------------------------------------------------------
+
+                           Other Hardware Issues
+
+Adaptec 2940 bios 1.20 bugfix
+Notice: All MR BIOS versions prior to Ver. 3.20 are incompatible with the
+short lived AHA 2940 V1.20 bios. It generates a malformed Adapter-ROM image
+in shadow-ram which, when executed, causes the system to crash. MR BIOS
+Ver. 3.20 is now aware of this booby-trap. Please be sure to update your MR
+BIOS, or steer clear of Adaptec 2940 cards with that afflicted bios!
+
+Adaptec 2940 bios 1.21 bugfix
+Notice: All MR BIOS versions prior to Ver. 3.22 may have spurious warm-boot
+(Ctrl Alt Del) failures with the AHA 2940 V1.21 bios. In an apparent
+attempt to fix a memory clobbering bug in Ver 1.20, the Adaptec V1.21 bios
+searches for a clear 128K block before performing its initialization. If it
+cannot find such a region, it exclaims Memory Error on the CRT and fails to
+continue. But there is no reason to expect a 128K block of zeros will be
+found during a warm-boot. To the contrary, MR BIOS attempts to preserve the
+memory content for compatibility reasons (...not anymore, if AHA 2940 is
+detected).
+
+Supra PnP modem bugfix
+A bugfix for Adaptec 1542CP PnP-ISA SCSI would provoke Supra PnP modem into
+losing its PnP configuration (and ultimately clobber COM1). Beginning with
+MR BIOS Ver 3.20, the 1542CP fix is abandoned to accommodate the popular
+Supra PnP modem instead.
+
+NSC Parallel Port problems
+The National Semiconductor Super I/O chip's parallel port is being a little
+troublesome. This component is found on many motherboards including Intel's
+and other vendors'. In the standard parallel port mode ("SPP"), it should
+provide pseudo-bidirectional functionality, but it is instead strictly an
+output port. If your application requires bidirectionality, you will need
+to change its mode to that respective setting via the Setup Utility Ports
+screen. Unfortunately, when set to Bidirectional mode, the NSC port fails
+several popular diagnostic programs. Beginning with MR BIOS Ver. 3.19, all
+four modes, SPP, Bidir, EPP and ECP have been made available in Setup
+Utility, allowing you to select the mode that best fits your requirements.
+
+Does MR BIOS support EDO-RAM ?
+Absolutely. And beginning with version 3.27, you can view your computer's
+entire memory configuration directly from the Chipset setup utility.
+
+So, what's the big fuss over 60 nS EDO-RAM anyway? It's just a natural
+evolution of dram technology for recent 50+ MHz memory buses. It offers
+only a very modest performance gain over conventional dram; maybe none at
+all in interleaved designs. Perhaps it's being confused with the patented
+15 nS EDRAM from Ramtron that is genuinely innovative and significantly
+boosts performance. Benchmark your Triton board against Ocean-USA's
+Octek-DCA2 5x86 EDRAM board and see for yourself the advantage that EDRAM
+delivers!
+
+I bought a different type cache than reported !?
+MR BIOS detects your computer's cache size and sram type and configures
+things accordingly. You can view this information in the Cache Setup
+Utility. When external cache is absent, the only field in that screen will
+be the X86-CPU Cache (on/off) option. Otherwise, a Cache Size field will
+show its size, and an External Cache (on/off/none) field allows the cache
+to be enabled or disabled (or marked absent for debug purposes).
+
+If your system contains Asynchronous cache sram, nothing else appears in
+the Cache Setup screen. However, if your cache is comprised of either
+Synchronous Burst or Pipeline Burst sram, a Cache SRAM field will also
+exist which defaults to Sync-Burst or Pipeline, respectively. For debug
+purposes, this field can be toggled, but doing so and saving that (wrong)
+choice will result in your computer hanging upon bootup. Although there are
+other possible reasons, it is true in general that if the sram type has
+been misconfigured, your computer will simply hang upon bootup.
+
+If the reported sram differs from the type you bought, yet your computer
+boots correctly, please consult with your hardware vendor and/or a
+qualified technician before sending email to Microid Research!
+
+                                  [Image]
+
+---------------------------------------------------------------------------
+
+                                 Windows 95
+
+I just loaded MR BIOS, and now Win95 won't work!
+In some cases, it seems that Win95 needs a little manual encouragement to
+become adjusted to the new bios environment. As a first attempt to correct
+things, go to the Device Manager and view the current configuration. The
+steps to get there are: (1) click Start, (2) click Settings, (3) click
+Control Panel, (4) click System icon, (5) click Device Manager. At this
+point, a graphical representation of your system's hardware will appear.
+Now, one-at-a-time, select and click Remove for each item that is visibly
+incorrect and/or you know to be misbehaving. Exit the Device Manager back
+into the Control Panel, and click the Add New Hardware icon to invoke the
+Hardware Wizard. Your computer's configuration will be redetected there,
+and hopefully upon completion, it will be corrected. In most cases, this
+does work and your computer will now run Win95 better than ever before. But
+if you find Win95 stubbornly refuses to adjust, choke it with your CD-ROM
+and run Win95 Install from scratch.
+
+Does 32-bit driver really improve IDE performance?
+Well, Core Test doesn't think so. In fact, Core Test typically registers
+more than 20% transfer rate increase when the Win95 32-bit disk driver is
+disabled! You might want to review your system's disk performance with
+32-bit access disabled vs enabled, to see which way actually delivers best
+results for your installation.
+
+Follow these steps to change the 32-bit file system setting: (1) click
+Start, (2) click Settings, (3) click Control Panel, (4) click System icon,
+(5) click Performance, (6) click File System, (7) click Trouble Shooting,
+(8) check (or uncheck) "Disable all 32-bit protect-mode disk drivers".
+
+Or, to change it explicitly: (1) click Start, (2) click Settings, (3) click
+Control Panel, (4) click System icon, (5) click Device Manager, (6) click
+Hard disk controllers, (7) select and click the specific controller entry,
+(8) uncheck (or check) "Original Configuration (Current)".
+
+                                  [Image]
+
+---------------------------------------------------------------------------
+
+                           Microsoft Mouse Driver
+
+Where's my PS/2 Mouse?
+The original IBM PS/2 extends the standard BIOS data area by "stealing" the
+top 1 Kbyte of precious Base 640K memory, reducing it to an effective 639K.
+That area is sometimes called the Extended BIOS Data Area ("EBDA"). It
+seems the only useful thing in there is the PS/2 Mouse data storage. In
+contrast, MR BIOS is concerned with conserving and optimizing memory usage.
+To this end, the runtime MR BIOS image is condensed to maximize available
+Upper Memory Blocks ("UMBs"), and the wasteful EBDA is not employed.
+Instead, the few PS/2 Mouse variables are stored in the standard BIOS data
+area (where they really belong). Unfortunately, from time to time you will
+come across a Microsoft Mouse driver that assumes the EBDA exists unless
+you explicitly tell it otherwise. To do so, you will need to create or edit
+the driver's .INI file (usually MOUSE.INI) as follows:
+
+[mouse]
+MouseType=PS2
+FailIfNoExtendedBIOS=False
+
+                                  [Image]
+
+---------------------------------------------------------------------------
+
+                              Power Management
+
+Power Management Terminology
+In the Energy Setup Utility screen, you are presented two different
+activity monitoring options. Local activity includes only keyboard and
+mouse, whereas Global activities include everything the Triton is equipped
+to sense. If the selected activity type occurs before a power management
+timer expires, then the system will remain awake. Similarly, that activity
+will awaken the system if it is already asleep. There are two separate
+timers, providing independent control of two separate low-power state
+machines. Standby is a mildly power-reduced sleep state that occurs after a
+brief period of inactivity; when you are momentarily distracted from work
+at your computer. Suspend is a severely power-reduced sleep state that
+occurs after a longer period of inactivity; when you leave your computer
+unattended.
+
+                                  [Image]
+
+---------------------------------------------------------------------------
+                                  [Image]

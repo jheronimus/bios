@@ -1,0 +1,190 @@
+- Manufacturer name: Puritron
+  Bios count: '3'
+  AwardBIOS Part Numbers: '2A59FPJ9
+
+    2A59IPJ9
+
+    2A5IHPJ9'
+  86Bot parse of manufacturer string: '[Unknown] (PJ)'
+  Award manufacturer id: PJ
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Long Shine
+  Bios count: '2'
+  AwardBIOS Part Numbers: '2A59ILAW
+
+    2A59ILAX'
+  86Bot parse of manufacturer string: '[Unknown] (LA)'
+  Award manufacturer id: LA
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Proect
+  Bios count: '2'
+  AwardBIOS Part Numbers: '2A5KBP51
+
+    2A5KBP52'
+  86Bot parse of manufacturer string: '[Unknown] (P5)'
+  Award manufacturer id: P5
+  Added to TRW: 'Yes'
+  Boards on TRW: '[[Unknown] PM54CPA - The Retro Web](https://theretroweb.com/motherboards/s/unknown-pm54cpa)'
+  Comment: That board is confirmed as Proect by these entries
+  files: []
+- Manufacturer name: Sharp
+  Bios count: '2'
+  AwardBIOS Part Numbers: '2A59ISU9
+
+    2A59ISUA'
+  86Bot parse of manufacturer string: '[Unknown] (SU)'
+  Award manufacturer id: SU
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: ALLGO
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5LHX69
+  86Bot parse of manufacturer string: '[Unknown] (X6)'
+  Award manufacturer id: X6
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: BRAVOBYBY
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5LEBA9
+  86Bot parse of manufacturer string: '[Unknown] (BA)'
+  Award manufacturer id: BA
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: BRAVOBABY is the correct name?
+  files: []
+- Manufacturer name: COT (Cyber Ocean)
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5IICQ9
+  86Bot parse of manufacturer string: '[Unknown] (CQ)'
+  Award manufacturer id: CQ
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: DSP (Germany)
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5L7D99
+  86Bot parse of manufacturer string: '[Unknown] (D9)'
+  Award manufacturer id: D9
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: LEVIN TECH
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A59ILD9
+  86Bot parse of manufacturer string: '[Unknown] (LD)'
+  Award manufacturer id: LD
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Multi Wave
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A59IMR9
+  86Bot parse of manufacturer string: '[Unknown] (MR)'
+  Award manufacturer id: MR
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Promise
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5KKP79
+  86Bot parse of manufacturer string: '[Unknown] (P7)'
+  Award manufacturer id: P7
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Rightech
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5IIR79
+  86Bot parse of manufacturer string: '[Unknown] (R7)'
+  Award manufacturer id: R7
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Softtek
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A59GSQ9
+  86Bot parse of manufacturer string: '[Unknown] (SQ)'
+  Award manufacturer id: SQ
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Sung Won
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5IIS49
+  86Bot parse of manufacturer string: '[Unknown] (S4)'
+  Award manufacturer id: S4
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Super A-I-O
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A59GSR9
+  86Bot parse of manufacturer string: '[Unknown] (SR)'
+  Award manufacturer id: SR
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Tans
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A59GTK9
+  86Bot parse of manufacturer string: '[Unknown] (TK)'
+  Award manufacturer id: TK
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Toshiba
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5UNTH1
+  86Bot parse of manufacturer string: '[Unknown] (TH)'
+  Award manufacturer id: TH
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Toshibate
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5LHTON
+  86Bot parse of manufacturer string: '[Unknown] (TO)'
+  Award manufacturer id: TO
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Yeicom
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A5IIY49
+  86Bot parse of manufacturer string: '[Unknown] (Y4)'
+  Award manufacturer id: Y4
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []
+- Manufacturer name: Zhong Xing
+  Bios count: '1'
+  AwardBIOS Part Numbers: 2A59FZ59
+  86Bot parse of manufacturer string: '[Unknown] (Z5)'
+  Award manufacturer id: Z5
+  Added to TRW: 'Yes'
+  Boards on TRW: ''
+  Comment: ''
+  files: []

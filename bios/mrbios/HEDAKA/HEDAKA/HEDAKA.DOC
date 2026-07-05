@@ -1,0 +1,32 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+-------------------------
+Ever Success "Hedaka" 286
+-------------------------
+
+NOTE: Often, this board will have a single 64K EPROM (27512)
+      which simulates a 16-bit wide pair of 32K EPROMs (27256s).
+
+      To correctly burn the single 27512, first split the 64K
+      binary BIOS to Even and Odd halves.  (This is the same step
+      you would follow to burn two 27256s).  Then
+
+        (1) burn the Even 32K half to the low half of the 27512
+            (ie, at offset 0000, fills 0000-7FFF)
+
+        (2) burn the Odd 32K half to the high half of the 27512
+            (ie, at offset 8000, fills 8000-FFFF)
+
+
+Filename   Port      Description
+--------   -------   ---------------------------------------------------------
+V036B200   HDK_200   286 EverTech
+V036B210   HDK_210   286 EverTech, with built-in EMS
+

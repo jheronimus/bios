@@ -1,0 +1,127 @@
+AwardBIOS Part Number: 2A69HF59
+AwardBIOS Version 4.51PG
+Unicore BIOS Upgrade Rel 1.0
+Supported Motherboards: 
+ 
+        Fugu Tech M701
+
+Copyright (c) 1998, Award Software International, Inc. www.award.com
+Copyright (c) 1998, Unicore Software, Inc. www.unicore.com
+
+------------------------------------------------------------------------------
+The System BIOS file contains an AwardBIOS customized for your motherboard.
+
+Unlike most programs that you are familiar with, the System BIOS does not 
+execute from disk.  Instead, it is stored in a Flash-ROM component that 
+resides on the motherboard and begins executing immediately upon powerup.  
+This Flash-ROM can be reprogrammed by means of a Flash Upload Utility.  In 
+order to install AwardBIOS (r) in your computer, you'll need to reprogram 
+its Flash-ROM through use of the Flash Loader utility.
+
+BE ADVISED THAT THERE IS AN ELEMENT OF RISK IN REPROGRAMMING THE COMPUTER'S 
+FLASH SYSTEM BIOS.  If the Flash Load procedure begins, but fails to completely 
+load a valid BIOS image, your computer will be out of commission and you may 
+have to have it serviced. If while loading AwardBIOS onto your computer you 
+experience a failure, and if your computer has a recovery mode, you should set 
+it and refer to the instructions for restoring the original bios that came 
+with the computer. The Flash-ROM will need to be physically replaced with 
+another that contains valid code.  Reasons for the Flash Upload failure 
+include: 1) losing power while the upload is in progress, and 2) specifying 
+and uploading the wrong file.  Needless to say, this would be a horribly 
+disappointing experience.  Unicore Software Inc. would most sincerely regret 
+such a misfortune, however, understand that UNICORE SOFTWARE INC. DISCLAIMS 
+ALL RESPONSIBILITY AND LIABILITY FOR THE USE AND CONSEQUENCES OF THE USE OF 
+THIS PRODUCT.  So, please, take your time and be careful!
+
+The Flash Loader contains 2 basic steps for installing a new BIOS. First it
+asks for the filename containing the new BIOS to be installed. It then asks
+whether you want to save a backup copy of the current BIOS installed.
+
+Be sure to backup the original BIOS before uploading AwardBIOS into the 
+Flash-ROM.  Otherwise, you won't be able to uninstall AwardBIOS should you 
+want to do so.  Even if you're sure you won't, it is a good practice to 
+retain all original equipment that is supplied with your computer, "just in 
+case".
+
+The exact steps for uploading AwardBIOS are enumerated in the Instructions
+section below.  Assuming you have followed those instructions and the upload 
+has just completed, the Flash Loader will display a message directing you to 
+reset the computer or re-cycle its power.  Upon doing so, you will be greeted 
+with a message "CMOS checksum error - Defaults loaded".  Don't be alarmed.  
+This is normal and will only occur the first time the system is booted after
+installing a new BIOS.  You may also find a message "Press F1 to continue, DEL
+to enter SETUP". If this message is displayed it is advised that you press DEL 
+to enter BIOS setup and select the setup option "STANDARD CMOS SETUP" to verify
+the correct time and date.  Beyond that, everything else will already be set 
+for optimal performance and you can simply exit by pressing <F10>.  Or, you 
+might browse around and tailor some options like Password Security or Power
+Management per your preference.  After this Setup session, your computer will 
+reboot thereafter without any hysterical messages.
+
+------------------------------------------------------------------------------
+-------------------------------------
+AwardBIOS (r) Installation Instructions
+-------------------------------------
+
+Step 1
+------
+In your old BIOS Setup, disable all Power Management.
+
+Step 2
+------
+Boot the system with this floppy disk in the A: drive.	In a minute
+or two, the BFLASH LOADER UTILITY screen will be displayed.
+
+Step 3
+------
+"File Name to Program :" will be displayed requesting the filename of the new
+BIOS to be installed.  Type "2A69HF59.BIN".
+
+Step 4
+------
+"Do You Want To Save Bios (Y/N)" will be displayed requesting whether you 
+would like to save a backup copy of the BIOS currently installed. Press "Y" to
+save a backup copy.  "File Name to Save :" will be displayed. Enter a filename
+such as "ORIGINAL.BIO" as the filename of the original BIOS installed.
+
+Step 5
+------
+Before the new BIOS is installed into the Flash-ROM, the message "Are you sure
+to program (y/n)" is displayed. Press "Y" to proceed to install the new BIOS.
+
+The upload process may take up to 15 eternal seconds, during which time you 
+are likely to begin worrying.	Relax, and do NOT shut off the power or 
+otherwise disturb the computer.
+
+You'll be notified with a message on the CRT when the upload has completed.  
+Then, and not before then, press the reset button or recycle the computer's 
+power.
+
+Step 6
+------
+The first bootup after loading the new BIOS, you will be directed into
+the BIOS Setup Utility.	 Configure time, date, floppy drive(s) and other
+options.  Exit by pressing <F10>.
+
+Step 7
+------
+Win95 Users:  In a few installations, Windows 95 has been reported to
+"remember" certain properties of the BIOS that has been replaced by
+AwardBIOS.  This can lead to some bewildering behavior.  The best rule
+of thumb is to unconditionally run Win95's "Hardware Wizard" once after
+installing AwardBIOS.  If weirdness persists, use the sledge-hammer
+approach and run Win95's "Setup".
+
+Step 8
+------
+Enjoy!
+
+-------------------------------------------------------------------------
+
+----------------------------
+Un-Install Instructions
+----------------------------
+
+Follow Steps 1-7 above, exactly as with installing AwardBIOS, but instead
+specify the Backup File.  If you followed the instructions above, the
+Backup file was created in Step 4 before you installed AwardBIOS.

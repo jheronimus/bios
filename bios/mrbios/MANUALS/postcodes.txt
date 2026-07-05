@@ -1,0 +1,75 @@
+                                          Microid Research
+Microid Research MR-BIOS                  20 East Main Street #6
+========================                  Los Gatos, CA   95032
+
+00  Cold-Boot Commences (Not Seen with Warm-Boot)
+01  HOOK 00  OEM Specific, Typically Restores Chipset to Default
+02  Disable Critical I/O: 6845s, 8237s, 765, and Parity Latches
+03  ROM BIOS Checksum Test
+04  Page Register Test  (Ports 81-8F)
+05  8042 (Keyboard Controller) Selftest
+06  8237-slave/master, 8254-ch2/1, RTC-REG-F/A, 8259-master/slave
+07  Memory Refresh Circuit test
+08  Master (16 bit) DMA Controller Failure
+08  Slave (8 bit) DMA Controller Failure
+09  HOOK 01 OEM Specific, Typically Disables Cache, Shadow
+0A  Base 64K Memory Test - Beep Code Describes Failure
+0A  Memory Bank 0 Pattern Test Failure
+0A  Memory Bank 0 Parity Circuitry Failure
+0A  Memory Bank 0 Parity Error
+0A  Memory Bank 0 Data Bus Failure
+0A  Memory Bank 0 Address Bus Failure
+0A  Memory Bank 0 Block Access Read Failure
+0A  Memory Bank 0 Block Access Read/Write Failure
+0b  Master 8259 (Port 21) Failure
+0b  Slave 8259 (Port A1) Failure
+0C  8259/IRQ tests - Beep Code Describes Failure
+0C  Master 8259 (Port 20) Interrupt Address Error
+0C  Slave 8259 (Port A0) Interrupt Address Error
+0C  8259 (Port 20/A0) Interrupt Address Error
+0C  Master 8259 (Port 20) Stuck Interrupt Error
+0C  Slave 8259 (Port A0) Stuck Interrupt Error
+0C  System timer 8254 CH0/IRQ0 Interrupt Failure
+0d  8254 Channel-0 Test and Initialization
+0E  8254 Channel-2 (Speaker) Failure
+0E  8254 OUT2 (Speaker Detect) Failure
+0F  RTC tests/inits: Init REG-B, Write/Readback CMOS-RAM, PIE Test
+0F  CMOS RAM Read/Write Test Failure
+0F  RTC Periodic Interrupt / IRQ8 Failure
+10  Video Initialization and (Cold-Boot) Signon Message
+11  CMOS Checksum Test
+12  Keyboard Controller Failure
+13  HOOK 02  OEM Specific
+14  Size/Test Base Memory (Low 64K Already Done)
+15  Perform 2nd Try KB Init, if Necessary
+16  HOOK 03  Size/Test Cache, Other OEM Unique Code
+17  A20 Gate Stuck in Asserted State
+17  A20 Test Failure Due to 8042 Timeout
+17  A20 Gate Stuck in Disabled State
+18  Size/Test Extended Memory
+19  HOOK 04 and Size/Test System Memory ("Special" OEM Memory)
+19  Memory Parity Error
+19  IO Channel Error
+1A  Real Time Clock (RTC) Settings are Invalid
+1A  Real Time Clock (RTC) is Not Updating
+1b  Serial Port Determination Off-board/On-board
+1C  Parallel Port Determination, Off-board/On-board
+1d  Coprocessor Determination/Initialization
+1E  Floppy Controller Test/Determination, CMOS Validation
+1F  Fixed Disk Controller Test/Determination, CMOS Validation
+20  Rigorous CMOS Parameter Validation
+21  Front-Panel Lock Check, Wait for User to Acknowledge Errors
+22  Set NumLock, Password-Security Trap, Dispatch to Setup-Utility
+23  HOOK 05  OEM Specific
+24  Set Typematic Rate
+25  Floppy Subsystem Initialization
+26  Fixed Subsystem Initialization
+27  ACK Errors, Set Primary Adaptor Video Mode
+28  HOOK 06  OEM Specific, Typically Enables Shadow, Cache, Speed
+29  Adaptor ROM Installation
+2A  ACK Errors, set Video Mode, Set DOS Time Variables From RTC
+2b  Enable Parity Checking and NMI
+2C  Set Low Stack, Install E000 ROM
+2d  ACK Errors, Set Primary Video Mode
+2E  HOOK 07  OEM Specific
+2F  Pass Control to INT19 (Boot Disk)

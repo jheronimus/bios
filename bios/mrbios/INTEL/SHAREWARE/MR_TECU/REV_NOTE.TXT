@@ -1,0 +1,57 @@
+----------------
+Revision History
+----------------
+
+Microid Research Inc. is grateful for your suggestions, criticisms,
+and bug reports.  We're proud to share with you evidence of continued
+progress and improvements, much to your credit.  Thank you!
+
+Ver 3.30 - Display MR BIOS logo on powerup screen.
+           Show PnP serial and parallel ports in setup utility.
+           Longer IDE spindown timer values (2,5,10 --> 5,10,20 min).
+Ver 3.29 - EV2,ATX,Atlantis: Fix for Crystal Audio + Win95.
+           UMC/ITE 8669F Super I/O chip:  Fix PnP support.
+Ver 3.28 - Update: Deleting on-board COM/LPT ports in "Ports" setup
+           utility now fully disables them.
+           Fix: 6x86 cacheable range for non-binary memory sizes.
+Ver 3.27 - Workaround: PnP issues with Crystal soundblaster.
+           Workaround: COM4 port usage by ATI video.
+           Update: Aggressive CMOS-default memory settings.
+           Update: Roundup CPU MHz display (cosmetic).
+           Update: Display dram config in Chipset setup screen.
+           Update: Performance tweaks for 6x86 CPU.
+Ver 3.26 - Workaround: Aha2940 PCI I/O alignment for Chinese OS/2 (TWarp).
+           Reduced binary bios image to 92K.  Changed flash loader, now
+           does not clear cmos century byte (ref: NDD95).
+Ver 3.25 - Fix: Timing problem with certain 512K pipeline cache modules.
+           Fix: Incompatibility with WD 719X SCSI controllers.
+Ver 3.24 - Workaround: Disable CPU Pipelining during POST.
+           Upgrade: Higher performance for Mode4 IDE drives.
+Ver 3.23 - Workaround: Apply v3.22 fix to *all* Adaptec PCI devices.
+           LPT modes: SPP,Bidir,EPP,ECP options for Winbond Super I/O too.
+           Upgrade: Add "CPU-Pipeline" on/off option (for debug purposes).
+           Upgrade: RAID-0 disk striping option, interleave 2-8 IDE drives.
+Ver 3.22 - Workaround: Fix for Adaptec 2940 bios Ver 1.21 warm-boot bug.
+           Workaround: Fix for nVidia/SGS VGA, replicated PCI ROM register.
+           Workaround: Fix for Holtek asic 8042 bug.
+           Workaround: Move Pnp-Data-Read port to avoid gameport decode bug.
+Ver 3.21 - Upgrade: Add aggressive "55nS" memory-type option.
+           Bugfix: Obscure bug in "manual" PCI-Int Setup affects mapping over
+                   bridge of Ints B,C,D (not A) for a few non-Zappa's.
+Ver 3.20 - Upgrade: Add CMD 646 EIDE built-in driver.
+           Upgrade: Longer IDE spindown timer values (1,2,5 --> 2,5,10 min).
+           Upgrade: Provide setup field to disable soundblaster totally.
+           Workaround: De-enhance disk seeks to eliminate Norton8 complaint.
+           Workaround: Fix for Adaptec 2940 bios Ver 1.20 bug.
+           Workaround: Fix for S3 '968 32MB pageframe decode bug.
+           Workaround: Fix for Supra PnP Modem bug (drop Adaptec 1542CP fix).
+Ver 3.19 - LPT modes: SPP,Bidir,EPP,ECP now user options. (SMC & NSC chips).
+Ver 3.18 - Update for production Cyrix 6x86.
+Ver 3.17 - Limit ATA-disc "auto" to Mode 3.  Mode 4 only avail via "manual".
+Ver 3.16 - Asymmetric 2M dram support (16M/bank, single-sided).
+Ver 3.15 - n/a
+Ver 3.14 - Force bidirectional parallel-port for Nat'l Semi Super-I/O.
+Ver 3.13 - n/a
+Ver 3.12 - Bugfix: PnP core overlapped "manual" setup of PCI interrupts.
+Ver 3.11 - n/a
+Ver 3.10 - Original Zappa ED,ZP ShareWare release; with new PnP core.

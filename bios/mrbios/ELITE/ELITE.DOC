@@ -1,0 +1,47 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+------------------------------
+Elite Microelectronics "EAGLE"
+------------------------------
+
+Filename   Port      Description
+--------   -------   ---------------------------------------------------------
+V042B320   ELIT320   386  Rev A1
+V042B324   ELIT324   x042B320  (TL-)
+V042B325   ELIT325   x042B320  (TL+)
+
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

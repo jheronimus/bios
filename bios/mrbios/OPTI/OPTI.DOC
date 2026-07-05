@@ -1,0 +1,505 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+The following OPTi BIOS versions are described here, in this order:
+
+  - 586     586VHP Pentium     (586VHP)
+  - 386+486 495XLC             (495xlc)
+  - 486     SCWB2 Single-Chip  (801)
+  - 386+486 SLC Super-Low-Cost (495slc)
+  - 386+486 DxSC Single-Chip   (499)
+  - 386+486 LCWB Low-Cost      (495sx)
+  - 386+486 DxWB Single-Chip   (498)
+  - 386/486 DxPI Single-Chip   (496+497)
+  - 386/486 WriteBack cache    (391,491,493,495)
+  - 386/486 WriteThru cache    (381,481)
+  - 386SX   SxWB WriteBack     (291)
+  - 386SX   SxPI Single-Chip   (283)
+  - 386SX   SxPW PostWrite     (281)
+
+Note: See legend at bottom for Turbo/LED (8042) abbreviations.
+
+Note: Except where noted otherwise, WriteBack Cache designs
+      may omit Dirty-Bits.
+
+==============================================================================
+
+-----------------------------------------------
+OPTi 586VHP  586 ("Pentium") Chipset
+-----------------------------------------------
+
+
+Filename   Port      Description  586VHP
+--------   -------   ---------------------------------------------------------
+V076B503   OPTI503   586 ("Pentium"), default WriteThru (DataExpert)
+V076B504   OPTI504   586 ("Pentium"), default WriteBack
+
+
+==============================================================================
+
+-----------------------------------------------
+OPTi 495XLC Write-Back Chipset
+-----------------------------------------------
+
+
+Filename   Port      Description  495XLC  386,486,Cyrix
+--------   -------   ---------------------------------------------------------
+V084B4B0   OPTI4B0   495XLC 386,486,Cyrix
+V084B4B1   OPTI4B1   with  82C711 multi-IO
+V084B4B2   OPTI4B2   with  PC87310 Super-IO
+V084B4B3   OPTI4B3   with  PC87311 Super-IO
+V084B4B5   OPTI4B5   with  8042 Turbo-Polling
+
+Note - Vers 4B0-4B5  fully support Cyrix 486DLC in 386 socket as a
+       "retrofit" without any special hardware considerations for it.
+       (To maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+V084B4B6   OPTI4B6   (Cx) 495XLC 386,486,Cyrix
+V084B4B7   OPTI4B7   (Cx) with  82C711 multi-IO
+V084B4B8   OPTI4B8   (Cx) with  PC87310 Super-IO
+V084B4B9   OPTI4B9   (Cx) with  PC87311 Super-IO
+
+V084B4BA   OPTI4BA   (Cx) with  OPTI-611 VL-IDE Controller
+V084B4BB   OPTI4BB   (Cx) with  8042 Turbo-Polling
+V084B4BG   OPTI4BG   (Cx) with  Green-PC Energy Mgmt  
+
+Note - (Cx) - Vers 4B6-4BG  require specific "design-in" considerations for
+       Cyrix 486DLC.  These pins must be connected: #FLUSH, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+
+==============================================================================
+
+-----------------------------------------------
+OPTi SCWB2 801 Single-Chip Write-Back
+-----------------------------------------------
+
+
+Filename   Port      Description  801 SCWB2
+--------   -------   ---------------------------------------------------------
+V078B4A0   OPTI4A0   486 (only) Single-Chip WriteBack
+V078B4A1   OPTI4A1   with  82C711 multi-IO
+V078B4A2   OPTI4A2   with  PC87310 Super-IO
+V078B4A3   OPTI4A3   with  PC87311 Super-IO
+
+
+==============================================================================
+
+-----------------------------------------------
+OPTi 495-SLC Super-Low-Cost
+-----------------------------------------------
+
+
+Filename   Port      Description  495slc  (One BIOS serves all CPUs)
+--------   -------   ---------------------------------------------------------
+V077B490   OPTI490   386,486,Cx486   495 SLC
+V077B491   OPTI491   with  82C711 multi-IO
+V077B492   OPTI492   with  PC87310 Super-IO
+
+V077B493   OPTI493   with  turbo-polling 8042-Pin27
+V077B494   OPTI494   (711) Turbo-polling 8042-Pin27
+V077B495   OPTI495   (310) Turbo-polling 8042-Pin27
+
+Note - Vers 490-495  fully support Cyrix 486DLC in 386 socket as a
+       "retrofit" without any special hardware considerations for it.
+       (To maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+V077B496   OPTI496   (Cx) 495slc
+V077B497   OPTI497   (Cx) (711)   82C711 multi-IO
+V077B498   OPTI498   (Cx) (310)   PC87310 Super-IO
+
+V077B499   OPTI499   (Cx)  with turbo-polling 8042-Pin27
+V077B49A   OPTI49A   (Cx) (711) Turbo-polling 8042-Pin27
+V077B49B   OPTI49B   (Cx) (310) Turbo-polling 8042-Pin27
+
+V077B49E   OPTI49E   (Cx) with 8042 Turbo-polling P10-13, Turbo-LED P22-23
+                     (DataExpert and Amer.Digi.)
+
+
+Note - (Cx) - Vers 496-49B  require specific "design-in" considerations for
+       Cyrix 486DLC.  These pins must be connected: #FLUSH, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+==============================================================================
+
+-----------------------------------------------
+OPTi DxSC 499 Single-Chip
+-----------------------------------------------
+
+NOTICE:  Dirty-Bits are optional for 64K, 128K, 256K caches.
+         512K cache should populate Dirty-Bits for proper operation.
+
+
+
+Filename   Port      Description  499 DxSC  (One BIOS serves all CPUs)
+--------   -------   ---------------------------------------------------------
+V075B480   OPTI480   386,486,Cx486  499 DxSC
+V075B481   OPTI481   x075B480  with  82C711 multi-IO
+V075B482   OPTI482   x075B480  with  PC87310 Super-IO
+
+V075B484   OPTI484   x075B480  (T-)
+V075B485   OPTI485   x075B480  (T+)
+V075B486   OPTI486   x075B480  (CL-)
+V075B487   OPTI487   x075B480  (CL+)
+
+V075B488   OPTI488   x075B481  (711) (T-)
+V075B489   OPTI489   x075B481  (711) (T+)
+V075B48A   OPTI48A   x075B481  (711) (CL-)
+V075B48B   OPTI48B   x075B481  (711) (CL+)
+
+V075B48C   OPTI48C   x075B482  (310) (T-)
+V075B48D   OPTI48D   x075B482  (310) (T+)
+V075B48E   OPTI48E   x075B482  (310) (CL-)
+V075B48F   OPTI48F   x075B482  (310) (CL+)
+
+Note - Vers 480-48F  fully support Cyrix 486DLC in 386 socket as a
+       "retrofit" without any special hardware considerations for it.
+       (To maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+V075B48G   OPTI48G   x075B480  (Cx)
+V075B48H   OPTI48H   x075B481  (Cx) with  82C711 multi-IO
+V075B48J   OPTI48J   x075B482  (Cx) with  PC87310 Super-IO
+
+V075B48K   OPTI48K   x075B480  (Cx) (T-)
+V075B48L   OPTI48L   x075B480  (Cx) (T+)
+V075B48M   OPTI48M   x075B480  (Cx) (CL-)
+V075B48N   OPTI48N   x075B480  (Cx) (CL+)
+
+V075B48P   OPTI48P   x075B481  (Cx) (711) (T-)
+V075B48Q   OPTI48Q   x075B481  (Cx) (711) (T+)
+V075B48R   OPTI48R   x075B481  (Cx) (711) (CL-)
+V075B48S   OPTI48S   x075B481  (Cx) (711) (CL+)
+
+V075B48T   OPTI48T   x075B482  (Cx) (310) (T-)
+V075B48U   OPTI48U   x075B482  (Cx) (310) (T+)
+V075B48V   OPTI48V   x075B482  (Cx) (310) (CL-)
+V075B48W   OPTI48W   x075B482  (Cx) (310) (CL+)
+
+V075B48Z   OPTI48Z   x075B48J  (Cx) (311)  PC87311/2 Super-IO
+
+Note - (Cx) - Vers 48G-48Z  require specific "design-in" considerations for
+       Cyrix 486DLC.  These pins must be connected: #FLUSH, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+
+==============================================================================
+
+-----------------------------------------------
+OPTi LCWB  495SxLC   Low-Cost WriteBack
+-----------------------------------------------
+
+NOTICE:  Dirty-Bits are optional for 64K, 128K, 256K caches.
+         512K cache should populate Dirty-Bits for proper operation.
+
+
+
+Filename   Port      Description  495sx  (One BIOS serves all CPUs)
+--------   -------   ---------------------------------------------------------
+V068B470   OPTI470   386,486,Cx486  495sx
+V068B471   OPTI471   x068B470  with  82C711 multi-IO
+V068B472   OPTI472   x068B470  with  PC87310 Super-IO
+
+V068B474   OPTI474   x068B470  (T-)
+V068B475   OPTI475   x068B470  (T+)
+V068B476   OPTI476   x068B470  (CL-)
+V068B477   OPTI477   x068B470  (CL+)
+
+V068B478   OPTI478   x068B471  (711) (T-)
+V068B479   OPTI479   x068B471  (711) (T+)
+V068B47A   OPTI47A   x068B471  (711) (CL-)
+V068B47B   OPTI47B   x068B471  (711) (CL+)
+
+V068B47C   OPTI47C   x068B472  (310) (T-)
+V068B47D   OPTI47D   x068B472  (310) (T+)
+V068B47E   OPTI47E   x068B472  (310) (CL-)
+V068B47F   OPTI47F   x068B472  (310) (CL+)
+
+Note - Vers 470-47F  fully support Cyrix 486DLC in 386 socket as a
+       "retrofit" without any special hardware considerations for it.
+       (To maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+V068B47G   OPTI47G   x060B470  (Cx)
+V068B47H   OPTI47H   x068B471  (Cx) with  82C711 multi-IO
+V068B47J   OPTI47J   x068B472  (Cx) with  PC87310 Super-IO
+
+V068B47K   OPTI47K   x068B470  (Cx) (T-)
+V068B47L   OPTI47L   x068B470  (Cx) (T+)
+V068B47M   OPTI47M   x068B470  (Cx) (CL-)
+V068B47N   OPTI47N   x068B470  (Cx) (CL+)
+
+V068B47P   OPTI47P   x068B471  (Cx) (711) (T-)
+V068B47Q   OPTI47Q   x068B471  (Cx) (711) (T+)
+V068B47R   OPTI47R   x068B471  (Cx) (711) (CL-)
+V068B47S   OPTI47S   x068B471  (Cx) (711) (CL+)
+
+V068B47T   OPTI47T   x068B472  (Cx) (310) (T-)
+V068B47U   OPTI47U   x068B472  (Cx) (310) (T+)
+V068B47V   OPTI47V   x068B472  (Cx) (310) (CL-)
+V068B47W   OPTI47W   x068B472  (Cx) (310) (CL+)
+
+Note - (Cx) - Vers 47G-47W  require specific "design-in" considerations for
+       Cyrix 486DLC.  These pins must be connected: #FLUSH, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+
+==============================================================================
+
+-----------------------------------------------
+OPTi DxWB  82C498  WriteBack
+-----------------------------------------------
+
+Filename   Port      Description  498 DxWB  (one BIOS for all CPU's)
+--------   -------   ---------------------------------------------------------
+V059B450   OPTI450   386,486,Cyrix  DxWB  82C498
+V059B451   OPTI451   x059B450  with  C&T 82C711 multi-IO
+V059B452   OPTI452   x059B450  with  NSC PC87310 Super-IO
+
+V059B454   OPTI454   x059B450  (T-)
+V059B455   OPTI455   x059B450  (T+)
+V059B456   OPTI456   x059B450  (CL-)
+V059B457   OPTI457   x059B450  (CL+)
+
+V059B458   OPTI458   x059B451  (711) (T-)
+V059B459   OPTI459   x059B451  (711) (T+)
+V059B45A   OPTI45A   x059B451  (711) (CL-)
+V059B45B   OPTI45B   x059B451  (711) (CL+)
+
+V059B45C   OPTI45C   x059B452  (310) (T-)
+V059B45D   OPTI45D   x059B452  (310) (T+)
+V059B45E   OPTI45E   x059B452  (310) (CL-)
+V059B45F   OPTI45F   x059B452  (310) (CL+)
+
+==============================================================================
+
+-----------------------------------------------
+OPTi Single-Chip 386/486 DxPI  82C496 (+82C497)
+-----------------------------------------------
+
+Filename   Port      Description  (386 DxPI Revs A,B)
+--------   -------   ---------------------------------------------------------
+V044B330   OPTI330   386 DXPI  82C496  ('497 and async design autosensed)
+V044B331   OPTI331   x044B330  with  C&T 82C711 multi-IO
+V044B332   OPTI332   x044B330  with  NSC PC87310 Super-IO
+
+V044B334   OPTI334   x044B330  (T-)
+V044B335   OPTI335   x044B330  (T+)
+V044B336   OPTI336   x044B330  (CL-)
+V044B337   OPTI337   x044B330  (CL+)
+
+V044B338   OPTI338   x044B331  (711) (T-)
+V044B339   OPTI339   x044B331  (711) (T+)
+V044B33A   OPTI33A   x044B331  (711) (CL-)
+V044B33B   OPTI33B   x044B331  (711) (CL+)
+
+V044B33C   OPTI33C   x044B332  (310) (T-)
+V044B33D   OPTI33D   x044B332  (310) (T+)
+V044B33E   OPTI33E   x044B332  (310) (CL-)
+V044B33F   OPTI33F   x044B332  (310) (CL+)
+
+
+Filename   Port      Description  (486 DxPI Revs A,B)
+--------   -------   ---------------------------------------------------------
+V044B430   OPTI430   486 DXPI  82C496  ('497 and async design autosensed)
+V044B431   OPTI431   x044B430  with  C&T 82C711 multi-IO
+V044B432   OPTI432   x044B430  with  NSC PC87310 Super-IO
+
+V044B434   OPTI434   x044B430  (T-)
+V044B435   OPTI435   x044B430  (T+)
+V044B436   OPTI436   x044B430  (CL-)
+V044B437   OPTI437   x044B430  (CL+)
+
+V044B438   OPTI438   x044B431  (711) (T-)
+V044B439   OPTI439   x044B431  (711) (T+)
+V044B43A   OPTI43A   x044B431  (711) (CL-)
+V044B43B   OPTI43B   x044B431  (711) (CL+)
+
+V044B43C   OPTI43C   x044B432  (310) (T-)
+V044B43D   OPTI43D   x044B432  (310) (T+)
+V044B43E   OPTI43E   x044B432  (310) (CL-)
+V044B43F   OPTI43F   x044B432  (310) (CL+)
+
+==============================================================================
+
+-------------------------------------------------
+OPTi WriteBack  82C391 / 82C491 / 82C493 / 82C495
+-------------------------------------------------
+
+NOTICE:  386:   Beginning Ver 1.40, Dirty-Bits are optional, all cache sizes.
+         493/5: Beginning Ver 1.41, Dirty-Bits are required only with 512K
+                cache.  64K, 128K, 256K  may omit Dirty-Bits.
+
+
+Filename   Port      Description  (386-WB Revs A,B)
+--------   -------   ---------------------------------------------------------
+V020B324   OPTI324   82C391 -  386 WriteBack   Revs A,B
+V020B32B   OPTI32B   x020B324  with  C&T 82C711 multi-IO        
+V020B32C   OPTI32C   x020B324  with  NSC PC87310 Super-IO
+
+V020B32E   OPTI32E   x020B324  (T-)
+V020B32F   OPTI32F   x020B324  (T+)
+V020B32G   OPTI32G   x020B324  (CL-)
+V020B32H   OPTI32H   x020B324  (CL+)
+
+V020B32J   OPTI32J   x020B32B  (711) (T-)
+V020B32K   OPTI32K   x020B32B  (711) (T+)
+V020B32L   OPTI32L   x020B32B  (711) (CL-)
+V020B32M   OPTI32M   x020B32B  (711) (CL+)
+
+V020B32P   OPTI32P   x020B32C  (310) (T-)
+V020B32Q   OPTI32Q   x020B32C  (310) (T+)
+V020B32R   OPTI32R   x020B32C  (310) (CL-)
+V020B32S   OPTI32S   x020B32C  (310) (CL+)
+
+
+Filename   Port      Description (486-WB Revs A,B)
+--------   -------   ---------------------------------------------------------
+V020B424   OPTI424   82C491 -  486 WriteBack  (original)
+
+V020B428   OPTI428   82C493/5 -  486 WriteBack  Revs A,B
+V020B42B   OPTI42B   x020B428  with  C&T 82C711 multi-IO        
+V020B42C   OPTI42C   x020B428  with  NSC PC87310 Super-IO
+
+V020B42E   OPTI42E   x020B428  (T-)
+V020B42F   OPTI42F   x020B428  (T+)
+V020B42G   OPTI42G   x020B428  (CL-)
+V020B42H   OPTI42H   x020B428  (CL+)
+
+V020B42J   OPTI42J   x020B42B  (711) (T-)
+V020B42K   OPTI42K   x020B42B  (711) (T+)
+V020B42L   OPTI42L   x020B42B  (711) (CL-)
+V020B42M   OPTI42M   x020B42B  (711) (CL+)
+
+V020B42P   OPTI42P   x020B42C  (310) (T-)
+V020B42Q   OPTI42Q   x020B42C  (310) (T+)
+V020B42R   OPTI42R   x020B42C  (310) (CL-)
+V020B42S   OPTI42S   x020B42C  (310) (CL+)
+
+==============================================================================
+
+-------------------------------
+OPTi WriteThru  82C381 / 82C481
+-------------------------------
+
+Filename   Port      Description
+--------   -------   ---------------------------------------------------------
+V002B306   OPTI306   82C381 -  386 WriteThru
+V002B308   OPTI308   x002B306  (TL-)
+V002B309   OPTI309   x002B306  (TL+)
+
+V002B406   OPTI406   82C481 -  486 WriteThru
+V002B408   OPTI406   x002B406  (CL-)
+V002B409   OPTI406   x002B406  (CL+)
+
+==============================================================================
+
+------------------------
+OPTi 386SX  SxWB  82C291
+------------------------
+
+Filename   Port      Description  (386SX SxWB Single-Chip WriteBack)
+--------   -------   ---------------------------------------------------------
+V055B340   OPTI340   386 SxWB  82C291
+V055B341   OPTI341   x055B340  with  C&T 82C711 multi-IO
+V055B342   OPTI342   x055B340  with  NSC PC87310 Super-IO
+
+V055B344   OPTI344   x055B340  (T-)
+V055B345   OPTI345   x055B340  (T+)
+V055B346   OPTI346   x055B340  (CL-)
+V055B347   OPTI347   x055B340  (CL+)
+
+V055B348   OPTI348   x055B341  (711) (T-)
+V055B349   OPTI349   x055B341  (711) (T+)
+V055B34A   OPTI34A   x055B341  (711) (CL-)
+V055B34B   OPTI34B   x055B341  (711) (CL+)
+
+V055B34C   OPTI34C   x055B342  (310) (T-)
+V055B34D   OPTI34D   x055B342  (310) (T+)
+V055B34E   OPTI34E   x055B342  (310) (CL-)
+V055B34F   OPTI34F   x055B342  (310) (CL+)
+
+==============================================================================
+
+--------------------------------------
+OPTi 386SX  SxPW/SxPI  82C281 / 82C283
+--------------------------------------
+
+Filename   Port      Description (SxPI Revs A,B)
+--------   -------   ---------------------------------------------------------
+V007B317   OPTI317   82C283 -  386 SxPI  single-chip 386SX non-cache
+V007B31B   OPTI31B   x007B317  with  C&T 82C711 multi-IO
+V007B31C   OPTI31C   x007B317  with  NSC PC87310 Super-IO
+
+V007B318   OPTI318   x007B317  (T+)  note: external turbo circuit only
+V007B31D   OPTI31D   x007B317  (TL-)
+V007B31E   OPTI31E   x007B317  (TL+)
+
+V007B31F   OPTI31F   x007B31B  (711) (TL-)
+V007B31G   OPTI31G   x007B31B  (711) (TL+)
+
+V007B31H   OPTI31H   x007B31C  (310) (TL-)
+V007B31J   OPTI31J   x007B31C  (310) (TL+)
+
+
+Filename   Port      Description (SxPW)
+--------   -------   ---------------------------------------------------------
+V007B315   OPTI315   82C281 -  386 SxPW  (Write-Poster and Cache DISABLED)
+
+V007B316   OPTI316   82C281 -  386 SxPW  (Cache enabled)
+V007B319   OPTI319   x007B316  with  C&T 82C711 multi-IO
+V007B31A   OPTI31A   x007B316  with  NSC PC87310 Super-IO
+
+V007B31K   OPTI31K   x007B316  (TL-)
+V007B31L   OPTI31L   x007B316  (TL+)
+
+V007B31M   OPTI31M   x007B319  (711) (TL-)
+V007B31N   OPTI31N   x007B319  (711) (TL+)
+
+V007B31P   OPTI31P   x007B31A  (310) (TL-)
+V007B31Q   OPTI31Q   x007B31A  (310) (TL+)
+
+==============================================================================
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

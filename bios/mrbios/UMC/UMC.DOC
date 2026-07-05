@@ -1,0 +1,109 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+
+------------------------------------------------------------------------------
+
+----------------------
+UMC  WriteBack  82C491
+----------------------
+
+Filename   Port      Description  491 Single Chip, 386/486/Cx486 combined
+--------   -------   ---------------------------------------------------------
+V079B410   UMC_410   386/486/Cx486 491
+
+
+------------------------------------------------------------------------------
+
+----------------------
+UMC  WriteBack  82C48X
+----------------------
+
+Filename   Port      Description  REV 0
+--------   -------   ---------------------------------------------------------
+V037B301   UMC_301   386 WriteBack, Rev 0 *ONLY*
+V037B401   UMC_401   486 WriteBack, Rev 0 *ONLY*
+
+
+Filename   Port      Description  REV A & B
+--------   -------   ---------------------------------------------------------
+V037B302   UMC_302   386 WriteBack, Rev A,B *ONLY*  (Not REV-0 !)
+V037B304   UMC_304   x037b302, for Cyrix layout with A20M and FLUSH
+
+V037B402   UMC_402   486 WriteBack, Rev A,B *ONLY*
+V037B40G   UMC_40G   x037B402, for L-Bus M/Boards that hang at PostCode 1D
+                               (PAL bug causes Ready-Hang on WEITEK access)
+
+V037B403   UMC_403   486 WriteBack, Rev A,B *ONLY*, NO Turbo (for 486SX 2X-OSC)
+
+V037B404   UMC_404   x037B402  (TL-)
+V037B405   UMC_405   x037B402  (TL+)
+
+V037B406   UMC_406   x037B403  (CL-)  (NO turbo, for 486SX 2X-OSC)
+V037B407   UMC_407   x037B403  (CL+)  (NO turbo, for 486SX 2X-OSC)
+
+NOTE!  Some 486 '481 REV-B parts crash with  Cache-Write "1 WS"  option,
+       which UMC recommends at 16-33MHz.  (Part with problem observed
+       is marked UM82C481BF, whereas earlier parts marked UM82C481B
+       worked ok).
+
+       The following BIOS versions suggest "2 WS" instead of "1 WS"
+       for the default Cache-Write WS in the Setup Utility.
+
+V037B40A   UMC_40A   486  REV-B (2WS)
+V037B40B   UMC_40B   486  REV-B (2WS)  NO Turbo (for 486SX 2X-OSC)
+
+V037B40C   UMC_40C   x037B40A  (2WS) (TL-)
+V037B40D   UMC_40D   x037B40A  (2WS) (TL+)
+
+V037B40E   UMC_40E   x037B40B  (2WS) (CL-)  (NO turbo, for 486SX 2X-OSC)
+V037B40F   UMC_40F   x037B40B  (2WS) (CL+)  (NO turbo, for 486SX 2X-OSC)
+
+
+------------------------------------------------------------------------------
+
+----------------------------
+UMC 386SX  UM82C330 Twinstar
+----------------------------
+
+Filename   Port      Description  386SX UM82C330 Twinstar
+--------   -------   ---------------------------------------------------------
+V057B310   UMC_310   386SX chipset
+V057B314   UMC_314   X057b310  -  Turbo LED active Lo  (TL-)
+V057B315   UMC_315   X057b310  -  Turbo LED active Hi  (TL+)
+
+
+------------------------------------------------------------------------------
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

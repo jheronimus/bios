@@ -1,0 +1,130 @@
+- Part Number: V065B400
+  Code: FTDI400
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-AP WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V065B401
+  Code: FTDI401
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-AP WriteBack/WriteThru
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V065B402
+  Code: FTDI402
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-AP WriteBack/WriteThru
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V065B408
+  Code: FTDI408
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-AP WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V065B409
+  Code: FTDI409
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-AP WriteBack/WriteThru
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V065B40A
+  Code: FTDI40A
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-AP WriteBack/WriteThru
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B418
+  Code: FTDI418
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B419
+  Code: FTDI419
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B41B
+  Code: FTDI41B
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B41C
+  Code: FTDI41C
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: inverted 8042 IRQs
+  Notes: BL 2X-Osc (50/66 MHz)
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B41D
+  Code: FTDI41D
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: inverted 8042 IRQs
+  Notes: BL 3X-Osc (75/99 MHz)
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B41E
+  Code: FTDI41E
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: normal 8042 IRQs
+  Notes: BL 2X-Osc (50/66 MHz)
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V088B41F
+  Code: FTDI41F
+  CPU: 386, Cx486, 486
+  Chipset: 82C3480-XM & XMVL WriteBack/WriteThru
+  I/O chip: ''
+  Turbo: normal 8042 IRQs
+  Notes: BL 3X-Osc (75/99 MHz)
+  Should work with: ''
+  Versions found: ''
+  files: []

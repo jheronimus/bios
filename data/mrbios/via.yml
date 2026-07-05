@@ -1,0 +1,16 @@
+- Part Number: ''
+  Code: VIAtest
+  CPU: '486'
+  Chipset: VIA Pluto 82C496G
+  I/O chip: ???
+  Should work with: ''
+  Versions found: '3.31'
+  files: []
+- Part Number: ''
+  Code: OPC_500
+  CPU: Pentium
+  Chipset: VIA Apollo VP ???
+  I/O chip: ???
+  Should work with: ''
+  Versions found: '3.42'
+  files: []

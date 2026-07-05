@@ -1,0 +1,432 @@
+- Folder: 2A5X7AD1
+  Manufacturer: Anson Group
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7AD1/2A5X7AD1.BIN
+- Folder: 2A5X7A31
+  Manufacturer: Bcom (ASI)
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7A31/2A5X7A31.BIN
+- Folder: 2A5X7B09
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Biostar MB 8500 W/ UMC 8663
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B09/2A5X7B09.BIN
+- Folder: 2A5X7B0A
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: Biostar MB-8500 URC
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B0A/2A5X7B0A.BIN
+- Folder: 2A5X7B01
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Biostar MB-8500 w/ UMC8663
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B01/2A5X7B01.BIN
+- Folder: 2A5X7B04
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Biostar MB-8500-UUR-A
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B04/2A5X7B04.BIN
+- Folder: 2A5X7B0C
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Biostar MB-8500URC
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B0C/2A5X7B0C.BIN
+- Folder: 2A5X7B02
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B02/2A5X7B02.BIN
+- Folder: 2A5X7B0B
+  Manufacturer: Biostar
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7B0B/2A5X7B0B.BIN
+- Folder: 2A5X7C38
+  Manufacturer: Chaintech
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7C38/2A5X7C38.BIN
+- Folder: 2A5X7C29
+  Manufacturer: Chicony
+  Chipset: UMC 82C891/892/886
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7C29/2A5X7C29.BIN
+- Folder: 2A5X7C2H
+  Manufacturer: Chicony
+  Chipset: UMC 82C891/892/886
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Chicony CH-890A
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7C2H/2A5X7C2H.BIN
+- Folder: 2A5X7C21
+  Manufacturer: Chicony
+  Chipset: UMC 82C891/892/886
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7C21/2A5X7C21.BIN
+- Folder: 2A5X7C2C
+  Manufacturer: Chicony
+  Chipset: UMC 82C891/892/886
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7C2C/2A5X7C2C.BIN
+- Folder: 2A5X7C22
+  Manufacturer: Chicony
+  Chipset: UMC 82C891/892/886
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7C22/2A5X7C22.BIN
+- Folder: 2A5X8C2H
+  Manufacturer: Chicony
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8C2H/2A5X8C2H.BIN
+- Folder: 2A5X7E11
+  Manufacturer: ECS (Elitegroup)
+  Chipset: UMC 82C891/892/886
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7E11/2A5X7E11.BIN
+- Folder: 2A5X8G09
+  Manufacturer: Gigabyte
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586AM
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8G09/2A5X8G09.BIN
+- Folder: 2A5X7H01
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7H01/2A5X7H01.BIN
+- Folder: 2A5X7K11
+  Manufacturer: Kaimei
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7K11/2A5X7K11.BIN
+- Folder: 2A5X7ME9
+  Manufacturer: M.I. (Sungwon)
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7ME9/2A5X7ME9.BIN
+- Folder: 2A5X8ME1
+  Manufacturer: M.I. (Sungwon)
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8ME1/2A5X8ME1.BIN
+- Folder: 2A5X7M31
+  Manufacturer: MiTAC
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7M31/2A5X7M31.BIN
+- Folder: 2A5X7PCH
+  Manufacturer: Pineview
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: Pine PT-730A
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7PCH/2A5X7PCH.BIN
+- Folder: 2A5X7PC1
+  Manufacturer: Pineview
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: Pine PT-730A
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7PC1/2A5X7PC1.BIN
+- Folder: 2A5X8PCC
+  Manufacturer: Pineview
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8PCC/2A5X8PCC.BIN
+- Folder: 2A5X8PCB
+  Manufacturer: Pineview
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8PCB/2A5X8PCB.BIN
+- Folder: 2A5X8PC9
+  Manufacturer: Pineview
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Pine PT-730B
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8PC9/2A5X8PC9.BIN
+- Folder: 2A5X8PCA
+  Manufacturer: Pineview
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: None
+  Release: '2.2'
+  Motherboard: Pine PT-730AB or PT-730A
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8PCA/2A5X8PCA.BIN
+- Folder: 2A5X8PC1
+  Manufacturer: Pineview
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8PC1/2A5X8PC1.BIN
+- Folder: 2A5X7Q11
+  Manufacturer: QDI
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7Q11/2A5X7Q11.BIN
+- Folder: 2A5X7H29
+  Manufacturer: Shuttle (Holco)
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Shuttle HOT-539C Rev. 2.0
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7H29/2A5X7H29.BIN
+- Folder: 2A5X7H2A
+  Manufacturer: Shuttle (Holco)
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7H2A/2A5X7H2A.BIN
+- Folder: 2A5X7H21
+  Manufacturer: Shuttle (Holco)
+  Chipset: UMC 82C891/892/886
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7H21/2A5X7H21.BIN
+- Folder: 2A5X8H29
+  Manufacturer: Shuttle (Holco)
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8H29/2A5X8H29.BIN
+- Folder: 2A5X7S21
+  Manufacturer: Soyo
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7S21/2A5X7S21.BIN
+- Folder: 2A5X7TB2
+  Manufacturer: Taeil (Newmax)
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7TB2/2A5X7TB2.BIN
+- Folder: 2A5X8TB9
+  Manufacturer: Taeil (Newmax)
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8TB9/2A5X8TB9.BIN
+- Folder: 2A5X8TB1
+  Manufacturer: Taeil (Newmax)
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8TB1/2A5X8TB1.BIN
+- Folder: 2A5X8U09
+  Manufacturer: U-Board
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8U09/2A5X8U09.BIN
+- Folder: 2A5X7UZ1
+  Manufacturer: UMC
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7UZ1/2A5X7UZ1.BIN
+- Folder: 2A5X8UZA
+  Manufacturer: UMC
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8UZA/2A5X8UZA.BIN
+- Folder: 2A5X8UZ9
+  Manufacturer: UMC
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8UZ9/2A5X8UZ9.BIN
+- Folder: 2A5X7008
+  Manufacturer: Unknown
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7008/2A5X7008.BIN
+- Folder: 2A5X7000
+  Manufacturer: Unknown
+  Chipset: UMC 82C891/892/886
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/82C891/2A5X7000/2A5X7000.BIN
+- Folder: 2A5X8008
+  Manufacturer: Unknown
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8008/2A5X8008.BIN
+- Folder: 2A5X8000
+  Manufacturer: Unknown
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8000/2A5X8000.BIN
+- Folder: 2A5X8V39
+  Manufacturer: VTech/PC Partner
+  Chipset: UMC UM8886BF/UM8891BF/UM8892BF
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/UMC/UM8886BF/2A5X8V39/2A5X8V39.BIN

@@ -1,0 +1,2 @@
+MRFLASH.EXE -c
+MRFLASH.EXE -r -f v09ab5ud.BIO

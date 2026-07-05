@@ -1,0 +1,200 @@
+- Part Number: V058B300
+  Code: ACER300
+  Chipset: M1209
+  Turbo: No turbo-LED
+  Note: 386SX chipset
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B304
+  Code: ACER304
+  Chipset: M1209
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B305
+  Code: ACER305
+  Chipset: M1209
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B301
+  Code: ACER301
+  Chipset: M1209
+  Turbo: No turbo-LED
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B306
+  Code: ACER306
+  Chipset: M1209
+  Turbo: Turbo-LED, active state low
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B307
+  Code: ACER307
+  Chipset: M1209
+  Turbo: Turbo-LED, active state high
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B308
+  Code: ACER308
+  Chipset: M1209-Cyrix 486SLC
+  Turbo: No turbo-LED
+  Note: 386SX chipset
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B30C
+  Code: ACER30C
+  Chipset: M1209-Cyrix 486SLC
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B30D
+  Code: ACER30D
+  Chipset: M1209-Cyrix 486SLC
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B309
+  Code: ACER309
+  Chipset: M1209-Cyrix 486SLC
+  Turbo: No turbo-LED
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B30E
+  Code: ACER30E
+  Chipset: M1209-Cyrix 486SLC
+  Turbo: Turbo-LED, active state low
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B30F
+  Code: ACER30F
+  Chipset: M1209-Cyrix 486SLC
+  Turbo: Turbo-LED, active state high
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B310
+  Code: ACER310
+  Chipset: M1217
+  Turbo: No turbo-LED
+  Note: 386SX chipset
+  Should work with: '[Chaintech 325AX/333AX/325AXB/333AXB](https://theretroweb.com/motherboards/s/chaintech-325ax-333ax-325axb-333axb)
+
+
+    [Unknown M305](https://theretroweb.com/motherboards/s/unknown-m305)
+
+
+    [Unknown 303N1](https://theretroweb.com/motherboards/s/unknown-303n1)
+
+    Elonex PC-425X'
+  Versions found: '1.41'
+  files: []
+- Part Number: V058B314
+  Code: ACER314
+  Chipset: M1217
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B315
+  Code: ACER315
+  Chipset: M1217
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B311
+  Code: ACER311
+  Chipset: M1217
+  Turbo: No turbo-LED
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B316
+  Code: ACER316
+  Chipset: M1217
+  Turbo: Turbo-LED, active state low
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B317
+  Code: ACER317
+  Chipset: M1217
+  Turbo: Turbo-LED, active state high
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B318
+  Code: ACER318
+  Chipset: M1217-Cyrix 486SLC
+  Turbo: No turbo-LED
+  Note: 386SX chipset
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B31C
+  Code: ACER31C
+  Chipset: M1217-Cyrix 486SLC
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B31D
+  Code: ACER31D
+  Chipset: M1217-Cyrix 486SLC
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B319
+  Code: ACER319
+  Chipset: M1217-Cyrix 486SLC
+  Turbo: No turbo-LED
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V058B31E
+  Code: ACER31E
+  Chipset: M1217-Cyrix 486SLC
+  Turbo: Turbo-LED, active state low
+  Note: With fast-A20 optimization
+  Should work with: '[ECS 8517 V3.3](https://theretroweb.com/motherboards/s/ecs-8517-v3.3)'
+  Versions found: '1.4'
+  files: []
+- Part Number: V058B31F
+  Code: ACER31F
+  Chipset: M1217-Cyrix 486SLC
+  Turbo: Turbo-LED, active state high
+  Note: With fast-A20 optimization
+  Should work with: ''
+  Versions found: ''
+  files: []

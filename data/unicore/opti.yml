@@ -1,0 +1,918 @@
+- Folder: 2A5UNA2N
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2N/2A5UNA2N.BIN
+- Folder: 2A5UNA2I
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: A-Trend ATC-1545
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2I/2A5UNA2I.BIN
+- Folder: 2A5UNA2H
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2H/2A5UNA2H.BIN
+- Folder: 2A5UNA2O
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2O/2A5UNA2O.BIN
+- Folder: 2A5UNA2J
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: A-Trend ATC-1545
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2J/2A5UNA2J.BIN
+- Folder: 2A5UNA2M
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87336
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2M/2A5UNA2M.BIN
+- Folder: 2A5UNA2K
+  Manufacturer: A-Trend
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87336
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA2K/2A5UNA2K.BIN
+- Folder: 2A5UNA3B
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3B/2A5UNA3B.BIN
+- Folder: 2A5UNA32
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA32/2A5UNA32.BIN
+- Folder: 2A5UNA3P
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3P/2A5UNA3P.BIN
+- Folder: 2A5UNA3M
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3M/2A5UNA3M.BIN
+- Folder: 2A5UNA3D
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3D/2A5UNA3D.BIN
+- Folder: 2A5UNA3C
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3C/2A5UNA3C.BIN
+- Folder: 2A5UNA3Q
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3Q/2A5UNA3Q.BIN
+- Folder: 2A5UNA33
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA33/2A5UNA33.BIN
+- Folder: 2A5UNA34
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA34/2A5UNA34.BIN
+- Folder: 2A5UNA31
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA31/2A5UNA31.BIN
+- Folder: 2A5UNA3S
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3S/2A5UNA3S.BIN
+- Folder: 2A5UNA3A
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3A/2A5UNA3A.BIN
+- Folder: 2A5UNA3H
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3H/2A5UNA3H.BIN
+- Folder: 2A5UNA3R
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3R/2A5UNA3R.BIN
+- Folder: 2A5UNA3I
+  Manufacturer: Bcom (ASI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNA3I/2A5UNA3I.BIN
+- Folder: 2A5UNB1H
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB1H/2A5UNB1H.BIN
+- Folder: 2A5UNB11
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB11/2A5UNB11.BIN
+- Folder: 2A5UNB1I
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB1I/2A5UNB1I.BIN
+- Folder: 2A5UNB1E
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB1E/2A5UNB1E.BIN
+- Folder: 2A5UNB1K
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: ALI5119
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB1K/2A5UNB1K.BIN
+- Folder: 2A5UNB13
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB13/2A5UNB13.BIN
+- Folder: 2A5UNB1J
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB1J/2A5UNB1J.BIN
+- Folder: 2A5UNB1D
+  Manufacturer: BEK-Tronic Technology
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNB1D/2A5UNB1D.BIN
+- Folder: 2A5UNCI9
+  Manufacturer: CTX
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNCI9/2A5UNCI9.BIN
+- Folder: 2A5UND0G
+  Manufacturer: DataExpert
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND0G/2A5UND0G.BIN
+- Folder: 2A5UND09
+  Manufacturer: DataExpert
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND09/2A5UND09.BIN
+- Folder: 2A5UND4G
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4G/2A5UND4G.BIN
+- Folder: 2A5UND4I
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4I/2A5UND4I.BIN
+- Folder: 2A5UND49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND49/2A5UND49.BIN
+- Folder: 2A5UND4A
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: DFI G586OPA (rev. 0)/(rev. 0+)
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4A/2A5UND4A.BIN
+- Folder: 2A5UND41
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND41/2A5UND41.BIN
+- Folder: 2A5UND4M
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4M/2A5UND4M.BIN
+- Folder: 2A5UND4J
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4J/2A5UND4J.BIN
+- Folder: 2A5UND4K
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4K/2A5UND4K.BIN
+- Folder: 2A5UND4L
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UND4L/2A5UND4L.BIN
+- Folder: 2A5UNW0A
+  Manufacturer: Edom/Wintech
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNW0A/2A5UNW0A.BIN
+- Folder: 2A5UNW09
+  Manufacturer: Edom/Wintech
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNW09/2A5UNW09.BIN
+- Folder: 2A5UNW0I
+  Manufacturer: Edom/Wintech
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNW0I/2A5UNW0I.BIN
+- Folder: 2A5UPG5A
+  Manufacturer: GVC
+  Chipset: OPTi Viper Max
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper Max/2A5UPG5A/2A5UPG5A.BIN
+- Folder: 2A5UNG5H
+  Manufacturer: GVC
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNG5H/2A5UNG5H.BIN
+- Folder: 2A5UNH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: Hsing Tech - PCChips M-529
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNH09/2A5UNH09.BIN
+- Folder: 2A5UNH01
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Elpina/Amptron PM-7400 Version 1.00
+  Aliases: PC Chips model 529
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNH01/2A5UNH01.BIN
+- Folder: 2A5UNM02
+  Manufacturer: Matra
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM02/2A5UNM02.BIN
+- Folder: 2A5UNN49
+  Manufacturer: National
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNN49/2A5UNN49.BIN
+- Folder: 2A5UNO0E
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Octek Rhino 8
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0E/2A5UNO0E.BIN
+- Folder: 2A5UNO0B
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0B/2A5UNO0B.BIN
+- Folder: 2A5UNO0C
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0C/2A5UNO0C.BIN
+- Folder: 2A5UNO0D
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Octek Rhino 8
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0D/2A5UNO0D.BIN
+- Folder: 2A5UNO0A
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0A/2A5UNO0A.BIN
+- Folder: 2A5UNO0F
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: Octek Rhino 8
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0F/2A5UNO0F.BIN
+- Folder: 2A5UNO0H
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0H/2A5UNO0H.BIN
+- Folder: 2A5UNO08
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: None
+  Release: '2.2'
+  Motherboard: Octek Rhino 5
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO08/2A5UNO08.BIN
+- Folder: 2A5UNO0G
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO0G/2A5UNO0G.BIN
+- Folder: 2A5UNO09
+  Manufacturer: Ocean (Octek)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: Octek Rhino 5
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNO09/2A5UNO09.BIN
+- Folder: 2A5UNPDI
+  Manufacturer: Precision
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNPDI/2A5UNPDI.BIN
+- Folder: 2A5UNPDH
+  Manufacturer: Precision
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNPDH/2A5UNPDH.BIN
+- Folder: 2A5UNPD1
+  Manufacturer: Precision
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNPD1/2A5UNPD1.BIN
+- Folder: 2A5UNPD2
+  Manufacturer: Precision
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNPD2/2A5UNPD2.BIN
+- Folder: 2A5UNSA9
+  Manufacturer: Seanix
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNSA9/2A5UNSA9.BIN
+- Folder: 2A5UNSAA
+  Manufacturer: Seanix
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Seanix Technology Inc. Opti-Viper Board Rev 1.0
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNSAA/2A5UNSAA.BIN
+- Folder: 2A5UNSD1
+  Manufacturer: See Through
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNSD1/2A5UNSD1.BIN
+- Folder: 2A5UNH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNH29/2A5UNH29.BIN
+- Folder: 2A5UNH2H
+  Manufacturer: Shuttle (Holco)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNH2H/2A5UNH2H.BIN
+- Folder: 2A5UNH21
+  Manufacturer: Shuttle (Holco)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNH21/2A5UNH21.BIN
+- Folder: 2A5UNS29
+  Manufacturer: Soyo
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNS29/2A5UNS29.BIN
+- Folder: 2A5UNM2K
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2K/2A5UNM2K.BIN
+- Folder: 2A5UNM2L
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2L/2A5UNM2L.BIN
+- Folder: 2A5UNM2E
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2E/2A5UNM2E.BIN
+- Folder: 2A5UNM2B
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2B/2A5UNM2B.BIN
+- Folder: 2A5UNM25
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM25/2A5UNM25.BIN
+- Folder: 2A5UNM2C
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2C/2A5UNM2C.BIN
+- Folder: 2A5UNM2D
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2D/2A5UNM2D.BIN
+- Folder: 2A5UNM2M
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2M/2A5UNM2M.BIN
+- Folder: 2A5UNM24
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM24/2A5UNM24.BIN
+- Folder: 2A5UNM21
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM21/2A5UNM21.BIN
+- Folder: 2A5UNM2O
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2O/2A5UNM2O.BIN
+- Folder: 2A5UNM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2A/2A5UNM2A.BIN
+- Folder: 2A5UNM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM29/2A5UNM29.BIN
+- Folder: 2A5UNM2N
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNM2N/2A5UNM2N.BIN
+- Folder: 2A5UNTH1
+  Manufacturer: Toshiba
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNTH1/2A5UNTH1.BIN
+- Folder: 2A5UNU09
+  Manufacturer: U-Board
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNU09/2A5UNU09.BIN
+- Folder: 2A5UP000
+  Manufacturer: Unknown
+  Chipset: OPTi Viper Max
+  I/O: SMC37C93X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper Max/2A5UP000/2A5UP000.BIN
+- Folder: 2A5UPOZD
+  Manufacturer: Unknown
+  Chipset: OPTi Viper Max
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper Max/2A5UPOZD/2A5UPOZD.BIN
+- Folder: 2A5UPOZC
+  Manufacturer: Unknown
+  Chipset: OPTi Viper Max
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper Max/2A5UPOZC/2A5UPOZC.BIN
+- Folder: 2A5UNOZK
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZK/2A5UNOZK.BIN
+- Folder: 2A5UNOZL
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZL/2A5UNOZL.BIN
+- Folder: 2A5UNOZ2
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZ2/2A5UNOZ2.BIN
+- Folder: 2A5UNOZM
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZM/2A5UNOZM.BIN
+- Folder: 2A5UNOZJ
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZJ/2A5UNOZJ.BIN
+- Folder: 2A5UNOZ3
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZ3/2A5UNOZ3.BIN
+- Folder: 2A5UN000
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UN000/2A5UN000.BIN
+- Folder: 2A5UNOZ0
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZ0/2A5UNOZ0.BIN
+- Folder: 2A5UNOZN
+  Manufacturer: Unknown
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNOZN/2A5UNOZN.BIN
+- Folder: 2A5UNV3A
+  Manufacturer: VTech/PC Partner
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNV3A/2A5UNV3A.BIN
+- Folder: 2A5UNZ12
+  Manufacturer: Zida (Tomato)
+  Chipset: OPTi Viper(-M) 82C556/557/558
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/OPTi/Viper(-M)/2A5UNZ12/2A5UNZ12.BIN

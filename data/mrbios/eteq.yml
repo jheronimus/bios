@@ -1,0 +1,146 @@
+- Part Number: V018B301
+  Code: ETEQ301
+  Chipset: 82C491/82C493 Cougar Rev. A
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B301/ETEQ301.BIN
+- Part Number: V018B303
+  Code: ETEQ303
+  Chipset: 82C491/82C492 Cougar Rev. B, C
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B303/ETEQ303.BIN
+- Part Number: V018B304
+  Code: ETEQ304
+  Chipset: 82C491/82C492 Cougar Rev. B, C
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B304/ETEQ304.BIN
+- Part Number: V018B305
+  Code: ETEQ305
+  Chipset: 82C491/82C492 Cougar Rev. B, C
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B305/ETEQ305.BIN
+- Part Number: V018B311
+  Code: ETEQ311
+  Chipset: 82C491/82C493 Bobcat Rev. A (non-cache)
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/BOBCAT/V018B311/ETEQ311.BIN
+- Part Number: V018B314
+  Code: ETEQ314
+  Chipset: 82C491/82C493 Bobcat Rev. A
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V018B315
+  Code: ETEQ315
+  Chipset: 82C491/82C493 Bobcat Rev. A
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V046B321
+  Code: ETEQ321
+  Chipset: 82C4901/82C4902 Bengal WriteBack
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V046B324
+  Code: ETEQ324
+  Chipset: 82C4901/82C4902 Bengal WriteBack
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V046B325
+  Code: ETEQ325
+  Chipset: 82C4901/82C4902 Bengal WriteBack
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V073B330
+  Code: ETEQ330
+  Chipset: 82C390SX Panda Single Chip w/Direct Mapped Cache (aka ET486SLC2)
+  Turbo: ''
+  Should work with: '[IBM ETEQ 486SLC2](https://theretroweb.com/motherboards/s/ibm-eteq-486slc2)'
+  Versions found: '1.61'
+  files:
+  - bios/mrbios/ETEQ/ET486SLC2/V073B330/ETEQ330.BIN
+  - bios/mrbios/ETEQ/ET486SLC2/V073B330/ETEQ330.BIO
+- Part Number: V046B420
+  Code: ETEQ421
+  Chipset: 82C4901/82C4902 Bengal WriteBack
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files:
+  - bios/mrbios/ETEQ/BENGAL/V046B420/ETEQ420.BIN
+- Part Number: V046B428
+  Code: ETEQ428
+  Chipset: 82C4901/82C4902 Bengal WriteBack
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files: []
+- Part Number: V046B429
+  Code: ETEQ429
+  Chipset: 82C4901/82C4902 Bengal WriteBack
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V018B400
+  Code: ETEQ400
+  Chipset: 82C491/82C493 Cougar Rev. ?
+  Turbo: ''
+  Should work with: ''
+  Versions found: 1.0A
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B400/ETEQ400.BIN
+- Part Number: V018B401
+  Code: ETEQ401
+  Chipset: 82C491/82C493 Cougar Rev. A
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B401/ETEQ401.BIN
+- Part Number: V018B403
+  Code: ETEQ403
+  Chipset: 82C491/82C492 Cougar Rev. B, C
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B403/ETEQ403.BIN
+- Part Number: V018B404
+  Code: ETEQ404
+  Chipset: 82C491/82C492 Cougar Rev. B, C
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B404/ETEQ404.BIN
+- Part Number: V018B405
+  Code: ETEQ405
+  Chipset: 82C491/82C492 Cougar Rev. B, C
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ETEQ/COUGAR/V018B405/ETEQ405.BIN

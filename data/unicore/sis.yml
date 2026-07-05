@@ -1,0 +1,6140 @@
+- Folder: 2A5IIA29
+  Manufacturer: A-Trend
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA29/2A5IIA29.BIN
+- Folder: 2A5IIA2A
+  Manufacturer: A-Trend
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA2A/2A5IIA2A.BIN
+- Folder: 2A5IIA2B
+  Manufacturer: A-Trend
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA2B/2A5IIA2B.BIN
+- Folder: 2A5IKA2A
+  Manufacturer: A-Trend
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKA2A/2A5IKA2A.BIN
+- Folder: 2A5IKA29
+  Manufacturer: A-Trend
+  Chipset: SiS 5591
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKA29/2A5IKA29.BIN
+- Folder: 2A5IAA13
+  Manufacturer: ABit
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAA13/2A5IAA13.BIN
+- Folder: 2A5IAA1J
+  Manufacturer: ABit
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAA1J/2A5IAA1J.BIN
+- Folder: 2A5IAA12
+  Manufacturer: ABit
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAA12/2A5IAA12.BIN
+- Folder: 2A5IAA11
+  Manufacturer: ABit
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ABit AB-PK5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAA11/2A5IAA11.BIN
+- Folder: 2A5IMA19
+  Manufacturer: ABit
+  Chipset: SiS 530
+  I/O: W83977EF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMA19/2A5IMA19.BIN
+- Folder: 2A5ICA1A
+  Manufacturer: ABit
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICA1A/2A5ICA1A.BIN
+- Folder: 2A5ICA11
+  Manufacturer: ABit
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ABit AB-PK5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICA11/2A5ICA11.BIN
+- Folder: 2A5ICA12
+  Manufacturer: ABit
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ABit AB-PE5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICA12/2A5ICA12.BIN
+- Folder: 2A5IDA1D
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1D/2A5IDA1D.BIN
+- Folder: 2A5IDA1C
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ABit AB-PH5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1C/2A5IDA1C.BIN
+- Folder: 2A5IDA1B
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1B/2A5IDA1B.BIN
+- Folder: 2A5IDA1E
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C653
+  Release: '2.2'
+  Motherboard: ABit AB-PH5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1E/2A5IDA1E.BIN
+- Folder: 2A5IDA1I
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1I/2A5IDA1I.BIN
+- Folder: 2A5IDA1G
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: ALI5113
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1G/2A5IDA1G.BIN
+- Folder: 2A5IDA19
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ABit AB-PH5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA19/2A5IDA19.BIN
+- Folder: 2A5IDA1F
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C653
+  Release: '2.2'
+  Motherboard: ABit AB-PG5
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1F/2A5IDA1F.BIN
+- Folder: 2A5IDA1A
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1A/2A5IDA1A.BIN
+- Folder: 2A5IDA1H
+  Manufacturer: ABit
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA1H/2A5IDA1H.BIN
+- Folder: 2A5IIA1A
+  Manufacturer: ABit
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ABit AB-PD5N
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA1A/2A5IIA1A.BIN
+- Folder: 2A5IIA19
+  Manufacturer: ABit
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA19/2A5IIA19.BIN
+- Folder: 2A5ICAM1
+  Manufacturer: ACMA
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: Mirage M54PS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAM1/2A5ICAM1.BIN
+- Folder: 2A5ICAM9
+  Manufacturer: ACMA
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAM9/2A5ICAM9.BIN
+- Folder: 2A5IHAM9
+  Manufacturer: ACMA
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHAM9/2A5IHAM9.BIN
+- Folder: 2A5IKAM9
+  Manufacturer: ACMA
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKAM9/2A5IKAM9.BIN
+- Folder: 2A5IMX39
+  Manufacturer: ACORP
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMX39/2A5IMX39.BIN
+- Folder: 2A5IDAV9
+  Manufacturer: Acrosser
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDAV9/2A5IDAV9.BIN
+- Folder: 2A5IIAVA
+  Manufacturer: Acrosser
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAVA/2A5IIAVA.BIN
+- Folder: 2A5IIAV9
+  Manufacturer: Acrosser
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAV9/2A5IIAV9.BIN
+- Folder: 2A5IIAVB
+  Manufacturer: Acrosser
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAVB/2A5IIAVB.BIN
+- Folder: 2A5IDANA
+  Manufacturer: ADI(HK)
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDANA/2A5IDANA.BIN
+- Folder: 2A5IDAN9
+  Manufacturer: ADI(HK)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ADI(HK) 5DX-SS1D
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDAN9/2A5IDAN9.BIN
+- Folder: 2A5IMAK9
+  Manufacturer: Advantech
+  Chipset: SiS 530
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMAK9/2A5IMAK9.BIN
+- Folder: 2A5IHAKA
+  Manufacturer: Advantech
+  Chipset: SiS 5571
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Advantech PCM-5862
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHAKA/2A5IHAKA.BIN
+- Folder: 2A5IHAK9
+  Manufacturer: Advantech
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHAK9/2A5IHAK9.BIN
+- Folder: 2A5IIAKJ
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877AF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKJ/2A5IIAKJ.BIN
+- Folder: 2A5IIAKC
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKC/2A5IIAKC.BIN
+- Folder: 2A5IIAKE
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKE/2A5IIAKE.BIN
+- Folder: 2A5IIAKB
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKB/2A5IIAKB.BIN
+- Folder: 2A5IIAKI
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877AF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKI/2A5IIAKI.BIN
+- Folder: 2A5IIAKG
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877AF+W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKG/2A5IIAKG.BIN
+- Folder: 2A5IIAK9
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: AAEON Technology SBC-556/SBC-556L
+  Aliases: 'AAEON Technology SBC-551
+
+    AAEON Technology SBC-552
+
+    AAEON Technology SBC-554V
+
+    AAEON Technology SBC-555
+
+    AAEON Technology SBC-598
+
+    AAEON Technology MB-562
+
+    AAEON Technology MB-564 (TOP-2000 motherboard)
+
+    AAEON Technology MB-566
+
+    AAEON Technology PCM-5892
+
+    AAEON Technology PCM-5894'
+  files:
+  - bios/unicore/SIS/5582/2A5IIAK9/2A5IIAK9.BIN
+- Folder: 2A5IIAKA
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Advantech PCM-5868
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKA/2A5IIAKA.BIN
+- Folder: 2A5IIAKF
+  Manufacturer: Advantech
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAKF/2A5IIAKF.BIN
+- Folder: 2A5IFAK9
+  Manufacturer: Advantech
+  Chipset: SiS 5596/5597
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFAK9/2A5IFAK9.BIN
+- Folder: 2A5IAAD1
+  Manufacturer: Anson Group
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: Anson Group AP9541
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAAD1/2A5IAAD1.BIN
+- Folder: 2A5ICAD1
+  Manufacturer: Anson Group
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAD1/2A5ICAD1.BIN
+- Folder: 2A5IAAB1
+  Manufacturer: AOpen
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAAB1/2A5IAAB1.BIN
+- Folder: 2A5IAAB2
+  Manufacturer: AOpen
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAAB2/2A5IAAB2.BIN
+- Folder: 2A5ICABB
+  Manufacturer: AOpen
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: AOpen AP5CS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICABB/2A5ICABB.BIN
+- Folder: 2A5ICAB2
+  Manufacturer: AOpen
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: AOpen AP5CS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAB2/2A5ICAB2.BIN
+- Folder: 2A5ICABC
+  Manufacturer: AOpen
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICABC/2A5ICABC.BIN
+- Folder: 2A5ICABA
+  Manufacturer: AOpen
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICABA/2A5ICABA.BIN
+- Folder: 2A5IDAB9
+  Manufacturer: AOpen
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: AOpen AP5S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDAB9/2A5IDAB9.BIN
+- Folder: 2A5IDABA
+  Manufacturer: AOpen
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDABA/2A5IDABA.BIN
+- Folder: 2A5IDABB
+  Manufacturer: AOpen
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDABB/2A5IDABB.BIN
+- Folder: 2A5IHAB9
+  Manufacturer: AOpen
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: AOpen AP57 (2A5IHAB9C)
+  Aliases: Tyan w/ SMC669
+  files:
+  - bios/unicore/SIS/5571/2A5IHAB9/2A5IHAB9.BIN
+- Folder: 2A5IHABA
+  Manufacturer: AOpen
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHABA/2A5IHABA.BIN
+- Folder: 2A5IIAB9
+  Manufacturer: AOpen
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: AOpen AP58
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAB9/2A5IIAB9.BIN
+- Folder: 2A5IKAB9
+  Manufacturer: AOpen
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKAB9/2A5IKAB9.BIN
+- Folder: 2A5IFABA
+  Manufacturer: AOpen
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFABA/2A5IFABA.BIN
+- Folder: 2A5IFAB9
+  Manufacturer: AOpen
+  Chipset: SiS 5596/5597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFAB9/2A5IFAB9.BIN
+- Folder: 2A5IIAP9
+  Manufacturer: Arbor
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAP9/2A5IIAP9.BIN
+- Folder: 2A5IIAPA
+  Manufacturer: Arbor
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIAPA/2A5IIAPA.BIN
+- Folder: 2A5IFAZ9
+  Manufacturer: Arstoria
+  Chipset: SiS 5596/5597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFAZ9/2A5IFAZ9.BIN
+- Folder: 2A5IMACP
+  Manufacturer: Artdex
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMACP/2A5IMACP.BIN
+- Folder: 2A5ICAC9
+  Manufacturer: Artdex
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAC9/2A5ICAC9.BIN
+- Folder: 2A5ICAC1
+  Manufacturer: Artdex
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAC1/2A5ICAC1.BIN
+- Folder: 2A5ICAC8
+  Manufacturer: Artdex
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAC8/2A5ICAC8.BIN
+- Folder: 2A5ICAC2
+  Manufacturer: Artdex
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICAC2/2A5ICAC2.BIN
+- Folder: 2A5IMAT9
+  Manufacturer: ASK Technology
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMAT9/2A5IMAT9.BIN
+- Folder: 2A5IHAT9
+  Manufacturer: ASK Technology
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHAT9/2A5IHAT9.BIN
+- Folder: 2A5IHATA
+  Manufacturer: ASK Technology
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHATA/2A5IHATA.BIN
+- Folder: 2A5IAA01
+  Manufacturer: ASUSTeK
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAA01/2A5IAA01.BIN
+- Folder: 2A5IAA09
+  Manufacturer: ASUSTeK
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAA09/2A5IAA09.BIN
+- Folder: 2A5IDA0A
+  Manufacturer: ASUSTeK
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ASUS P/I-P55SP4
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA0A/2A5IDA0A.BIN
+- Folder: 2A5IDU82
+  Manufacturer: ASUSTeK
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ASUS P/I P55SP3AV
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU82/2A5IDU82.BIN
+- Folder: 2A5IIA00
+  Manufacturer: ASUSTeK
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA00/2A5IIA00.BIN
+- Folder: 2A5IIA0A
+  Manufacturer: ASUSTeK
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ASUS SP97-XV
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA0A/2A5IIA0A.BIN
+- Folder: 2A5IKA09
+  Manufacturer: ASUSTeK
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKA09/2A5IKA09.BIN
+- Folder: 2A5IFA09
+  Manufacturer: ASUSTeK
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFA09/2A5IFA09.BIN
+- Folder: 2A5IIA59
+  Manufacturer: Axiom
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA59/2A5IIA59.BIN
+- Folder: 2A5IIA5A
+  Manufacturer: Axiom
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA5A/2A5IIA5A.BIN
+- Folder: 2A5IIA5B
+  Manufacturer: Axiom
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIA5B/2A5IIA5B.BIN
+- Folder: 2A5IAB39
+  Manufacturer: BCM
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAB39/2A5IAB39.BIN
+- Folder: 2A5IAB3A
+  Manufacturer: BCM
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAB3A/2A5IAB3A.BIN
+- Folder: 2A5IDB31
+  Manufacturer: BCM
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB31/2A5IDB31.BIN
+- Folder: 2A5IDB3A
+  Manufacturer: BCM
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: BCM SQ599 / P54SB
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB3A/2A5IDB3A.BIN
+- Folder: 2A5IDB3C
+  Manufacturer: BCM
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB3C/2A5IDB3C.BIN
+- Folder: 2A5IDB3D
+  Manufacturer: BCM
+  Chipset: SiS 5511/12/13
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB3D/2A5IDB3D.BIN
+- Folder: 2A5IDB3E
+  Manufacturer: BCM
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB3E/2A5IDB3E.BIN
+- Folder: 2A5IDB3B
+  Manufacturer: BCM
+  Chipset: SiS 5511/12/13
+  I/O: GS82C803B
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB3B/2A5IDB3B.BIN
+- Folder: 2A5IFB3B
+  Manufacturer: BCM
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFB3B/2A5IFB3B.BIN
+- Folder: 2A5IFB3A
+  Manufacturer: BCM
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFB3A/2A5IFB3A.BIN
+- Folder: 2A5IFB39
+  Manufacturer: BCM
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: BCM SQ585
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFB39/2A5IFB39.BIN
+- Folder: 2A5IMA39
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMA39/2A5IMA39.BIN
+- Folder: 2A5IDA39
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5511/12/13
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA39/2A5IDA39.BIN
+- Folder: 2A5IDA3A
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA3A/2A5IDA3A.BIN
+- Folder: 2A5IDA3C
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA3C/2A5IDA3C.BIN
+- Folder: 2A5IDA3B
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDA3B/2A5IDA3B.BIN
+- Folder: 2A5IHA3C
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHA3C/2A5IHA3C.BIN
+- Folder: 2A5IHA3B
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHA3B/2A5IHA3B.BIN
+- Folder: 2A5IHA39
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5571
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHA39/2A5IHA39.BIN
+- Folder: 2A5IHA3A
+  Manufacturer: Bcom (ASI)
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHA3A/2A5IHA3A.BIN
+- Folder: 2A5IDB19
+  Manufacturer: BEK-Tronic Technology
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB19/2A5IDB19.BIN
+- Folder: 2A5IDB59
+  Manufacturer: Bethel
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB59/2A5IDB59.BIN
+- Folder: 2A5IMB0B
+  Manufacturer: Biostar
+  Chipset: SiS 530
+  I/O: NS351
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMB0B/2A5IMB0B.BIN
+- Folder: 2A5IMB0A
+  Manufacturer: Biostar
+  Chipset: SiS 530
+  I/O: NS351
+  Release: '2.2'
+  Motherboard: Biostar M5SAB
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMB0A/2A5IMB0A.BIN
+- Folder: 2A5IMB09
+  Manufacturer: Biostar
+  Chipset: SiS 530
+  I/O: NS351
+  Release: '2.2'
+  Motherboard: Biostar M5SAA
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMB09/2A5IMB09.BIN
+- Folder: 2A5ICB01
+  Manufacturer: Biostar
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICB01/2A5ICB01.BIN
+- Folder: 2A5IDB0A
+  Manufacturer: Biostar
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB0A/2A5IDB0A.BIN
+- Folder: 2A5IDB09
+  Manufacturer: Biostar
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB09/2A5IDB09.BIN
+- Folder: 2A5IDB0B
+  Manufacturer: Biostar
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Biostar MB-8500SAC
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDB0B/2A5IDB0B.BIN
+- Folder: 2A5IHB09
+  Manufacturer: Biostar
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHB09/2A5IHB09.BIN
+- Folder: 2A5IIB0C
+  Manufacturer: Biostar
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIB0C/2A5IIB0C.BIN
+- Folder: 2A5IIB0A
+  Manufacturer: Biostar
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: Biostar M5SIB
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIB0A/2A5IIB0A.BIN
+- Folder: 2A5IDCH9
+  Manufacturer: CBR
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDCH9/2A5IDCH9.BIN
+- Folder: 2A5IDCH1
+  Manufacturer: CBR
+  Chipset: SiS 5511/12/13
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDCH1/2A5IDCH1.BIN
+- Folder: 2A5IHCHA
+  Manufacturer: CBR
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHCHA/2A5IHCHA.BIN
+- Folder: 2A5IHCHB
+  Manufacturer: CBR
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHCHB/2A5IHCHB.BIN
+- Folder: 2A5IFCH1
+  Manufacturer: CBR
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFCH1/2A5IFCH1.BIN
+- Folder: 2A5IFCH9
+  Manufacturer: CBR
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFCH9/2A5IFCH9.BIN
+- Folder: 2A5IAC34
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC34/2A5IAC34.BIN
+- Folder: 2A5IAC33
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC33/2A5IAC33.BIN
+- Folder: 2A5IAC32
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC32/2A5IAC32.BIN
+- Folder: 2A5IAC35
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC35/2A5IAC35.BIN
+- Folder: 2A5IAC39
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC39/2A5IAC39.BIN
+- Folder: 2A5IAC36
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Chaintech 5SLB.1
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC36/2A5IAC36.BIN
+- Folder: 2A5IAC31
+  Manufacturer: Chaintech
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC31/2A5IAC31.BIN
+- Folder: 2A5ICC31
+  Manufacturer: Chaintech
+  Chipset: SiS 5501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICC31/2A5ICC31.BIN
+- Folder: 2A5ICC3A
+  Manufacturer: Chaintech
+  Chipset: SiS 5501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICC3A/2A5ICC3A.BIN
+- Folder: 2A5ICC39
+  Manufacturer: Chaintech
+  Chipset: SiS 5501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Chaintech 5SBM2
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICC39/2A5ICC39.BIN
+- Folder: 2A5IDC3C
+  Manufacturer: Chaintech
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Chaintech 5SBA
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC3C/2A5IDC3C.BIN
+- Folder: 2A5IDC3B
+  Manufacturer: Chaintech
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC3B/2A5IDC3B.BIN
+- Folder: 2A5IDC39
+  Manufacturer: Chaintech
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Chaintech 5SEM M102
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC39/2A5IDC39.BIN
+- Folder: 2A5IDC3A
+  Manufacturer: Chaintech
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Chaintech 586SEM
+  Aliases: Chaintech M105 5SEM
+  files:
+  - bios/unicore/SIS/5511/2A5IDC3A/2A5IDC3A.BIN
+- Folder: 2A5IIC39
+  Manufacturer: Chaintech
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: Chaintech 5SDA
+  Aliases: Chaintech 5SIM
+  files:
+  - bios/unicore/SIS/5582/2A5IIC39/2A5IIC39.BIN
+- Folder: 2A5IFC39
+  Manufacturer: Chaintech
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFC39/2A5IFC39.BIN
+- Folder: 2A5IAC21
+  Manufacturer: Chicony
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC21/2A5IAC21.BIN
+- Folder: 2A5IAC22
+  Manufacturer: Chicony
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAC22/2A5IAC22.BIN
+- Folder: 2A5IMC29
+  Manufacturer: Chicony
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMC29/2A5IMC29.BIN
+- Folder: 2A5IDC2B
+  Manufacturer: Chicony
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC2B/2A5IDC2B.BIN
+- Folder: 2A5IDC89
+  Manufacturer: Cloud
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC89/2A5IDC89.BIN
+- Folder: 2A5IDC8B
+  Manufacturer: Cloud
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC8B/2A5IDC8B.BIN
+- Folder: 2A5IDC83
+  Manufacturer: Cloud
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC83/2A5IDC83.BIN
+- Folder: 2A5IDC8C
+  Manufacturer: Cloud
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC8C/2A5IDC8C.BIN
+- Folder: 2A5ICC41
+  Manufacturer: CMC
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICC41/2A5ICC41.BIN
+- Folder: 2A5ICC49
+  Manufacturer: CMC
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICC49/2A5ICC49.BIN
+- Folder: 2A5IDC4B
+  Manufacturer: CMC
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC4B/2A5IDC4B.BIN
+- Folder: 2A5IDC49
+  Manufacturer: CMC
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC49/2A5IDC49.BIN
+- Folder: 2A5IDC4A
+  Manufacturer: CMC
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDC4A/2A5IDC4A.BIN
+- Folder: 2A5IIC4A
+  Manufacturer: CMC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIC4A/2A5IIC4A.BIN
+- Folder: 2A5IIC49
+  Manufacturer: CMC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIC49/2A5IIC49.BIN
+- Folder: 2A5IFC49
+  Manufacturer: CMC
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFC49/2A5IFC49.BIN
+- Folder: 2A5IICQ9
+  Manufacturer: COT (Cyber Ocean)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IICQ9/2A5IICQ9.BIN
+- Folder: 2A5IJCE9
+  Manufacturer: Crete
+  Chipset: SiS 5120 Mobile
+  I/O: SMC37C669FR
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5120 Mobile/2A5IJCE9/2A5IJCE9.BIN
+- Folder: 2A5IICE9
+  Manufacturer: Crete
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IICE9/2A5IICE9.BIN
+- Folder: 2A5IDCI9
+  Manufacturer: CTX
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDCI9/2A5IDCI9.BIN
+- Folder: 2A5IDDF9
+  Manufacturer: Daesun
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDDF9/2A5IDDF9.BIN
+- Folder: 2A5IMD79
+  Manufacturer: Daewoo
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMD79/2A5IMD79.BIN
+- Folder: 2A5IHD79
+  Manufacturer: Daewoo
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Daewoo CB52X-SI
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD79/2A5IHD79.BIN
+- Folder: 2A5IHD7A
+  Manufacturer: Daewoo
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD7A/2A5IHD7A.BIN
+- Folder: 2A5IHD7C
+  Manufacturer: Daewoo
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD7C/2A5IHD7C.BIN
+- Folder: 2A5IHD7B
+  Manufacturer: Daewoo
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD7B/2A5IHD7B.BIN
+- Folder: 2A5IID79
+  Manufacturer: Daewoo
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID79/2A5IID79.BIN
+- Folder: 2A5IKD79
+  Manufacturer: Daewoo
+  Chipset: SiS 5591
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKD79/2A5IKD79.BIN
+- Folder: 2A5IMDA9
+  Manufacturer: Datavan
+  Chipset: SiS 530
+  I/O: ITE8661+ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMDA9/2A5IMDA9.BIN
+- Folder: 2A5IMDAA
+  Manufacturer: Datavan
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMDAA/2A5IMDAA.BIN
+- Folder: 2A5IMDAC
+  Manufacturer: Datavan
+  Chipset: SiS 530
+  I/O: ITE8661+ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMDAC/2A5IMDAC.BIN
+- Folder: 2A5IMDAB
+  Manufacturer: Datavan
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMDAB/2A5IMDAB.BIN
+- Folder: 2A5IIDB9
+  Manufacturer: Densitron
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37N769
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIDB9/2A5IIDB9.BIN
+- Folder: 2A5IIDBA
+  Manufacturer: Densitron
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37N769
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIDBA/2A5IIDBA.BIN
+- Folder: 2A5IIDBB
+  Manufacturer: Densitron
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37N769
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIDBB/2A5IIDBB.BIN
+- Folder: 2A5IMD49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMD49/2A5IMD49.BIN
+- Folder: 2A5IDD4A
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: DFI G586SPA (rev. A+)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDD4A/2A5IDD4A.BIN
+- Folder: 2A5IHD4A
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: DFI 586STE (REV. A+)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD4A/2A5IHD4A.BIN
+- Folder: 2A5IHD49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: SiS 5571
+  I/O: ITE8680
+  Release: '2.2'
+  Motherboard: DFI 586STC w/ ITE 8680
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD49/2A5IHD49.BIN
+- Folder: 2A5IFD49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: DFI G586SPB AIO (REV. A+)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFD49/2A5IFD49.BIN
+- Folder: 2A5IAD31
+  Manufacturer: Digicom
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAD31/2A5IAD31.BIN
+- Folder: 2A5IHD39
+  Manufacturer: Digicom
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD39/2A5IHD39.BIN
+- Folder: 2A5IHD2B
+  Manufacturer: Digital
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD2B/2A5IHD2B.BIN
+- Folder: 2A5IHD29
+  Manufacturer: Digital
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD29/2A5IHD29.BIN
+- Folder: 2A5IHD28
+  Manufacturer: Digital
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD28/2A5IHD28.BIN
+- Folder: 2A5IHD2A
+  Manufacturer: Digital
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHD2A/2A5IHD2A.BIN
+- Folder: 2A5IID2E
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2E/2A5IID2E.BIN
+- Folder: 2A5IID2B
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2B/2A5IID2B.BIN
+- Folder: 2A5IID2C
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2C/2A5IID2C.BIN
+- Folder: 2A5IID2D
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2D/2A5IID2D.BIN
+- Folder: 2A5IID2H
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2H/2A5IID2H.BIN
+- Folder: 2A5IID2A
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2A/2A5IID2A.BIN
+- Folder: 2A5IID2F
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2F/2A5IID2F.BIN
+- Folder: 2A5IID29
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID29/2A5IID29.BIN
+- Folder: 2A5IID2G
+  Manufacturer: Digital
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IID2G/2A5IID2G.BIN
+- Folder: 2A5IAD11
+  Manufacturer: DTK
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAD11/2A5IAD11.BIN
+- Folder: 2A5IAE12
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Elitegroup SI54P AIO
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE12/2A5IAE12.BIN
+- Folder: 2A5IAE1A
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Elitegroup SI54P-AIO Revision 1.0
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE1A/2A5IAE1A.BIN
+- Folder: 2A5IME1A
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 530
+  I/O: ITE8671
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IME1A/2A5IME1A.BIN
+- Folder: 2A5ICE1A
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Elitegroup SI54P AIO
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICE1A/2A5ICE1A.BIN
+- Folder: 2A5IDE1B
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1B/2A5IDE1B.BIN
+- Folder: 2A5IDE1E
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1E/2A5IDE1E.BIN
+- Folder: 2A5IDE1D
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.0'
+  Motherboard: Elitegroup SI55P AIO w/ SMC 665
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1D/2A5IDE1D.BIN
+- Folder: 2A5IDE1C
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1C/2A5IDE1C.BIN
+- Folder: 2A5IDE1H
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1H/2A5IDE1H.BIN
+- Folder: 2A5IDE1F
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1F/2A5IDE1F.BIN
+- Folder: 2A5IDE1A
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Elitegroup SI56P AVIO
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1A/2A5IDE1A.BIN
+- Folder: 2A5IDE19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Elitegroup SI55P AIO
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE19/2A5IDE19.BIN
+- Folder: 2A5IDE1I
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE1I/2A5IDE1I.BIN
+- Folder: 2A5IHE19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Elitegroup P5SV-B
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHE19/2A5IHE19.BIN
+- Folder: 2A5IIE19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE19/2A5IIE19.BIN
+- Folder: 2A5IIE1A
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE1A/2A5IIE1A.BIN
+- Folder: 2A5IIE1C
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE1C/2A5IIE1C.BIN
+- Folder: 2A5IIE1D
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE1D/2A5IIE1D.BIN
+- Folder: 2A5IIE1B
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE1B/2A5IIE1B.BIN
+- Folder: 2A5IKE19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKE19/2A5IKE19.BIN
+- Folder: 2A5IFE19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: SiS 5596/5597
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFE19/2A5IFE19.BIN
+- Folder: 2A5IDW09
+  Manufacturer: Edom/Wintech
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDW09/2A5IDW09.BIN
+- Folder: 2A5IAE31
+  Manufacturer: EFA
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE31/2A5IAE31.BIN
+- Folder: 2A5IAE32
+  Manufacturer: EFA
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE32/2A5IAE32.BIN
+- Folder: 2A5ICE31
+  Manufacturer: EFA
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICE31/2A5ICE31.BIN
+- Folder: 2A5IDE3B
+  Manufacturer: EFA
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDE3B/2A5IDE3B.BIN
+- Folder: 2A5IIE39
+  Manufacturer: EFA
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE39/2A5IIE39.BIN
+- Folder: 2A5IKE3Z
+  Manufacturer: EFA
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKE3Z/2A5IKE3Z.BIN
+- Folder: 2A5IHE6A
+  Manufacturer: Elonex
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHE6A/2A5IHE6A.BIN
+- Folder: 2A5IHE6B
+  Manufacturer: Elonex
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHE6B/2A5IHE6B.BIN
+- Folder: 2A5IMEC9
+  Manufacturer: ENPC
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ENPC EP-PS21
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMEC9/2A5IMEC9.BIN
+- Folder: 2A5IMECB
+  Manufacturer: ENPC
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMECB/2A5IMECB.BIN
+- Folder: 2A5IAE41
+  Manufacturer: ESPCo
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE41/2A5IAE41.BIN
+- Folder: 2A5IAE4B
+  Manufacturer: ESPCo
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE4B/2A5IAE4B.BIN
+- Folder: 2A5IAE42
+  Manufacturer: ESPCo
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE42/2A5IAE42.BIN
+- Folder: 2A5IAE4C
+  Manufacturer: ESPCo
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE4C/2A5IAE4C.BIN
+- Folder: 2A5IAE43
+  Manufacturer: ESPCo
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAE43/2A5IAE43.BIN
+- Folder: 2A5IIEJ9
+  Manufacturer: EVOC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIEJ9/2A5IIEJ9.BIN
+- Folder: 2A5IIE69
+  Manufacturer: Expert
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIE69/2A5IIE69.BIN
+- Folder: 2A5IDF09
+  Manufacturer: FIC
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF09/2A5IDF09.BIN
+- Folder: 2A5IIF0A
+  Manufacturer: FIC
+  Chipset: SiS 5582/5597/5598
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF0A/2A5IIF0A.BIN
+- Folder: 2A5IIF09
+  Manufacturer: FIC
+  Chipset: SiS 5582/5597/5598
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF09/2A5IIF09.BIN
+- Folder: 2A5IKF09
+  Manufacturer: FIC
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKF09/2A5IKF09.BIN
+- Folder: 2A5IAF11
+  Manufacturer: Flytech Group International
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAF11/2A5IAF11.BIN
+- Folder: 2A5ICF11
+  Manufacturer: Flytech Group International
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF11/2A5ICF11.BIN
+- Folder: 2A5ICF14
+  Manufacturer: Flytech Group International
+  Chipset: SiS 5501/02/03
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF14/2A5ICF14.BIN
+- Folder: 2A5ICF13
+  Manufacturer: Flytech Group International
+  Chipset: SiS 5501/02/03
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF13/2A5ICF13.BIN
+- Folder: 2A5ICF1C
+  Manufacturer: Flytech Group International
+  Chipset: SiS 5501/02/03
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF1C/2A5ICF1C.BIN
+- Folder: 2A5ICF12
+  Manufacturer: Flytech Group International
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF12/2A5ICF12.BIN
+- Folder: 2A5IMF9A
+  Manufacturer: Ford Lian
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMF9A/2A5IMF9A.BIN
+- Folder: 2A5IMF99
+  Manufacturer: Ford Lian
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMF99/2A5IMF99.BIN
+- Folder: 2A5IHF99
+  Manufacturer: Ford Lian
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHF99/2A5IHF99.BIN
+- Folder: 2A5IIF99
+  Manufacturer: Ford Lian
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF99/2A5IIF99.BIN
+- Folder: 2A5IFF99
+  Manufacturer: Ford Lian
+  Chipset: SiS 5596/5597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFF99/2A5IFF99.BIN
+- Folder: 2A5IIF89
+  Manufacturer: Formosa Industrial Computing
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF89/2A5IIF89.BIN
+- Folder: 2A5IAF20
+  Manufacturer: Freetech
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Freetech/Flexus 586F54
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAF20/2A5IAF20.BIN
+- Folder: 2A5ICF21
+  Manufacturer: Freetech
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF21/2A5ICF21.BIN
+- Folder: 2A5IDF2D
+  Manufacturer: Freetech
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Freetech/Flexus 586F60
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF2D/2A5IDF2D.BIN
+- Folder: 2A5IDF2B
+  Manufacturer: Freetech
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Freetech/Flexus 586F60
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF2B/2A5IDF2B.BIN
+- Folder: 2A5IDF29
+  Manufacturer: Freetech
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Freetech/Flexus 586F56
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF29/2A5IDF29.BIN
+- Folder: 2A5IDF2A
+  Manufacturer: Freetech
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF2A/2A5IDF2A.BIN
+- Folder: 2A5IIF2A
+  Manufacturer: Freetech
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF2A/2A5IIF2A.BIN
+- Folder: 2A5IIF29
+  Manufacturer: Freetech
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF29/2A5IIF29.BIN
+- Folder: 2A5IFF2A
+  Manufacturer: Freetech
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFF2A/2A5IFF2A.BIN
+- Folder: 2A5IFF29
+  Manufacturer: Freetech
+  Chipset: SiS 5596/5597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFF29/2A5IFF29.BIN
+- Folder: 2A5IFF2B
+  Manufacturer: Freetech
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: Freetech/Flexus P5F65 (Seahawk)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFF2B/2A5IFF2B.BIN
+- Folder: 2A5IAF31
+  Manufacturer: Full Yes
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAF31/2A5IAF31.BIN
+- Folder: 2A5IAF39
+  Manufacturer: Full Yes
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAF39/2A5IAF39.BIN
+- Folder: 2A5ICF39
+  Manufacturer: Full Yes
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF39/2A5ICF39.BIN
+- Folder: 2A5ICF31
+  Manufacturer: Full Yes
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICF31/2A5ICF31.BIN
+- Folder: 2A5IDF3A
+  Manufacturer: Full Yes
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF3A/2A5IDF3A.BIN
+- Folder: 2A5IDF39
+  Manufacturer: Full Yes
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF39/2A5IDF39.BIN
+- Folder: 2A5IDF3B
+  Manufacturer: Full Yes
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDF3B/2A5IDF3B.BIN
+- Folder: 2A5IIF39
+  Manufacturer: Full Yes
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF39/2A5IIF39.BIN
+- Folder: 2A5IIF3A
+  Manufacturer: Full Yes
+  Chipset: SiS 5582/5597/5598
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: Full Yes SIS 5598 TX/VGA
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIF3A/2A5IIF3A.BIN
+- Folder: 2A5IKF39
+  Manufacturer: Full Yes
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Full Yes SIS 5591
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKF39/2A5IKF39.BIN
+- Folder: 2A5IMCS9
+  Manufacturer: Gainward or CSS Laboratories
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMCS9/2A5IMCS9.BIN
+- Folder: 2A5IMCSA
+  Manufacturer: Gainward or CSS Laboratories
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMCSA/2A5IMCSA.BIN
+- Folder: 2A5IMCSB
+  Manufacturer: Gainward or CSS Laboratories
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMCSB/2A5IMCSB.BIN
+- Folder: 2A5IAG32
+  Manufacturer: Gemlight
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Gemlight GMB-P54SPS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG32/2A5IAG32.BIN
+- Folder: 2A5IAG33
+  Manufacturer: Gemlight
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG33/2A5IAG33.BIN
+- Folder: 2A5IAG3A
+  Manufacturer: Gemlight
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: DTK PAM-0035S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG3A/2A5IAG3A.BIN
+- Folder: 2A5IAG31
+  Manufacturer: Gemlight
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: Gemlight GMB-P5SPC SiS 550X
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG31/2A5IAG31.BIN
+- Folder: 2A5IAG39
+  Manufacturer: Gemlight
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG39/2A5IAG39.BIN
+- Folder: 2A5IMG3A
+  Manufacturer: Gemlight
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMG3A/2A5IMG3A.BIN
+- Folder: 2A5IMG39
+  Manufacturer: Gemlight
+  Chipset: SiS 530
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMG39/2A5IMG39.BIN
+- Folder: 2A5ICG39
+  Manufacturer: Gemlight
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICG39/2A5ICG39.BIN
+- Folder: 2A5ICG3A
+  Manufacturer: Gemlight
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Gemlight GMB-P4C w/ Winbond 787
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICG3A/2A5ICG3A.BIN
+- Folder: 2A5ICG31
+  Manufacturer: Gemlight
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICG31/2A5ICG31.BIN
+- Folder: 2A5ICG32
+  Manufacturer: Gemlight
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICG32/2A5ICG32.BIN
+- Folder: 2A5IIG39
+  Manufacturer: Gemlight
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Gemlight GMB-P5ST-A
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG39/2A5IIG39.BIN
+- Folder: 2A5IIG3A
+  Manufacturer: Gemlight
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: DTK PAM-0070S E0
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG3A/2A5IIG3A.BIN
+- Folder: 2A5IIG3B
+  Manufacturer: Gemlight
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: DTK PAM-0070S E1
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG3B/2A5IIG3B.BIN
+- Folder: 2A5IFG3A
+  Manufacturer: Gemlight
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Gemlight GMB-P56SPC
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFG3A/2A5IFG3A.BIN
+- Folder: 2A5IFG3B
+  Manufacturer: Gemlight
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFG3B/2A5IFG3B.BIN
+- Folder: 2A5IAG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586AS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG09/2A5IAG09.BIN
+- Folder: 2A5IAG01
+  Manufacturer: Gigabyte
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586AS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAG01/2A5IAG01.BIN
+- Folder: 2A5IMG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: Gigabyte GA-5SMM
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMG09/2A5IMG09.BIN
+- Folder: 2A5ICG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICG09/2A5ICG09.BIN
+- Folder: 2A5IDG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586AVS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDG09/2A5IDG09.BIN
+- Folder: 2A5IHG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 5571
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHG09/2A5IHG09.BIN
+- Folder: 2A5IIG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586STX
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG09/2A5IIG09.BIN
+- Folder: 2A5IKG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Gigabyte GA-5SG100
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKG09/2A5IKG09.BIN
+- Folder: 2A5IFG09
+  Manufacturer: Gigabyte
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Gigabyte GA-586MS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFG09/2A5IFG09.BIN
+- Folder: 2A5IHG99
+  Manufacturer: Global Circuit Technology
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Global Circuit Technology 8ST
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHG99/2A5IHG99.BIN
+- Folder: 2A5IHU80
+  Manufacturer: Global Circuit Technology
+  Chipset: SiS 5571
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Global Circuit Technology GCT8STB
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHU80/2A5IHU80.BIN
+- Folder: 2A5IIG99
+  Manufacturer: Global Circuit Technology
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG99/2A5IIG99.BIN
+- Folder: 2A5IIG5B
+  Manufacturer: GVC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG5B/2A5IIG5B.BIN
+- Folder: 2A5IIG5C
+  Manufacturer: GVC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: GVC FR500
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG5C/2A5IIG5C.BIN
+- Folder: 2A5IIG5D
+  Manufacturer: GVC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: BCM SL5598
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG5D/2A5IIG5D.BIN
+- Folder: 2A5IIG5A
+  Manufacturer: GVC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG5A/2A5IIG5A.BIN
+- Folder: 2A5IIG5F
+  Manufacturer: GVC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG5F/2A5IIG5F.BIN
+- Folder: 2A5IIG59
+  Manufacturer: GVC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIG59/2A5IIG59.BIN
+- Folder: 2A5IIHE9
+  Manufacturer: Heisei
+  Chipset: SiS 5582/5597/5598
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIHE9/2A5IIHE9.BIN
+- Folder: 2A5IAH59
+  Manufacturer: HMC
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAH59/2A5IAH59.BIN
+- Folder: 2A5IIH89
+  Manufacturer: Howatek
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIH89/2A5IIH89.BIN
+- Folder: 2A5IMH0A
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 530
+  I/O: ALI5113B
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMH0A/2A5IMH0A.BIN
+- Folder: 2A5IMH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMH09/2A5IMH09.BIN
+- Folder: 2A5IHH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 5571
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHH09/2A5IHH09.BIN
+- Folder: 2A5IIH0B
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIH0B/2A5IIH0B.BIN
+- Folder: 2A5IIH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 5582/5597/5598
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Hsing Tech TXTWO
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIH09/2A5IIH09.BIN
+- Folder: 2A5IIH0A
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 5582/5597/5598
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIH0A/2A5IIH0A.BIN
+- Folder: 2A5IKH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: SiS 5591
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKH09/2A5IKH09.BIN
+- Folder: 2A5IDH99
+  Manufacturer: Hyosan
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDH99/2A5IDH99.BIN
+- Folder: 2A5III9F
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9F/2A5III9F.BIN
+- Folder: 2A5III9A
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9A/2A5III9A.BIN
+- Folder: 2A5III9G
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9G/2A5III9G.BIN
+- Folder: 2A5III99
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III99/2A5III99.BIN
+- Folder: 2A5III9B
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9B/2A5III9B.BIN
+- Folder: 2A5III9E
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9E/2A5III9E.BIN
+- Folder: 2A5III9D
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9D/2A5III9D.BIN
+- Folder: 2A5III9C
+  Manufacturer: ICP
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III9C/2A5III9C.BIN
+- Folder: 2A5IMI7A
+  Manufacturer: Inlog
+  Chipset: SiS 530
+  I/O: SMC37C669
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMI7A/2A5IMI7A.BIN
+- Folder: 2A5IMI79
+  Manufacturer: Inlog
+  Chipset: SiS 530
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMI79/2A5IMI79.BIN
+- Folder: 2A5III19
+  Manufacturer: Innovace
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.0'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5III19/2A5III19.BIN
+- Folder: 2A5ICI41
+  Manufacturer: Inventa
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICI41/2A5ICI41.BIN
+- Folder: 2A5IIIC9
+  Manufacturer: Inventec
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIIC9/2A5IIIC9.BIN
+- Folder: 2A5IKICA
+  Manufacturer: Inventec
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKICA/2A5IKICA.BIN
+- Folder: 2A5IAI32
+  Manufacturer: Iwill
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Iwill P54 AS/ASW
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAI32/2A5IAI32.BIN
+- Folder: 2A5IAJ31
+  Manufacturer: J-Bond
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: J-Bond PCI500C-C
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAJ31/2A5IAJ31.BIN
+- Folder: 2A5ICJ3A
+  Manufacturer: J-Bond
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: J-Bond PCI500C-D
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICJ3A/2A5ICJ3A.BIN
+- Folder: 2A5ICJ31
+  Manufacturer: J-Bond
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICJ31/2A5ICJ31.BIN
+- Folder: 2A5ICJ39
+  Manufacturer: J-Bond
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICJ39/2A5ICJ39.BIN
+- Folder: 2A5IDJ3A
+  Manufacturer: J-Bond
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: J-Bond PCI500C-F
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ3A/2A5IDJ3A.BIN
+- Folder: 2A5IAJ51
+  Manufacturer: J-Square
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: J-Square w/ NO Superio
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAJ51/2A5IAJ51.BIN
+- Folder: 2A5IAJ21
+  Manufacturer: Jamicon
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAJ21/2A5IAJ21.BIN
+- Folder: 2A5IMJ1B
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-530BF
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMJ1B/2A5IMJ1B.BIN
+- Folder: 2A5IMJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMJ19/2A5IMJ19.BIN
+- Folder: 2A5IMJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-530CF
+  Aliases: Jetboard/Jetway J-531CF
+  files:
+  - bios/unicore/SIS/530/2A5IMJ1A/2A5IMJ1A.BIN
+- Folder: 2A5IDJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ19/2A5IDJ19.BIN
+- Folder: 2A5IDJ11
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Jetway/Jetboard J-646C
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ11/2A5IDJ11.BIN
+- Folder: 2A5IDJ1S
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ1S/2A5IDJ1S.BIN
+- Folder: 2A5IDJ1X
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ1X/2A5IDJ1X.BIN
+- Folder: 2A5IHJ1B
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5571
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHJ1B/2A5IHJ1B.BIN
+- Folder: 2A5IHJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-571A
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHJ19/2A5IHJ19.BIN
+- Folder: 2A5IHJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-571B
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHJ1A/2A5IHJ1A.BIN
+- Folder: 2A5IIJ1B
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIJ1B/2A5IIJ1B.BIN
+- Folder: 2A5IIJ1D
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: J-Mark J-TX98B
+  Aliases: Jetboard/Jetway w/ SMC 669
+  files:
+  - bios/unicore/SIS/5582/2A5IIJ1D/2A5IIJ1D.BIN
+- Folder: 2A5IIJ1C
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIJ1C/2A5IIJ1C.BIN
+- Folder: 2A5IIJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-TX98 R2
+  Aliases: Jetboard/Jetway SUPER TX
+  files:
+  - bios/unicore/SIS/5582/2A5IIJ1A/2A5IIJ1A.BIN
+- Folder: 2A5IIJ11
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIJ11/2A5IIJ11.BIN
+- Folder: 2A5IIJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-TX98
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIJ19/2A5IIJ19.BIN
+- Folder: 2A5IKJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5591
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: Jetboard/Jetway J-591A
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKJ19/2A5IKJ19.BIN
+- Folder: 2A5IKJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5591
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKJ1A/2A5IKJ1A.BIN
+- Folder: 2A5IFJ1B
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-648A
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFJ1B/2A5IFJ1B.BIN
+- Folder: 2A5IFJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5596/5597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFJ1A/2A5IFJ1A.BIN
+- Folder: 2A5IFJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Jetboard/Jetway J-648A w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFJ19/2A5IFJ19.BIN
+- Folder: 2A5IAJ61
+  Manufacturer: Joss Tech
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAJ61/2A5IAJ61.BIN
+- Folder: 2A5ICJ61
+  Manufacturer: Joss Tech
+  Chipset: SiS 5501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Joss Tech  JT-586IP4
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICJ61/2A5ICJ61.BIN
+- Folder: 2A5IDJ69
+  Manufacturer: Joss Tech
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Joss Tech JT586IV4
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ69/2A5IDJ69.BIN
+- Folder: 2A5IDJ6A
+  Manufacturer: Joss Tech
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ6A/2A5IDJ6A.BIN
+- Folder: 2A5IDJ6B
+  Manufacturer: Joss Tech
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDJ6B/2A5IDJ6B.BIN
+- Folder: 2A5IHK19
+  Manufacturer: Kaimei
+  Chipset: SiS 5571
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHK19/2A5IHK19.BIN
+- Folder: 2A5IHK1A
+  Manufacturer: Kaimei
+  Chipset: SiS 5571
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHK1A/2A5IHK1A.BIN
+- Folder: 2A5IIK19
+  Manufacturer: Kaimei
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIK19/2A5IIK19.BIN
+- Folder: 2A5IIK1A
+  Manufacturer: Kamei
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIK1A/2A5IIK1A.BIN
+- Folder: 2A5ICK51
+  Manufacturer: King Fair
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICK51/2A5ICK51.BIN
+- Folder: 2A5IMKF9
+  Manufacturer: Kinpo
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMKF9/2A5IMKF9.BIN
+- Folder: 2A5IDK79
+  Manufacturer: KT
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDK79/2A5IDK79.BIN
+- Folder: 2A5IDL79
+  Manufacturer: Lanner Electronics
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDL79/2A5IDL79.BIN
+- Folder: 2A5IIL7B
+  Manufacturer: Lanner Electronics
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIL7B/2A5IIL7B.BIN
+- Folder: 2A5IIL7A
+  Manufacturer: Lanner Electronics
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIL7A/2A5IIL7A.BIN
+- Folder: 2A5IMLBA
+  Manufacturer: Leadtek
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMLBA/2A5IMLBA.BIN
+- Folder: 2A5IML1A
+  Manufacturer: Lucky Star
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: Lucky Star 5S530
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IML1A/2A5IML1A.BIN
+- Folder: 2A5IML19
+  Manufacturer: Lucky Star
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IML19/2A5IML19.BIN
+- Folder: 2A5ICL19
+  Manufacturer: Lucky Star
+  Chipset: SiS 5501/02/03
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICL19/2A5ICL19.BIN
+- Folder: 2A5IDL19
+  Manufacturer: Lucky Star
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDL19/2A5IDL19.BIN
+- Folder: 2A5IHL19
+  Manufacturer: Lucky Star
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHL19/2A5IHL19.BIN
+- Folder: 2A5IKL19
+  Manufacturer: Lucky Star
+  Chipset: SiS 5591
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKL19/2A5IKL19.BIN
+- Folder: 2A5IFL19
+  Manufacturer: Lucky Star
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFL19/2A5IFL19.BIN
+- Folder: 2A5IAR01
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R526
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAR01/2A5IAR01.BIN
+- Folder: 2A5IAR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R526 (No Superio)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAR09/2A5IAR09.BIN
+- Folder: 2A5IMR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMR0A/2A5IMR0A.BIN
+- Folder: 2A5IMR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMR09/2A5IMR09.BIN
+- Folder: 2A5IMR0B
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 530
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R586
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMR0B/2A5IMR0B.BIN
+- Folder: 2A5ICR01
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICR01/2A5ICR01.BIN
+- Folder: 2A5IDR0B
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR0B/2A5IDR0B.BIN
+- Folder: 2A5IDR0C
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR0C/2A5IDR0C.BIN
+- Folder: 2A5IDR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R526 w/UMC 8669
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR0A/2A5IDR0A.BIN
+- Folder: 2A5IDR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R526
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR09/2A5IDR09.BIN
+- Folder: 2A5IHR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5571
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R536
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHR0A/2A5IHR0A.BIN
+- Folder: 2A5IHR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5571
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R534 or R534WP
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHR09/2A5IHR09.BIN
+- Folder: 2A5IHR0B
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R534G w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHR0B/2A5IHR0B.BIN
+- Folder: 2A5IHR0C
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R534G w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHR0C/2A5IHR0C.BIN
+- Folder: 2A5IIR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIR09/2A5IIR09.BIN
+- Folder: 2A5IIR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIR0A/2A5IIR0A.BIN
+- Folder: 2A5IIR0B
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIR0B/2A5IIR0B.BIN
+- Folder: 2A5IKR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2'
+  Motherboard: M-Tech (Rise) R556T
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKR0A/2A5IKR0A.BIN
+- Folder: 2A5IKR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: M-Tech Mustang R581a
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKR09/2A5IKR09.BIN
+- Folder: 2A5IAME3
+  Manufacturer: M.I. (Sungwon)
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAME3/2A5IAME3.BIN
+- Folder: 2A5IAME1
+  Manufacturer: M.I. (Sungwon)
+  Chipset: SiS 501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAME1/2A5IAME1.BIN
+- Folder: 2A5IMM3A
+  Manufacturer: MiTAC
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMM3A/2A5IMM3A.BIN
+- Folder: 2A5IMM39
+  Manufacturer: MiTAC
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMM39/2A5IMM39.BIN
+- Folder: 2A5IDM3B
+  Manufacturer: MiTAC
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: MiTAC/Trigon PB5400S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM3B/2A5IDM3B.BIN
+- Folder: 2A5IDM3C
+  Manufacturer: MiTAC
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM3C/2A5IDM3C.BIN
+- Folder: 2A5IDM39
+  Manufacturer: MiTAC
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM39/2A5IDM39.BIN
+- Folder: 2A5IIM39
+  Manufacturer: MiTAC
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM39/2A5IIM39.BIN
+- Folder: 2A5IAM92
+  Manufacturer: MLE
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM92/2A5IAM92.BIN
+- Folder: 2A5IAM91
+  Manufacturer: MLE
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: MLE P54C SI-VII
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM91/2A5IAM91.BIN
+- Folder: 2A5IAM99
+  Manufacturer: MLE
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM99/2A5IAM99.BIN
+- Folder: 2A5ICM91
+  Manufacturer: MLE
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM91/2A5ICM91.BIN
+- Folder: 2A5ICM9A
+  Manufacturer: MLE
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM9A/2A5ICM9A.BIN
+- Folder: 2A5ICM92
+  Manufacturer: MLE
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM92/2A5ICM92.BIN
+- Folder: 2A5IDM9B
+  Manufacturer: MLE
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM9B/2A5IDM9B.BIN
+- Folder: 2A5IDM9C
+  Manufacturer: MLE
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM9C/2A5IDM9C.BIN
+- Folder: 2A5IDM9A
+  Manufacturer: MLE
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM9A/2A5IDM9A.BIN
+- Folder: 2A5IDM99
+  Manufacturer: MLE
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: MLE SPI.VIII
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM99/2A5IDM99.BIN
+- Folder: 2A5IAM1C
+  Manufacturer: Modula
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM1C/2A5IAM1C.BIN
+- Folder: 2A5IAM41
+  Manufacturer: MSI
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: MSI MS-5109
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM41/2A5IAM41.BIN
+- Folder: 2A5IAM49
+  Manufacturer: MSI
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM49/2A5IAM49.BIN
+- Folder: 2A5IMM4B
+  Manufacturer: MSI
+  Chipset: SiS 530
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMM4B/2A5IMM4B.BIN
+- Folder: 2A5ICM4A
+  Manufacturer: MSI
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: MSI MS-5109 (SI2)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM4A/2A5ICM4A.BIN
+- Folder: 2A5ICM41
+  Manufacturer: MSI
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM41/2A5ICM41.BIN
+- Folder: 2A5IDM4B
+  Manufacturer: MSI
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: MSI Ingersoll I7M
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM4B/2A5IDM4B.BIN
+- Folder: 2A5IDM4E
+  Manufacturer: MSI
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: MSI PCI P54C S17
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM4E/2A5IDM4E.BIN
+- Folder: 2A5IDM4D
+  Manufacturer: MSI
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: MSI MS5124 w/ Winbond 787
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM4D/2A5IDM4D.BIN
+- Folder: 2A5IDM4F
+  Manufacturer: MSI
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM4F/2A5IDM4F.BIN
+- Folder: 2A5IHM4A
+  Manufacturer: MSI
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: MSI MS-5144
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHM4A/2A5IHM4A.BIN
+- Folder: 2A5IHM49
+  Manufacturer: MSI
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: MSI MS-5156
+  Aliases: 'MSI MS-5146
+
+    MSI MSI-5147'
+  files:
+  - bios/unicore/SIS/5571/2A5IHM49/2A5IHM49.BIN
+- Folder: 2A5IIM49
+  Manufacturer: MSI
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: MSI MS-5150 (Concerto)
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM49/2A5IIM49.BIN
+- Folder: 2A5IIM4A
+  Manufacturer: MSI
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877AF
+  Release: '2.2'
+  Motherboard: MSI MS-5177
+  Aliases: MSI MS-5166 (SI18)
+  files:
+  - bios/unicore/SIS/5582/2A5IIM4A/2A5IIM4A.BIN
+- Folder: 2A5IIM4C
+  Manufacturer: MSI
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM4C/2A5IIM4C.BIN
+- Folder: 2A5IIM4B
+  Manufacturer: MSI
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM4B/2A5IIM4B.BIN
+- Folder: 2A5IKM49
+  Manufacturer: MSI
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2'
+  Motherboard: MSI MS-5168 (SI19)
+  Aliases: MSI MS-5172 (SI20)
+  files:
+  - bios/unicore/SIS/5591/2A5IKM49/2A5IKM49.BIN
+- Folder: 2A5IFM49
+  Manufacturer: MSI
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: PCI P54C SI10 [MS5130]
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFM49/2A5IFM49.BIN
+- Folder: 2A5IAM89
+  Manufacturer: Mustek
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM89/2A5IAM89.BIN
+- Folder: 2A5IAM81
+  Manufacturer: Mustek
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM81/2A5IAM81.BIN
+- Folder: 2A5IAM8A
+  Manufacturer: Mustek
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM8A/2A5IAM8A.BIN
+- Folder: 2A5IAM8C
+  Manufacturer: Mustek
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM8C/2A5IAM8C.BIN
+- Folder: 2A5IAM8B
+  Manufacturer: Mustek
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM8B/2A5IAM8B.BIN
+- Folder: 2A5ICM8B
+  Manufacturer: Mustek
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM8B/2A5ICM8B.BIN
+- Folder: 2A5IIM8B
+  Manufacturer: Mustek
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669+W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM8B/2A5IIM8B.BIN
+- Folder: 2A5IIM8A
+  Manufacturer: Mustek
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669+W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM8A/2A5IIM8A.BIN
+- Folder: 2A5IIM89
+  Manufacturer: Mustek
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIM89/2A5IIM89.BIN
+- Folder: 2A5IIN39
+  Manufacturer: Netcom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN39/2A5IIN39.BIN
+- Folder: 2A5IMN09
+  Manufacturer: NexCom
+  Chipset: SiS 530
+  I/O: W83977AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMN09/2A5IMN09.BIN
+- Folder: 2A5ICN09
+  Manufacturer: NexCom
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICN09/2A5ICN09.BIN
+- Folder: 2A5ICN02
+  Manufacturer: NexCom
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICN02/2A5ICN02.BIN
+- Folder: 2A5IDN02
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: NexCom PEAK 520
+  Aliases: NexCom PEAK 500I, 500P (KJ020800)
+  files:
+  - bios/unicore/SIS/5511/2A5IDN02/2A5IDN02.BIN
+- Folder: 2A5IDN05
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDN05/2A5IDN05.BIN
+- Folder: 2A5IDN07
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDN07/2A5IDN07.BIN
+- Folder: 2A5IDN09
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDN09/2A5IDN09.BIN
+- Folder: 2A5IDN08
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDN08/2A5IDN08.BIN
+- Folder: 2A5IDN06
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDN06/2A5IDN06.BIN
+- Folder: 2A5IDN0A
+  Manufacturer: NexCom
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDN0A/2A5IDN0A.BIN
+- Folder: 2A5IHN09
+  Manufacturer: NexCom
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHN09/2A5IHN09.BIN
+- Folder: 2A5IHN0A
+  Manufacturer: NexCom
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHN0A/2A5IHN0A.BIN
+- Folder: 2A5IIN0F
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0F/2A5IIN0F.BIN
+- Folder: 2A5IIN0A
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: NexCom PEAK 560/560S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0A/2A5IIN0A.BIN
+- Folder: 2A5IIN0H
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0H/2A5IIN0H.BIN
+- Folder: 2A5IIN09
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: NexCom PEAK 550
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN09/2A5IIN09.BIN
+- Folder: 2A5IIN0G
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0G/2A5IIN0G.BIN
+- Folder: 2A5IIN0B
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0B/2A5IIN0B.BIN
+- Folder: 2A5IIN0E
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0E/2A5IIN0E.BIN
+- Folder: 2A5IIN0K
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0K/2A5IIN0K.BIN
+- Folder: 2A5IIN0J
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: NexCom PEAK 560/560S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0J/2A5IIN0J.BIN
+- Folder: 2A5IIN0D
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: NexCom PEAK 560/560S
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0D/2A5IIN0D.BIN
+- Folder: 2A5IIN0C
+  Manufacturer: NexCom
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIN0C/2A5IIN0C.BIN
+- Folder: 2A5ICN11
+  Manufacturer: Notestar
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICN11/2A5ICN11.BIN
+- Folder: 2A5IHP3D
+  Manufacturer: Palit
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHP3D/2A5IHP3D.BIN
+- Folder: 2A5IHP3C
+  Manufacturer: Palit
+  Chipset: SiS 5571
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHP3C/2A5IHP3C.BIN
+- Folder: 2A5IHP3B
+  Manufacturer: Palit
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHP3B/2A5IHP3B.BIN
+- Folder: 2A5IHP39
+  Manufacturer: Palit
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHP39/2A5IHP39.BIN
+- Folder: 2A5IHP3A
+  Manufacturer: Palit
+  Chipset: SiS 5571
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHP3A/2A5IHP3A.BIN
+- Folder: 2A5IFP3B
+  Manufacturer: Palit
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFP3B/2A5IFP3B.BIN
+- Folder: 2A5IFP3A
+  Manufacturer: Palit
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFP3A/2A5IFP3A.BIN
+- Folder: 2A5IFP39
+  Manufacturer: Palit
+  Chipset: SiS 5596/5597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Palit PCI54IT
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFP39/2A5IFP39.BIN
+- Folder: 2A5IIPK9
+  Manufacturer: Performance/ALD
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIPK9/2A5IIPK9.BIN
+- Folder: 2A5IIPKA
+  Manufacturer: Performance/ALD
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIPKA/2A5IIPKA.BIN
+- Folder: 2A5IIPC9
+  Manufacturer: Pineview
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8681
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIPC9/2A5IIPC9.BIN
+- Folder: 2A5IKPC9
+  Manufacturer: Pineview
+  Chipset: SiS 5591
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKPC9/2A5IKPC9.BIN
+- Folder: 2A5IAPE1
+  Manufacturer: Pionex
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPE1/2A5IAPE1.BIN
+- Folder: 2A5ICP91
+  Manufacturer: Powertech
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICP91/2A5ICP91.BIN
+- Folder: 2A5IAPD1
+  Manufacturer: Precision
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPD1/2A5IAPD1.BIN
+- Folder: 2A5IAPF1
+  Manufacturer: President
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPF1/2A5IAPF1.BIN
+- Folder: 2A5IAPFA
+  Manufacturer: President
+  Chipset: SiS 501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: President P54SA (B) w/SMC 665
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPFA/2A5IAPFA.BIN
+- Folder: 2A5IAPF9
+  Manufacturer: President
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPF9/2A5IAPF9.BIN
+- Folder: 2A5IAPFI
+  Manufacturer: President
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPFI/2A5IAPFI.BIN
+- Folder: 2A5ICPF9
+  Manufacturer: President
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICPF9/2A5ICPF9.BIN
+- Folder: 2A5IAPA1
+  Manufacturer: Pronix/EPoX
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: EPoX P54C-SP
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPA1/2A5IAPA1.BIN
+- Folder: 2A5IAPA9
+  Manufacturer: Pronix/EPoX
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAPA9/2A5IAPA9.BIN
+- Folder: 2A5ICPA1
+  Manufacturer: Pronix/EPoX
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICPA1/2A5ICPA1.BIN
+- Folder: 2A5IAP81
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAP81/2A5IAP81.BIN
+- Folder: 2A5IMP8A
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 530
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Azza 5SMT/5SMTS
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMP8A/2A5IMP8A.BIN
+- Folder: 2A5ICP81
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICP81/2A5ICP81.BIN
+- Folder: 2A5ICP82
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICP82/2A5ICP82.BIN
+- Folder: 2A5ID000
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5511/12/13
+  I/O: None
+  Release: '2.2'
+  Motherboard: Azza 5SW
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5ID000/2A5ID000.BIN
+- Folder: 2A5IDP82
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDP82/2A5IDP82.BIN
+- Folder: 2A5IDP81
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDP81/2A5IDP81.BIN
+- Folder: 2A5IDP8A
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDP8A/2A5IDP8A.BIN
+- Folder: 2A5IDP89
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDP89/2A5IDP89.BIN
+- Folder: 2A5IHP89
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHP89/2A5IHP89.BIN
+- Folder: 2A5IIP89
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIP89/2A5IIP89.BIN
+- Folder: 2A5IKP89
+  Manufacturer: Proteam/Azza
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKP89/2A5IKP89.BIN
+- Folder: 2A5IHPJ9
+  Manufacturer: Puritron
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHPJ9/2A5IHPJ9.BIN
+- Folder: 2A5IAQ11
+  Manufacturer: QDI
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAQ11/2A5IAQ11.BIN
+- Folder: 2A5IAQ12
+  Manufacturer: QDI
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: QDI P5S5480P3 w/ NO Superio
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAQ12/2A5IAQ12.BIN
+- Folder: 2A5ICQ12
+  Manufacturer: QDI
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICQ12/2A5ICQ12.BIN
+- Folder: 2A5ICQ13
+  Manufacturer: QDI
+  Chipset: SiS 5501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICQ13/2A5ICQ13.BIN
+- Folder: 2A5ICQ19
+  Manufacturer: QDI
+  Chipset: SiS 5501/02/03
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICQ19/2A5ICQ19.BIN
+- Folder: 2A5IDQ19
+  Manufacturer: QDI
+  Chipset: SiS 5511/12/13
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDQ19/2A5IDQ19.BIN
+- Folder: 2A5IDQ1A
+  Manufacturer: QDI
+  Chipset: SiS 5511/12/13
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDQ1A/2A5IDQ1A.BIN
+- Folder: 2A5IIQ19
+  Manufacturer: QDI
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIQ19/2A5IIQ19.BIN
+- Folder: 2A5IFQ19
+  Manufacturer: QDI
+  Chipset: SiS 5596/5597
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFQ19/2A5IFQ19.BIN
+- Folder: 2A5IIQ09
+  Manufacturer: Quanta
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIQ09/2A5IIQ09.BIN
+- Folder: 2A5IAR21
+  Manufacturer: Rectron
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Terminator 80486 PCI Ver 3.1
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAR21/2A5IAR21.BIN
+- Folder: 2A5IAR2A
+  Manufacturer: Rectron
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAR2A/2A5IAR2A.BIN
+- Folder: 2A5IAR29
+  Manufacturer: Rectron
+  Chipset: SiS 501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAR29/2A5IAR29.BIN
+- Folder: 2A5ICR2D
+  Manufacturer: Rectron
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICR2D/2A5ICR2D.BIN
+- Folder: 2A5ICR2B
+  Manufacturer: Rectron
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICR2B/2A5ICR2B.BIN
+- Folder: 2A5ICR22
+  Manufacturer: Rectron
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICR22/2A5ICR22.BIN
+- Folder: 2A5ICR29
+  Manufacturer: Rectron
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICR29/2A5ICR29.BIN
+- Folder: 2A5ICR21
+  Manufacturer: Rectron
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICR21/2A5ICR21.BIN
+- Folder: 2A5ICR2A
+  Manufacturer: Rectron
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Rectron Version RT-5SI 550X
+  Aliases: RT-5SI 550X CHIPS BIOS VER:3.0
+  files:
+  - bios/unicore/SIS/5501/2A5ICR2A/2A5ICR2A.BIN
+- Folder: 2A5IDR2A
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2A/2A5IDR2A.BIN
+- Folder: 2A5IDR29
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR29/2A5IDR29.BIN
+- Folder: 2A5IDR2G
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2G/2A5IDR2G.BIN
+- Folder: 2A5IDR2I
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2I/2A5IDR2I.BIN
+- Folder: 2A5IDR2B
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2B/2A5IDR2B.BIN
+- Folder: 2A5IDR2E
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2E/2A5IDR2E.BIN
+- Folder: 2A5IDR2D
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2D/2A5IDR2D.BIN
+- Folder: 2A5IDR2C
+  Manufacturer: Rectron
+  Chipset: SiS 5511/12/13
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDR2C/2A5IDR2C.BIN
+- Folder: 2A5IFR29
+  Manufacturer: Rectron
+  Chipset: SiS 5596/5597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFR29/2A5IFR29.BIN
+- Folder: 2A5IIR79
+  Manufacturer: Rightech
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIR79/2A5IIR79.BIN
+- Folder: 2A5IORAA
+  Manufacturer: Rioworks
+  Chipset: SiS 530
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IORAA/2A5IORAA.BIN
+- Folder: 2A5IDSZ2
+  Manufacturer: Samsung
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSZ2/2A5IDSZ2.BIN
+- Folder: 2A5IHSZ9
+  Manufacturer: Samsung
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHSZ9/2A5IHSZ9.BIN
+- Folder: 2A5IISZ9
+  Manufacturer: Samsung
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IISZ9/2A5IISZ9.BIN
+- Folder: 2A5IFSZ9
+  Manufacturer: Samsung
+  Chipset: SiS 5596/5597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFSZ9/2A5IFSZ9.BIN
+- Folder: 2A5IMSM9
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: SiS 530
+  I/O: ITE8679
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMSM9/2A5IMSM9.BIN
+- Folder: 2A5IMSMA
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: SiS 530
+  I/O: ITE8679
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMSMA/2A5IMSMA.BIN
+- Folder: 2A5IMSMC
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: SuperPower SP-5MSM
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMSMC/2A5IMSMC.BIN
+- Folder: 2A5IMSMB
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: SiS 530
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: SuperPower SP-5BSM
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMSMB/2A5IMSMB.BIN
+- Folder: 2A5IDSAA
+  Manufacturer: Seanix
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSAA/2A5IDSAA.BIN
+- Folder: 2A5IDSA9
+  Manufacturer: Seanix
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSA9/2A5IDSA9.BIN
+- Folder: 2A5IDSAB
+  Manufacturer: Seanix
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSAB/2A5IDSAB.BIN
+- Folder: 2A5IDSAC
+  Manufacturer: Seanix
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSAC/2A5IDSAC.BIN
+- Folder: 2A5IDSAD
+  Manufacturer: Seanix
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: YUKON P54C
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSAD/2A5IDSAD.BIN
+- Folder: 2A5IHSA9
+  Manufacturer: Seanix
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHSA9/2A5IHSA9.BIN
+- Folder: 2A5IMZ39
+  Manufacturer: ShenZhen Zeling
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMZ39/2A5IMZ39.BIN
+- Folder: 2A5IMH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: SiS 530
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Shuttle HOT-599
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMH29/2A5IMH29.BIN
+- Folder: 2A5IHH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHH29/2A5IHH29.BIN
+- Folder: 2A5IIH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIH29/2A5IIH29.BIN
+- Folder: 2A5IMSN9
+  Manufacturer: Soltek
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMSN9/2A5IMSN9.BIN
+- Folder: 2A5IAS22
+  Manufacturer: Soyo
+  Chipset: SiS 501/02/03
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAS22/2A5IAS22.BIN
+- Folder: 2A5IAS21
+  Manufacturer: Soyo
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: Soyo SY-033A2
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAS21/2A5IAS21.BIN
+- Folder: 2A5IMS29
+  Manufacturer: Soyo
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: Soyo SY-5SSM V1.0/V1.1
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMS29/2A5IMS29.BIN
+- Folder: 2A5ICS21
+  Manufacturer: Soyo
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICS21/2A5ICS21.BIN
+- Folder: 2A5ICS23
+  Manufacturer: Soyo
+  Chipset: SiS 5501/02/03
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICS23/2A5ICS23.BIN
+- Folder: 2A5ICS24
+  Manufacturer: Soyo
+  Chipset: SiS 5501/02/03
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICS24/2A5ICS24.BIN
+- Folder: 2A5ICS22
+  Manufacturer: Soyo
+  Chipset: SiS 5501/02/03
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICS22/2A5ICS22.BIN
+- Folder: 2A5IDS2B
+  Manufacturer: Soyo
+  Chipset: SiS 5511/12/13
+  I/O: W787_877
+  Release: '2.2'
+  Motherboard: Soyo SY-5SM2
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDS2B/2A5IDS2B.BIN
+- Folder: 2A5IDS29
+  Manufacturer: Soyo
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDS29/2A5IDS29.BIN
+- Folder: 2A5IIS29
+  Manufacturer: Soyo
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soyo SY-5STM
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIS29/2A5IIS29.BIN
+- Folder: 2A5IKS29
+  Manufacturer: Soyo
+  Chipset: SiS 5591
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKS29/2A5IKS29.BIN
+- Folder: 2A5IDS99
+  Manufacturer: Spring Circle
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Spring Cirlce P5C01
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDS99/2A5IDS99.BIN
+- Folder: 2A5IDS9D
+  Manufacturer: Spring Circle
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDS9D/2A5IDS9D.BIN
+- Folder: 2A5IDS9C
+  Manufacturer: Spring Circle
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDS9C/2A5IDS9C.BIN
+- Folder: 2A5IHS99
+  Manufacturer: Spring Circle
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHS99/2A5IHS99.BIN
+- Folder: 2A5IHS9A
+  Manufacturer: Spring Circle
+  Chipset: SiS 5571
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHS9A/2A5IHS9A.BIN
+- Folder: 2A5IDSC9
+  Manufacturer: Sukjung (Auhua Electronics)
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSC9/2A5IDSC9.BIN
+- Folder: 2A5IIS49
+  Manufacturer: Sung Won
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIS49/2A5IIS49.BIN
+- Folder: 2A5IDSL9
+  Manufacturer: Sunvalley
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDSL9/2A5IDSL9.BIN
+- Folder: 2A5IISL9
+  Manufacturer: Sunvalley
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F+W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IISL9/2A5IISL9.BIN
+- Folder: 2A5IMT1A
+  Manufacturer: Taemung/Fentech/Trang Bow
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMT1A/2A5IMT1A.BIN
+- Folder: 2A5IMT19
+  Manufacturer: Taemung/Fentech/Trang Bow
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMT19/2A5IMT19.BIN
+- Folder: 2A5IMT1B
+  Manufacturer: Taemung/Fentech/Trang Bow
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMT1B/2A5IMT1B.BIN
+- Folder: 2A5IAT42
+  Manufacturer: Taken
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAT42/2A5IAT42.BIN
+- Folder: 2A5ICT41
+  Manufacturer: Taken
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICT41/2A5ICT41.BIN
+- Folder: 2A5IDT49
+  Manufacturer: Taken
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDT49/2A5IDT49.BIN
+- Folder: 2A5IHT49
+  Manufacturer: Taken
+  Chipset: SiS 5571
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHT49/2A5IHT49.BIN
+- Folder: 2A5IIT49
+  Manufacturer: Taken
+  Chipset: SiS 5582/5597/5598
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIT49/2A5IIT49.BIN
+- Folder: 2A5IKT49
+  Manufacturer: Taken
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKT49/2A5IKT49.BIN
+- Folder: 2A5IFT49
+  Manufacturer: Taken
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFT49/2A5IFT49.BIN
+- Folder: 2A5IMT79
+  Manufacturer: Tatung
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMT79/2A5IMT79.BIN
+- Folder: 2A5IMTPC
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661+ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPC/2A5IMTPC.BIN
+- Folder: 2A5IMTPD
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661+ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPD/2A5IMTPD.BIN
+- Folder: 2A5IMTPE
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPE/2A5IMTPE.BIN
+- Folder: 2A5IMTPB
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPB/2A5IMTPB.BIN
+- Folder: 2A5IMTPI
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPI/2A5IMTPI.BIN
+- Folder: 2A5IMTPG
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPG/2A5IMTPG.BIN
+- Folder: 2A5IMTPA
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPA/2A5IMTPA.BIN
+- Folder: 2A5IMTPF
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPF/2A5IMTPF.BIN
+- Folder: 2A5IMTPH
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTPH/2A5IMTPH.BIN
+- Folder: 2A5IMTEB
+  Manufacturer: Technica House
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTEB/2A5IMTEB.BIN
+- Folder: 2A5IMTEA
+  Manufacturer: Technica House
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTEA/2A5IMTEA.BIN
+- Folder: 2A5IMTE9
+  Manufacturer: Technica House
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMTE9/2A5IMTE9.BIN
+- Folder: 2A5IITEC
+  Manufacturer: Technica House
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IITEC/2A5IITEC.BIN
+- Folder: 2A5IITED
+  Manufacturer: Technica House
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IITED/2A5IITED.BIN
+- Folder: 2A5IITEB
+  Manufacturer: Technica House
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IITEB/2A5IITEB.BIN
+- Folder: 2A5IITE9
+  Manufacturer: Technica House
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IITE9/2A5IITE9.BIN
+- Folder: 2A5IITEA
+  Manufacturer: Technica House
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IITEA/2A5IITEA.BIN
+- Folder: 2A5IFTE9
+  Manufacturer: Technica House
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFTE9/2A5IFTE9.BIN
+- Folder: 2A5IFTEA
+  Manufacturer: Technica House
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFTEA/2A5IFTEA.BIN
+- Folder: 2A5IAM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar PCI/I-P54SP4
+  Aliases: TMC/MyComp/MyNix/Megastar PCI54SP
+  files:
+  - bios/unicore/SIS/501/2A5IAM29/2A5IAM29.BIN
+- Folder: 2A5IAM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAM2A/2A5IAM2A.BIN
+- Folder: 2A5ICM21
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM21/2A5ICM21.BIN
+- Folder: 2A5ICM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 5501/02/03
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICM29/2A5ICM29.BIN
+- Folder: 2A5IDM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM29/2A5IDM29.BIN
+- Folder: 2A5IDM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar PCI54ST
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM2A/2A5IDM2A.BIN
+- Folder: 2A5IDM2C
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 5511/12/13
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar PCI54ST
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM2C/2A5IDM2C.BIN
+- Folder: 2A5IDM2E
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDM2E/2A5IDM2E.BIN
+- Folder: 2A5IDTJ9
+  Manufacturer: Totem
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDTJ9/2A5IDTJ9.BIN
+- Folder: 2A5IAT61
+  Manufacturer: Trigen
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAT61/2A5IAT61.BIN
+- Folder: 2A5IDU09
+  Manufacturer: U-Board
+  Chipset: SiS 5511/12/13
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU09/2A5IDU09.BIN
+- Folder: 2A5IDU0A
+  Manufacturer: U-Board
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU0A/2A5IDU0A.BIN
+- Folder: 2A5IAU29
+  Manufacturer: UHC (Advanced Integration Research)
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAU29/2A5IAU29.BIN
+- Folder: 2A5IAU21
+  Manufacturer: UHC (Advanced Integration Research)
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAU21/2A5IAU21.BIN
+- Folder: 2A5IKU39
+  Manufacturer: Umax
+  Chipset: SiS 5591
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKU39/2A5IKU39.BIN
+- Folder: 2A5ICU51
+  Manufacturer: Unico
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: Unico VE501 w/ SMC 651
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICU51/2A5ICU51.BIN
+- Folder: 2A5IDU4A
+  Manufacturer: Unicorn
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU4A/2A5IDU4A.BIN
+- Folder: 2A5IDU49
+  Manufacturer: Unicorn
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU49/2A5IDU49.BIN
+- Folder: 2A5IIU49
+  Manufacturer: Unicorn
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F+W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU49/2A5IIU49.BIN
+- Folder: 2A5IAU81
+  Manufacturer: Unknown
+  Chipset: SiS 501/02/03
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAU81/2A5IAU81.BIN
+- Folder: 2A5IA000
+  Manufacturer: Unknown
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IA000/2A5IA000.BIN
+- Folder: 2A5IA009
+  Manufacturer: Unknown
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IA009/2A5IA009.BIN
+- Folder: 2A5IA00G
+  Manufacturer: Unknown
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IA00G/2A5IA00G.BIN
+- Folder: 2A5IA008
+  Manufacturer: Unknown
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IA008/2A5IA008.BIN
+- Folder: 2A5IMX79
+  Manufacturer: Unknown
+  Chipset: SiS 530
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMX79/2A5IMX79.BIN
+- Folder: 2A5IM009
+  Manufacturer: Unknown
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IM009/2A5IM009.BIN
+- Folder: 2A5IC000
+  Manufacturer: Unknown
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5IC000/2A5IC000.BIN
+- Folder: 2A5IC009
+  Manufacturer: Unknown
+  Chipset: SiS 5501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5IC009/2A5IC009.BIN
+- Folder: 2A5IDU80
+  Manufacturer: Unknown
+  Chipset: SiS 5511/12/13
+  I/O: NS307
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU80/2A5IDU80.BIN
+- Folder: 2A5ID00B
+  Manufacturer: Unknown
+  Chipset: SiS 5511/12/13
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5ID00B/2A5ID00B.BIN
+- Folder: 2A5ID009
+  Manufacturer: Unknown
+  Chipset: SiS 5511/12/13
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5ID009/2A5ID009.BIN
+- Folder: 2A5ID00A
+  Manufacturer: Unknown
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5ID00A/2A5ID00A.BIN
+- Folder: 2A5IH009
+  Manufacturer: Unknown
+  Chipset: SiS 5571
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IH009/2A5IH009.BIN
+- Folder: 2A5IH000
+  Manufacturer: Unknown
+  Chipset: SiS 5571
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IH000/2A5IH000.BIN
+- Folder: 2A5IH00A
+  Manufacturer: Unknown
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IH00A/2A5IH00A.BIN
+- Folder: 2A5II000
+  Manufacturer: Unknown
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5II000/2A5II000.BIN
+- Folder: 2A5IK008
+  Manufacturer: Unknown
+  Chipset: SiS 5591
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IK008/2A5IK008.BIN
+- Folder: 2A5IF00A
+  Manufacturer: Unknown
+  Chipset: SiS 5596/5597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IF00A/2A5IF00A.BIN
+- Folder: 2A5IF000
+  Manufacturer: Unknown
+  Chipset: SiS 5596/5597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IF000/2A5IF000.BIN
+- Folder: 2A5IF009
+  Manufacturer: Unknown
+  Chipset: SiS 5596/5597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IF009/2A5IF009.BIN
+- Folder: 2A5IIU79
+  Manufacturer: Upgrade
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU79/2A5IIU79.BIN
+- Folder: 2A5IAU11
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 501/02/03
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/501/2A5IAU11/2A5IAU11.BIN
+- Folder: 2A5IMU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/530/2A5IMU19/2A5IMU19.BIN
+- Folder: 2A5ICU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5501/02/03
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5501/2A5ICU19/2A5ICU19.BIN
+- Folder: 2A5IDU1A
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5511/12/13
+  I/O: PC87306
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDU1A/2A5IDU1A.BIN
+- Folder: 2A5IHU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5571
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHU19/2A5IHU19.BIN
+- Folder: 2A5IIU1D
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1D/2A5IIU1D.BIN
+- Folder: 2A5IIU1C
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: NS338
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1C/2A5IIU1C.BIN
+- Folder: 2A5IIU1J
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1J/2A5IIU1J.BIN
+- Folder: 2A5IIU1L
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1L/2A5IIU1L.BIN
+- Folder: 2A5IIU1K
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: IBM Aptiva 2156 SL-A
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1K/2A5IIU1K.BIN
+- Folder: 2A5IIU1B
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: NS338
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1B/2A5IIU1B.BIN
+- Folder: 2A5IIU1E
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1E/2A5IIU1E.BIN
+- Folder: 2A5IIU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU19/2A5IIU19.BIN
+- Folder: 2A5IIU1G
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1G/2A5IIU1G.BIN
+- Folder: 2A5IIU1I
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1I/2A5IIU1I.BIN
+- Folder: 2A5IIU1H
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1H/2A5IIU1H.BIN
+- Folder: 2A5IIU1F
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: W83977ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1F/2A5IIU1F.BIN
+- Folder: 2A5IIU1A
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIU1A/2A5IIU1A.BIN
+- Folder: 2A5IFU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: SiS 5596/5597
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5596/2A5IFU19/2A5IFU19.BIN
+- Folder: 2A5IDV39
+  Manufacturer: VTech/PC Partner
+  Chipset: SiS 5511/12/13
+  I/O: GS82C803B
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDV39/2A5IDV39.BIN
+- Folder: 2A5IDW19
+  Manufacturer: WellJoin
+  Chipset: SiS 5511/12/13
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5511/2A5IDW19/2A5IDW19.BIN
+- Folder: 2A5IIY29
+  Manufacturer: Yamashita
+  Chipset: SiS 5582/5597/5598
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIY29/2A5IIY29.BIN
+- Folder: 2A5IIY49
+  Manufacturer: Yeicom
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661RF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIY49/2A5IIY49.BIN
+- Folder: 2A5IMZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: SiS 530
+  I/O: SIS6801
+  Release: '2'
+  Motherboard: Zida (Tomato) T530B
+  Aliases: Zida (Tomato) T530B-S
+  files:
+  - bios/unicore/SIS/530/2A5IMZ19/2A5IMZ19.BIN
+- Folder: 2A5IHZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: SiS 5571
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5571/2A5IHZ19/2A5IHZ19.BIN
+- Folder: 2A5IIZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: SiS 5582/5597/5598
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5582/2A5IIZ19/2A5IIZ19.BIN
+- Folder: 2A5IKZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: SiS 5591
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/SIS/5591/2A5IKZ19/2A5IKZ19.BIN

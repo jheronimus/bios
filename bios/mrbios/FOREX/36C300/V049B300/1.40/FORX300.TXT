@@ -1,0 +1,6 @@
+MR BIOS (r)
+Copyright (c) 1992, Microid Research Inc.
+Ver: V1.40-FORX300
+09/20/92
+
+source: https://www.vogons.org/viewtopic.php?p=641563#p641563

@@ -1,0 +1,1 @@
+MRFLASH.EXE -r -f BIOS.REC

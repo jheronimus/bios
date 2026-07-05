@@ -1,0 +1,15 @@
+- Part Number: V036B200
+  Code: HDK_200
+  Chipset: EverTech 286 Hedaka D60
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEDAKA/HEDAKA/V036B200/HDK_200.BIN
+- Part Number: V036B210
+  Code: HDK_210
+  Chipset: EverTech 286 Hedaka D60 built-in EMS
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEDAKA/HEDAKA/V036B210/HDK_210.BIN
+  - bios/mrbios/HEDAKA/HEDAKA/V036B210/HDK_210_27C512.BIN

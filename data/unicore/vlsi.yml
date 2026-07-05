@@ -1,0 +1,333 @@
+- Folder: 2A5G7B01
+  Manufacturer: Biostar
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7B01/2A5G7B01.BIN
+- Folder: 2A5G7B0H
+  Manufacturer: Biostar
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7B0H/2A5G7B0H.BIN
+- Folder: 2A5GBD49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VLSI Lynx VL82C541/VL82C543
+  I/O: PC87306
+  Release: '2.2'
+  Motherboard: DFI G586VPS Pro Rev. B1+
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Lynx VL82C541/2A5GBD49/2A5GBD49.BIN
+- Folder: 2A5G7D49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: DFI G586VPM:B1
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7D49/2A5G7D49.BIN
+- Folder: 2A5G7D41
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7D41/2A5G7D41.BIN
+- Folder: 2A5G7D4A
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: DFI G586VPM
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7D4A/2A5G7D4A.BIN
+- Folder: 2A5G7D4H
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7D4H/2A5G7D4H.BIN
+- Folder: 2A5G7E19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7E19/2A5G7E19.BIN
+- Folder: 2A5G7E11
+  Manufacturer: ECS (Elitegroup)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7E11/2A5G7E11.BIN
+- Folder: 2A5G7F02
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F02/2A5G7F02.BIN
+- Folder: 2A5G7F0K
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Leo PSK-2000
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F0K/2A5G7F0K.BIN
+- Folder: 2A5G7F03
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F03/2A5G7F03.BIN
+- Folder: 2A5G7F04
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F04/2A5G7F04.BIN
+- Folder: 2A5G7F0J
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F0J/2A5G7F0J.BIN
+- Folder: 2A5G7F0H
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F0H/2A5G7F0H.BIN
+- Folder: 2A5G7F01
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F01/2A5G7F01.BIN
+- Folder: 2A5G7F0I
+  Manufacturer: FIC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F0I/2A5G7F0I.BIN
+- Folder: 2A5G7F4K
+  Manufacturer: Four Star
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7F4K/2A5G7F4K.BIN
+- Folder: 2A5G7G3H
+  Manufacturer: Gemlight
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7G3H/2A5G7G3H.BIN
+- Folder: 2A5G7G31
+  Manufacturer: Gemlight
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7G31/2A5G7G31.BIN
+- Folder: 2A5G7M3H
+  Manufacturer: MiTAC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M3H/2A5G7M3H.BIN
+- Folder: 2A5G7M31
+  Manufacturer: MiTAC
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M31/2A5G7M31.BIN
+- Folder: 2A5G7M49
+  Manufacturer: MSI
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M49/2A5G7M49.BIN
+- Folder: 2A5G7M4H
+  Manufacturer: MSI
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M4H/2A5G7M4H.BIN
+- Folder: 2A5G7M4A
+  Manufacturer: MSI
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M4A/2A5G7M4A.BIN
+- Folder: 2A5G7M41
+  Manufacturer: MSI
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M41/2A5G7M41.BIN
+- Folder: 2A5G7M42
+  Manufacturer: MSI
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7M42/2A5G7M42.BIN
+- Folder: 2A5G7SEA
+  Manufacturer: SMT
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7SEA/2A5G7SEA.BIN
+- Folder: 2A5G7SE9
+  Manufacturer: SMT
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7SE9/2A5G7SE9.BIN
+- Folder: 2A5G7T7A
+  Manufacturer: Tatung
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7T7A/2A5G7T7A.BIN
+- Folder: 2A5G7T79
+  Manufacturer: Tatung
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7T79/2A5G7T79.BIN
+- Folder: 2A5G7001
+  Manufacturer: Unknown
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7001/2A5G7001.BIN
+- Folder: 2A5G700H
+  Manufacturer: Unknown
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G700H/2A5G700H.BIN
+- Folder: 2A5G7000
+  Manufacturer: Unknown
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7000/2A5G7000.BIN
+- Folder: 2A5G700G
+  Manufacturer: Unknown
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G700G/2A5G700G.BIN
+- Folder: 2A5G7U11
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7U11/2A5G7U11.BIN
+- Folder: 2A5G7U1H
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VLSI Wildcat VL82C594/VL82C596/VL82C597
+  I/O: SMC37C651
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VLSI/Wildcat VL82C594/2A5G7U1H/2A5G7U1H.BIN

@@ -1,0 +1,22 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+-----------------------
+VLSI TOPCAT / Intel-340
+-----------------------
+
+Filename   Port      Description
+--------   -------   ---------------------------------------------------------
+V019B301   VLSI301   386 SX/DX, non-cache
+V019B302   VLSI302   386 SX/DX, non-cache, with 82C106 combo chip
+V019B312   VLSI312   386 SX/DX, 385 cache, with 82C106 combo chip
+V019B401   VLSI401   486
+V019B402   VLSI402   486, with 82C106 combo chip
+V019B404   VLSI404   486, with 82C106, on-board COM2 inhibited for SCO
+

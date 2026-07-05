@@ -1,0 +1,259 @@
+- Part Number: V037B301
+  CPU: 386DX
+  Code: UMC_301
+  Chipset: UMC82C48x WriteBack Rev. 0
+  Turbo: ''
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B301/UMC_301.BIN
+- Part Number: V037B302
+  CPU: 386DX
+  Code: UMC_302
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: ''
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B302/UMC_302.BIN
+- Part Number: V037B304
+  CPU: 386DX
+  Code: UMC_304
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: ''
+  I/O: None
+  Note: ''
+  Should work with: '[Modula Tech  3FLUD](https://theretroweb.com/motherboards/s/modula-tech-3flud)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B304/UMC_304.BIN
+- Part Number: V037B305
+  CPU: 386DX
+  Code: UMC_305
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: ''
+  I/O: UM82C206F
+  Note: ''
+  Should work with: '[Unknown M351 386DX/486DLC](https://theretroweb.com/motherboards/s/unknown-m351-386dx-486dlc)
+
+    [ROLM Systems (Siemens) UM386-R](https://theretroweb.com/motherboards/s/rolm-systems-siemens-um386-r#bios)Modula
+    Tech  3FLUD'
+  Versions found: '1.44'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B305/UMC_305.BIN
+- Part Number: V057B310
+  CPU: 386SX
+  Code: UMC_310
+  Chipset: UMC82C330 Twinstar
+  Turbo: ''
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V057B314
+  CPU: 386SX
+  Code: UMC_314
+  Chipset: UMC82C330 Twinstar
+  Turbo: Turbo LED and hotkeys, active low
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V057B315
+  CPU: 386SX
+  Code: UMC_315
+  Chipset: UMC82C330 Twinstar
+  Turbo: Turbo LED and hotkeys, active high
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V037B401
+  CPU: '486'
+  Code: UMC_401
+  Chipset: UMC82C48x WriteBack Rev. 0
+  Turbo: ''
+  I/O: None
+  Note: ''
+  Should work with: '[Cache Computers CACHE BAT 486 (Model 319)](https://theretroweb.com/motherboards/s/cache-computers-cache-bat-486-model-319#bios)'
+  Versions found: 1.0E, 1.65
+  files:
+  - bios/mrbios/UMC/82C48X/V037B401/1.0E/UMC_401.BIN
+  - bios/mrbios/UMC/82C48X/V037B401/1.65/UMC_401.BIN
+- Part Number: V037B402
+  CPU: '486'
+  Code: UMC_402
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: ''
+  I/O: None
+  Note: ''
+  Should work with: '[DFI 486-33/50UCE, 486DX2-50UCE](https://theretroweb.com/motherboards/s/dfi-486-33-50uce,-486dx2-50uce)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B402/UMC_402.BIN
+- Part Number: V037B403
+  CPU: '486'
+  Code: UMC_403
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: NO Turbo (for 486SX 2X-OSC)
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B403/UMC_403.BIN
+- Part Number: V037B404
+  CPU: '486'
+  Code: UMC_404
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: Turbo LED and hotkeys, active low
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B404/UMC_404.BIN
+- Part Number: V037B405
+  CPU: '486'
+  Code: UMC_405
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: Turbo LED and hotkeys, active high
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B405/UMC_405.BIN
+- Part Number: V037B406
+  CPU: '486'
+  Code: UMC_406
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: Cache state only, active low
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B406/UMC_406.BIN
+- Part Number: V037B407
+  CPU: '486'
+  Code: UMC_407
+  Chipset: UMC82C48x WriteBack Rev. A & Rev.B
+  Turbo: Cache state only, active high
+  I/O: None
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B407/UMC_407.BIN
+- Part Number: V037B40A
+  CPU: '486'
+  Code: UMC_40A
+  Chipset: UMC82C48x WriteBack Rev. B
+  Turbo: ''
+  I/O: None
+  Note: Should be run with 2WS to avoid crashes
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B40A/UMC_40A.BIN
+- Part Number: V037B40B
+  CPU: '486'
+  Code: UMC_40B
+  Chipset: UMC82C48x WriteBack Rev. B
+  Turbo: NO Turbo (for 486SX 2X-OSC)
+  I/O: None
+  Note: Should be run with 2WS to avoid crashes
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B40B/UMC_40B.BIN
+- Part Number: V037B40C
+  CPU: '486'
+  Code: UMC_40C
+  Chipset: UMC82C48x WriteBack Rev. B
+  Turbo: Turbo LED and hotkeys, active low
+  I/O: None
+  Note: Should be run with 2WS to avoid crashes
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B40C/UMC_40C.BIN
+- Part Number: V037B40D
+  CPU: '486'
+  Code: UMC_40D
+  Chipset: UMC82C48x WriteBack Rev. B
+  Turbo: Turbo LED and hotkeys, active high
+  I/O: None
+  Note: Should be run with 2WS to avoid crashes
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V037B40E
+  CPU: '486'
+  Code: UMC_40E
+  Chipset: UMC82C48x WriteBack Rev. B
+  Turbo: Cache state only, active low. NO turbo, for 486SX 2X-OSC
+  I/O: None
+  Note: Should be run with 2WS to avoid crashes
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V037B40F
+  CPU: '486'
+  Code: UMC_40F
+  Chipset: UMC82C48x WriteBack Rev. B
+  Turbo: Cache state only, active high. NO turbo, for 486SX 2X-OSC
+  I/O: None
+  Note: Should be run with 2WS to avoid crashes
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V037B40G
+  CPU: '486'
+  Code: UMC_40G
+  Chipset: UMC82C48x WriteBack Rev. A & Rev. B
+  Turbo: ''
+  I/O: None
+  Note: for L-Bus M/Boards that hang at PostCode 1D (PAL bug causes Ready-Hang on
+    WEITEK access)
+  Should work with: '[Pine Technology PT-426V](https://theretroweb.com/motherboards/s/pine-technology-pt-426v#downloads)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C48X/V037B40G/UMC_40G.BIN
+- Part Number: V079B410
+  CPU: 386/486/Cx486
+  Code: UMC_410
+  Chipset: UMC82C491/493 Single-Chip
+  Turbo: ''
+  I/O: ''
+  Note: ''
+  Should work with: '[Octek Hippo COM 1.x](https://theretroweb.com/motherboards/s/octek-hippo-com-1.x)[Octek
+    Hippo COM 2](https://theretroweb.com/motherboards/s/octek-hippo-com-2.x).x[U-Board
+    TK-82C4](https://theretroweb.com/motherboards/s/u-board-tk-82c491)91
+
+
+    Octek UMC486-01 REV 1.0'
+  Versions found: '1.5'
+  files:
+  - bios/mrbios/UMC/82C491/V079B410/1.45/UMC_410.BIN
+  - bios/mrbios/UMC/82C491/V079B410/1.50/UMC_410.BIN
+- Part Number: V079B412
+  CPU: 386/486/Cx486
+  Code: UMC_412
+  Chipset: UMC82C491/493 Single-Chip
+  Turbo: ''
+  I/O: ''
+  Note: ''
+  Should work with: '[Octek Hippo COM 1.x](https://theretroweb.com/motherboards/s/octek-hippo-com-1.x)[Octek
+    Hippo COM 2](https://theretroweb.com/motherboards/s/octek-hippo-com-2.x).x'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/UMC/82C491/V079B412/UMC_412.BIN

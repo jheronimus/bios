@@ -1,0 +1,59 @@
+- Part Number: V042B320
+  Code: ELIT320
+  Chipset: Eagle Rev. A1
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ELITE/EAGLE/V042B320/ELIT320.BIN
+- Part Number: V042B324
+  Code: ELIT324
+  Chipset: Eagle Rev. A1
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ELITE/EAGLE/V042B324/ELIT324.BIN
+- Part Number: V042B325
+  Code: ELIT325
+  Chipset: Eagle Rev. A1
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ELITE/EAGLE/V042B325/ELIT325.BIN
+- Part Number: UNKNOWN
+  Code: ELIT420
+  Chipset: Eagle Rev. A1
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: UNKNOWN
+  Code: ELIT424
+  Chipset: Eagle Rev. A1
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: UNKNOWN
+  Code: ELIT425
+  Chipset: Eagle Rev. A1
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: UNKNOWN
+  Code: ELIT426
+  Chipset: Eagle Rev. A1
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: UNKNOWN
+  Code: ELIT427
+  Chipset: Eagle Rev. A1
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []

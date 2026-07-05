@@ -1,0 +1,5885 @@
+- Folder: 2A5LEA2B
+  Manufacturer: A-Trend
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA2B/2A5LEA2B.BIN
+- Folder: 2A5LEA2C
+  Manufacturer: A-Trend
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA2C/2A5LEA2C.BIN
+- Folder: 2A5LEA2D
+  Manufacturer: A-Trend
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA2D/2A5LEA2D.BIN
+- Folder: 2A5LEA2A
+  Manufacturer: A-Trend
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA2A/2A5LEA2A.BIN
+- Folder: 2A5LEA29
+  Manufacturer: A-Trend
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA29/2A5LEA29.BIN
+- Folder: 2A5LEA19
+  Manufacturer: ABit
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA19/2A5LEA19.BIN
+- Folder: 2A5LEA1A
+  Manufacturer: ABit
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEA1A/2A5LEA1A.BIN
+- Folder: 2A5L9A19
+  Manufacturer: ABit
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9A19/2A5L9A19.BIN
+- Folder: 2A5LEAX9
+  Manufacturer: Achitec
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Achitec ACHI-156
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEAX9/2A5LEAX9.BIN
+- Folder: 2A5LDAXC
+  Manufacturer: Achitec
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDAXC/2A5LDAXC.BIN
+- Folder: 2A5LDAXD
+  Manufacturer: Achitec
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDAXD/2A5LDAXD.BIN
+- Folder: 2A5LDAX9
+  Manufacturer: Achitec
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDAX9/2A5LDAX9.BIN
+- Folder: 2A5LEX3C
+  Manufacturer: ACORP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEX3C/2A5LEX3C.BIN
+- Folder: 2A5LEX3B
+  Manufacturer: ACORP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Acorp 5VIA73
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEX3B/2A5LEX3B.BIN
+- Folder: 2A5LEX39
+  Manufacturer: ACORP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEX39/2A5LEX39.BIN
+- Folder: 2A5LEX3A
+  Manufacturer: ACORP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Acorp 5VIA77
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEX3A/2A5LEX3A.BIN
+- Folder: 2A5LE00A
+  Manufacturer: ACORP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Acorp 5VIA77
+  Aliases: ENPC EP-PI11
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE00A/2A5LE00A.BIN
+- Folder: 2A5LHX3A
+  Manufacturer: ACORP
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHX3A/2A5LHX3A.BIN
+- Folder: 2A5LHX39
+  Manufacturer: ACORP
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHX39/2A5LHX39.BIN
+- Folder: 2A5LHX3B
+  Manufacturer: ACORP
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Acorp 5VIA73
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHX3B/2A5LHX3B.BIN
+- Folder: 2A5LCAK9
+  Manufacturer: Advantech
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCAK9/2A5LCAK9.BIN
+- Folder: 2A5LHAK9
+  Manufacturer: Advantech
+  Chipset: VIA Apollo VP4
+  I/O: VIA686+W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHAK9/2A5LHAK9.BIN
+- Folder: 2A5LHAKA
+  Manufacturer: Advantech
+  Chipset: VIA Apollo VP4
+  I/O: ITE8661+VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHAKA/2A5LHAKA.BIN
+- Folder: 2A5L9AK9
+  Manufacturer: Advantech
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: Advantech PCM-5860 SBC
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9AK9/2A5L9AK9.BIN
+- Folder: 2A5L9AKF
+  Manufacturer: Advantech
+  Chipset: VIA VT82C570M
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9AKF/2A5L9AKF.BIN
+- Folder: 2A5L9AKB
+  Manufacturer: Advantech
+  Chipset: VIA VT82C570M
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: AAEON Technology SBC-590
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9AKB/2A5L9AKB.BIN
+- Folder: 2A5LHX69
+  Manufacturer: ALLGO
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHX69/2A5LHX69.BIN
+- Folder: 2A5L9AQB
+  Manufacturer: Altos
+  Chipset: VIA VT82C570M
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9AQB/2A5L9AQB.BIN
+- Folder: 2A5L9AQ9
+  Manufacturer: Altos
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9AQ9/2A5L9AQ9.BIN
+- Folder: 2A5LEADB
+  Manufacturer: Anson Group
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEADB/2A5LEADB.BIN
+- Folder: 2A5LEADA
+  Manufacturer: Anson Group
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEADA/2A5LEADA.BIN
+- Folder: 2A5LEAD9
+  Manufacturer: Anson Group
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEAD9/2A5LEAD9.BIN
+- Folder: 2A5L7AD9
+  Manufacturer: Anson Group
+  Chipset: VIA VT82C570
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7AD9/2A5L7AD9.BIN
+- Folder: 2A5L9ADD
+  Manufacturer: Anson Group
+  Chipset: VIA VT82C570M
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9ADD/2A5L9ADD.BIN
+- Folder: 2A5L9ADC
+  Manufacturer: Anson Group
+  Chipset: VIA VT82C570M
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9ADC/2A5L9ADC.BIN
+- Folder: 2A5L9ADB
+  Manufacturer: Anson Group
+  Chipset: VIA VT82C570M
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9ADB/2A5L9ADB.BIN
+- Folder: 2A5L9ADA
+  Manufacturer: Anson Group
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9ADA/2A5L9ADA.BIN
+- Folder: 2A5LEAB9
+  Manufacturer: AOpen
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEAB9/2A5LEAB9.BIN
+- Folder: 2A5LHAB9
+  Manufacturer: AOpen
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHAB9/2A5LHAB9.BIN
+- Folder: 2A5LHX59
+  Manufacturer: Arima
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHX59/2A5LHX59.BIN
+- Folder: 2A5L9A39
+  Manufacturer: Bcom (ASI)
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9A39/2A5L9A39.BIN
+- Folder: 2A5LEB0A
+  Manufacturer: Biostar
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: Biostar M5VIA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEB0A/2A5LEB0A.BIN
+- Folder: 2A5LEB0B
+  Manufacturer: Biostar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: Biostar M5VMA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEB0B/2A5LEB0B.BIN
+- Folder: 2A5LEB0C
+  Manufacturer: Biostar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEB0C/2A5LEB0C.BIN
+- Folder: 2A5LHB09
+  Manufacturer: Biostar
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Biostar M5VNB
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHB09/2A5LHB09.BIN
+- Folder: 2A5LEBA9
+  Manufacturer: BRAVOBYBY
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEBA9/2A5LEBA9.BIN
+- Folder: 2A5LEBB9
+  Manufacturer: BRITEK
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEBB9/2A5LEBB9.BIN
+- Folder: 2A5LECV9
+  Manufacturer: Cascade
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LECV9/2A5LECV9.BIN
+- Folder: 2A5LEC3B
+  Manufacturer: Chaintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEC3B/2A5LEC3B.BIN
+- Folder: 2A5LEC39
+  Manufacturer: Chaintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Chaintech CT-5AGM/CT-5AGM2/CT-5AGM3
+  Aliases: Chaintech 5ATA
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEC39/2A5LEC39.BIN
+- Folder: 2A5LEC3A
+  Manufacturer: Chaintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEC3A/2A5LEC3A.BIN
+- Folder: 2A5LHC3A
+  Manufacturer: Chaintech
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHC3A/2A5LHC3A.BIN
+- Folder: 2A5LHC39
+  Manufacturer: Chaintech
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHC39/2A5LHC39.BIN
+- Folder: 2A5LADFB
+  Manufacturer: Daesun
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LADFB/2A5LADFB.BIN
+- Folder: 2A5LADFA
+  Manufacturer: Daesun
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LADFA/2A5LADFA.BIN
+- Folder: 2A5LADF9
+  Manufacturer: Daesun
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LADF9/2A5LADF9.BIN
+- Folder: 2A5LED79
+  Manufacturer: Daewoo
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LED79/2A5LED79.BIN
+- Folder: 2A5LHD7A
+  Manufacturer: Daewoo
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHD7A/2A5LHD7A.BIN
+- Folder: 2A5LHD79
+  Manufacturer: Daewoo
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHD79/2A5LHD79.BIN
+- Folder: 2A5LEDJ9
+  Manufacturer: Darter
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEDJ9/2A5LEDJ9.BIN
+- Folder: 2A5LCDJA
+  Manufacturer: Darter
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCDJA/2A5LCDJA.BIN
+- Folder: 2A5LCDJ9
+  Manufacturer: Darter
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCDJ9/2A5LCDJ9.BIN
+- Folder: 2A5LHDJ9
+  Manufacturer: Darter
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHDJ9/2A5LHDJ9.BIN
+- Folder: 2A5LHDJA
+  Manufacturer: Darter
+  Chipset: VIA Apollo VP4
+  I/O: VIA686+W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHDJA/2A5LHDJA.BIN
+- Folder: 2A5LED09
+  Manufacturer: DataExpert
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LED09/2A5LED09.BIN
+- Folder: 2A5LHD09
+  Manufacturer: DataExpert
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHD09/2A5LHD09.BIN
+- Folder: 2A5LED4B
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: DFI P5BV3+ (REV.A+)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LED4B/2A5LED4B.BIN
+- Folder: 2A5LED4D
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: DFI P5BV3+ (rev. CE0+)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LED4D/2A5LED4D.BIN
+- Folder: 2A5LED4A
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LED4A/2A5LED4A.BIN
+- Folder: 2A5LED49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: DFI P5BV3 (REV.A+)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LED49/2A5LED49.BIN
+- Folder: 2A5LDD49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: DFI P5BVP Rev.A+
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDD49/2A5LDD49.BIN
+- Folder: 2A5L7D49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA VT82C570
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7D49/2A5L7D49.BIN
+- Folder: 2A5L9D49
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9D49/2A5L9D49.BIN
+- Folder: 2A5L9D41
+  Manufacturer: Diamond Flower (DFI)
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9D41/2A5L9D41.BIN
+- Folder: 2A5L7D99
+  Manufacturer: DSP (Germany)
+  Chipset: VIA VT82C570
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7D99/2A5L7D99.BIN
+- Folder: 2A5L7D89
+  Manufacturer: Dynasty
+  Chipset: VIA VT82C570
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7D89/2A5L7D89.BIN
+- Folder: 2A5LEE1A
+  Manufacturer: ECS (Elitegroup)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE1A/2A5LEE1A.BIN
+- Folder: 2A5LEE19
+  Manufacturer: ECS (Elitegroup)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE19/2A5LEE19.BIN
+- Folder: 2A5LEW0G
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0G/2A5LEW0G.BIN
+- Folder: 2A5LEW0I
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0I/2A5LEW0I.BIN
+- Folder: 2A5LEW09
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW09/2A5LEW09.BIN
+- Folder: 2A5LEW0F
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0F/2A5LEW0F.BIN
+- Folder: 2A5LEW0A
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0A/2A5LEW0A.BIN
+- Folder: 2A5LEW0D
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0D/2A5LEW0D.BIN
+- Folder: 2A5LEW0C
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0C/2A5LEW0C.BIN
+- Folder: 2A5LEW0K
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0K/2A5LEW0K.BIN
+- Folder: 2A5LEW0B
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0B/2A5LEW0B.BIN
+- Folder: 2A5LEW0E
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW0E/2A5LEW0E.BIN
+- Folder: 2A5LHW0A
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHW0A/2A5LHW0A.BIN
+- Folder: 2A5LHW09
+  Manufacturer: Edom/Wintech
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHW09/2A5LHW09.BIN
+- Folder: 2A5LEE3A
+  Manufacturer: EFA
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE3A/2A5LEE3A.BIN
+- Folder: 2A5LEE3F
+  Manufacturer: EFA
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5MVP3-MATX
+  Aliases: EFA E5SV3-mATX
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE3F/2A5LEE3F.BIN
+- Folder: 2A5LEE3E
+  Manufacturer: EFA
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE3E/2A5LEE3E.BIN
+- Folder: 2A5LEE3B
+  Manufacturer: EFA
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5MVP3-MATX
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE3B/2A5LEE3B.BIN
+- Folder: 2A5LEE3C
+  Manufacturer: EFA
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE3C/2A5LEE3C.BIN
+- Folder: 2A5LEE3D
+  Manufacturer: EFA
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEE3D/2A5LEE3D.BIN
+- Folder: 2A5LAE39
+  Manufacturer: EFA
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5V580-AT-3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAE39/2A5LAE39.BIN
+- Folder: 2A5LDE39
+  Manufacturer: EFA
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5V580-AT
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDE39/2A5LDE39.BIN
+- Folder: 2A5LDE3A
+  Manufacturer: EFA
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5V580-AT/P5V580-AT-C
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDE3A/2A5LDE3A.BIN
+- Folder: 2A5LDE3C
+  Manufacturer: EFA
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: EFA P5VPX97-AT
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDE3C/2A5LDE3C.BIN
+- Folder: 2A5LDE3B
+  Manufacturer: EFA
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDE3B/2A5LDE3B.BIN
+- Folder: 2A5LEEC9
+  Manufacturer: ENPC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ENPC EP-PI11
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEEC9/2A5LEEC9.BIN
+- Folder: 2A5LEECA
+  Manufacturer: ENPC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977EF
+  Release: '2.2'
+  Motherboard: ENPC EP-PI11
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEECA/2A5LEECA.BIN
+- Folder: 2A5LDEC9
+  Manufacturer: ENPC
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDEC9/2A5LDEC9.BIN
+- Folder: 2A5LHFG9
+  Manufacturer: FastFame
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHFG9/2A5LHFG9.BIN
+- Folder: 2A5LEF00
+  Manufacturer: FIC
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF00/2A5LEF00.BIN
+- Folder: 2A5LEF09
+  Manufacturer: FIC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: FIC PA-2012
+  Aliases: 'FIC PA-2013
+
+    FIC VA-503+'
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF09/2A5LEF09.BIN
+- Folder: 2A5LEF0F
+  Manufacturer: FIC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF0F/2A5LEF0F.BIN
+- Folder: 2A5LEF0C
+  Manufacturer: FIC
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF0C/2A5LEF0C.BIN
+- Folder: 2A5LEF0B
+  Manufacturer: FIC
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF0B/2A5LEF0B.BIN
+- Folder: 2A5LAF0A
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PC87336
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAF0A/2A5LAF0A.BIN
+- Folder: 2A5LAF01
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAF01/2A5LAF01.BIN
+- Folder: 2A5LAF09
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAF09/2A5LAF09.BIN
+- Folder: 2A5LAU82
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: FIC PA-2010 or PA-2005
+  Aliases: FIC VT-501
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAU82/2A5LAU82.BIN
+- Folder: 2A5LAU83
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: FIC PA-2006
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAU83/2A5LAU83.BIN
+- Folder: 2A5LA008
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: FIC PA-2005
+  Aliases: 'FIC PA-2006
+
+    FIC PA-2007
+
+    FIC PA-2010
+
+    FIC VA-501
+
+    FIC VA-502'
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LA008/2A5LA008.BIN
+- Folder: 2A5LA009
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: FIC VA-502
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LA009/2A5LA009.BIN
+- Folder: 2A5LC008
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: FIC PA-2007
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LC008/2A5LC008.BIN
+- Folder: 2A5LCU80
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: FIC PA-2011
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCU80/2A5LCU80.BIN
+- Folder: 2A5LCF09
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCF09/2A5LCF09.BIN
+- Folder: 2A5LCF0A
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: NS338
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCF0A/2A5LCF0A.BIN
+- Folder: 2A5LHF0Z
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF0Z/2A5LHF0Z.BIN
+- Folder: 2A5LHF09
+  Manufacturer: FIC
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF09/2A5LHF09.BIN
+- Folder: 2A5LDU81
+  Manufacturer: FIC
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: FIC PA-2010 or PA-2005
+  Aliases: FIC VT580 VX
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU81/2A5LDU81.BIN
+- Folder: 2A5LDU83
+  Manufacturer: FIC
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: FIC PA-2010 or PA-2005
+  Aliases: FIC VT580 VX
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU83/2A5LDU83.BIN
+- Folder: 2A5L7F09
+  Manufacturer: FIC
+  Chipset: VIA VT82C570
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: FIC PA-2000
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7F09/2A5L7F09.BIN
+- Folder: 2A5L7F0I
+  Manufacturer: FIC
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: FIC PA-2001
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7F0I/2A5L7F0I.BIN
+- Folder: 2A5L7F0H
+  Manufacturer: FIC
+  Chipset: VIA VT82C570
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: FIC PA-2000
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7F0H/2A5L7F0H.BIN
+- Folder: 2A5L9F01
+  Manufacturer: FIC
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F01/2A5L9F01.BIN
+- Folder: 2A5L9F0A
+  Manufacturer: FIC
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F0A/2A5L9F0A.BIN
+- Folder: 2A5L9F09
+  Manufacturer: FIC
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: FIC PA-2002
+  Aliases: FIC PA-2005
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F09/2A5L9F09.BIN
+- Folder: 2A5L9F0B
+  Manufacturer: FIC
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F0B/2A5L9F0B.BIN
+- Folder: 2A5LEF1B
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Flytech A68 V1.1
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF1B/2A5LEF1B.BIN
+- Folder: 2A5LEF1D
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF1D/2A5LEF1D.BIN
+- Folder: 2A5LEF1C
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF1C/2A5LEF1C.BIN
+- Folder: 2A5LEF1A
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF1A/2A5LEF1A.BIN
+- Folder: 2A5LEF19
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF19/2A5LEF19.BIN
+- Folder: 2A5LHF1A
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Flytech B58 V1.x
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF1A/2A5LHF1A.BIN
+- Folder: 2A5LHF1C
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF1C/2A5LHF1C.BIN
+- Folder: 2A5LHF1D
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo VP4
+  I/O: SMC37C669+VIA686
+  Release: '2.2'
+  Motherboard: Flytech B59 V1.x
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF1D/2A5LHF1D.BIN
+- Folder: 2A5LHF1E
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo VP4
+  I/O: SMC37C669+VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF1E/2A5LHF1E.BIN
+- Folder: 2A5LHF1B
+  Manufacturer: Flytech Group International
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF1B/2A5LHF1B.BIN
+- Folder: 2A5LEF9A
+  Manufacturer: Ford Lian
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Ford Lian AGP-VIA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF9A/2A5LEF9A.BIN
+- Folder: 2A5LEF99
+  Manufacturer: Ford Lian
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Ford Lian AGP-VIA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF99/2A5LEF99.BIN
+- Folder: 2A5LEF9B
+  Manufacturer: Ford Lian
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF9B/2A5LEF9B.BIN
+- Folder: 2A5LHF99
+  Manufacturer: Ford Lian
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF99/2A5LHF99.BIN
+- Folder: 2A5L9F99
+  Manufacturer: Ford Lian
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Ford Lian w/ Winbond 787
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F99/2A5L9F99.BIN
+- Folder: 2A5LAF89
+  Manufacturer: Formosa Industrial Computing
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAF89/2A5LAF89.BIN
+- Folder: 2A5LDF8A
+  Manufacturer: Formosa Industrial Computing
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDF8A/2A5LDF8A.BIN
+- Folder: 2A5LDF89
+  Manufacturer: Formosa Industrial Computing
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDF89/2A5LDF89.BIN
+- Folder: 2A5L9F82
+  Manufacturer: Formosa Industrial Computing
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F82/2A5L9F82.BIN
+- Folder: 2A5L9F83
+  Manufacturer: Formosa Industrial Computing
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F83/2A5L9F83.BIN
+- Folder: 2A5L9F81
+  Manufacturer: Formosa Industrial Computing
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9F81/2A5L9F81.BIN
+- Folder: 2A5LEF29
+  Manufacturer: Freetech
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F88 (Canary)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF29/2A5LEF29.BIN
+- Folder: 2A5LEF2A
+  Manufacturer: Freetech
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F113
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF2A/2A5LEF2A.BIN
+- Folder: 2A5LHF2A
+  Manufacturer: Freetech
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F111
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF2A/2A5LHF2A.BIN
+- Folder: 2A5LHF29
+  Manufacturer: Freetech
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F110 (Nightingale)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF29/2A5LHF29.BIN
+- Folder: 2A5LDF29
+  Manufacturer: Freetech
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F84 (Crane)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDF29/2A5LDF29.BIN
+- Folder: 2A5LEF59
+  Manufacturer: Fugutech
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF59/2A5LEF59.BIN
+- Folder: 2A5LEF3H
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3H/2A5LEF3H.BIN
+- Folder: 2A5LEF3A
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Full Yes FYI-VIA 597
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3A/2A5LEF3A.BIN
+- Folder: 2A5LEF3F
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Full Yes VIA 598 MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3F/2A5LEF3F.BIN
+- Folder: 2A5LEF3G
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3G/2A5LEF3G.BIN
+- Folder: 2A5LEF39
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Full Yes w/ SMC 669
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF39/2A5LEF39.BIN
+- Folder: 2A5LE00C
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: Full Yes FYI-597
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE00C/2A5LE00C.BIN
+- Folder: 2A5LEF3E
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3E/2A5LEF3E.BIN
+- Folder: 2A5LEF3B
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3B/2A5LEF3B.BIN
+- Folder: 2A5LEF3C
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3C/2A5LEF3C.BIN
+- Folder: 2A5LEF3D
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEF3D/2A5LEF3D.BIN
+- Folder: 2A5LAF39
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAF39/2A5LAF39.BIN
+- Folder: 2A5LAF3A
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAF3A/2A5LAF3A.BIN
+- Folder: 2A5LHF3B
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF3B/2A5LHF3B.BIN
+- Folder: 2A5LHF39
+  Manufacturer: Full Yes
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHF39/2A5LHF39.BIN
+- Folder: 2A5LDF39
+  Manufacturer: Full Yes
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDF39/2A5LDF39.BIN
+- Folder: 2A5LDF3A
+  Manufacturer: Full Yes
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDF3A/2A5LDF3A.BIN
+- Folder: 2A5LD00E
+  Manufacturer: Full Yes
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: FYI VIA 83669
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LD00E/2A5LD00E.BIN
+- Folder: 2A5LECSC
+  Manufacturer: Gainward/Cardex
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LECSC/2A5LECSC.BIN
+- Folder: 2A5LECS9
+  Manufacturer: Gainward/Cardex
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Gainward 5VPA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LECS9/2A5LECS9.BIN
+- Folder: 2A5LEG3B
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977EF
+  Release: '2.2'
+  Motherboard: DTK PAM-0067V E0/E1
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG3B/2A5LEG3B.BIN
+- Folder: 2A5LEG3E
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG3E/2A5LEG3E.BIN
+- Folder: 2A5LEG3D
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977EF
+  Release: '2.2'
+  Motherboard: DTK PAM-0079V
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG3D/2A5LEG3D.BIN
+- Folder: 2A5LEG3C
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: DTK PAM-0052V
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG3C/2A5LEG3C.BIN
+- Folder: 2A5LEG3F
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977EF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG3F/2A5LEG3F.BIN
+- Folder: 2A5LEG3A
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG3A/2A5LEG3A.BIN
+- Folder: 2A5LEG39
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG39/2A5LEG39.BIN
+- Folder: 2A5LAG39
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: DTK PAM-0050V
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAG39/2A5LAG39.BIN
+- Folder: 2A5LAG3A
+  Manufacturer: Gemlight
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAG3A/2A5LAG3A.BIN
+- Folder: 2A5LDG39
+  Manufacturer: Gemlight
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDG39/2A5LDG39.BIN
+- Folder: 2A5LDG3A
+  Manufacturer: Gemlight
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: DTK PAM-0057V E0
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDG3A/2A5LDG3A.BIN
+- Folder: 2A5LEG0B
+  Manufacturer: Gigabyte
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG0B/2A5LEG0B.BIN
+- Folder: 2A5LEG09
+  Manufacturer: Gigabyte
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG09/2A5LEG09.BIN
+- Folder: 2A5LEG0A
+  Manufacturer: Gigabyte
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEG0A/2A5LEG0A.BIN
+- Folder: 2A5LCG09
+  Manufacturer: Gigabyte
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCG09/2A5LCG09.BIN
+- Folder: 2A5LHG09
+  Manufacturer: Gigabyte
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHG09/2A5LHG09.BIN
+- Folder: 2A5LEH0A
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: PCChips M577
+  Aliases: Amptron PM9900
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH0A/2A5LEH0A.BIN
+- Folder: 2A5LEH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo (M)VP3
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: PCChips M577
+  Aliases: Amptron PM9900 w/ UMC8663
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH09/2A5LEH09.BIN
+- Folder: 2A5LEH0B
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH0B/2A5LEH0B.BIN
+- Folder: 2A5LEH0C
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH0C/2A5LEH0C.BIN
+- Folder: 2A5LAH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Hsing Tech PM8600
+  Aliases: Amptron PM8400
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAH09/2A5LAH09.BIN
+- Folder: 2A5LAH01
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAH01/2A5LAH01.BIN
+- Folder: 2A5LHH0C
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: PCChips M585LR/M585LMR
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHH0C/2A5LHH0C.BIN
+- Folder: 2A5LHH0D
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHH0D/2A5LHH0D.BIN
+- Folder: 2A5LHH0B
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHH0B/2A5LHH0B.BIN
+- Folder: 2A5LDH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: Hsing Tech PM8600 "VXPRO"
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDH09/2A5LDH09.BIN
+- Folder: 2A5LDH0A
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Hsing Tech w/ITE 8661
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDH0A/2A5LDH0A.BIN
+- Folder: 2A5LEI9B
+  Manufacturer: ICP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI9B/2A5LEI9B.BIN
+- Folder: 2A5LEI99
+  Manufacturer: ICP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI99/2A5LEI99.BIN
+- Folder: 2A5LEI9A
+  Manufacturer: ICP
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI9A/2A5LEI9A.BIN
+- Folder: 2A5LHIG9
+  Manufacturer: Imageview
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHIG9/2A5LHIG9.BIN
+- Folder: 2A5LAI79
+  Manufacturer: Inlog
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAI79/2A5LAI79.BIN
+- Folder: 2A5LAI7A
+  Manufacturer: Inlog
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAI7A/2A5LAI7A.BIN
+- Folder: 2A5LDI79
+  Manufacturer: Inlog
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDI79/2A5LDI79.BIN
+- Folder: 2A5LDI7A
+  Manufacturer: Inlog
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDI7A/2A5LDI7A.BIN
+- Folder: 2A5L9I11
+  Manufacturer: Innovace
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9I11/2A5L9I11.BIN
+- Folder: 2A5L9I19
+  Manufacturer: Innovace
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9I19/2A5L9I19.BIN
+- Folder: 2A5LEI2A
+  Manufacturer: Iston
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI2A/2A5LEI2A.BIN
+- Folder: 2A5LEI29
+  Manufacturer: Iston
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI29/2A5LEI29.BIN
+- Folder: 2A5LEI2B
+  Manufacturer: Iston
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI2B/2A5LEI2B.BIN
+- Folder: 2A5LEI2C
+  Manufacturer: Iston
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEI2C/2A5LEI2C.BIN
+- Folder: 2A5L9I29
+  Manufacturer: Iston
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9I29/2A5L9I29.BIN
+- Folder: 2A5LEJ3B
+  Manufacturer: J-Bond
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: J-Bond PCI500C-Pa
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ3B/2A5LEJ3B.BIN
+- Folder: 2A5LEJ3A
+  Manufacturer: J-Bond
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ3A/2A5LEJ3A.BIN
+- Folder: 2A5LHJ3A
+  Manufacturer: J-Bond
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHJ3A/2A5LHJ3A.BIN
+- Folder: 2A5LHJ39
+  Manufacturer: J-Bond
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHJ39/2A5LHJ39.BIN
+- Folder: 2A5LHJ3B
+  Manufacturer: J-Bond
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHJ3B/2A5LHJ3B.BIN
+- Folder: 2A5L7J5H
+  Manufacturer: J-Square
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7J5H/2A5L7J5H.BIN
+- Folder: 2A5L7J59
+  Manufacturer: J-Square
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7J59/2A5L7J59.BIN
+- Folder: 2A5L9J59
+  Manufacturer: J-Square
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9J59/2A5L9J59.BIN
+- Folder: 2A5LDJ79
+  Manufacturer: J&J
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDJ79/2A5LDJ79.BIN
+- Folder: 2A5LEJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ19/2A5LEJ19.BIN
+- Folder: 2A5LEJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Jetway J-597A
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ1A/2A5LEJ1A.BIN
+- Folder: 2A5LEJ1Z
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ1Z/2A5LEJ1Z.BIN
+- Folder: 2A5LEJ1C
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ1C/2A5LEJ1C.BIN
+- Folder: 2A5LEJ1D
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Jetway J-598B
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ1D/2A5LEJ1D.BIN
+- Folder: 2A5LEJ1B
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEJ1B/2A5LEJ1B.BIN
+- Folder: 2A5L7J19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Jet Board J-636
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7J19/2A5L7J19.BIN
+- Folder: 2A5L7J11
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: Jet Board J-636
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7J11/2A5L7J11.BIN
+- Folder: 2A5L9J19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9J19/2A5L9J19.BIN
+- Folder: 2A5LAJ69
+  Manufacturer: Joss Tech
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAJ69/2A5LAJ69.BIN
+- Folder: 2A5LEK19
+  Manufacturer: Kaimei
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEK19/2A5LEK19.BIN
+- Folder: 2A5LEK1A
+  Manufacturer: Kaimei
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEK1A/2A5LEK1A.BIN
+- Folder: 2A5LAK19
+  Manufacturer: Kaimei
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAK19/2A5LAK19.BIN
+- Folder: 2A5LHK19
+  Manufacturer: Kaimei
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHK19/2A5LHK19.BIN
+- Folder: 2A5LDK1B
+  Manufacturer: Kaimei
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Jamicon MB-KM-522V
+  Aliases: Jamicon MB-KM-V5-V2 v1.0
+  files:
+  - bios/unicore/VIA/VPX/2A5LDK1B/2A5LDK1B.BIN
+- Folder: 2A5LDK1A
+  Manufacturer: Kaimei
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Jamicon MB-KM-V5-V1/MB-KM-V5-V1A
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDK1A/2A5LDK1A.BIN
+- Folder: 2A5LDK19
+  Manufacturer: Kaimei
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDK19/2A5LDK19.BIN
+- Folder: 2A5LEKF9
+  Manufacturer: Kinpo
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEKF9/2A5LEKF9.BIN
+- Folder: 2A5LHKFB
+  Manufacturer: Kinpo
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHKFB/2A5LHKFB.BIN
+- Folder: 2A5LHKF9
+  Manufacturer: Kinpo
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHKF9/2A5LHKF9.BIN
+- Folder: 2A5LHKFA
+  Manufacturer: Kinpo
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHKFA/2A5LHKFA.BIN
+- Folder: 2A5LEL79
+  Manufacturer: Lanner Electronics
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL79/2A5LEL79.BIN
+- Folder: 2A5LCL7C
+  Manufacturer: Lanner Electronics
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCL7C/2A5LCL7C.BIN
+- Folder: 2A5LCL7B
+  Manufacturer: Lanner Electronics
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCL7B/2A5LCL7B.BIN
+- Folder: 2A5LCL7A
+  Manufacturer: Lanner Electronics
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCL7A/2A5LCL7A.BIN
+- Folder: 2A5LCL7Z
+  Manufacturer: Lanner Electronics
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCL7Z/2A5LCL7Z.BIN
+- Folder: 2A5LEL89
+  Manufacturer: Lica
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL89/2A5LEL89.BIN
+- Folder: 2A5LEL8A
+  Manufacturer: Lica
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL8A/2A5LEL8A.BIN
+- Folder: 2A5LAL89
+  Manufacturer: Lica
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAL89/2A5LAL89.BIN
+- Folder: 2A5LEL1B
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Lucky Star 5MVP3 Rev. 1.4
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL1B/2A5LEL1B.BIN
+- Folder: 2A5LEL1D
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL1D/2A5LEL1D.BIN
+- Folder: 2A5LEL1C
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877AF
+  Release: '2.2'
+  Motherboard: Lucky Star 5AMVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL1C/2A5LEL1C.BIN
+- Folder: 2A5LEL1A
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877AF
+  Release: '2.2'
+  Motherboard: Lucky Star 5AVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL1A/2A5LEL1A.BIN
+- Folder: 2A5LEL19
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Lucky Star 5VP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEL19/2A5LEL19.BIN
+- Folder: 2A5LAL19
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Lucky Star 5V-2
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAL19/2A5LAL19.BIN
+- Folder: 2A5LAL1A
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAL1A/2A5LAL1A.BIN
+- Folder: 2A5LAL18
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PC87336
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAL18/2A5LAL18.BIN
+- Folder: 2A5LHL19
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHL19/2A5LHL19.BIN
+- Folder: 2A5LHL1A
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Lucky Star 5MVP4
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHL1A/2A5LHL1A.BIN
+- Folder: 2A5LHL1B
+  Manufacturer: Lucky Star
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Lucky Star 5MMVP4 "Aquarius"
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHL1B/2A5LHL1B.BIN
+- Folder: 2A5LDL1D
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL1D/2A5LDL1D.BIN
+- Folder: 2A5LDL1C
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Lucky Star 5V-1A
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL1C/2A5LDL1C.BIN
+- Folder: 2A5LDL1B
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: Lucky Star VT5099-A
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL1B/2A5LDL1B.BIN
+- Folder: 2A5LDL1E
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: Lucky Star 5VX-1
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL1E/2A5LDL1E.BIN
+- Folder: 2A5LDL19
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL19/2A5LDL19.BIN
+- Folder: 2A5LDL1F
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL1F/2A5LDL1F.BIN
+- Folder: 2A5LDL1A
+  Manufacturer: Lucky Star
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDL1A/2A5LDL1A.BIN
+- Folder: 2A5L9L19
+  Manufacturer: Lucky Star
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9L19/2A5L9L19.BIN
+- Folder: 2A5LER0B
+  Manufacturer: M-Tech (Rise)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R582
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LER0B/2A5LER0B.BIN
+- Folder: 2A5LER0C
+  Manufacturer: M-Tech (Rise)
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LER0C/2A5LER0C.BIN
+- Folder: 2A5LER0D
+  Manufacturer: M-Tech (Rise)
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LER0D/2A5LER0D.BIN
+- Folder: 2A5LER09
+  Manufacturer: M-Tech (Rise)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LER09/2A5LER09.BIN
+- Folder: 2A5LHMPA
+  Manufacturer: Maxtium
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHMPA/2A5LHMPA.BIN
+- Folder: 2A5LHMP9
+  Manufacturer: Maxtium
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHMP9/2A5LHMP9.BIN
+- Folder: 2A5LEM3B
+  Manufacturer: MiTAC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM3B/2A5LEM3B.BIN
+- Folder: 2A5LEM3E
+  Manufacturer: MiTAC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM3E/2A5LEM3E.BIN
+- Folder: 2A5LEM3D
+  Manufacturer: MiTAC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877ATF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM3D/2A5LEM3D.BIN
+- Folder: 2A5LEM3A
+  Manufacturer: MiTAC
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM3A/2A5LEM3A.BIN
+- Folder: 2A5LCM3A
+  Manufacturer: MiTAC
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C93X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCM3A/2A5LCM3A.BIN
+- Folder: 2A5LCM39
+  Manufacturer: MiTAC
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C93X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCM39/2A5LCM39.BIN
+- Folder: 2A5LDM99
+  Manufacturer: MLE
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: M-Tech M-549
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM99/2A5LDM99.BIN
+- Folder: 2A5LEM4B
+  Manufacturer: MSI
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM4B/2A5LEM4B.BIN
+- Folder: 2A5LEM4D
+  Manufacturer: MSI
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM4D/2A5LEM4D.BIN
+- Folder: 2A5LEM4C
+  Manufacturer: MSI
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM4C/2A5LEM4C.BIN
+- Folder: 2A5LEM4F
+  Manufacturer: MSI
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: MSI MS-5184
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM4F/2A5LEM4F.BIN
+- Folder: 2A5LEM4A
+  Manufacturer: MSI
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM4A/2A5LEM4A.BIN
+- Folder: 2A5LEM49
+  Manufacturer: MSI
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM49/2A5LEM49.BIN
+- Folder: 2A5LHM49
+  Manufacturer: MSI
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: MSI MS-5187 (VI16)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHM49/2A5LHM49.BIN
+- Folder: 2A5LHM4A
+  Manufacturer: MSI
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: MSI MS-5186 (VI15)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHM4A/2A5LHM4A.BIN
+- Folder: 2A5LHM4B
+  Manufacturer: MSI
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHM4B/2A5LHM4B.BIN
+- Folder: 2A5L7M41
+  Manufacturer: MSI
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7M41/2A5L7M41.BIN
+- Folder: 2A5L7M4A
+  Manufacturer: MSI
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7M4A/2A5L7M4A.BIN
+- Folder: 2A5L7M49
+  Manufacturer: MSI
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: MSI MS-5117
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7M49/2A5L7M49.BIN
+- Folder: 2A5L9M49
+  Manufacturer: MSI
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2'
+  Motherboard: MSI MS-5117
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M49/2A5L9M49.BIN
+- Folder: 2A5L9M41
+  Manufacturer: MSI
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M41/2A5L9M41.BIN
+- Folder: 2A5L9M4A
+  Manufacturer: MSI
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M4A/2A5L9M4A.BIN
+- Folder: 2A5L7M89
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7M89/2A5L7M89.BIN
+- Folder: 2A5L7M8H
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7M8H/2A5L7M8H.BIN
+- Folder: 2A5L9M8A
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570M
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M8A/2A5L9M8A.BIN
+- Folder: 2A5L9M8T
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M8T/2A5L9M8T.BIN
+- Folder: 2A5L9M89
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M89/2A5L9M89.BIN
+- Folder: 2A5L9M8B
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570M
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M8B/2A5L9M8B.BIN
+- Folder: 2A5L9M8C
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M8C/2A5L9M8C.BIN
+- Folder: 2A5L9M8D
+  Manufacturer: Mustek
+  Chipset: VIA VT82C570M
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9M8D/2A5L9M8D.BIN
+- Folder: 2A5LAMG9
+  Manufacturer: Myung Shig
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8663
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAMG9/2A5LAMG9.BIN
+- Folder: 2A5LHN39
+  Manufacturer: Netcom
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHN39/2A5LHN39.BIN
+- Folder: 2A5LENMG
+  Manufacturer: NMC (New Media Communication)
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LENMG/2A5LENMG.BIN
+- Folder: 2A5LENMC
+  Manufacturer: NMC (New Media Communication)
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: NMC 5VMMX
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LENMC/2A5LENMC.BIN
+- Folder: 2A5LDNME
+  Manufacturer: NMC (New Media Communication)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDNME/2A5LDNME.BIN
+- Folder: 2A5LEO09
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Octek Rhino VP3-ATX
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEO09/2A5LEO09.BIN
+- Folder: 2A5LAO0A
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: ALI5119
+  Release: '2.2'
+  Motherboard: Octek Rhino 12
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAO0A/2A5LAO0A.BIN
+- Folder: 2A5LAO09
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAO09/2A5LAO09.BIN
+- Folder: 2A5LAO0E
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAO0E/2A5LAO0E.BIN
+- Folder: 2A5LAO0B
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Octek Rhino 12
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAO0B/2A5LAO0B.BIN
+- Folder: 2A5LAO0C
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: Octek Rhino 18
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAO0C/2A5LAO0C.BIN
+- Folder: 2A5LAO0D
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAO0D/2A5LAO0D.BIN
+- Folder: 2A5LDO0F
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0F/2A5LDO0F.BIN
+- Folder: 2A5LDO0A
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Octek Rhino 12+
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0A/2A5LDO0A.BIN
+- Folder: 2A5LDO09
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: Octek Rhino 18
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO09/2A5LDO09.BIN
+- Folder: 2A5LDO0G
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Octek Rhino 18+
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0G/2A5LDO0G.BIN
+- Folder: 2A5LDO0B
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0B/2A5LDO0B.BIN
+- Folder: 2A5LDO0E
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Octek Rhino 18+
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0E/2A5LDO0E.BIN
+- Folder: 2A5LDO0D
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0D/2A5LDO0D.BIN
+- Folder: 2A5LDO0C
+  Manufacturer: Ocean (Octek)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDO0C/2A5LDO0C.BIN
+- Folder: 2A5LEO8C
+  Manufacturer: Onnto
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEO8C/2A5LEO8C.BIN
+- Folder: 2A5LEO8B
+  Manufacturer: Onnto
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEO8B/2A5LEO8B.BIN
+- Folder: 2A5LEO89
+  Manufacturer: Onnto
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEO89/2A5LEO89.BIN
+- Folder: 2A5LEO8A
+  Manufacturer: Onnto
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEO8A/2A5LEO8A.BIN
+- Folder: 2A5LEPPA
+  Manufacturer: PC-Open
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPPA/2A5LEPPA.BIN
+- Folder: 2A5LEPP9
+  Manufacturer: PC-Open
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPP9/2A5LEPP9.BIN
+- Folder: 2A5LEPPP
+  Manufacturer: PC-Open
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPPP/2A5LEPPP.BIN
+- Folder: 2A5LEPK9
+  Manufacturer: Performance/ALD
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPK9/2A5LEPK9.BIN
+- Folder: 2A5L7PD9
+  Manufacturer: Precision
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7PD9/2A5L7PD9.BIN
+- Folder: 2A5LEPAA
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877AF+W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPAA/2A5LEPAA.BIN
+- Folder: 2A5LEPAF
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPAF/2A5LEPAF.BIN
+- Folder: 2A5LEPA9
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: EPoX EP-51MVP3E-M
+  Aliases: EPoX EP-58MVP3E-M
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPA9/2A5LEPA9.BIN
+- Folder: 2A5LEPAE
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: EPoX/ProNiX EP-MVP3G-M
+  Aliases: EPoX/ProNiX EP-MVP3G2 (1MB)
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPAE/2A5LEPAE.BIN
+- Folder: 2A5LEPAM
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPAM/2A5LEPAM.BIN
+- Folder: 2A5LEPAC
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: EPoX EP-58MVP3C-M
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPAC/2A5LEPAC.BIN
+- Folder: 2A5LEPAD
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: EPoX w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEPAD/2A5LEPAD.BIN
+- Folder: 2A5LAPA9
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: California Graphics Sunray VIA
+  Aliases: EPoX P55-VP
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAPA9/2A5LAPA9.BIN
+- Folder: 2A5LAPAA
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: EPoX P55-KV
+  Aliases: EPoX P55-VP
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAPAA/2A5LAPAA.BIN
+- Folder: 2A5LHPA9
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHPA9/2A5LHPA9.BIN
+- Folder: 2A5LHPAA
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHPAA/2A5LHPAA.BIN
+- Folder: 2A5LDPA9
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPA9/2A5LDPA9.BIN
+- Folder: 2A5LDPAZ
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAZ/2A5LDPAZ.BIN
+- Folder: 2A5LDPAT
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877TF
+  Release: '2'
+  Motherboard: EPoX EP-5BVPXB
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAT/2A5LDPAT.BIN
+- Folder: 2A5LDPAA
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: EPoX EP-MVP3G w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAA/2A5LDPAA.BIN
+- Folder: 2A5LDPAC
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: EPoX EP-MVP3G w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAC/2A5LDPAC.BIN
+- Folder: 2A5LDPAD
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: EPoX EP-MVP3G-M
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAD/2A5LDPAD.BIN
+- Folder: 2A5LDPAE
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAE/2A5LDPAE.BIN
+- Folder: 2A5LDPAB
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPAB/2A5LDPAB.BIN
+- Folder: 2A5L7PA9
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7PA9/2A5L7PA9.BIN
+- Folder: 2A5L9PA9
+  Manufacturer: Pronix/EPoX
+  Chipset: VIA VT82C570M
+  I/O: SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9PA9/2A5L9PA9.BIN
+- Folder: 2A5LEP8B
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP8B/2A5LEP8B.BIN
+- Folder: 2A5LEP8E
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Azza PT-5VMD w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP8E/2A5LEP8E.BIN
+- Folder: 2A5LEP8D
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP8D/2A5LEP8D.BIN
+- Folder: 2A5LEP8C
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP8C/2A5LEP8C.BIN
+- Folder: 2A5LEP8F
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Azza PT-5VMD
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP8F/2A5LEP8F.BIN
+- Folder: 2A5LEP8A
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Azza 5VMX/PT-5VMX
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP8A/2A5LEP8A.BIN
+- Folder: 2A5LEP89
+  Manufacturer: Proteam/Azza
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Azza 5V3T/PT-5V3T
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEP89/2A5LEP89.BIN
+- Folder: 2A5LDP8C
+  Manufacturer: Proteam/Azza
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDP8C/2A5LDP8C.BIN
+- Folder: 2A5LDP8B
+  Manufacturer: Proteam/Azza
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDP8B/2A5LDP8B.BIN
+- Folder: 2A5LDP89
+  Manufacturer: Proteam/Azza
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: Azza 5VP/PT-5VP
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDP89/2A5LDP89.BIN
+- Folder: 2A5LDP8A
+  Manufacturer: Proteam/Azza
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Azza 5VPS/PT-5VPS
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDP8A/2A5LDP8A.BIN
+- Folder: 2A5LDPR9
+  Manufacturer: Proton
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDPR9/2A5LDPR9.BIN
+- Folder: 2A5LEQ19
+  Manufacturer: QDI
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: QDI P5V580 VP3 (Advance II)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEQ19/2A5LEQ19.BIN
+- Folder: 2A5LAQ1A
+  Manufacturer: QDI
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAQ1A/2A5LAQ1A.BIN
+- Folder: 2A5LAQ19
+  Manufacturer: QDI
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAQ19/2A5LAQ19.BIN
+- Folder: 2A5LDQ19
+  Manufacturer: QDI
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDQ19/2A5LDQ19.BIN
+- Folder: 2A5LESMC
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESMC/2A5LESMC.BIN
+- Folder: 2A5LESMB
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESMB/2A5LESMB.BIN
+- Folder: 2A5LESM9
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: SuperPower SP-V586B
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESM9/2A5LESM9.BIN
+- Folder: 2A5LESMA
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESMA/2A5LESMA.BIN
+- Folder: 2A5LASMB
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASMB/2A5LASMB.BIN
+- Folder: 2A5LASM8
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: San Li SL-586VT
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASM8/2A5LASM8.BIN
+- Folder: 2A5LASMA
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: FKI SL586VT-II [Fong Kai Industrials - MILLENIUM]
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASMA/2A5LASMA.BIN
+- Folder: 2A5LASM9
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASM9/2A5LASM9.BIN
+- Folder: 2A5LDSMB
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: San-Li 586VPXT3 Ver. C
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSMB/2A5LDSMB.BIN
+- Folder: 2A5LDSMC
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSMC/2A5LDSMC.BIN
+- Folder: 2A5LDSMA
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSMA/2A5LDSMA.BIN
+- Folder: 2A5LDSM9
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Sanli SP-586 VT3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSM9/2A5LDSM9.BIN
+- Folder: 2A5LEH2B
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: Shuttle HOT-591 w/ ICS-9148
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH2B/2A5LEH2B.BIN
+- Folder: 2A5LEH2C
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: Shuttle HOT-597
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH2C/2A5LEH2C.BIN
+- Folder: 2A5LEH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: Shuttle HOT-591
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEH29/2A5LEH29.BIN
+- Folder: 2A5LCH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83977AF
+  Release: '2.2'
+  Motherboard: Shuttle HOT-603
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCH29/2A5LCH29.BIN
+- Folder: 2A5LCH2B
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83977AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCH2B/2A5LCH2B.BIN
+- Folder: 2A5LDH2B
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Shuttle HOT-579
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDH2B/2A5LDH2B.BIN
+- Folder: 2A5LDH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDH29/2A5LDH29.BIN
+- Folder: 2A5LDH2A
+  Manufacturer: Shuttle (Holco)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDH2A/2A5LDH2A.BIN
+- Folder: 2A5LASGA
+  Manufacturer: Skywell
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASGA/2A5LASGA.BIN
+- Folder: 2A5LASG9
+  Manufacturer: Skywell
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASG9/2A5LASG9.BIN
+- Folder: 2A5LDSG9
+  Manufacturer: Skywell
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSG9/2A5LDSG9.BIN
+- Folder: 2A5L7SG9
+  Manufacturer: Skywell
+  Chipset: VIA VT82C570
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7SG9/2A5L7SG9.BIN
+- Folder: 2A5LESNE
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Soltek SL-56D5/D1
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESNE/2A5LESNE.BIN
+- Folder: 2A5LESNB
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESNB/2A5LESNB.BIN
+- Folder: 2A5LESNC
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Soltek SL-54U5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESNC/2A5LESNC.BIN
+- Folder: 2A5LESND
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESND/2A5LESND.BIN
+- Folder: 2A5LESNA
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: Soltek SL-54T5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESNA/2A5LESNA.BIN
+- Folder: 2A5LESNF
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESNF/2A5LESNF.BIN
+- Folder: 2A5LESN9
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESN9/2A5LESN9.BIN
+- Folder: 2A5LESNG
+  Manufacturer: Soltek
+  Chipset: VIA Apollo (M)VP3
+  I/O: None
+  Release: '2'
+  Motherboard: Soltek SL-56G5
+  Aliases: Soltek SL-56H5
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESNG/2A5LESNG.BIN
+- Folder: 2A5LHSN9
+  Manufacturer: Soltek
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHSN9/2A5LHSN9.BIN
+- Folder: 2A5LHSNA
+  Manufacturer: Soltek
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Soltek SL-56F5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHSNA/2A5LHSNA.BIN
+- Folder: 2A5LHSNB
+  Manufacturer: Soltek
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Soltek SL-55F5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHSNB/2A5LHSNB.BIN
+- Folder: 2A5LDSNC
+  Manufacturer: Soltek
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSNC/2A5LDSNC.BIN
+- Folder: 2A5LDSNB
+  Manufacturer: Soltek
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soltek SL-53E5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSNB/2A5LDSNB.BIN
+- Folder: 2A5LDSN9
+  Manufacturer: Soltek
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSN9/2A5LDSN9.BIN
+- Folder: 2A5LDSNA
+  Manufacturer: Soltek
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soltek VPX-A
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSNA/2A5LDSNA.BIN
+- Folder: 2A5LDSJB
+  Manufacturer: Sowah
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSJB/2A5LDSJB.BIN
+- Folder: 2A5LDSJC
+  Manufacturer: Sowah
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661+ITE8661RF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSJC/2A5LDSJC.BIN
+- Folder: 2A5LDSJA
+  Manufacturer: Sowah
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSJA/2A5LDSJA.BIN
+- Folder: 2A5LDSJ9
+  Manufacturer: Sowah
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSJ9/2A5LDSJ9.BIN
+- Folder: 2A5LES2B
+  Manufacturer: Soyo
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soyo SY-5EMA w/ SMC669
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LES2B/2A5LES2B.BIN
+- Folder: 2A5LES2C
+  Manufacturer: Soyo
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LES2C/2A5LES2C.BIN
+- Folder: 2A5LES2D
+  Manufacturer: Soyo
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LES2D/2A5LES2D.BIN
+- Folder: 2A5LES2A
+  Manufacturer: Soyo
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soyo SY-5EHM
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LES2A/2A5LES2A.BIN
+- Folder: 2A5LES29
+  Manufacturer: Soyo
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soyo SY-5ED5 / SY-5EDM
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LES29/2A5LES29.BIN
+- Folder: 2A5LDS2D
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS2D/2A5LDS2D.BIN
+- Folder: 2A5LDS2B
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83977AF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS2B/2A5LDS2B.BIN
+- Folder: 2A5LDS29
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soyo SY-5EA5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS29/2A5LDS29.BIN
+- Folder: 2A5LDS2G
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS2G/2A5LDS2G.BIN
+- Folder: 2A5LDS2A
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS2A/2A5LDS2A.BIN
+- Folder: 2A5LDS2F
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Soyo SY-5EAS5
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS2F/2A5LDS2F.BIN
+- Folder: 2A5LDS2H
+  Manufacturer: Soyo
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDS2H/2A5LDS2H.BIN
+- Folder: 2A5LESWA
+  Manufacturer: Speed & Deep
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESWA/2A5LESWA.BIN
+- Folder: 2A5LESW9
+  Manufacturer: Speed & Deep
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Acorp 5VIA5S
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESW9/2A5LESW9.BIN
+- Folder: 2A5LDSW9
+  Manufacturer: Speed & Deep
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSW9/2A5LDSW9.BIN
+- Folder: 2A5LHS99
+  Manufacturer: Spring Circle
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHS99/2A5LHS99.BIN
+- Folder: 2A5LESH9
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESH9/2A5LESH9.BIN
+- Folder: 2A5LESHA
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESHA/2A5LESHA.BIN
+- Folder: 2A5LESHC
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: SYE w/ SMC669
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESHC/2A5LESHC.BIN
+- Folder: 2A5LESHD
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: Lucky Tech P5MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESHD/2A5LESHD.BIN
+- Folder: 2A5LESHB
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LESHB/2A5LESHB.BIN
+- Folder: 2A5LASHA
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASHA/2A5LASHA.BIN
+- Folder: 2A5LASH9
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASH9/2A5LASH9.BIN
+- Folder: 2A5LASHB
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LASHB/2A5LASHB.BIN
+- Folder: 2A5LHSHA
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHSHA/2A5LHSHA.BIN
+- Folder: 2A5LHSH9
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Lucky Tech P5MVP4
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHSH9/2A5LHSH9.BIN
+- Folder: 2A5LDSHA
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSHA/2A5LDSHA.BIN
+- Folder: 2A5LDSH9
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Lucky Tech SV-P55V
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSH9/2A5LDSH9.BIN
+- Folder: 2A5LDSHB
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDSHB/2A5LDSHB.BIN
+- Folder: 2A5L9SHA
+  Manufacturer: SYE (Shing Yunn Technology)
+  Chipset: VIA VT82C570M
+  I/O: W83787F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9SHA/2A5L9SHA.BIN
+- Folder: 2A5LETT9
+  Manufacturer: T&W
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETT9/2A5LETT9.BIN
+- Folder: 2A5LATB9
+  Manufacturer: Taeil (Newmax)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LATB9/2A5LATB9.BIN
+- Folder: 2A5L7TC9
+  Manufacturer: Taemung/Fentech/Trang Bow
+  Chipset: VIA VT82C570
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7TC9/2A5L7TC9.BIN
+- Folder: 2A5LET49
+  Manufacturer: Taken
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET49/2A5LET49.BIN
+- Folder: 2A5LET79
+  Manufacturer: Tatung
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET79/2A5LET79.BIN
+- Folder: 2A5LET7A
+  Manufacturer: Tatung
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Tatung T3156
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET7A/2A5LET7A.BIN
+- Folder: 2A5LET7C
+  Manufacturer: Tatung
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET7C/2A5LET7C.BIN
+- Folder: 2A5LET7B
+  Manufacturer: Tatung
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Tatung T2150
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET7B/2A5LET7B.BIN
+- Folder: 2A5LHT79
+  Manufacturer: Tatung
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHT79/2A5LHT79.BIN
+- Folder: 2A5LETST
+  Manufacturer: TEKHILL
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETST/2A5LETST.BIN
+- Folder: 2A5LETGB
+  Manufacturer: Tekram
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Tekram P5M3-A+
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETGB/2A5LETGB.BIN
+- Folder: 2A5LETGA
+  Manufacturer: Tekram
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Tekram P5MVP-A4 w/ Winbond877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETGA/2A5LETGA.BIN
+- Folder: 2A5LETG9
+  Manufacturer: Tekram
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Tekram P5VP3-B3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETG9/2A5LETG9.BIN
+- Folder: 2A5LHTG9
+  Manufacturer: Tekram
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Tekram P5M4-M/P5M4-M+
+  Aliases: Tekram P5M4-B
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHTG9/2A5LHTG9.BIN
+- Folder: 2A5LDTG9
+  Manufacturer: Tekram
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDTG9/2A5LDTG9.BIN
+- Folder: 2A5LEM2G
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2G/2A5LEM2G.BIN
+- Folder: 2A5LEM2N
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2N/2A5LEM2N.BIN
+- Folder: 2A5LEM2I
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2I/2A5LEM2I.BIN
+- Folder: 2A5LEM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: TMC/MyComp/MyNix/Megastar AI5VG (VER. 1.0)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM29/2A5LEM29.BIN
+- Folder: 2A5LEM2R
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2R/2A5LEM2R.BIN
+- Folder: 2A5LEM2F
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2F/2A5LEM2F.BIN
+- Folder: 2A5LEM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: TMC/MyComp/MyNix/Megastar TI5VG-0.10
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2A/2A5LEM2A.BIN
+- Folder: 2A5LEM2Q
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Freeway FW-5VGF+ Ultra
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2Q/2A5LEM2Q.BIN
+- Folder: 2A5LEM2D
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2D/2A5LEM2D.BIN
+- Folder: 2A5LEM2C
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2C/2A5LEM2C.BIN
+- Folder: 2A5LEM2J
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2J/2A5LEM2J.BIN
+- Folder: 2A5LEM2M
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: TMC/MyComp/MyNix/Megastar CI5VGM
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2M/2A5LEM2M.BIN
+- Folder: 2A5LEM2P
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Freeway FW-TI5VGF
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2P/2A5LEM2P.BIN
+- Folder: 2A5LEM2L
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2'
+  Motherboard: Freeway FW-TI5VGF
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2L/2A5LEM2L.BIN
+- Folder: 2A5LEM2K
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar AI5VG+
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2K/2A5LEM2K.BIN
+- Folder: 2A5LEM2E
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEM2E/2A5LEM2E.BIN
+- Folder: 2A5LAM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAM2A/2A5LAM2A.BIN
+- Folder: 2A5LAM28
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAM28/2A5LAM28.BIN
+- Folder: 2A5LAM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAM29/2A5LAM29.BIN
+- Folder: 2A5LAM2B
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAM2B/2A5LAM2B.BIN
+- Folder: 2A5LAM2C
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: ALI5119+SMC37C665
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAM2C/2A5LAM2C.BIN
+- Folder: 2A5LHM2B
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHM2B/2A5LHM2B.BIN
+- Folder: 2A5LHM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar MI5VP4
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHM2A/2A5LHM2A.BIN
+- Folder: 2A5LHM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHM29/2A5LHM29.BIN
+- Folder: 2A5LDM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar AI5VP (VER. 1.0A)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM2A/2A5LDM2A.BIN
+- Folder: 2A5LDM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: TMC/MyComp/MyNix/Megastar AI5VP w/ Winbond 877
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM29/2A5LDM29.BIN
+- Folder: 2A5LDM2B
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM2B/2A5LDM2B.BIN
+- Folder: 2A5LDM2E
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM2E/2A5LDM2E.BIN
+- Folder: 2A5LDM2D
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM2D/2A5LDM2D.BIN
+- Folder: 2A5LDM2C
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDM2C/2A5LDM2C.BIN
+- Folder: 2A5LHTW9
+  Manufacturer: Tontru
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHTW9/2A5LHTW9.BIN
+- Folder: 2A5LHTON
+  Manufacturer: Toshibate
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHTON/2A5LHTON.BIN
+- Folder: 2A5LETJB
+  Manufacturer: Totem
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83977TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETJB/2A5LETJB.BIN
+- Folder: 2A5LETJD
+  Manufacturer: Totem
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETJD/2A5LETJD.BIN
+- Folder: 2A5LETJC
+  Manufacturer: Totem
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETJC/2A5LETJC.BIN
+- Folder: 2A5LETJ9
+  Manufacturer: Totem
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LETJ9/2A5LETJ9.BIN
+- Folder: 2A5LHTJ9
+  Manufacturer: Totem
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Totem TM-MVP4
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHTJ9/2A5LHTJ9.BIN
+- Folder: 2A5LDTJB
+  Manufacturer: Totem
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDTJB/2A5LDTJB.BIN
+- Folder: 2A5LDTJ9
+  Manufacturer: Totem
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDTJ9/2A5LDTJ9.BIN
+- Folder: 2A5LDTJA
+  Manufacturer: Totem
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDTJA/2A5LDTJA.BIN
+- Folder: 2A5LAT69
+  Manufacturer: Trigen
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAT69/2A5LAT69.BIN
+- Folder: 2A5LATIB
+  Manufacturer: Tripod
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LATIB/2A5LATIB.BIN
+- Folder: 2A5LATIA
+  Manufacturer: Tripod
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LATIA/2A5LATIA.BIN
+- Folder: 2A5LATI9
+  Manufacturer: Tripod
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LATI9/2A5LATI9.BIN
+- Folder: 2A5LATI0
+  Manufacturer: Tripod
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LATI0/2A5LATI0.BIN
+- Folder: 2A5LHTX9
+  Manufacturer: Tsann Kuen
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHTX9/2A5LHTX9.BIN
+- Folder: 2A5LET5C
+  Manufacturer: Tyan
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Tyan S1590
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET5C/2A5LET5C.BIN
+- Folder: 2A5LET5D
+  Manufacturer: Tyan
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: Tyan S1598 Trinity ATX
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET5D/2A5LET5D.BIN
+- Folder: 2A5LET5B
+  Manufacturer: Tyan
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET5B/2A5LET5B.BIN
+- Folder: 2A5LET59
+  Manufacturer: Tyan
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Tyan Trinity (S1592)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET59/2A5LET59.BIN
+- Folder: 2A5LET5A
+  Manufacturer: Tyan
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Tyan Trinity (1590S)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LET5A/2A5LET5A.BIN
+- Folder: 2A5LHT59
+  Manufacturer: Tyan
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHT59/2A5LHT59.BIN
+- Folder: 2A5LEU3A
+  Manufacturer: Umax
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU3A/2A5LEU3A.BIN
+- Folder: 2A5LEU4B
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F+W83877TF
+  Release: '2.2'
+  Motherboard: Unicorn ENDAT-586CL
+  Aliases: 'Unicorn ENDAT-586NL
+
+    Unicorn ENDAT-586EL 1.x/2.x'
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4B/2A5LEU4B.BIN
+- Folder: 2A5LEU4E
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C67X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4E/2A5LEU4E.BIN
+- Folder: 2A5LEU4D
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F+W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4D/2A5LEU4D.BIN
+- Folder: 2A5LEU4C
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Unicorn ENDAT-586KL-A
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4C/2A5LEU4C.BIN
+- Folder: 2A5LEU4H
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F+W83877TF
+  Release: '2.2'
+  Motherboard: Unicorn ENDAT-586EL 1.x/2.x
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4H/2A5LEU4H.BIN
+- Folder: 2A5LEU4F
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F+W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4F/2A5LEU4F.BIN
+- Folder: 2A5LEU4A
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F+W83877TF
+  Release: '2.2'
+  Motherboard: Unicorn ENDAT-586HL
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4A/2A5LEU4A.BIN
+- Folder: 2A5LEU49
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU49/2A5LEU49.BIN
+- Folder: 2A5LEU4G
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU4G/2A5LEU4G.BIN
+- Folder: 2A5LHU49
+  Manufacturer: Unicorn
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHU49/2A5LHU49.BIN
+- Folder: 2A5LHU99
+  Manufacturer: Union
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHU99/2A5LHU99.BIN
+- Folder: 2A5LHU9A
+  Manufacturer: Union
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHU9A/2A5LHU9A.BIN
+- Folder: 2A5LE00D
+  Manufacturer: Unknown
+  Chipset: VIA Apollo (M)VP3
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE00D/2A5LE00D.BIN
+- Folder: 2A5LE00B
+  Manufacturer: Unknown
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE00B/2A5LE00B.BIN
+- Folder: 2A5LE00W
+  Manufacturer: Unknown
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE00W/2A5LE00W.BIN
+- Folder: 2A5LE00Y
+  Manufacturer: Unknown
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE00Y/2A5LE00Y.BIN
+- Folder: 2A5LE000
+  Manufacturer: Unknown
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LE000/2A5LE000.BIN
+- Folder: 2A5LAU81
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAU81/2A5LAU81.BIN
+- Folder: 2A5LAU80
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: NONAME VT5099B1-1
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAU80/2A5LAU80.BIN
+- Folder: 2A5LA00B
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LA00B/2A5LA00B.BIN
+- Folder: 2A5LA00C
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LA00C/2A5LA00C.BIN
+- Folder: 2A5LA00A
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LA00A/2A5LA00A.BIN
+- Folder: 2A5LA000
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LA000/2A5LA000.BIN
+- Folder: 2A5LC009
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LC009/2A5LC009.BIN
+- Folder: 2A5LC00A
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LC00A/2A5LC00A.BIN
+- Folder: 2A5LH008
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LH008/2A5LH008.BIN
+- Folder: 2A5LH00S
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LH00S/2A5LH00S.BIN
+- Folder: 2A5LH00A
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LH00A/2A5LH00A.BIN
+- Folder: 2A5LH00O
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LH00O/2A5LH00O.BIN
+- Folder: 2A5LH009
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LH009/2A5LH009.BIN
+- Folder: 2A5LH00G
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LH00G/2A5LH00G.BIN
+- Folder: 2A5LHXU9
+  Manufacturer: Unknown
+  Chipset: VIA Apollo VP4
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHXU9/2A5LHXU9.BIN
+- Folder: 2A5LD00B
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LD00B/2A5LD00B.BIN
+- Folder: 2A5LD00D
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LD00D/2A5LD00D.BIN
+- Folder: 2A5LD00C
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LD00C/2A5LD00C.BIN
+- Folder: 2A5LDZ39
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661RF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ39/2A5LDZ39.BIN
+- Folder: 2A5LDU80
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU80/2A5LDU80.BIN
+- Folder: 2A5LDW8A
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW8A/2A5LDW8A.BIN
+- Folder: 2A5LDW89
+  Manufacturer: Unknown
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW89/2A5LDW89.BIN
+- Folder: 2A5L7000
+  Manufacturer: Unknown
+  Chipset: VIA VT82C570
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7000/2A5L7000.BIN
+- Folder: 2A5L7008
+  Manufacturer: Unknown
+  Chipset: VIA VT82C570
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570/2A5L7008/2A5L7008.BIN
+- Folder: 2A5L9U80
+  Manufacturer: Unknown
+  Chipset: VIA VT82C570M
+  I/O: PC87332
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9U80/2A5L9U80.BIN
+- Folder: 2A5L9008
+  Manufacturer: Unknown
+  Chipset: VIA VT82C570M
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9008/2A5L9008.BIN
+- Folder: 2A5L9000
+  Manufacturer: Unknown
+  Chipset: VIA VT82C570M
+  I/O: None
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VT82C570M/2A5L9000/2A5L9000.BIN
+- Folder: 2A5LEU1A
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA Apollo (M)VP3
+  I/O: NS309
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU1A/2A5LEU1A.BIN
+- Folder: 2A5LEU1B
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU1B/2A5LEU1B.BIN
+- Folder: 2A5LEU1C
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA Apollo (M)VP3
+  I/O: NS309
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU1C/2A5LEU1C.BIN
+- Folder: 2A5LEU1D
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEU1D/2A5LEU1D.BIN
+- Folder: 2A5LHU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHU19/2A5LHU19.BIN
+- Folder: 2A5LDU19
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU19/2A5LDU19.BIN
+- Folder: 2A5LDU1A
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: NS309
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU1A/2A5LDU1A.BIN
+- Folder: 2A5LDU1C
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU1C/2A5LDU1C.BIN
+- Folder: 2A5LDU1B
+  Manufacturer: USI (Universal Scientific Industrial)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDU1B/2A5LDU1B.BIN
+- Folder: 2A5LEV5G
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5G/2A5LEV5G.BIN
+- Folder: 2A5LEV59
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Vision S7MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV59/2A5LEV59.BIN
+- Folder: 2A5LEV5F
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8679
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5F/2A5LEV5F.BIN
+- Folder: 2A5LEV5A
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5A/2A5LEV5A.BIN
+- Folder: 2A5LEV5D
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Vision SP7-MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5D/2A5LEV5D.BIN
+- Folder: 2A5LEV5C
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877TF
+  Release: '2.2'
+  Motherboard: Vision S7-MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5C/2A5LEV5C.BIN
+- Folder: 2A5LEV5B
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Vision S7-MVP3
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5B/2A5LEV5B.BIN
+- Folder: 2A5LEV5E
+  Manufacturer: Vision Top Technology
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8671
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV5E/2A5LEV5E.BIN
+- Folder: 2A5LHV99
+  Manufacturer: Vista
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHV99/2A5LHV99.BIN
+- Folder: 2A5LHV9A
+  Manufacturer: Vista
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHV9A/2A5LHV9A.BIN
+- Folder: 2A5LHV9B
+  Manufacturer: Vista
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHV9B/2A5LHV9B.BIN
+- Folder: 2A5LEV3B
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: PCPartner VIB806DS (35-8806-XX)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3B/2A5LEV3B.BIN
+- Folder: 2A5LEV3E
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3E/2A5LEV3E.BIN
+- Folder: 2A5LEV3L
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3L/2A5LEV3L.BIN
+- Folder: 2A5LEV3K
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: PCPartner MVP3BS7-954 (35-8954-00-xx)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3K/2A5LEV3K.BIN
+- Folder: 2A5LEV3J
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3J/2A5LEV3J.BIN
+- Folder: 2A5LEV3M
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: PCPartner VIB878DS (35-8878-XX)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3M/2A5LEV3M.BIN
+- Folder: 2A5LEV3D
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3D/2A5LEV3D.BIN
+- Folder: 2A5LEV3C
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3C/2A5LEV3C.BIN
+- Folder: 2A5LEV3F
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3F/2A5LEV3F.BIN
+- Folder: 2A5LEV3A
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: PCPartner VIB806DS (35-8806-XX)
+  Aliases: PCPartner VIA809DS (35-8809-XX)
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3A/2A5LEV3A.BIN
+- Folder: 2A5LEV3H
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3H/2A5LEV3H.BIN
+- Folder: 2A5LEV3N
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: PCPartner MVP3BS7-954 (35-8954-00-xx)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3N/2A5LEV3N.BIN
+- Folder: 2A5LEV3I
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: PCPartner VIB878DS (35-8878-XX)
+  Aliases: PCPartner MVP3BS7-954 (35-8954-00-xx)
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3I/2A5LEV3I.BIN
+- Folder: 2A5LEV3G
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Eagle E-MVP3B
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV3G/2A5LEV3G.BIN
+- Folder: 2A5LEV39
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo (M)VP3
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEV39/2A5LEV39.BIN
+- Folder: 2A5LAV3C
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV3C/2A5LAV3C.BIN
+- Folder: 2A5LAV3D
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV3D/2A5LAV3D.BIN
+- Folder: 2A5LAV3E
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV3E/2A5LAV3E.BIN
+- Folder: 2A5LAV3B
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV3B/2A5LAV3B.BIN
+- Folder: 2A5LAV39
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV39/2A5LAV39.BIN
+- Folder: 2A5LAV3A
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV3A/2A5LAV3A.BIN
+- Folder: 2A5LAV3F
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAV3F/2A5LAV3F.BIN
+- Folder: 2A5LHV39
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP4
+  I/O: VIA686
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHV39/2A5LHV39.BIN
+- Folder: 2A5LHV3A
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA Apollo VP4
+  I/O: None
+  Release: '2'
+  Motherboard: PCPartner VIB876S
+  Aliases: 'PCPartner VIM897S
+
+    PCPartner MVP4BS7-947'
+  files:
+  - bios/unicore/VIA/Apollo VP4/2A5LHV3A/2A5LHV3A.BIN
+- Folder: 2A5LDV3C
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3C/2A5LDV3C.BIN
+- Folder: 2A5LDV3B
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: VTech/PC Partner FlagPoint MB RoadRunner VIA 512K
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3B/2A5LDV3B.BIN
+- Folder: 2A5LDV3E
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: PCPartner VIB804DSE (35-8804)
+  Aliases: 'PCPartner VIB814DS (35-8814)
+
+    PCPartner VIB823DS (35-8823)
+
+    PCPartner VIB800DS (35-8331-XX)'
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3E/2A5LDV3E.BIN
+- Folder: 2A5LDV3I
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3I/2A5LDV3I.BIN
+- Folder: 2A5LDV3G
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3G/2A5LDV3G.BIN
+- Folder: 2A5LDV39
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: PCPartner VIB800DS (35-8331-XX)
+  Aliases: 'PCPartner VIB804DS (35-8804)
+
+    PCPartner VIB804DSE (35-8804)
+
+    PCPartner VIB814DS (35-8814)
+
+    PCPartner VIB814DSE (35-8814)'
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV39/2A5LDV39.BIN
+- Folder: 2A5LDV3A
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: VTech/PC Partner
+  Aliases: 'Digimate T5DX-VPX1E-1
+
+    Eagle VPX-200B'
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3A/2A5LDV3A.BIN
+- Folder: 2A5LDV3H
+  Manufacturer: VTech/PC Partner
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDV3H/2A5LDV3H.BIN
+- Folder: 2A5LEW19
+  Manufacturer: WellJoin
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F+W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW19/2A5LEW19.BIN
+- Folder: 2A5LDW19
+  Manufacturer: WellJoin
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: W83877F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW19/2A5LDW19.BIN
+- Folder: 2A5LD00A
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: Winco W-P55VT2 Rev-D
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LD00A/2A5LD00A.BIN
+- Folder: 2A5LDW5E
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5E/2A5LDW5E.BIN
+- Folder: 2A5LDW5B
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5B/2A5LDW5B.BIN
+- Folder: 2A5LDW5C
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5C/2A5LDW5C.BIN
+- Folder: 2A5LDW5D
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: Winco W-P55VT2 REV.D1 (SMC)
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5D/2A5LDW5D.BIN
+- Folder: 2A5LDW5A
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5A/2A5LDW5A.BIN
+- Folder: 2A5LDW5H
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5H/2A5LDW5H.BIN
+- Folder: 2A5LDW5G
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW5G/2A5LDW5G.BIN
+- Folder: 2A5LDW59
+  Manufacturer: Wincom
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDW59/2A5LDW59.BIN
+- Folder: 2A5LEW59
+  Manufacturer: Wincom/Mercury
+  Chipset: VIA Apollo (M)VP3
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW59/2A5LEW59.BIN
+- Folder: 2A5LEW5A
+  Manufacturer: Wincom/Mercury
+  Chipset: VIA Apollo (M)VP3
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEW5A/2A5LEW5A.BIN
+- Folder: 2A5LAW5B
+  Manufacturer: Wincom/Mercury
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAW5B/2A5LAW5B.BIN
+- Folder: 2A5LAW5A
+  Manufacturer: Wincom/Mercury
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAW5A/2A5LAW5A.BIN
+- Folder: 2A5LAW59
+  Manufacturer: Wincom/Mercury
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAW59/2A5LAW59.BIN
+- Folder: 2A5LAY29
+  Manufacturer: Yamashita
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAY29/2A5LAY29.BIN
+- Folder: 2A5LCY2A
+  Manufacturer: Yamashita
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCY2A/2A5LCY2A.BIN
+- Folder: 2A5LCY29
+  Manufacturer: Yamashita
+  Chipset: VIA Apollo VP2 (VT82C590VP aka AMD640)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP2/2A5LCY29/2A5LCY29.BIN
+- Folder: 2A5LDY29
+  Manufacturer: Yamashita
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDY29/2A5LDY29.BIN
+- Folder: 2A5LDY2A
+  Manufacturer: Yamashita
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDY2A/2A5LDY2A.BIN
+- Folder: 2A5LEGEA
+  Manufacturer: Zaapa
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: Globe League/Zaapa ZP-5V2 w/ ITE 8661
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEGEA/2A5LEGEA.BIN
+- Folder: 2A5LEGE9
+  Manufacturer: Zaapa
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEGE9/2A5LEGE9.BIN
+- Folder: 2A5LEZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA Apollo (M)VP3
+  I/O: ITE8661
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo (M)VP3/2A5LEZ19/2A5LEZ19.BIN
+- Folder: 2A5LAZ1B
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAZ1B/2A5LAZ1B.BIN
+- Folder: 2A5LAZ1C
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: PRIME3C
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAZ1C/2A5LAZ1C.BIN
+- Folder: 2A5LAZ1A
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: UMC8669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAZ1A/2A5LAZ1A.BIN
+- Folder: 2A5LAZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA Apollo VP1 (VT82C580VP aka VXPro)
+  I/O: W83877F
+  Release: '2.2'
+  Motherboard: Zida (Tomato) 5DVA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/Apollo VP1/2A5LAZ19/2A5LAZ19.BIN
+- Folder: 2A5LDZ1B
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ1B/2A5LDZ1B.BIN
+- Folder: 2A5LDZ1E
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ1E/2A5LDZ1E.BIN
+- Folder: 2A5LDZ1D
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ1D/2A5LDZ1D.BIN
+- Folder: 2A5LDZ1C
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ1C/2A5LDZ1C.BIN
+- Folder: 2A5LDZ1F
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: ITE8661
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ1F/2A5LDZ1F.BIN
+- Folder: 2A5LDZ1A
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: PRIME3C
+  Release: '2'
+  Motherboard: Zida (Tomato) 5SVA
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ1A/2A5LDZ1A.BIN
+- Folder: 2A5LDZ19
+  Manufacturer: Zida (Tomato)
+  Chipset: VIA VPX (aka VXPro+)
+  I/O: UMC8669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/VIA/VPX/2A5LDZ19/2A5LDZ19.BIN

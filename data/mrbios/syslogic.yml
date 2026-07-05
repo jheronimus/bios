@@ -1,0 +1,72 @@
+- Part Number: V028B301
+  Code: SLGC301
+  Chipset: SysLogic 386 non-cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/386/V028B301/SLGC301.BIN
+- Part Number: V028B302
+  Code: SLGC302
+  Chipset: SysLogic 386 with cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/386/V028B302/SLGC302.BIN
+- Part Number: V028B304
+  Code: SLGC304
+  Chipset: SysLogic 386 non-cache
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/386/V028B304/SLGC304.BIN
+- Part Number: V028B305
+  Code: SLGC305
+  Chipset: SysLogic 386 non-cache
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/386/V028B305/SLGC305.BIN
+- Part Number: V028B306
+  Code: SLGC306
+  Chipset: SysLogic 386 with cache
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/386/V028B306/SLGC306.BIN
+- Part Number: V028B307
+  Code: SLGC307
+  Chipset: SysLogic 386 with cache
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/386/V028B307/SLGC307.BIN
+- Part Number: V028B401
+  Code: SLGC401
+  Chipset: SysLogic 486 no external cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/486/V028B401/SLGC401.BIN
+- Part Number: V028B404
+  Code: SLGC404
+  Chipset: SysLogic 486 no external cache
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/486/V028B404/SLGC404.BIN
+- Part Number: V028B405
+  Code: SLGC405
+  Chipset: SysLogic 486 no external cache
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYSLOGIC/486/V028B405/SLGC405.BIN

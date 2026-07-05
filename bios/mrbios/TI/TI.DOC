@@ -1,0 +1,58 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+-------------------------------------
+Texas Instruments  "TIGER"  TACT83000
+-------------------------------------
+
+Filename   Port      Description
+--------   -------   ---------------------------------------------------------
+V010B300   TACT300   TACT83000 386SX/DX, non-cache
+V010B30A   TACT30A   x010B300  (TL-)
+V010B30B   TACT30B   x010B300  (TL+)
+
+V010B302   TACT302   TACT83000 386SX/DX, Intel 385 cache
+V010B30E   TACT30E   x010B302  (TL-)
+V010B30F   TACT30F   x010B302  (TL+)
+
+V010B303   TACT303   TACT83000 386SX/DX, Austek cache
+V010B30C   TACT30C   x010B303  (TL-)
+V010B30D   TACT30D   x010B303  (TL+)
+
+V010B400   TACT400   TACT83000 486DX, no external cache
+V010B40A   TACT40A   x010B400  (CL-)
+V010B40B   TACT40B   x010B400  (CL+)
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

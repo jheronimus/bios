@@ -1,0 +1,50 @@
+- Part Number: V047B400
+  Code: MOSL400
+  Chipset: MS400 Single Chip
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/MOSEL/MS400/V047B400/MOSL400.BIN
+- Part Number: V047B403
+  Code: MOSL403
+  Chipset: MS400 Single Chip
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/MOSEL/MS400/V047B403/MOSL403.BIN
+- Part Number: V047B404
+  Code: MOSL404
+  Chipset: MS400 Single Chip
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files: []
+- Part Number: V047B410
+  Code: MOSL410
+  Chipset: MS400 Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V047B413
+  Code: MOSL413
+  Chipset: MS400 Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V047B415
+  Code: MOSL415
+  Chipset: MS400 Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []

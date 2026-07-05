@@ -1,0 +1,278 @@
+-- 08/24/95 --
+
+Responses to questions and problem reports regarding MR BIOS
+ShareWare version for Intel Zappa motherboard.
+
+
+----------------------------------------
+Bug Reports, Fixes: Ver 3.10, 3.12, 3.14
+----------------------------------------
+Ver 3.10 - This is the 1st version that was released as ShareWare.
+
+Bug:  The newly installed Plug 'n Play core clobbered the manual-mode
+PCI-Interrupt code.  Manual selection of PCI-Interrupts would totally
+hang the system.  The only way to un-hang it is to change the hardware
+configuration in some way (eg, change the Osc jumper to another speed),
+or to run the Flash Recovery.  Although the vast majority of installations
+should never change the PCI-Interrupts from the "Auto" mode, this bug
+was very troublesome for those power-users who wanted manual control.
+And it was an extremely embarassing bug for MR BIOS.  (Sorry)!
+
+Ver 3.12 - Corrected the Manual-Mode PCI-Interrupt bug.
+
+Ver 3.14 - A couple of reports came in that the parallel-port was not
+working in bidirectional applications.  Testing here verified this.
+Although typical use as an LPT port (eg, for printer) worked perfectly,
+and popular bidirectional applications like LLPRO worked OK, the 8-bit
+bidirectional communications wouldn't work.  It turns out the on-board
+National Semiconductor "306" chip's parallel port does not provide
+"psuedo-bidirectional" functionality in its so-called "compatible"
+mode.  That's the mode MR BIOS Ver 3.12 had enabled.
+
+To solve this, Ver 3.14 now enables the N.S.306 in its "Extended"
+mode, which is a strictly bidirectional mode.  Although a few older
+programs are known to have had problems with this mode, hopefully no
+modern software will experience difficulties with it.
+
+NOTE:  Testing here demonstrates that regardless of which mode is
+selected, 8-bit bidirectional communications between the N.S.306
+and various off-the-shelf combo-adapter cards simply won't work.
+It appears to be an incompatibility in (electrical) signal levels.
+It is independent of which vendor's BIOS was tested.
+
+
+----------------------------------
+Conner IDE Mode-4 related problems
+----------------------------------
+Yes, I am aware of speed-sensitive problems with CFS series Conner IDEs.
+A lot of testing was done about 6 months ago regarding this.  At that
+time, I was convinced that the problems were isolated to the early batch
+of CFS drives, and expected they would soon go away.
+
+To refresh myself on what is going on with these drives, I just did some
+testing and benchmarking.  The test system is a Zappa with 32 MB memory,
+running at a tame 75 MHz.  A Conner CFS-425A Mode-4 (16.7 MB/S) drive
+is the subject of the testing.  For sanity purposes, an older Conner
+CFA-1080A Mode-3 (11.1 MB/S) drive is also included in the tests, since
+it has been an excellent and reliable test-bench drive for the last year
+and a half (or so).  CORE Test V2.90 was used to benchmark the drives'
+performances.  First the Intel/AMI BIOS was checked, then MR BIOS, each
+with its default BIOS settings:
+
+Intel BIOS
+----------
+CFA-1080A (Mode-3) = 9079.3 KB/S
+CFS-425A  (Mode-4) = 7310.0 KB/S
+
+MR BIOS
+-------
+CFA-1080A (Mode-3) = 9194.4 KB/S
+CFS-425A  (Mode-4) = 7531.6 KB/S
+
+
+Question:  What's wrong with this picture?
+
+Answer:  The old Mode-3 drive is delivering significantly better
+throughput than the newer Mode-4 drive.
+
+   ...Draw your own conclusions...
+
+Further testing:  I went into MR BIOS Setup Utility and successively
+reduced the ATA MB/S transfer-rate and retested at each increment.
+The CORE Test result never budged, all the way down to 7.1 MB/S (Mode-2).
+There and below, CORE finally registered slower transfer rates.
+
+Summary:  Currently, MR BIOS is getting unreliable results with the
+Conner CFS drives when set to the Mode-4 timings requested by the
+drive.  It is found by experiment that MR BIOS does run these drives
+reliably if the BIOS Setup Utility is used to manually reduce the
+speed to approx 10 MB/S transfer rate.  From CORE Test results, you
+could slow the BIOS timing all the way down to Mode-2 and still
+not degrade the drive's performance.
+
+Multiple Choice Solution:
+
+a) return the drive for a refund
+b) manually reduce the BIOS MB/S rate
+c) blame the BIOS
+
+Observation:  Neither Intel/AMI nor MR BIOS could run my favorite
+CFA-1080A from the Secondary IDE header.
+
+
+-----------------------------------
+Big Disks and Disk-Manager Problems
+-----------------------------------
+MR BIOS introduced "big-disk" support into this industry back in 1990,
+being the first BIOS to support multi-GByte drives via CHS translation.
+
+The other BIOS vendors were so late to do the same that some IDE drive
+vendors desperately shipped disk-managers with their > 512 MByte drives.
+
+Ironically, some disk-managers don't like the big-disk support that
+has been demanded of a "modern" BIOS.  So when the other BIOS vendors
+finally got around to supporting big disk translation modes, they
+provided several confusing choices including one to turn it off.
+That solves the disk-manager problem (except for the performance hit).
+
+At about the same time the other BIOS vendors were learning how to
+manually support big disks, MR BIOS was evolving to a fully automatic
+mode.  MR BIOS continues to lead the industry in ATA disk support,
+with built-in drivers in the Zappa BIOS for not only the Triton PIIX
+controller, but also for CMD-640, OPTi-621, and NEC-410.  Eight ATA
+drives can be installed and all are auto-configured.  Each IDE may be
+as large as 137 GByte.  Any of them can be mapped to C:.  Ejectable
+(Syquest) media is directly supported.  And, SCSI drives can even be
+mapped in front of IDEs.
+
+Training-wheels are not needed with Harley-Davidsons, and disk-managers
+are not needed with MR BIOS.  If your M/Board vendor had been using
+MR BIOS all along, you wouldn't be stuck now with weirdness on your disk.
+If you want to use MR BIOS now, get the disk-mangler off of your disk.
+
+
+------------------------------------------
+CD-ROM Drives Absent, ATA Drives Disappear
+------------------------------------------
+MR BIOS strictly implements the ATA specification, which requires the
+first (or only) drive on any cable to be jumpered as the "master".  If
+you have an Atapi CD-ROM drive alone on the secondary IDE cable, and
+if MR BIOS doesn't find and report it in the Setup Utility, then it's
+likely jumpered as "slave".  Change it to "master".
+
+Technical Note:
+---------------
+Some Atapi drives lack pullup resistors on reset handshake signals,
+or worse, tri-state them when they should be actively driven.  Some
+IDE drives also do not condition their signals with much (if any)
+strength.  Compounded by the floating IDE headers of the Zappa (and
+in general, Triton) design, this leads to alot of troubles resetting
+drives and compatibility issues when two drives share the cable as
+master and slave.
+
+Also, some Triton designs were subject to errata that inserts series
+resistors between the chip and IDE header to better isolate shared
+ISA-Address signals.  (You may recognize this as the same passive
+solution that $10 Taiwanese IDE cards use to isolate themselves
+from the ISA SD Bus).  Although it seems this multiplexing scheme
+is technically correct, it is unforgiving of ATA drives that linger
+a wee-bit too long on the Bus.
+
+Special Workarounds - WarmUp Delay
+----------------------------------
+Gruesomely technical strategies are implemented in MR BIOS to manage
+these and other ATA difficulties in a fashion that is automatic and
+transparent to the user.  But there is a practical limit to how
+"plug and play" a BIOS can be if the hardware simply won't cooperate.
+
+For example, a family of IDE drives in the early 1990's would simply
+crash if accessed before they were fully spun-up, yet they would signal
+their readiness beforehand.  At that time, MR BIOS was the only BIOS
+in the industry that could complete POST in under 5 seconds, and it
+would indeed crash those drives.  Customers didn't understand (or care
+about) the root of the problem and blamed MR BIOS as being incompatible
+with that brand of drive.  To deal with this, a user selectable "warmup
+delay" was introduced in the Setup Utility to throttle the BIOS.
+
+Today, the manual System WarmUp Delay option encompasses special-case
+workarounds for a variety hardware problems.  Its default setting is
+"None" (no workarounds enabled) so that the majority of users need not
+be subjected to the minor boot delays and double-video initialization
+it causes.
+
+Back to the Point
+-----------------
+If your ATA drives come and go like they're flapping-in-the-breeze,
+enter to the "Boot-Seq" Setup Utility screen and try experimenting with
+the following setting:
+
+     System Warmup Delay ........ 1 Sec
+
+Note: If the drive is already "lost" when you enter the Setup Utility,
+it probably won't immediately re-appear upon exit.  The "warmup" delay
+is intended to prevent the drive from getting "lost" in the first place.
+You might need to re-cycle the power once to get things correct.
+
+
+------------------
+PCI Video Problems
+------------------
+A few PCI VGA cards don't like the PCI Burst capability that the
+Intel Triton chipset can produce.  By default, MR BIOS enables
+it so the majority of Zappa owners can enjoy best performance.
+
+If you are experiencing video problems with MR BIOS, go to the
+"Chipset" Setup Utility screen, and select
+
+     CPU to PCI Burst ....... Disable
+
+
+---------------------
+Setup Utility Q and A
+---------------------
+Press <Ctrl Alt Esc> at the DOS prompt to get to Setup Utility.  If
+this hot-key interferes with one of your programs, you can disable
+it in the "Boot-Seq" Setup Utility screen.
+
+If you disable the <Ctrl Alt Esc> hot-key, the only remaining way to
+get to Setup Utility is by pressing Esc during poweron memory test.
+
+Except for the Time and Date, nothing that you select in the Setup
+Utility is recorded until you press F10 to exit.
+
+If you want to abandon changes you were making, press <Ctrl Alt Del>
+and the computer will reboot without recording anything you changed.
+
+If you want to abandon changes and start over, press <Ctrl Alt Esc>
+to reboot back into Setup Utility.
+
+Recommended default values are shown with an asterisk ("*").  Don't
+change them unless you have a reason.  Put them back when your computer
+crashes.
+
+The default ATA timing mode is "Auto".  Set this way, MR BIOS selects
+the fastest timings that do not exceed the reported capabilities of the
+drive.  You can view this target timing on the bottom line of the screen:
+
+      Disc d Reports:  xy.z MB/S  ATA Mode n
+
+You can manually select explicit MB/S timings by moving the cursor
+onto the "Auto" field and scrolling it.
+
+
+----------------
+EDO RAM Support?
+----------------
+Yes, MR BIOS automatically detects and enables EDO-RAM support for
+each of 5 possible banks where it may be found.
+
+No, MR BIOS doesn't tell you about it.
+
+Yes, it would be real kissy if MR BIOS did show it.
+
+So, what is EDO-RAM ?  Basically, it's the same as normal DRAM in
+practically all respects, and the timings selected by (any) BIOS
+for EDO-RAM are the same as standard DRAM timings.  The difference
+is that during Read Cycles, the data continues to be driven after
+CAS has been removed, until the DRAM's Output-Enable is negated.
+If the chipset is informed of it, it can exploit this behavior
+during back-to-back Read Cycles to improve performance somewhat.
+
+EDO-RAM should not be confused with ED-RAM.  ED-RAM uses a large
+cache-like page to effectively turn your entire memory into high
+speed cache.  A company named Ramtron makes this stuff, and it
+*really* boosts performance.  Ocean Info Systems ships a DX4 board
+that uses it, and its memory performance rivals (exceeds?) the best
+586's I've seen.  Unfortunately, I don't think the Triton chipset
+supports ED-RAM.  Just EDO-RAM.
+
+
+--------------------------------
+Dipswitch Info Screen - 7 MHz !?
+--------------------------------
+Is this a type-o ?   The Osc values shown are 50, 60, 66 and 7 MHz.
+
+According to my oscilloscope, that last dipswitch choice produces
+14.31818 MHz divided by 2.  Ie, approx 7 MHz.  I was amused by its
+uselessness and thought you would be too.  That's all.  It's stupid.
+Don't do it.

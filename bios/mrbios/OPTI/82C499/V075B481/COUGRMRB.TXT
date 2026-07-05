@@ -1,0 +1,9 @@
+MR BIOS
+(C)1989-94 Microid Research Inc
+-------------------
+ChipID 20 3D, ST M27C512
+64KB MR BIOS
+Alaris Cougar, 486BL3/486DX VLB board with OPTi chipset
+BIOS date 04/18/94
+Microid Research BIOS V1.65
+

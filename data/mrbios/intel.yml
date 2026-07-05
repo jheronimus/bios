@@ -1,0 +1,3503 @@
+- Part number: V098B5WH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: A-Trend
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: A-Trend ATC-2000
+  Aliases: ''
+  Stock BIOS string: Award 2A59FA29C
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WH/V098B5WH.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WH/V098B5WH.BIO
+- Part number: V09AB5WC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: A-Trend
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: A-Trend ATC-1020
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5SW
+  Shareware filename: 'MR_5TA2
+
+    MR_ABPT5
+
+    MR_AMAX'
+  BIOS ID: INTL5NC
+  Manufacturer: ABit
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: ABit AB-PT5 (sold under AMAX)
+  Aliases: Soyo SY-5TA2 with NSC 332 I/O
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SW/V097B5SW.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SW/V097B5SW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_5TA2/MR_5TA2.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ABPT5/MR_ABPT5.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_AMAX/MR_AMAX.BIO
+- Part number: V098B5AA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: ABit
+  Chipset: 430HX
+  I/O chip: ALI 5123
+  Motherboard: ABit AB-IT5H
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5AA/V098B5AA.BIN
+- Part number: V098B5SF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: ABit
+  Chipset: 430HX
+  I/O chip: SMC 669
+  Motherboard: ABit AB-PN5 (sold under AMAX)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SF/V098B5SF.BIN
+- Part number: V09AB5AA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: ABit
+  Chipset: 430VX
+  I/O chip: ALI 5123
+  Motherboard: ABit AB-PR5
+  Aliases: ''
+  Stock BIOS string: Award 2A59GA1AC
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50C
+  Shareware filename: 'MR_ACER
+
+    MR_ELITE'
+  BIOS ID: INTL50C
+  Manufacturer: Acer
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: AOpen AP5C
+  Aliases: 'ECS TS54P AIO
+
+    Acer PI30'
+  Stock BIOS string: ''
+  Versions found: 3.21, 3.22, 3.24, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50C/V097B50C.BIN
+  - bios/mrbios/INTEL/430FX/V097B50C/V097B50C.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ACER/3.21/MR_ACER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ACER/3.22/MR_ACER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ACER/3.24/MR_ACER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ACER/3.28/MR_ACER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ACER/3.30/MR_ACER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ELITE/3.27/MR_ELITE.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ELITE/3.28/MR_ELITE.BIO
+- Part number: V098A5SB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Acer
+  Chipset: 430HX
+  I/O chip: SMC 669
+  Motherboard: AOpen AP53
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098A5SB/V098A5SB.BIN
+  - bios/mrbios/INTEL/430HX/V098A5SB/V098A5SB.BIO
+- Part number: V098B5SB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Acer
+  Chipset: 430HX
+  I/O chip: SCM 665
+  Motherboard: AOpen AP53
+  Aliases: Totem TM-586IP2
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SB/V098B5SB.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SB/V098B5SB.BIO
+- Part number: V09BB5SB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Acer
+  Chipset: 430TX
+  I/O chip: SMC 669
+  Motherboard: AOpen AP5T
+  Aliases: ''
+  Stock BIOS string: Award 2A59IAB9
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Acer
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: AOpen AP5VM
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5SE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: ALR
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: ALR Evolution 5ST/5DT
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SE/V097B5SE.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SE/V097B5SE.BIO
+- Part number: V097B5AA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Amptron
+  Chipset: 430FX
+  I/O chip: ALI M5119
+  Motherboard: Amptron PM-7800
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5AA/V097B5AA.BIN
+  - bios/mrbios/INTEL/430FX/V097B5AA/V097B5AA.BIO
+- Part number: V09BB5UA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Amptron
+  Chipset: 430TX
+  I/O chip: UMC 8670
+  Motherboard: Amptron PM-9200B
+  Aliases: 'PCChips M550
+
+    Pine Technology PT-7511
+
+    Minstaple PM 586TX2
+
+    Ability Technologies MB-586TX'
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5IA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Amptron
+  Chipset: 430TX
+  I/O chip: ITE 8679
+  Motherboard: Amptron PM-9800
+  Aliases: ''
+  Stock BIOS string: AMI 51-1220-001437-00111111-071595-i430TX-001_10_TX-H
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Amptron
+  Chipset: 430VX
+  I/O chip: UMC 8663
+  Motherboard: Amptron PM-8900
+  Aliases: 'PCChips M530
+
+    Pine Technology PT-7502-2
+
+    Eurone EM-5900V
+
+    Matsonic MS-5010'
+  Stock BIOS string: 'Award 2A59GF51C
+
+    Award 2A59HT5BC
+
+    Award 2A59GF59
+
+    Award 10031996C'
+  Versions found: '3.46'
+  files: []
+- Part number: V097B51A
+  Shareware filename: MR_ASUS1
+  BIOS ID: INTL51A
+  Manufacturer: Asus
+  Chipset: 430FX
+  I/O chip: Winbond 877
+  Motherboard: Asus P/I-P55TP4N
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B51A/V097B51A.BIN
+  - bios/mrbios/INTEL/430FX/V097B51A/V097B51A.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUS1/MR_ASUS1.BIO
+- Part number: V097B5SA
+  Shareware filename: MR_ASUSS
+  BIOS ID: INTL5SA
+  Manufacturer: Asus
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Asus P/I-P55TP4N
+  Aliases: Asus P/I-P55TP4XE
+  Stock BIOS string: ''
+  Versions found: 3.22, 3.26, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SA/V097B5SA.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SA/V097B5SA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.22/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.26/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.27/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.28/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.30/MR_ASUSS.BIO
+- Part number: V097B5UA
+  Shareware filename: MR_ASUSU
+  BIOS ID: INTL5UA
+  Manufacturer: Asus
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Asus PCI/I-P54TP4
+  Aliases: Asus P/I-P55TP4XE
+  Stock BIOS string: ''
+  Versions found: 3.22, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UA/V097B5UA.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UA/V097B5UA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSU/3.22/MR_ASUSU.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSU/3.30/MR_ASUSU.BIO
+- Part number: V097B5WA
+  Shareware filename: MR_ASUSW
+  BIOS ID: INTL5WA
+  Manufacturer: Asus
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Asus PCI/I-P54TP4
+  Aliases: Asus P/I-P55TP4XE
+  Stock BIOS string: ''
+  Versions found: 3.22, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WA/V097B5WA.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WA/V097B5WA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.22/MR_ASUSW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.27/MR_ASUSW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.28/MR_ASUSW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.30/MR_ASUSW.BIO
+- Part number: V097B50A
+  Shareware filename: MR_ASUS
+  BIOS ID: INTL50A
+  Manufacturer: Asus
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: Asus PCI/I-P54TP4 Rev 1.31
+  Aliases: Asus P/I-P55TP4XE (since 3.21)
+  Stock BIOS string: ''
+  Versions found: 3.19, 3.21, 3.45
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50A/V097B50A.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUS/3.19/MR_ASUS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUS/3.21/MR_ASUS.BIO
+- Part number: V098B5SA
+  Shareware filename: MR_ASUS2
+  BIOS ID: INT25SA
+  Manufacturer: Asus
+  Chipset: 430HX
+  I/O chip: SMC 669
+  Motherboard: Asus P/I-XP55T2P4
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SA/V098B5SA.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SA/V098B5SA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUS2/MR_ASUS2.BIO
+- Part number: V098B5WA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Asus
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: Asus P/I-XP55T2P4 Rev 3
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WA/V098B5WA.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WA/V098B5WA.BIO
+- Part number: V09BB5WB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Asus
+  Chipset: 430TX
+  I/O chip: Winbond 877
+  Motherboard: Asus TX97
+  Aliases: Asus TX97-X
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5WC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Asus
+  Chipset: 430TX
+  I/O chip: Winbond 977
+  Motherboard: Asus TXP4
+  Aliases: Asus TX97-L
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Asus
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Asus P/I-P55TVP4
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WL
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Asus
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Asus VX97
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50D
+  Shareware filename: 'MR_ATEN
+
+    MR_EDOM'
+  BIOS ID: INTL50D
+  Manufacturer: Aten Research
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Aten Research AT-P54CIP
+  Aliases: 'Digicom DIGIS-P54CIP
+
+    Edom MP058 REV:B'
+  Stock BIOS string: ''
+  Versions found: 3.20, 3.21, 3.22, 3.24, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50D/V097B50D.BIN
+  - bios/mrbios/INTEL/430FX/V097B50D/V097B50D.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATEN/3.20/MR_ATEN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATEN/3.24/MR_ATEN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATEN/3.28/MR_ATEN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATEN/3.30/MR_ATEN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.21/MR_EDOM.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.22/MR_EDOM.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.27/MR_EDOM.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.28/MR_EDOM.BIO
+- Part number: V098B5UC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Aten Research
+  Chipset: 430HX
+  I/O chip: UMC 8669
+  Motherboard: Aten Research AT-P54CHP
+  Aliases: 'Digicom DIGIS-P54CHP
+
+    Aten Research AT-P54HP_H-2
+
+    Digicom DIGIS-P54HP_H-2
+
+    M-Tech (MTI)/Rise R528 with onboard SCSI NCR810'
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5UC/V098B5UC.BIN
+  - bios/mrbios/INTEL/430HX/V098B5UC/V098B5UC.BIO
+- Part number: V097A5SF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Azza
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Azza PT-5IS
+  Aliases: 'VTech/PCPartner MB500N/MB530N/MP5-TRI
+
+    MB marked 586IT/TRITON CMD.B
+
+    Azza 5IS'
+  Stock BIOS string: Award 2A59CV3HC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5SF/V097A5SF.BIN
+  - bios/mrbios/INTEL/430FX/V097A5SF/V097A5SF.BIO
+- Part number: V09AB5SR
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Azza
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: Azza PT-5IV
+  Aliases: ''
+  Stock BIOS string: Award 2A59GP8E
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Azza
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Azza PT-5IV
+  Aliases: MiTAC/Trigon PH5400B
+  Stock BIOS string: 'Award 2A59GP89C
+
+    Award 2A59GM39C'
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5S0
+  Shareware filename: MR_TRICS
+  BIOS ID: INTL5S0
+  Manufacturer: BCM
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: BCM SQ-595
+  Aliases: Tricom marked Intel 82430 REV B2
+  Stock BIOS string: Award 2A59CF3DC
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5S0/V097B5S0.BIN
+  - bios/mrbios/INTEL/430FX/V097B5S0/V097B5S0.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TRICS/MR_TRICS.BIO
+- Part number: V09AB5WJ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: BCM
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: BCM SQ-594
+  Aliases: ''
+  Stock BIOS string: Award 2A59GB3DC
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5UU
+  Shareware filename: MR_BSTAR
+  BIOS ID: INTL5UU
+  Manufacturer: Biostar
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Biostar MB-8500TAC
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UU/V097B5UU.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UU/V097B5UU.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_BSTAR/MR_BSTAR.BIO
+- Part number: V097B5SU
+  Shareware filename: MR_BSTAS
+  BIOS ID: INTL5SU
+  Manufacturer: Biostar
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Biostar MB-8500TAC
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SU/V097B5SU.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SU/V097B5SU.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_BSTAS/MR_BSTAS.BIO
+- Part number: V097B50M
+  Shareware filename: MR_TEC
+  BIOS ID: INTL50M
+  Manufacturer: Biostar
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Biostar MB-8500TEC VER 2
+  Aliases: Azza PT-5IW
+  Stock BIOS string: Award 2A59CP8DC
+  Versions found: 3.21, 3.22, 3.27, 3.28, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50M/V097B50M.BIN
+  - bios/mrbios/INTEL/430FX/V097B50M/V097B50M.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.21/MR_TEC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.22/MR_TEC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.27/MR_TEC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.28/MR_TEC.BIO
+- Part number: V097B5WM
+  Shareware filename: MR_TECW
+  BIOS ID: INTL5WM
+  Manufacturer: Biostar
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Biostar MB-8500TEC VER 2
+  Aliases: A-Trend ATC-1000
+  Stock BIOS string: Award 2A59CA29C
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WM/V097B5WM.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WM/V097B5WM.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TECW/MR_TECW.BIO
+- Part number: V097B5UM
+  Shareware filename: MR_TECU
+  BIOS ID: INTL5UM
+  Manufacturer: Biostar
+  Chipset: 430FX
+  I/O chip: UMC 6889
+  Motherboard: Biostar MB-8500TEC VER 3
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UM/V097B5UM.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UM/V097B5UM.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TECU/MR_TECU.BIO
+- Part number: V098B5UB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Biostar
+  Chipset: 430HX
+  I/O chip: UMC 8669
+  Motherboard: Biostar MB-8500TUC REV 2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5UB/V098B5UB.BIN
+  - bios/mrbios/INTEL/430HX/V098B5UB/V098B5UB.BIO
+- Part number: V09BB5SU
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Biostar
+  Chipset: 430TX
+  I/O chip: SMC 672
+  Motherboard: Biostar MB-8500TUD-A
+  Aliases: ''
+  Stock BIOS string: Award 2A59IB0B
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5UT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Chaintech
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Chaintech 5IEM M101
+  Aliases: ''
+  Stock BIOS string: Award 2A59CC3B
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UT/V097B5UT.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UT/V097B5UT.BIO
+- Part number: V098B5UG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Chaintech
+  Chipset: 430HX
+  I/O chip: UMC 8669
+  Motherboard: Chaintech 5IFM M101
+  Aliases: ''
+  Stock BIOS string: Award 2A59FC39
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5UG/V098B5UG.BIN
+  - bios/mrbios/INTEL/430HX/V098B5UG/V098B5UG.BIO
+- Part number: V09AB5WH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Chaintech
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Chaintech 5IGM
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Chaintech
+  Chipset: 430VX
+  I/O chip: UMC 8663
+  Motherboard: Chaintech 5VGM M10x
+  Aliases: ''
+  Stock BIOS string: Award 2A59GC39
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Chaintech
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Chaintech 5VGM M101
+  Aliases: ''
+  Stock BIOS string: Award 2A59GC39C
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5NC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: CSS Laboritories Inc.
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: CSS Laboritories Inc. SCC 575TR
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NC/V097B5NC.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NC/V097B5NC.BIO
+- Part number: V097B5UR
+  Shareware filename: MR_XPRTU
+  BIOS ID: INTL5UR
+  Manufacturer: DataExpert
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: DataExpert EXP8551
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UR/V097B5UR.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UR/V097B5UR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_XPRTU/MR_XPRTU.BIO
+- Part number: V097B50R
+  Shareware filename: MR_DXPRT
+  BIOS ID: INTL50R
+  Manufacturer: DataExpert
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: DataExpert EXP8551 Ver 1.2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.28, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50R/V097B50R.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_DXPRT/MR_DXPRT.BIO
+- Part number: V097B5WR
+  Shareware filename: MR_XPRTW
+  BIOS ID: INTL5WR
+  Manufacturer: DataExpert
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: DataExpert EXP8551 Ver 1.2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WR/V097B5WR.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WR/V097B5WR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_XPRTW/MR_XPRTW.BIO
+- Part number: V098B5SO
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DFI
+  Chipset: 430HX
+  I/O chip: SMC 665
+  Motherboard: DFI G586IPC
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SO/V098B5SO.BIN
+- Part number: V098B5SC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DFI
+  Chipset: 430HX
+  I/O chip: SMC 669
+  Motherboard: 'DFI G586IPC Rev:B
+
+    DFI G586IPC Rev:C'
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SC/V098B5SC.BIN
+- Part number: V09BA5WD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DFI
+  Chipset: 430TX
+  I/O chip: Winbond 977
+  Motherboard: DFI 5861TX
+  Aliases: ''
+  Stock BIOS string: 'Award 2A59ID4B
+
+    Award 2A59ID4BC'
+  Versions found: '3.46'
+  files: []
+- Part number: V09BA5SD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DFI
+  Chipset: 430TX
+  I/O chip: SMC 932
+  Motherboard: DFI 5861TX Rev:A
+  Aliases: ''
+  Stock BIOS string: Award 2A59ID49C
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DFI
+  Chipset: 430VX
+  I/O chip: Winbond 977
+  Motherboard: DFI 586IPVG
+  Aliases: ''
+  Stock BIOS string: Award 2A59GD4B
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DFI
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: DFI G586IPV
+  Aliases: Soltek SL52D2
+  Stock BIOS string: 'Award 2A59GD49C
+
+    Award 2A59GD4FC
+
+    Award 2A59GSN9C'
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5SB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: DTK
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: DTK PAM-00541 (sold under TR ASSOCIATES INC.)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SB/V097B5SB.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SB/V097B5SB.BIO
+- Part number: V097B5UC
+  Shareware filename: MR_ELITU
+  BIOS ID: INTL5UC
+  Manufacturer: ECS
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: ECS TR55P-AIO
+  Aliases: 'Soyo SY-5TEWP
+
+    Soyo SY-5TE2'
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UC/V097B5UC.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UC/V097B5UC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ELITU/MR_ELITU.BIO
+- Part number: V097B5SC
+  Shareware filename: MR_ELITS
+  BIOS ID: INTL5SC
+  Manufacturer: ECS
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: ECS TS54P-AIO
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SC/V097B5SC.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SC/V097B5SC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ELITS/MR_ELITS.BIO
+- Part number: V098B5WE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: ECS
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: ECS P5HX-B
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WE/V098B5WE.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WE/V098B5WE.BIO
+- Part number: V097B5SD
+  Shareware filename: MR_EDOMS
+  BIOS ID: INTL5SD
+  Manufacturer: Edom/Wintec/Wintac/Win Technologies
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Edom MP058 REV B
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SD/V097B5SD.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SD/V097B5SD.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOMS/MR_EDOMS.BIO
+- Part number: V097B5UD
+  Shareware filename: MR_EDOMU
+  BIOS ID: INTL5UD
+  Manufacturer: Edom/Wintec/Wintac/Win Technologies
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Edom MP058 REV B
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UD/V097B5UD.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UD/V097B5UD.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOMU/MR_EDOMU.BIO
+- Part number: V097B5LK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Edom/Wintec/Wintac/Win Technologies
+  Chipset: 430FX
+  I/O chip: LGS Prime 3B
+  Motherboard: Edom MP064
+  Aliases: ''
+  Stock BIOS string: Award 2A59CW0J
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5LK/V097B5LK.BIN
+  - bios/mrbios/INTEL/430FX/V097B5LK/V097B5LK.BIO
+- Part number: V09BB5AE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Edom/Wintec/Wintac/Win Technologies
+  Chipset: 430TX
+  I/O chip: ALI 5135
+  Motherboard: Edom MP080
+  Aliases: ''
+  Stock BIOS string: Award 2A59IW0B
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5LM
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Edom/Wintec/Wintac/Win Technologies
+  Chipset: 430VX
+  I/O chip: LGS 3B
+  Motherboard: Edom MP071A
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5AC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: EFA
+  Chipset: 430TX
+  I/O chip: ALI 5113
+  Motherboard: EFA P5TX-AT
+  Aliases: ''
+  Stock BIOS string: Award 2A59IE39
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5AD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: EFA
+  Chipset: 430VX
+  I/O chip: ALI 5113
+  Motherboard: EFA P5TVX-AT
+  Aliases: ''
+  Stock BIOS string: Award 2A59GE3AC
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5VE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Elonex
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: Elonex 50E with VIA 8240
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5VE/V097B5VE.BIN
+- Part number: V097B50E
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Elonex
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50E/V097B50E.BIN
+- Part number: V097B5RE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Elonex
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5RE/V097B5RE.BIN
+- Part number: V098S5NE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Encore Computer
+  Chipset: 430HX
+  I/O chip: NSC ???
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: BIOS ID IT2S5NE
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430HX/V098S5NE/V098S5NE.BIN
+- Part number: V097B5SZ
+  Shareware filename: MR_P55IT
+  BIOS ID: INTL5SZ
+  Manufacturer: EPoX/ProNiX
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: EPoX/ProNiX EP-P55-IT
+  Aliases: 'DFI 586ICA
+
+    Lucky Star P54CE Rev: A'
+  Stock BIOS string: Award 2A59CPA9C
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SZ/V097B5SZ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SZ/V097B5SZ.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_P55IT/MR_P55IT.BIO
+- Part number: V098B5SE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: EPoX/ProNiX
+  Chipset: 430HX
+  I/O chip: SMC 669
+  Motherboard: EPoX/ProNiX EP-P55-TH
+  Aliases: Astar P55-TH
+  Stock BIOS string: Award 2A59FPACC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SE/V098B5SE.BIN
+- Part number: V09BB5WQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: EPoX/ProNiX
+  Chipset: 430TX
+  I/O chip: Winbond 877
+  Motherboard: EPoX/ProNiX EP-P55-BT
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V098B5WC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: EPS
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: EPS P55-IPS-V0
+  Aliases: ''
+  Stock BIOS string: Award 2A59FDI9C
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WC/V098B5WC.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WC/V098B5WC.BIO
+- Part number: V097B5NO
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: FIC
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: FIC PT-2003
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NO/V097B5NO.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NO/V097B5NO.BIO
+- Part number: V097B5SQ
+  Shareware filename: MR_FICS
+  BIOS ID: INTL5SQ
+  Manufacturer: FIC
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: FIC PT-2003
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SQ/V097B5SQ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SQ/V097B5SQ.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_FICS/MR_FICS.BIO
+- Part number: V097B5UQ
+  Shareware filename: MR_FICU
+  BIOS ID: INTL5UQ
+  Manufacturer: FIC
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: FIC PT-2003
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UQ/V097B5UQ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UQ/V097B5UQ.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_FICU/MR_FICU.BIO
+- Part number: V098B5NA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: FIC
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: FIC PT-2200
+  Aliases: 'MAGITRONICS A-P591JH
+
+    Everex STEP PREMIER
+
+    AMI APOLLO III'
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NA/V098B5NA.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NA/V098B5NA.BIO
+- Part number: V09BB5SF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: FIC
+  Chipset: 430TX
+  I/O chip: SMC 669
+  Motherboard: FIC PT-2011
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AA5WA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: FIC
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: FIC PT-2006
+  Aliases: ''
+  Stock BIOS string: Award 2A59GF09C
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5AF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Ford Lian (Red Fox)
+  Chipset: 430TX
+  I/O chip: ALI 5135
+  Motherboard: Ford Lian (Red Fox) TX-5IB2
+  Aliases: Acorp 5TX29
+  Stock BIOS string: Award 2A59IF99
+  Versions found: '3.45'
+  files: []
+- Part number: V09AO5WG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Freetech/Free Technology/Flexus
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Freetech/Flexus 586F63 (sold under Optimax)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Freetech/Free Technology/Flexus
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Freetech/Flexus Falcon P5F76
+  Aliases: GENOA 586F63
+  Stock BIOS string: Award 2A59GF2C
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50F
+  Shareware filename: MR_FUGU
+  BIOS ID: INTL50F
+  Manufacturer: Fugutech
+  Chipset: 430FX
+  I/O chip: UMC 8663
+  Motherboard: Fugutech WB14L 128LQF-A
+  Aliases: 'Magitronic
+
+    Fugutech P54TA'
+  Stock BIOS string: Award 2A59CF5HC
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50F/V097B50F.BIN
+  - bios/mrbios/INTEL/430FX/V097B50F/V097B50F.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_FUGU/MR_FUGU.BIO
+- Part number: V09AA5SI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Full Yes
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: Full Yes INTEL 82430VX
+  Aliases: ''
+  Stock BIOS string: Award 2A59GF39C
+  Versions found: '3.46'
+  files: []
+- Part number: V097A5WA
+  Shareware filename: MR_MTRON
+  BIOS ID: INTL5WA
+  Manufacturer: Gemlight
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Gemlight GMB-P54IPS (Sold Under Magitronic)
+  Aliases: DTK PAM-0054I
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5WA/V097A5WA.BIN
+  - bios/mrbios/INTEL/430FX/V097A5WA/V097A5WA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_MTRON/MR_MTRON.BIO
+- Part number: V09AB5UL
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Gemlight
+  Chipset: 430VX
+  I/O chip: UMC 8670
+  Motherboard: Gemlight GMB-P56IPS (Sold Under Magitronic)
+  Aliases: DTK PAM-0056I
+  Stock BIOS string: Award 2A59GG39C
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Gemlight
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Gemlight GMB-P56IPS (Sold Under Magitronic)
+  Aliases: DTK PAM-0056I
+  Stock BIOS string: Award 2A59GG39C
+  Versions found: '3.46'
+  files: []
+- Part number: V098B5WG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Genoa
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: Genoa 586FG2 TURBO EXPRESS
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WG/V098B5WG.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WG/V098B5WG.BIO
+- Part number: V097B50Q
+  Shareware filename: MR_GBYTE
+  BIOS ID: INTL50Q
+  Manufacturer: Gigabyte
+  Chipset: 430FX
+  I/O chip: SMC 1665IR
+  Motherboard: Gigabyte GA-586ATE
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.27, 3.28, 3.30, 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50Q/3.31/V097B50Q.BIN
+  - bios/mrbios/INTEL/430FX/V097B50Q/3.46/V097B50Q.BIN
+  - bios/mrbios/INTEL/430FX/V097B50Q/3.46/V097B50Q.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_GBYTE/3.27/MR_GBYTE.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_GBYTE/3.28/MR_GBYTE.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_GBYTE/3.30/MR_GBYTE.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_GBYTE/3.31/MR_GBYTE.BIO
+- Part number: V097C5UQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Gigabyte
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: ''
+  files: []
+- Part number: V098B5WF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Gigabyte
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: Gigabyte GA-586HX
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WF/V098B5WF.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WF/V098B5WF.BIO
+- Part number: V09AB5WA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Gigabyte
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Gigabyte GA-586VX
+  Aliases: TMC AI5TV
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5WU
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Global Circuit Technology
+  Chipset: 430TX
+  I/O chip: Winbond ???
+  Motherboard: Global Circuit Technology GCT-81TB
+  Aliases: DataExpert TX430II
+  Stock BIOS string: Award 2A59IFDE
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5SG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Global Circuit Technology
+  Chipset: 430TX
+  I/O chip: SMC 669
+  Motherboard: Global Circuit Technology GCT-8IT
+  Aliases: ''
+  Stock BIOS string: Award 2A59IG99
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Global Circuit Technology
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: Global Circuit Technology GCT-6VI
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Global Circuit Technology
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: Global Circuit Technology GCT-8IV
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097A5WH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: HSB Computer Labs
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: HSB TR2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5WH/V097A5WH.BIN
+  - bios/mrbios/INTEL/430FX/V097A5WH/V097A5WH.BIO
+- Part number: V098H5WK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: HSB Computer Labs
+  Chipset: 430HX
+  I/O chip: Winbond ???
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430HX/V098H5WK/V098H5WK.BIN
+- Part number: V09BH5WK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: HSB Computer Labs
+  Chipset: 430TX
+  I/O chip: Winbond 977
+  Motherboard: HSB Blackfoot
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: HSB Computer Labs
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: HSB J656VDX
+  Aliases: Jetway J-656VXD VER:2
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AH5SH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: HSB Computer Labs
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: HSB J656VDX
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AH5SI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: HSB Computer Labs
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: HSB J656VDX
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5UH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Hsing Technologies
+  Chipset: 430TX
+  I/O chip: UMC 8670
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V098I5NL
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: IBUS
+  Chipset: 430HX
+  I/O chip: UMC 8670
+  Motherboard: IBUS Leopard Shark
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430HX/V098I5NL/V098I5NL.BIN
+- Part number: V098I5NW
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: IBUS
+  Chipset: 430HX
+  I/O chip: NSC ???
+  Motherboard: IBUS Woody
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430HX/V098I5NW/V098I5NW.BIN
+- Part number: V097W51G
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: Dell "FX" with Virge S3 Trio 64+ onboard Video
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097W51G/V097W51G.BIN
+- Part number: V097B51G
+  Shareware filename: MR_DELL
+  BIOS ID: INTL51G
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: DELL XPS
+  Aliases: ''
+  Stock BIOS string: BIOS Version A02, BIOS Version 0.05.01.BX0
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B51G/V097B51G.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_DELL/MR_DELL.BIO
+- Part number: V097V51G
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: Dell XPS with onboard video
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097V51G/V097V51G.BIN
+  - bios/mrbios/INTEL/430FX/V097V51G/V097V51G.BIO
+- Part number: V097B5NA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: IBM Aptiva/Intel Advanced/MN Morrison
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.0X.CA0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NA/V097B5NA.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NA/V097B5NA.BIO
+- Part number: V097B50G
+  Shareware filename: MR_ALADN
+  BIOS ID: INTL50G
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/AL Alladdin
+  Aliases: Intel Advanced/ZE Zappa E (since 3.27)
+  Stock BIOS string: 'AMI 1.00.0X.BR0T
+
+    AMI 1.00.0X.BR0'
+  Versions found: 3.24, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50G/V097B50G.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.24/MR_ALADN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.27/MR_ALADN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.28/MR_ALADN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.30/MR_ALADN.BIO
+- Part number: V097E50G
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/AL Alladdin'
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E50G/V097E50G.BIN
+- Part number: V097B50L
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/AS Atlantis
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CL0
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50L/V097B50L.BIN
+- Part number: V097B51X
+  Shareware filename: 'MR_ATLAN
+
+    MR_EV2'
+  BIOS ID: INTL51X
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/AS Atlantis (Crystal 4232 sound chip, ATI Mach 64 video)
+  Aliases: Intel Advanced/EV Endeavor, rev. 2 (Crystal 4232 sound chip)
+  Stock BIOS string: AMI 1.00.XX.CL0
+  Versions found: 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B51X/V097B51X.BIN
+  - bios/mrbios/INTEL/430FX/V097B51X/V097B51X.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATLAN/3.28/MR_ATLAN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATLAN/3.30/MR_ATLAN.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EV2/3.28/MR_EV2.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EV2/3.30/MR_EV2.BIO
+- Part number: V097E50L
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/AS Atlantis'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CL0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E50L/V097E50L.BIN
+- Part number: V097E51X
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/AS Atlantis'
+  Aliases: Intel Advanced/EV Endeavor, rev. 2
+  Stock BIOS string: AMI 1.00.XX.CL0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E51X/V097E51X.BIN
+- Part number: V097B50X
+  Shareware filename: MR_ATX
+  BIOS ID: INTL50X
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ATX Thor
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CN0
+  Versions found: 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50X/V097B50X.BIN
+  - bios/mrbios/INTEL/430FX/V097B50X/V097B50X.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATX/3.28/MR_ATX.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ATX/3.30/MR_ATX.BIO
+- Part number: V097E50X
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/ATX Thor'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CN0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E50X/V097E50X.BIN
+- Part number: V097B50V
+  Shareware filename: MR_ENDVR
+  BIOS ID: INTL50V
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/EV Endeavor (Creative sound chip, no onboard video)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CB0
+  Versions found: 3.19, 3.21, 3.22, 3.24, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50V/V097B50V.BIN
+  - bios/mrbios/INTEL/430FX/V097B50V/V097B50V.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.19/MR_ENDVR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.21/MR_ENDVR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.22/MR_ENDVR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.24/MR_ENDVR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.27/MR_ENDVR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.28/MR_ENDVR.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ENDVR/3.30/MR_ENDVR.BIO
+- Part number: V097E50V
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/EV Endeavor'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CB0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E50V/V097E50V.BIN
+- Part number: V097E5NP
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC ???
+  Motherboard: '"Evergreen Technology" Intel Advanced/HL Hillary'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BY0R
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E5NP/V097E5NP.BIN
+- Part number: V097B5NN
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC ???
+  Motherboard: Intel Advanced/PL (Packard Bell)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CP0R
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NN/V097B5NN.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NN/V097B5NN.BIO
+- Part number: V097C50N
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC ???
+  Motherboard: Intel Advanced/MA Monaco
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BU0Q
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097C50N/V097C50N.BIN
+  - bios/mrbios/INTEL/430FX/V097C50N/V097C50N.BIO
+- Part number: V097B5NP
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/HL (Packard Bell)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BY0R
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NP/V097B5NP.BIN
+- Part number: V097B50N
+  Shareware filename: MR_MORIS
+  BIOS ID: INTL50N
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/MN Morrison
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BT0
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50N/V097B50N.BIN
+  - bios/mrbios/INTEL/430FX/V097B50N/V097B50N.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_MORIS/MR_MORIS.BIO
+- Part number: V097E50N
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/MN Morrison'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BT0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E50N/V097E50N.BIN
+- Part number: V097B5NH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/MN S64 Morrison64 (HP 7170)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.0X.CA2L
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NH/V097B5NH.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NH/V097B5NH.BIO
+- Part number: V097A50N
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/MN Morrison with onboard Crystal 4232 sound
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BT0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A50N/V097A50N.BIN
+  - bios/mrbios/INTEL/430FX/V097A50N/V097A50N.BIO
+- Part number: V097V50N
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/MN Morrison with onboard video
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BT0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097V50N/V097V50N.BIN
+  - bios/mrbios/INTEL/430FX/V097V50N/V097V50N.BIO
+- Part number: V097A5NH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/MN Morrison with Trio 32+ VGA and Crystal 4232 sound
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5NH/V097A5NH.BIN
+  - bios/mrbios/INTEL/430FX/V097A5NH/V097A5NH.BIO
+- Part number: V097A5NI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ZE Zappa E
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BR0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5NI/V097A5NI.BIN
+  - bios/mrbios/INTEL/430FX/V097A5NI/V097A5NI.BIO
+- Part number: V097B5NI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ZE Zappa E
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BR0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NI/V097B5NI.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NI/V097B5NI.BIO
+- Part number: V097E5NI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/ZE Zappa E'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.BR0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E5NI/V097E5NI.BIN
+- Part number: V097B50I
+  Shareware filename: MR_ZAPPA
+  BIOS ID: INTL50I
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ZP Zappa P
+  Aliases: Intel Advanced/ZED Zappa ED (since 3.27)
+  Stock BIOS string: ''
+  Versions found: 3.12, 3.14, 3.15, 3.19, 3.20, 3.21, 3.22, 3.24, 3.27, 3.28, 3.30,
+    3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50I/V097B50I.BIN
+  - bios/mrbios/INTEL/430FX/V097B50I/V097B50I.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.12/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.14/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.15/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.19/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.20/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.21/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.22/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.24/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.27/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.28/MR_ZAPPA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ZAPPA/3.30/MR_ZAPPA.BIO
+- Part number: V097E50I
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/ZP Zappa P'
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097E50I/V097E50I.BIN
+- Part number: V098B5NH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC ???
+  Motherboard: HP Pavilion 7020/7270/7275Z/7280P/7285/7295V Ruby
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.0X.DC0L
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NH/V098B5NH.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NH/V098B5NH.BIO
+- Part number: V098B5NI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ML Marl
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.DB0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NI/V098B5NI.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NI/V098B5NI.BIO
+- Part number: V098B5NV
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ML Marl (Sold under Trigem Amazon)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.DV0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NV/V098B5NV.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NV/V098B5NV.BIO
+- Part number: V098E5NI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel Advanced/ML Marl'
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098E5NI/V098E5NI.BIN
+- Part number: V098S50P
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel Advanced/ML Marl (Sold under PROCOM TECHNOLOGY)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098S50P/V098S50P.BIN
+- Part number: V098A5NH
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC ???
+  Motherboard: HP Pavillion 73xx Series
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.0X.DL0L
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098A5NH/V098A5NH.BIN
+  - bios/mrbios/INTEL/430HX/V098A5NH/V098A5NH.BIO
+- Part number: V098B5NC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC ???
+  Motherboard: Intel CU430HX Cumberland On-Board Video and Audio
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.0X.DK0X
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NC/V098B5NC.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NC/V098B5NC.BIO
+- Part number: V098B5NT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel TC430HX Tucson
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.DH0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NT/V098B5NT.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NT/V098B5NT.BIO
+- Part number: V098E5NT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: '"Evergreen Technology" Intel TC430HX Tucson'
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.DH0
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098E5NT/V098E5NT.BIN
+- Part number: V098S5NG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel TC430HX Tucson (sold under SILICON GAMING)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098S5NG/V098S5NG.BIN
+- Part number: V098V5NT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel TC430HX Tucson w/On-Board Video & Audio
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098V5NT/V098V5NT.BIN
+  - bios/mrbios/INTEL/430HX/V098V5NT/V098V5NT.BIO
+- Part number: V098Y5NT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Intel TC430HX Tucson w/On-Board Video & Audio [S3-375]
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098Y5NT/V098Y5NT.BIO
+- Part number: V09AB5SD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430VX
+  I/O chip: SMC 93x
+  Motherboard: DELL XPS VX
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430VX
+  I/O chip: SMC 93x
+  Motherboard: Gateway 2000 ATX (Intel MA430VX Mailman)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.DQ0T
+  Versions found: '3.45'
+  files: []
+- Part number: V09AA5SQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430VX
+  I/O chip: SMC ???
+  Motherboard: Intel MA430VX Mailman Gateway 2000 (Inverted A20) Need MRFLASH Rev
+    2.22
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files: []
+- Part number: V09AB5NI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430VX
+  I/O chip: NSC 306
+  Motherboard: Packard Bell NV430VX (Orlando/Tampa)
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.DN0R
+  Versions found: '3.45'
+  files: []
+- Part number: V09AB5SZ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430VX
+  I/O chip: SMC ???
+  Motherboard: Intel TE430VX Tigereye
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.0X.CY1T
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5NV
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
+    brick the board!)'
+  Chipset: 430VX
+  I/O chip: NSC ???
+  Motherboard: Packard Bell, NEC, Dell "VX" with Virge S3 Trio 64+ On-Board Video
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5SI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Iwill
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Iwill P54TS with Adaptec 7850
+  Aliases: ''
+  Stock BIOS string: Award 2A59CI3A
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SI/V097B5SI.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SI/V097B5SI.BIO
+- Part number: V097A5SI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Iwill
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Iwill P54TSW with Adaptec 7870
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5SI/V097A5SI.BIN
+  - bios/mrbios/INTEL/430FX/V097A5SI/V097A5SI.BIO
+- Part number: V09BB5AI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Iwill
+  Chipset: 430TX
+  I/O chip: ALI 5135
+  Motherboard: Iwill P55XB2
+  Aliases: ''
+  Stock BIOS string: Award 2A59II3B
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50J
+  Shareware filename: MR_JBOND
+  BIOS ID: INTL50J
+  Manufacturer: J-Bond
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: J-Bond PCI500C-E
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.22, 3.27, 3.28, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50J/V097B50J.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_JBOND/3.22/MR_JBOND.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JBOND/3.27/MR_JBOND.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JBOND/3.28/MR_JBOND.BIO
+- Part number: V097B5SJ
+  Shareware filename: MR_JBNDS
+  BIOS ID: INTL5WJ
+  Manufacturer: J-Bond
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: J-Bond PCI500C-E
+  Aliases: VTech/PCPartner MP5-TRI
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SJ/V097B5SJ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SJ/V097B5SJ.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JBNDS/MR_JBNDS.BIO
+- Part number: V097B5WJ
+  Shareware filename: MR_JBNDW
+  BIOS ID: INTL5WJ
+  Manufacturer: J-Bond
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: J-Bond PCI500C-E
+  Aliases: VTech/PCPartner MP5-TRI
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WJ/V097B5WJ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WJ/V097B5WJ.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JBNDW/MR_JBNDW.BIO
+- Part number: V09AB5WM
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: J-Bond
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: J-Bond PCI500C-H
+  Aliases: ''
+  Stock BIOS string: Award 2A59GJ39
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5ST
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Jaton
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: Award 2A59GJMB
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5SK
+  Shareware filename: MR_JETS
+  BIOS ID: INTL5SK
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Jetway J-656
+  Aliases: 'Edom MP058 Rev: B
+
+    Edom MP058 Rev: D
+
+    EFA P55TPIO-B'
+  Stock BIOS string: 'Award 2A59CW0JC
+
+    Award 2A59CE3KC
+
+    Award 2A59CW0MC'
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SK/V097B5SK.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SK/V097B5SK.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JETS/MR_JETS.BIO
+- Part number: V097B5UK
+  Shareware filename: MR_EDMDU
+  BIOS ID: INTL5UK
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Jetway J-656
+  Aliases: Edom MP058 Rev:D
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UK/V097B5UK.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UK/V097B5UK.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDMDU/MR_EDMDU.BIO
+- Part number: V097B5WK
+  Shareware filename: MR_JETW
+  BIOS ID: INTL5WK
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Jetway J-656B
+  Aliases: 'Edom MP058 Rev: D'
+  Stock BIOS string: ''
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WK/V097B5WK.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WK/V097B5WK.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JETW/MR_JETW.BIO
+- Part number: V097B50K
+  Shareware filename: MR_JET
+  BIOS ID: INTL50K
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Jetway J-656B
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.22, 3.27, 3.28, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50K/V097B50K.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_JET/3.22/MR_JET.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JET/3.27/MR_JET.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JET/3.28/MR_JET.BIO
+- Part number: V098B5WK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: Jetway J-656HXA
+  Aliases: 'Azza PT-5IH
+
+    Acorp 5HX4
+
+    Acorp 586HX
+
+    Proteam
+
+    Zida 5DHX rev 1.2'
+  Stock BIOS string: Award 2A59FP89
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WK/V098B5WK.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WK/V098B5WK.BIO
+- Part number: V09BB5AJ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430TX
+  I/O chip: ALI 5135
+  Motherboard: Jetway J-5TXB
+  Aliases: ''
+  Stock BIOS string: 'Award 2A59IJ19C
+
+    Award 2A59IJ19'
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: Jetway J-656VXB Ver 1
+  Aliases: ''
+  Stock BIOS string: Award 2A59GJ1CC
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5LK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430VX
+  I/O chip: LGS 3C
+  Motherboard: Jetway J-656VXB Ver 2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SJ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: Jetway J-656VXB Ver 2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5NJ
+  Shareware filename: MR_JBNDN
+  BIOS ID: INTL5NJ
+  Manufacturer: Kaimei
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: Kaimei KM-T5-2 v1.1
+  Aliases: 'Jamicon MB-KM-T5-2 v1.1
+
+    J-Bond unknown'
+  Stock BIOS string: 'Award 2A59CR29C
+
+    Award 2A59C429C'
+  Versions found: 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NJ/V097B5NJ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NJ/V097B5NJ.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JBNDN/MR_JBNDN.BIO
+- Part number: V09BB5AK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Kaimei
+  Chipset: 430TX
+  I/O chip: ALI 513X
+  Motherboard: Kaimei KM-T5-T1 rev 1.31
+  Aliases: ''
+  Stock BIOS string: Award 2A59IK19
+  Versions found: ''
+  files: []
+- Part number: V09BB5IB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Lucky Star
+  Chipset: 430TX
+  I/O chip: ITE 8679
+  Motherboard: Lucky Star 5I-TX1
+  Aliases: ''
+  Stock BIOS string: Award 2A59IL1CC
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UJ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Lucky Star
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Lucky Star P54CE
+  Aliases: Lucky Star 5I-VX2
+  Stock BIOS string: Award 2A59GL1C
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5WD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: M-Tech (MTI)/Rise
+  Chipset: 430TX
+  I/O chip: Winbond 977
+  Motherboard: M-Tech (MTI)/Rise R540
+  Aliases: ''
+  Stock BIOS string: Award 2A59IS2EC
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5WE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: M-Tech (MTI)/Rise
+  Chipset: 430TX
+  I/O chip: Winbond 977
+  Motherboard: M-Tech (MTI)/Rise R541
+  Aliases: San Li SL-586TX
+  Stock BIOS string: 'Award 2A59IR0BC
+
+    Award 2A59ISM9C'
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: M-Tech (MTI)/Rise
+  Chipset: 430VX
+  I/O chip: Winbond 777
+  Motherboard: M-Tech (MTI)/Rise R529
+  Aliases: ''
+  Stock BIOS string: 'Award 2A59GROAC
+
+    Award 2A59GT4BC'
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50H
+  Shareware filename: 'MR_MCRNC
+
+    MR_OCTEK'
+  BIOS ID: INTL50H
+  Manufacturer: Micronics
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Micronics M54Hi
+  Aliases: Octek Rhino 6 (since 3.28)
+  Stock BIOS string: ''
+  Versions found: 3.27, 3.28, 3.30, 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50H/V097B50H.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_MCRNC/3.27/MR_MCRNC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_MCRNC/3.28/MR_MCRNC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_MCRNC/3.30/MR_MCRNC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_OCTEK/3.28/MR_OCTEK.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_OCTEK/3.31/MR_OCTEK.BIO
+- Part number: V097B51H
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Micronics
+  Chipset: 430FX
+  I/O chip: SMC 932
+  Motherboard: Micronics M54Hi-Plus
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B51H/V097B51H.BIN
+- Part number: V098B5AM
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Micronics
+  Chipset: 430HX
+  I/O chip: ALI 5113
+  Motherboard: Micronics D5CUB
+  Aliases: 'EFA P55T2-PIO-B
+
+    EFA P55T2-SPIO-B'
+  Stock BIOS string: Award 2A59FE3C
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5AM/V098B5AM.BIN
+  - bios/mrbios/INTEL/430HX/V098B5AM/V098B5AM.BIO
+- Part number: V098B5SM
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Micronics
+  Chipset: 430HX
+  I/O chip: SMC 932
+  Motherboard: Micronics M55Hi-Plus
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SM/V098B5SM.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SM/V098B5SM.BIO
+- Part number: V098B5SN
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Micronics
+  Chipset: 430HX
+  I/O chip: SMC 935
+  Motherboard: Micronics M55Hi-Plus rev 3
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SN/V098B5SN.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SN/V098B5SN.BIO
+- Part number: V09AB5WE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Modular Circuit Technology
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: Modular Circuit Technology P5VX-B
+  Aliases: Tekram P5V30-B4
+  Stock BIOS string: Award 2A59GTG9C
+  Versions found: '3.46'
+  files: []
+- Part number: V098B5WB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: MSI
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: MSI MS-5128 TR4
+  Aliases: ''
+  Stock BIOS string: Award 2A59FM4AC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WB/V098B5WB.BIN
+  - bios/mrbios/INTEL/430HX/V098B5WB/V098B5WB.BIO
+- Part number: V09AB5WN
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: MSI
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: MSI MS-5129 TR5 Ver 1.2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5WB
+  Shareware filename: MR_MYLEX
+  BIOS ID: INTL5WB
+  Manufacturer: Mylex
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: Mylex MGPT-PNTM-B
+  Aliases: Chaintech 5IDM2 M105
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WB/V097B5WB.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WB/V097B5WB.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_MYLEX/MR_MYLEX.BIO
+- Part number: V097C5WB
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Mylex
+  Chipset: 430FX
+  I/O chip: Winbond ???
+  Motherboard: Mylex MGPT-PNTM-B
+  Aliases: Chaintech 5IDM2 M105
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097C5WB/V097C5WB.BIN
+  - bios/mrbios/INTEL/430FX/V097C5WB/V097C5WB.BIO
+- Part number: V097B5NR
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: NEC
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: NEC Ready 9520
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.XX.CA0K
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NR/V097B5NR.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NR/V097B5NR.BIO
+- Part number: V097B5SN
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: NEC
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: NEC Ready 9522
+  Aliases: ''
+  Stock BIOS string: Phoenix 4.05 ver 00.04.08
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SN/V097B5SN.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SN/V097B5SN.BIO
+- Part number: V097B51Q
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: NEC
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: NEC Ready 9542
+  Aliases: ''
+  Stock BIOS string: AMI 1.00.04.CA0K
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B51Q/V097B51Q.BIN
+- Part number: V097B5AS
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: NewTech/SMT
+  Chipset: 430FX
+  I/O chip: ALI 5113
+  Motherboard: SMT 5TA
+  Aliases: ''
+  Stock BIOS string: Award 2A59CSEB
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5AS/V097B5AS.BIN
+  - bios/mrbios/INTEL/430FX/V097B5AS/V097B5AS.BIO
+- Part number: V098B5UD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Octek
+  Chipset: 430HX
+  I/O chip: UMC 8669
+  Motherboard: Octek Rhino 9
+  Aliases: Shuttle HOT-553
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5UD/V098B5UD.BIN
+  - bios/mrbios/INTEL/430HX/V098B5UD/V098B5UD.BIO
+- Part number: V09BB5IO
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Octek
+  Chipset: 430TX
+  I/O chip: ITE 8679
+  Motherboard: Octek Rhino 15
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB50H
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Octek
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: Octek Rhino 10
+  Aliases: ''
+  Stock BIOS string: Award 2A59GO0D
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Octek
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Octek Rhino 6VX
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5XP
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Pine
+  Chipset: 430FX
+  I/O chip: None
+  Motherboard: Pine PT-740A
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5XP/V097B5XP.BIN
+  - bios/mrbios/INTEL/430FX/V097B5XP/V097B5XP.BIO
+- Part number: V09AP5UE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Pine
+  Chipset: 430VX
+  I/O chip: UMC ???
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files: []
+- Part number: V09AB5SP
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Prime
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: Prime VT586VXB
+  Aliases: ''
+  Stock BIOS string: Award 2A59GV5G
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5NQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: QDI
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: QDI P5I437/250A
+  Aliases: ''
+  Stock BIOS string: Award 2A59CQ1AC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NQ/V097B5NQ.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NQ/V097B5NQ.BIO
+- Part number: V098B5NQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: QDI
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: QDI Frontier P5I430HX-T2
+  Aliases: ''
+  Stock BIOS string: Award 2A59FQ1C
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5NQ/V098B5NQ.BIN
+  - bios/mrbios/INTEL/430HX/V098B5NQ/V098B5NQ.BIO
+- Part number: V09AB5NA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: QDI
+  Chipset: 430VX
+  I/O chip: NSC 306
+  Motherboard: QDI Explorer P5I430VX-250
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5UE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Rectron
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Rectron PI-5XTP4
+  Aliases: VTech/PCPartner MB500N
+  Stock BIOS string: Award 2A59CV3KC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5UE/V097B5UE.BIN
+  - bios/mrbios/INTEL/430FX/V097B5UE/V097B5UE.BIO
+- Part number: V097A5WC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Rectron
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: Award 2A59CR2BC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5WC/V097A5WC.BIN
+  - bios/mrbios/INTEL/430FX/V097A5WC/V097A5WC.BIO
+- Part number: V097C5UE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Shuttle HOT-541
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097C5UE/V097C5UE.BIN
+- Part number: V097A5SE
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430FX
+  I/O chip: SMC 541
+  Motherboard: Shuttle HOT-541
+  Aliases: ''
+  Stock BIOS string: Award 2A59CH2A
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5SE/V097A5SE.BIN
+  - bios/mrbios/INTEL/430FX/V097A5SE/V097A5SE.BIO
+- Part number: V097A5UE
+  Shareware filename: MR_HOTU
+  BIOS ID: INTL5UE
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Shuttle HOT-541
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5UE/V097A5UE.BIN
+  - bios/mrbios/INTEL/430FX/V097A5UE/V097A5UE.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_HOTU/MR_HOTU.BIO
+- Part number: V097B5NS
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: Shuttle HOT-541
+  Aliases: ''
+  Stock BIOS string: Award 2A59CH29
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5NS/V097B5NS.BIN
+  - bios/mrbios/INTEL/430FX/V097B5NS/V097B5NS.BIO
+- Part number: V097A5UF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Shuttle HOT-541 ver 2.5
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5UF/V097A5UF.BIN
+  - bios/mrbios/INTEL/430FX/V097A5UF/V097A5UF.BIO
+- Part number: V098B5UF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430HX
+  I/O chip: UMC 8669
+  Motherboard: Shuttle HOT-553
+  Aliases: ''
+  Stock BIOS string: Award 2A59FH29
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5UF/V098B5UF.BIN
+  - bios/mrbios/INTEL/430HX/V098B5UF/V098B5UF.BIO
+- Part number: V09BB5IL
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430TX
+  I/O chip: ITE 8680
+  Motherboard: Shuttle HOT-569
+  Aliases: ''
+  Stock BIOS string: Award 2A59IH2E
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5IN
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430TX
+  I/O chip: ITE 8679F
+  Motherboard: Shuttle HOT-569 Rev 2.0
+  Aliases: ''
+  Stock BIOS string: Award 2A59IH2H
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5IM
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430TX
+  I/O chip: ITE 8679F
+  Motherboard: Shuttle HOT-569 Rev 2.1
+  Aliases: ''
+  Stock BIOS string: Award 2A59IH2H
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Shuttle HOT-555
+  Aliases: Shuttle HOT-557
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5IS
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430VX
+  I/O chip: ITE 8680
+  Motherboard: Shuttle HOT-555A
+  Aliases: ''
+  Stock BIOS string: Award 2A59GH2K
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Shuttle (Holco)
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: Shuttle HOT-557 REV 1.5
+  Aliases: ''
+  Stock BIOS string: Award 2A59GH21C
+  Versions found: '3.46'
+  files: []
+- Part number: V097A5ND
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430FX
+  I/O chip: NSC 332
+  Motherboard: Soyo SY-5TA2
+  Aliases: ''
+  Stock BIOS string: Award 2A59CS2H
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5ND/V097A5ND.BIN
+  - bios/mrbios/INTEL/430FX/V097A5ND/V097A5ND.BIO
+- Part number: V097A5SK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Soyo SY-5TC2
+  Aliases: Mtech (Rise) R525
+  Stock BIOS string: Award 2A59CR0AC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5SK/V097A5SK.BIN
+  - bios/mrbios/INTEL/430FX/V097A5SK/V097A5SK.BIO
+- Part number: V097A5UK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430FX
+  I/O chip: UMC 8669
+  Motherboard: Soyo SY-5TEWP
+  Aliases: Mtech (Rise) R525
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5UK/V097A5UK.BIN
+  - bios/mrbios/INTEL/430FX/V097A5UK/V097A5UK.BIO
+- Part number: V098B5WI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430HX
+  I/O chip: Winbond 877
+  Motherboard: Soyo SY-5TF5
+  Aliases: ''
+  Stock BIOS string: Award 2A59FS2AC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5WI/V098B5WI.BIN
+- Part number: V09BB5WY
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430TX
+  I/O chip: Winbond 977
+  Motherboard: Soyo SY-5BT
+  Aliases: ''
+  Stock BIOS string: 'Award 2A59IS2B
+
+    Award 2A59IS2BC'
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5LD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430VX
+  I/O chip: LGS 3C
+  Motherboard: Soyo GT60726
+  Aliases: 'Gigabyte GA-586ATV
+
+    Biostar MB-8500TVX
+
+    Biostar MB-8500TVD-A'
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Soyo
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Soyo GT60726
+  Aliases: 'Gigabyte GA586ATV
+
+    Biostar MB-8500TVX
+
+    Biostar MB-8500TUR'
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5US
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Spring Circle
+  Chipset: 430VX
+  I/O chip: PC87332
+  Motherboard: Spring Circle SP564/ST586 P561-U03
+  Aliases: Soyo SY-5TA2
+  Stock BIOS string: Award 2A59GS9A
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50S
+  Shareware filename: MR_SUPER
+  BIOS ID: INTL50S
+  Manufacturer: Supermicro
+  Chipset: 430FX
+  I/O chip: NSC 306
+  Motherboard: Supermicro P55CM
+  Aliases: Supermicro P55CMS (since version 3.30)
+  Stock BIOS string: ''
+  Versions found: 3.21, 3.22, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50S/V097B50S.BIN
+  - bios/mrbios/INTEL/SHAREWARE/MR_SUPER/3.21/MR_SUPER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SUPER/3.22/MR_SUPER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SUPER/3.27/MR_SUPER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SUPER/3.28/MR_SUPER.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SUPER/3.30/MR_SUPER.BIO
+- Part number: V097B5WS
+  Shareware filename: MR_SMCWA
+  BIOS ID: INTL5WS
+  Manufacturer: Supermicro
+  Chipset: 430FX
+  I/O chip: None
+  Motherboard: Supermicro P55CWA
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.22, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WS/V097B5WS.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WS/V097B5WS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SMCWA/3.22/MR_SMCWA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SMCWA/3.27/MR_SMCWA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SMCWA/3.28/MR_SMCWA.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_SMCWA/3.30/MR_SMCWA.BIO
+- Part number: V098B50S
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Supermicro
+  Chipset: 430HX
+  I/O chip: NSC 306
+  Motherboard: Supermicro P55CT2S
+  Aliases: 'Supermicro P55T2S
+
+    Supermicro P5STE'
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B50S/V098B50S.BIN
+  - bios/mrbios/INTEL/430HX/V098B50S/V098B50S.BIO
+- Part number: V09BB5WV
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Supermicro
+  Chipset: 430TX
+  I/O chip: Winbond 967
+  Motherboard: Supermicro P5MMS98
+  Aliases: ''
+  Stock BIOS string: Award 2A59ISX9
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5WT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Taken
+  Chipset: 430FX
+  I/O chip: Winbond 787
+  Motherboard: Taken PCI590-2
+  Aliases: ''
+  Stock BIOS string: Award 2A59CT49
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WT/V097B5WT.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WT/V097B5WT.BIO
+- Part number: V097B5SP
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tekram
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: PCI54IM-1 (sold under Canon)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SP/V097B5SP.BIN
+  - bios/mrbios/INTEL/430FX/V097B5SP/V097B5SP.BIO
+- Part number: V09BB5WT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tekram
+  Chipset: 430TX
+  I/O chip: Winbond 877
+  Motherboard: Tekram P5T30-B4
+  Aliases: ''
+  Stock BIOS string: Award 2A59IM2A
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50P
+  Shareware filename: MR_TMC
+  BIOS ID: INTL50P
+  Manufacturer: TMC
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: TMC PCI54IT
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.21, 3.22, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50P/V097B50P.BIN
+  - bios/mrbios/INTEL/430FX/V097B50P/V097B50P.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TMC/3.21/MR_TMC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TMC/3.22/MR_TMC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TMC/3.27/MR_TMC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TMC/3.28/MR_TMC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TMC/3.30/MR_TMC.BIO
+- Part number: V098B5SL
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: TMC
+  Chipset: 430HX
+  I/O chip: SMC 665
+  Motherboard: TMC AI5TH
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SL/V098B5SL.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SL/V098B5SL.BIO
+- Part number: V09AB5AC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Trang Bow/Trangg Bow
+  Chipset: 430VX
+  I/O chip: ALI 5113
+  Motherboard: Trang Bow/Trangg Bow KBT5A-2
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097B5U0
+  Shareware filename: MR_82430
+  BIOS ID: INTL5U0
+  Manufacturer: Tricom
+  Chipset: 430FX
+  I/O chip: UMC 8663
+  Motherboard: 'TRICOM MARKED: 824301 on User''s Manual'
+  Aliases: Suk Jung SJ-P54CS
+  Stock BIOS string: 'Award 2A59CF32
+
+    Award 2A59CH2EC
+
+    Award 2A59CSCH'
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5U0/V097B5U0.BIN
+  - bios/mrbios/INTEL/430FX/V097B5U0/V097B5U0.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_82430/MR_82430.BIO
+- Part number: V097B5LT
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tyan
+  Chipset: 430FX
+  I/O chip: None
+  Motherboard: Tyan 50T with keyboard controller Lance 8042
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5LT/V097B5LT.BIN
+- Part number: V097B50T
+  Shareware filename: MR_TYAN1
+  BIOS ID: INTL50T
+  Manufacturer: Tyan
+  Chipset: 430FX
+  I/O chip: None
+  Motherboard: Tyan S1461
+  Aliases: 'Tyan S1463
+
+    Tyan S1466
+
+    Octek SHARK 1'
+  Stock BIOS string: 'Award 2A59CF32
+
+    Award 2A59CH2EC'
+  Versions found: 3.20, 3.21, 3.22, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50T/V097B50T.BIN
+  - bios/mrbios/INTEL/430FX/V097B50T/V097B50T.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN1/3.20/MR_TYAN1.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN1/3.21/MR_TYAN1.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN1/3.22/MR_TYAN1.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN1/3.27/MR_TYAN1.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN1/3.28/MR_TYAN1.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN1/3.30/MR_TYAN1.BIO
+- Part number: V097B5ST
+  Shareware filename: 'MR_TYAN2
+
+    MR_TYAN3'
+  BIOS ID: INTL5ST
+  Manufacturer: Tyan
+  Chipset: 430FX
+  I/O chip: SMC 665
+  Motherboard: Tyan Titan III S1468
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.20, 3.21, 3.22, 3.27, 3.28, 3.30, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5ST/V097B5ST.BIN
+  - bios/mrbios/INTEL/430FX/V097B5ST/V097B5ST.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN2/3.20/MR_TYAN2.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN2/3.21/MR_TYAN2.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN3/3.22/MR_TYAN3.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN3/3.27/MR_TYAN3.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN3/3.28/MR_TYAN3.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TYAN3/3.30/MR_TYAN3.BIO
+- Part number: V098B5ST
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tyan
+  Chipset: 430HX
+  I/O chip: SMC 665
+  Motherboard: Tyan Tomcat I S1562S
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5ST/V098B5ST.BIN
+  - bios/mrbios/INTEL/430HX/V098B5ST/V098B5ST.BIO
+- Part number: V098A5ST
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tyan
+  Chipset: 430HX
+  I/O chip: SMC 665
+  Motherboard: Tyan Tomcat I S1562S REV 4
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098A5ST/V098A5ST.BIN
+  - bios/mrbios/INTEL/430HX/V098A5ST/V098A5ST.BIO
+- Part number: V098B5SD
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tyan
+  Chipset: 430HX
+  I/O chip: SMC 669QF
+  Motherboard: Tyan Tomcat IV Dual 1563D
+  Aliases: ''
+  Stock BIOS string: Award 2A59FT59
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SD/V098B5SD.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SD/V098B5SD.BIO
+- Part number: V09BB5ST
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tyan
+  Chipset: 430TX
+  I/O chip: SMC 669QF
+  Motherboard: Tyan Titan Turbo S1570
+  Aliases: ''
+  Stock BIOS string: Award 2A59IT5J
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5SA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Tyan
+  Chipset: 430VX
+  I/O chip: SMC 665
+  Motherboard: Tyan S1470
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files: []
+- Part number: V097A5UQ
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unitron
+  Chipset: 430FX
+  I/O chip: UMC 8663
+  Motherboard: Unitron MB532
+  Aliases: Gigabyte GA586AT
+  Stock BIOS string: Award 2A59CG0HC
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5UQ/V097A5UQ.BIN
+  - bios/mrbios/INTEL/430FX/V097A5UQ/V097A5UQ.BIO
+- Part number: V098B5SG
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unitron
+  Chipset: 430HX
+  I/O chip: SMC 669
+  Motherboard: Unitron U7908-V3
+  Aliases: ''
+  Stock BIOS string: Award 2A59FU69C
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430HX/V098B5SG/V098B5SG.BIN
+  - bios/mrbios/INTEL/430HX/V098B5SG/V098B5SG.BIO
+- Part number: V097A5WB
+  Shareware filename: MR_FG1PB
+  BIOS ID: INTL5WB
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: Winbond 787
+  Motherboard: 586FG1
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5WB/V097A5WB.BIN
+  - bios/mrbios/INTEL/430FX/V097A5WB/V097A5WB.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_FG1PB/MR_FG1PB.BIO
+- Part number: V097M5SK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: SMC ???
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097M5SK/V097M5SK.BIN
+  - bios/mrbios/INTEL/430FX/V097M5SK/V097M5SK.BIO
+- Part number: V097S50P
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097S50P/V097S50P.BIN
+- Part number: V097S51P
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097S51P/V097S51P.BIN
+- Part number: V097S52P
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097S52P/V097S52P.BIN
+- Part number: V097S53P
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097S53P/V097S53P.BIN
+- Part number: V097B5SM
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: ''
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5SM/V097B5SM.BIN
+- Part number: V097A5NC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Unknown
+  Chipset: 430FX
+  I/O chip: NSC ???
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.45'
+  files:
+  - bios/mrbios/INTEL/430FX/V097A5NC/V097A5NC.BIN
+- Part number: V097B5WC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Vision Top Technology/SanLi/SuperPower
+  Chipset: 430FX
+  I/O chip: Winbond 7x7
+  Motherboard: MB-51000
+  Aliases: ''
+  Stock BIOS string: Award 2A59CSPR
+  Versions found: '3.46'
+  files:
+  - bios/mrbios/INTEL/430FX/V097B5WC/V097B5WC.BIN
+  - bios/mrbios/INTEL/430FX/V097B5WC/V097B5WC.BIO
+- Part number: V09BB5WK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Vision Top Technology/SanLi/SuperPower
+  Chipset: 430TX
+  I/O chip: Winbond 877
+  Motherboard: San Li SL-586TX
+  Aliases: BCM SQ-575
+  Stock BIOS string: Award 2A59IB3IC
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WK
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Vision Top Technology/SanLi/SuperPower
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: San Li SL-586V
+  Aliases: Acorp 586VX
+  Stock BIOS string: Award 2A59GSM9C-00
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5WS
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Vision Top Technology/SanLi/SuperPower
+  Chipset: 430VX
+  I/O chip: Winbond 877
+  Motherboard: San Li SL-586V-Plus
+  Aliases: Acorp 5VX32 ver:B
+  Stock BIOS string: Award 2A59GSMB
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5UF
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: Vision Top Technology/SanLi/SuperPower
+  Chipset: 430VX
+  I/O chip: UMC 8669
+  Motherboard: Vision Top Technology VT586VX
+  Aliases: BCM SQ-575
+  Stock BIOS string: Award 2A59IB3IC
+  Versions found: '3.46'
+  files: []
+- Part number: V09BB5UP
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: VTech/PCPartner
+  Chipset: 430TX
+  I/O chip: UMC 8669
+  Motherboard: VTech/PCPartner MB540N
+  Aliases: Astro AM 430TX
+  Stock BIOS string: Award 2A59IV39
+  Versions found: '3.46'
+  files: []
+- Part number: V09AC5SI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: VTech/PCPartner
+  Chipset: 430VX
+  I/O chip: SMC ???
+  Motherboard: VTech/PCPartner MB520N
+  Aliases: ''
+  Stock BIOS string: 51-1700-008045-00111111-071595-i430VX-H
+  Versions found: '3.45'
+  files: []
+- Part number: V09AB5SI
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: VTech/PCPartner
+  Chipset: 430VX
+  I/O chip: SMC 669
+  Motherboard: VTech/PCPartner MB520N
+  Aliases: COUGAR PERIPHERALS Unknown
+  Stock BIOS string: 51-1700-008045-00111111-071595-i430VX-H
+  Versions found: '3.46'
+  files: []
+- Part number: V09AB5IA
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: VTech/PCPartner
+  Chipset: 430VX
+  I/O chip: ITE 8680
+  Motherboard: VTech/PCPartner VXB820DS
+  Aliases: 'Aristo AM-435VX
+
+    VTech/PCPartner VXB810DS
+
+    VTech/PCPartner VXB830DS
+
+    VTech/PCPartner MB520NH
+
+    COUGAR PERIPHERALS unknown'
+  Stock BIOS string: Award 2A59GV3EC
+  Versions found: '3.46'
+  files: []
+- Part number: V097B50Y
+  Shareware filename: MR_YMCRO
+  BIOS ID: INTL50Y
+  Manufacturer: Young Micro Vega Systems
+  Chipset: 430FX
+  I/O chip: None
+  Motherboard: ''
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: 3.31, 3.46
+  files:
+  - bios/mrbios/INTEL/430FX/V097B50Y/V097B50Y.BIN
+  - bios/mrbios/INTEL/430FX/V097B50Y/V097B50Y.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_YMCRO/MR_YMCRO.BIO
+- Part number: V098I5MC
+  Shareware filename: ''
+  BIOS ID: ''
+  Manufacturer: I-Bus
+  Chipset: 430HX
+  I/O chip: ''
+  Motherboard: Unknown (SBC)
+  Aliases: ''
+  Stock BIOS string: ''
+  Versions found: '3.57'
+  files:
+  - bios/mrbios/INTEL/430HX/V098I5MC/V098I5MC.BIN

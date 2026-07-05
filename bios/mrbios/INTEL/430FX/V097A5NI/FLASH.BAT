@@ -1,0 +1,2 @@
+MRZAPPA.EXE -c
+MRZAPPA.EXE -r -f v097a5ni.BIO

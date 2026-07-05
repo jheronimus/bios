@@ -1,0 +1,179 @@
+- Part Number: V016B401
+  Code: SYML401
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: None
+  Turbo: ''
+  Should work with: '[FIC 386SC REV A2](https://theretroweb.com/motherboards/s/fic-386sc-rev-a2)
+
+
+    [DD & TT Enterprise DT-423S4L](https://theretroweb.com/motherboards/s/dd-and-tt-enterpri-dt-423s4l-revision-c2-an)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYMPHONY/HAYDN/V016B401/SYML401.BIN
+- Part Number: V016B402
+  Code: SYML402
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYMPHONY/HAYDN/V016B402/SYML402.BIN
+- Part Number: V016B403
+  Code: SYML403
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYMPHONY/HAYDN/V016B403/SYML403.BIN
+- Part Number: V016B404
+  Code: SYML404
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: None
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYMPHONY/HAYDN/V016B404/SYML404.BIN
+- Part Number: V016B405
+  Code: SYML405
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: None
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SYMPHONY/HAYDN/V016B405/SYML405.BIN
+- Part Number: V016B406
+  Code: SYML406
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V016B407
+  Code: SYML407
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V016B408
+  Code: SYML408
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V016B409
+  Code: SYML409
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.1
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B411
+  Code: SYML411
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B412
+  Code: SYML412
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B413
+  Code: SYML413
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B414
+  Code: SYML414
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B415
+  Code: SYML415
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: None
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B416
+  Code: SYML416
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B417
+  Code: SYML417
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B418
+  Code: SYML418
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V071B419
+  Code: SYML419
+  CPU: 386SX/386DX/486/Cx
+  Chipset: SL82C46x Haydn Rev. 1.2
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V086B421
+  Code: SYML421
+  CPU: 486SX/486DX
+  Chipset: SL82C491 Wagner
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []

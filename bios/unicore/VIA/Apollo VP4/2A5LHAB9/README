@@ -1,0 +1,287 @@
+AwardBIOS Part Number: 2A5LHAB9
+Manufacturer: AOpen
+Core Chipset: VIA Apollo VP4
+Super I/O: None (Check this first!!)
+AwardBIOS Version 4.51PG
+Unicore BIOS Upgrade Rel 2.0
+Supported Motherboards:
+
+	
+Copyright (c) 1999, Award Software International, Inc. www.award.com
+Copyright (c) 1999, Unicore Software, Inc. www.unicore.com
+
+------------------------------------------------------------------------------
+The System BIOS file contains an AwardBIOS customized for your motherboard.
+
+Unlike most programs that you are familiar with, the System BIOS does not 
+execute from disk.  Instead, it is stored in a Flash-ROM component that 
+resides on the motherboard and begins executing immediately upon powerup.  
+This Flash-ROM can be reprogrammed by means of a Flash Upload Utility.  In 
+order to install AwardBIOS (r) in your computer, you'll need to reprogram 
+its Flash-ROM through use of the Flash Loader utility.
+
+BE ADVISED THAT THERE IS AN ELEMENT OF RISK IN REPROGRAMMING THE COMPUTER'S 
+FLASH SYSTEM BIOS.  If the Flash Load procedure begins, but fails to completely 
+load a valid BIOS image, your computer will be out of commission and you may 
+have to have it serviced. If while loading AwardBIOS onto your computer you 
+experience a failure, and if your computer has a recovery mode, you should set 
+it and refer to the instructions for restoring the original bios that came 
+with the computer. The Flash-ROM will need to be physically replaced with 
+another that contains valid code.  Reasons for the Flash Upload failure 
+include: 1) losing power while the upload is in progress, and 2) specifying 
+and uploading the wrong file.  Needless to say, this would be a horribly 
+disappointing experience.  Unicore Software Inc. would most sincerely regret 
+such a misfortune, however, understand that UNICORE SOFTWARE INC. DISCLAIMS 
+ALL RESPONSIBILITY AND LIABILITY FOR THE USE AND CONSEQUENCES OF THE USE OF 
+THIS PRODUCT.  So, please, take your time and be careful!
+
+The Flash Loader contains 2 basic steps for installing a new BIOS. First it
+asks for the filename containing the new BIOS to be installed. It then asks
+whether you want to save a backup copy of the current BIOS installed.
+
+Be sure to backup the original BIOS before uploading AwardBIOS into the 
+Flash-ROM.  Otherwise, you won't be able to uninstall AwardBIOS should you 
+want to do so.  Even if you're sure you won't, it is a good practice to 
+retain all original equipment that is supplied with your computer, "just in 
+case".
+
+The exact steps for uploading AwardBIOS are enumerated in the Instructions
+section below.  Assuming you have followed those instructions and the upload 
+has just completed, the Flash Loader will display a message directing you to 
+reset the computer or re-cycle its power.  Upon doing so, you will be greeted 
+with a message "CMOS checksum error - Defaults loaded".  Don't be alarmed.  
+This is normal and will only occur the first time the system is booted after
+installing a new BIOS.  You may also find a message "Press F1 to continue, DEL
+to enter SETUP". If this message is displayed it is advised that you press DEL 
+to enter BIOS setup and select the setup option "STANDARD CMOS SETUP" to verify
+the correct time and date.  Beyond that, everything else will already be set 
+for optimal performance and you can simply exit by pressing <F10>.  Or, you 
+might browse around and tailor some options like Password Security or Power
+Management per your preference.  After this Setup session, your computer will 
+reboot thereafter without any hysterical messages.
+
+------------------------------------------------------------------------------
+-------------------------------------
+AwardBIOS (r) Installation Instructions
+-------------------------------------
+
+Step 1
+------
+In your old BIOS Setup, disable all Power Management.
+
+Step 2
+------
+Boot the system to DOS. If running Windows 95 or 98 this is accomplished
+by pressing the F8 key immediately before the system boots from the hard
+disk and selecting "Command prompt only" option from the Startup Menu.
+
+NOTE! Windows NT or non-DOS Users: The installation program is designed for
+use with DOS or Windows 95 or 98 only. For systems which boot to Windows NT or
+other non-DOS operating systems, you should refer to the special instructions
+titled "Installation with Windows NT or non-DOS Operating Systems". 
+
+Step 3
+------
+Insert the BIOS Upgrade Installation diskette in the A: drive. Enter the 
+following DOS commands to run the BIOS Upgrade Install program:
+
+A:
+INSTALL
+
+Step 4
+------
+Follow the instructions provided during the install. When prompted to enter
+an installation directory, you can use "C:\UNICORE" by default or enter a
+different directory name. The install program will then copy files from 
+diskette to the hard disk directory. 
+
+Step 5
+------
+The install program must now create a bootable diskette by formatting a blank
+diskette. Remove the BIOS Upgrade Install diskette and insert a blank
+diskette.
+
+At the end of the diskette format, the following prompt will be displayed:
+
+Volume label (11 characters, ENTER for none)?
+
+You should press the ENTER key to continue.
+
+At the end of the diskette format, the following prompt will be displayed:
+
+Format another (Y/N)?
+
+You should press  the 'N' key to continue.
+
+The install program will then create a bootable BIOS Upgrade Flash diskette
+by copying files from the hard disk to the diskette.
+
+Step 6
+------
+At the end of the install program, a prompt will be displayed indicating that
+the system must now be booted from the BIOS Upgrade Flash diskette in order 
+to flash the BIOS upgrade onto the system. Press the 'Y' key to reboot the
+system. 
+
+Step 7
+------
+Once the system is booted from the BIOS Upgrade Flash diskette, you should 
+follow the instructions provided to flash the BIOS upgrade onto the system. 
+The program will automatically create a backup copy of the current BIOS onto 
+the diskette and then flash the new BIOS upgrade. The flash process may take 
+up to 15 eternal seconds, during which time you are likely to begin worrying. 
+Relax, and do NOT shut off the power or otherwise disturb the computer. You'll 
+be notified with a message on the CRT when the flash has completed. Once the 
+new BIOS is installed the system will be automatically rebooted. In some cases, 
+it may not be automatically rebooted. If this occurs, you should press the 
+reset button or recycle the computer's power. 
+
+Step 8
+------
+The first bootup after loading the new BIOS, you will be directed into
+the BIOS Setup Utility.	 Configure time, date, floppy drive(s) and other
+options.  Exit by pressing <F10>.
+
+Step 9
+------
+Win95 Users:  In a few installations, Windows 95 has been reported to
+"remember" certain properties of the BIOS that has been replaced by the
+new BIOS.  This can lead to some bewildering behavior.  The best rule
+of thumb is to unconditionally run Win95's "Hardware Wizard" once after
+installing a BIOS upgrade.  If weirdness persists, use the sledge-hammer
+approach and run Win95's "Setup".
+
+Step 10
+-------
+IMPORTANT! Be sure to file away the BIOS Upgrade Flash diskette for safe
+keeping. It contains a backup copy of your original BIOS in case you ever
+need to restore it in the future.
+
+Enjoy!
+
+-------------------------------------------------------------------------
+
+---------------------------------------------------------
+Installation with Windows NT or non-DOS Operating Systems
+---------------------------------------------------------
+
+These BIOS Upgrade installation instructions are for use on those systems 
+which boot to Windows NT or other operating systems besides DOS or Windows 95 
+or 98. Using these instructions you are directed to manually run the BIOS 
+flash loader program.
+
+Step 1
+------
+In your old BIOS Setup, disable all Power Management.
+
+Step 2
+------
+Boot the system from a DOS or Windows 95/98 bootable diskette. If you are not
+familiar with how to create a bootable diskette or boot from it, ask a friend 
+for help.
+
+
+Step 3
+------
+Install the BIOS Upgrade Install Diskette in the diskette drive. Run the BIOS 
+flash loader program from the diskette. For most BIOS upgrade versions, the 
+flash loader program will be named BFLASH. For some versions it will be 
+named something like 2A59GU81 or AWDP5MMS. 
+
+Step 4
+------
+A prompt "File Name to Program :" will be displayed. Enter the name of the 
+BIOS upgrade file which will be something like "2A59GU81.BIN".
+
+Step 5
+------
+On the bottom line of the flash loader message box a prompt "Do You Want To
+Save Bios (Y/N)" will be displayed. Press 'Y' to create a backup copy of the
+current BIOS installed. 
+
+A prompt "File Name to Save :" will be displayed. Enter a filename such as
+"BIOS.REC" for the backup BIOS file. The flash loader program will display a 
+message indicating that the current BIOS is being saved to a backup file. 
+
+Step 6
+------
+On the bottom line of the flash loader message box a prompt "Are you sure to
+program (y/n)" will be displayed. Press 'Y' to begin flashing the new BIOS
+onto the system.
+
+Step 7
+------
+The upload process may take up to 15 eternal seconds, during which
+time you are likely to begin worrying.	Relax, and do NOT shut off
+the power or otherwise disturb the computer.
+
+You'll be notified with a message on the CRT when the upload has
+completed.  Then, and not before then, press the reset button or
+recycle the computer's power.
+
+Step 8
+------
+The first bootup after loading the new BIOS, you will be directed into
+the BIOS Setup Utility.	 Configure time, date, floppy drive(s) and other
+options.  Exit by pressing <F10>.
+
+Step 9
+------
+IMPORTANT! Be sure to file away the BIOS Upgrade Installation diskette for 
+safe keeping. It contains a backup copy of your original BIOS in case you 
+ever need to restore it in the future.
+
+Enjoy!
+
+-------------------------------------------------------------------------
+
+----------------------------
+Un-Install Instructions
+----------------------------
+
+Step 1
+------
+In your current BIOS Setup, disable all Power Management.
+
+Step 2
+------
+Boot the system to DOS. If running Windows 95 or 98 this is accomplished
+by pressing the F8 key immediately before the system boots from the hard
+disk and selecting "Command prompt only" option from the Startup Menu.
+
+Step 3
+------
+Insert the BIOS Upgrade Flash diskette that you filed away for safe keeping 
+into the A: drive. Enter the following DOS commands to run the BIOS flash
+loader program:
+
+A:
+BFLASH
+
+Some BIOS upgrade versions may contain a different flash loader program. 
+Instead of running BFLASH, you may find a different flash loader program
+on the BIOS Upgrade Flash diskette such as 2A59GU81.EXE or AWDP5MMS.EXE. You 
+should run this program instead.
+
+Step 4
+------
+A prompt "File Name to Program :" will be displayed. Enter the name of the 
+BIOS backup file which is usually "BIOS.REC".
+
+On the bottom line of the flash loader message box a prompt "Do You Want To
+Save Bios (Y/N)" will be displayed. Press 'N' to skip saving the current
+BIOS to a backup file.
+
+On the bottom line of the flash loader message box a prompt "Are you sure to
+program (y/n)" will be displayed. Press 'Y' to begin flashing the backup copy
+of the previous BIOS onto the system.
+
+The flash process may take up to 15 eternal seconds, during which
+time you are likely to begin worrying.	Relax, and do NOT shut off
+the power or otherwise disturb the computer.
+
+You'll be notified with a message on the CRT when the upload has
+completed.  Then, and not before then, press the reset button or
+recycle the computer's power.
+
+------------------------------------------------------------------------------

@@ -1,0 +1,128 @@
+- Part Number: V045B400
+  Code: CNTQ400
+  Chipset: 82C591/82C592 WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Should work with: MSI MS-3124
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/CONTAQ/82C591/V045B400/CNTQ400.BIN
+- Part Number: V045B404
+  Code: CNTQ404
+  Chipset: 82C591/82C592 WriteBack
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V045B405
+  Code: CNTQ405
+  Chipset: 82C591/82C592 WriteBack
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V045B406
+  Code: CNTQ406
+  Chipset: 82C591/82C592 WriteBack
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/CONTAQ/82C591/V045B406/CNTQ406.BIN
+- Part Number: V045B407
+  Code: CNTQ407
+  Chipset: 82C591/82C592 WriteBack
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/CONTAQ/82C591/V045B407/CNTQ407.BIN
+- Part Number: V080B410
+  Code: CNTQ410
+  Chipset: 82C596 WriteBack, REG_17 = 27
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B411
+  Code: CNTQ411
+  Chipset: 82C596 WriteBack, REG_17 = 27
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B412
+  Code: CNTQ412
+  Chipset: 82C596 WriteBack, REG_17 = 27
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B417
+  Code: CNTQ417
+  Chipset: 82C596 WriteBack, REG_17 = 27
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B420
+  Code: CNTQ420
+  Chipset: 82C596 WriteBack, REG_17 = 22
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B421
+  Code: CNTQ421
+  Chipset: 82C596 WriteBack, REG_17 = 22
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B422
+  Code: CNTQ422
+  Chipset: 82C596 WriteBack, REG_17 = 22
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B425
+  Code: CNTQ425
+  Chipset: 82C596 WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Should work with: 'Unknown CQ30C4,
+
+    A-Trend 4GPV3
+
+    A-Trend 4GPV3.1'
+  Versions found: '1.52'
+  files:
+  - bios/mrbios/CONTAQ/82C596/V080B425/CNTQ425.BIN
+- Part Number: V080B427
+  Code: CNTQ427
+  Chipset: 82C596 WriteBack, REG_17 = 22
+  I/O chip: ''
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V080B42A
+  Code: CNTQ42A
+  Chipset: 82C596 WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Should work with: Seanix 486-VLP CQ3034
+  Versions found: ''
+  files: []

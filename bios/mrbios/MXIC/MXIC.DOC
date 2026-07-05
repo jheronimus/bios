@@ -1,0 +1,73 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+
+-------------------------
+MACTRONIX  MX83C305/6
+-------------------------
+
+Filename   Port      Description  MX83C305/6 chipset with built-in 8K cache
+--------   -------   ---------------------------------------------------------
+V062B300   MXIC300   "Dual 386" chipset, MX83C305/6
+V062B302   MXIC302   x062B300 (T-)
+V062B303   MXIC303   x062B300 (T+)   <-- demo board
+V062B304   MXIC304   x062B300 (TL-)
+V062B305   MXIC305   x062B300 (TL+)
+
+
+Filename   Port      Description  MX83C305/6,  Port92,  Cyrix design-in
+--------   -------   ---------------------------------------------------------
+V062B308   MXIC308   "Dual 386" chipset, MX83C305/6
+V062B30A   MXIC30A   x062B308 (T-)
+V062B30B   MXIC30B   x062B308 (T+)   <-- demo board
+V062B30C   MXIC30C   x062B308 (TL-)
+V062B30D   MXIC30D   x062B308 (TL+)
+
+NOTE!!  Versions '308-30D  *CANNOT*  be used with 1st pass silicon.
+
+        When new 0.8u silicon is available, the Port92 (PS2 FAST_A20)
+        feature will be available.  The earlier 1.0u silicon does not
+        support Port92 PS2 style FAST_A20.  These bios' will crash!
+
+NOTE!!  Versions '308-30D require Cyrix layout with #A20M and #FLUSH.
+        (If Cyrix CPU is not used, it doesn't matter).
+
+        Please confirm with MACTRONIX that your layout will operate
+        correctly with Port92-FAST_A20 usage and Cyrix #A20M pin enabled.
+        Otherwise, use the '300-305 bios versions.
+
+
+------------------------------------------------------------------------------
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

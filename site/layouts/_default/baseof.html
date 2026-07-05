@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
+</head>
+<body>
+
+  <header class="nav-header">
+    <div class="nav-container">
+      <a href="{{ "/" | relURL }}" class="site-logo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect><rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect><line x1="6" y1="6" x2="6.01" y2="6"></line><line x1="6" y1="18" x2="6.01" y2="18"></line></svg>
+        BIOS Archive
+      </a>
+      <nav>
+        <ul class="nav-menu">
+          <li><a href="{{ "/" | relURL }}" class="nav-link">Home</a></li>
+          <li><a href="{{ "/mrbios/" | relURL }}" class="nav-link">MR BIOS</a></li>
+          <li><a href="{{ "/unicore/" | relURL }}" class="nav-link">Unicore upgrades</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-container">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+    <div class="footer-links">
+      <a href="https://github.com/ilembitov/bios" target="_blank">GitHub Repository</a>
+      <a href="https://docs.google.com/spreadsheets/d/1vtPsoKNyGD3ujMWK_G7ldm7G-jBiyPGXZOp8ZeyuFf8/edit" target="_blank">Original MR BIOS Sheet</a>
+      <a href="https://docs.google.com/spreadsheets/d/1LAG0ofYZlIE-chpsF85FRbC5i21hUMRf8iWHp90YDLQ/edit" target="_blank">Original Unicore Sheet</a>
+    </div>
+  </footer>
+
+</body>
+</html>

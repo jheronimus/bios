@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="hero-section">
+  <h1 class="hero-title">BIOS Firmware Archive</h1>
+  <p class="hero-subtitle">A programmatically extracted, searchable archive of retro computer BIOS upgrade images collected for MR BIOS and Unicore Award BIOS upgrade projects.</p>
+</div>
+
+<div class="card-grid">
+  <a href="{{ "/mrbios/" | relURL }}" class="catalog-card">
+    <h3 class="card-title">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      MR BIOS Catalog
+    </h3>
+    <p>Documented images for 286, 386, 486, and Socket 5/7 motherboards, supporting quick booting, custom CPU features, and large hard drives.</p>
+    <span class="badge">450+ Images</span>
+  </a>
+
+  <a href="{{ "/unicore/" | relURL }}" class="catalog-card">
+    <h3 class="card-title">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 22 22 22"/></svg>
+      Unicore Upgrades Catalog
+    </h3>
+    <p>Award BIOS upgrade images for Socket 5/Socket 7 platforms covering non-Intel chipsets (ALi, SIS, UMC, VIA, VLSI) across over 3300 motherboards.</p>
+    <span class="badge">3300+ Boards</span>
+  </a>
+</div>
+{{ end }}

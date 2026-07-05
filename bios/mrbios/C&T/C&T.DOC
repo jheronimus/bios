@@ -1,0 +1,115 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+--------------------
+Chips & Technologies
+--------------------
+
+
+Filename   Port      Description: NEAT (82C211,212,215 plus 206)
+--------   -------   ---------------------------------------------------------
+V087B200   NEAT200   286 NEAT
+
+V087B210   NEAT210   286 NEAT, with built-in EMS
+V087B211   NEAT211   x087B210, EMS (TL-)
+V087B212   NEAT212   x087B210, EMS (TL+)
+
+V087B310   NEAT310   386sx, Cyrix, IBMSLC, with built-in EMS
+V087B311   NEAT311   x087B310, EMS (TL-)
+V087B312   NEAT312   x087B310, EMS (TL+)
+
+
+
+Filename   Port      Description: 8230 386DX  (386DX 5-chip plus 82C206 IPC)
+--------   -------   ---------------------------------------------------------
+V061B300   C&T_300   8230 386DX
+V061B304   C&T_304   x061B300 (TL-)
+V061B305   C&T_305   x061B300 (TL+)
+V061B308   C&T_308   x061B300 (CL-)  (for cache connected to 8042, eg, i385)
+V061B309   C&T_309   x061B300 (CL+)  (for cache connected to 8042, eg, i385)
+
+
+
+Filename   Port      Description: SCAT-SX
+--------   -------   ---------------------------------------------------------
+V032B300   SCAT300   82C386  "SCAT-SX", with 82C711 combo-IO
+V032B304   SCAT304   x032B300 (711)(TL-)
+V032B305   SCAT305   x032B300 (711)(TL+)
+
+
+
+Filename   Port      Description: PEAK-DM REV-0
+--------   -------   ---------------------------------------------------------
+V023B301   PKDM301   CS8233  "PEAK-DM" REV-0  (NOT REV-B1)
+V023B304   PKDM304   x023B301 (TL-)
+V023B305   PKDM305   x023B301 (TL+)
+
+V023B311   PKDM311   CS8233  "PEAK-DM", with 82C711 combo-IO chip
+V023B314   PKDM314   x023B311 (711)(TL-) 
+V023B315   PKDM315   x023B311 (711)(TL+)
+
+
+
+Filename   Port      Description: PEAK-DM REV-B1
+--------   -------   ---------------------------------------------------------
+V051B321   PKDM321   386 C282310 "PEAK-DM"  REV-B1
+V051B322   PKDM322   x051b321 (T-)
+V051B323   PKDM323   x051b321 (T+)         <-- Eval Board
+V051B324   PKDM324   x051b321 (TL-)
+V051B325   PKDM325   x051b321 (TL+)
+
+V051B331   PKDM331   386 C282310 "PEAK-DM"  REV-B1, with 82C711 combo-IO chip
+V051B332   PKDM332   x051b331 (711)(T-)
+V051B333   PKDM333   x051b331 (711)(T+)
+V051B334   PKDM334   x051b331 (711)(TL-)
+V051B335   PKDM335   x051b331 (711)(TL+)
+
+
+V051B420   PKDM420   486 C282310 "PEAK-DM"  REV-B1, without chipset turbo
+V051B421   PKDM421   486 C282310 "PEAK-DM"  REV-B1, with chipset reg turbo
+V051B424   PKDM424   x051b421 (TL-)
+V051B425   PKDM425   x051b421 (TL+)
+V051B428   PKDM428   x051b420 (CL-)
+V051B429   PKDM429   x051b420 (CL+)        <-- Eval Board
+
+V051B430   PKDM430   486 "PEAK-DM"  REV-B1, no turbo,   82C711 combo-IO chip
+V051B431   PKDM431   486 "PEAK-DM"  REV-B1, with turbo, 82C711 combo-IO chip
+V051B434   PKDM434   x051b431 (711)(TL-)
+V051B435   PKDM435   x051b431 (711)(TL+)
+V051B438   PKDM438   x051b430 (711)(CL-)
+V051B439   PKDM439   x051b430 (711)(CL+)
+
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

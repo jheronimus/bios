@@ -1,0 +1,401 @@
+- Part Number: V087B200
+  Code: NEAT200
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V087B210
+  Code: NEAT210
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206), with built-in EMS
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V087B211
+  Code: NEAT211
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206), with built-in EMS
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V087B212
+  Code: NEAT212
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206), with built-in EMS
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V087B310
+  Code: NEAT310
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206), with built-in EMS
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V087B311
+  Code: NEAT311
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206), with built-in EMS
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V087B312
+  Code: NEAT312
+  Chipset: NEAT (82C211/82C212/82C215 + 82C206), with built-in EMS
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V061B300
+  Code: C&T_300
+  Chipset: CS8230 (386/AT) (82C305/82C303/82C304/82C306/82C302/82C301)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V061B304
+  Code: C&T_304
+  Chipset: CS8230 (386/AT) (82C305/82C303/82C304/82C306/82C302/82C301)
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V061B305
+  Code: C&T_305
+  Chipset: CS8230 (386/AT) (82C305/82C303/82C304/82C306/82C302/82C301)
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V061B308
+  Code: C&T_308
+  Chipset: CS8230 (386/AT) (82C305/82C303/82C304/82C306/82C302/82C301)
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: For cache connected to 8042, eg, i385
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V061B309
+  Code: C&T_309
+  Chipset: CS8230 (386/AT) (82C305/82C303/82C304/82C306/82C302/82C301)
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: For cache connected to 8042, eg, i385
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V032B300
+  Code: SCAT300
+  Chipset: 82C836 SCATsx
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/82C836/V032B300/SCAT300.BIN
+- Part Number: V032B304
+  Code: SCAT304
+  Chipset: 82C836 SCATsx
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/82C836/V032B304/SCAT304.BIN
+- Part Number: V032B305
+  Code: SCAT305
+  Chipset: 82C836 SCATsx
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/82C836/V032B305/SCAT305.BIN
+- Part Number: V023B301
+  Code: PKDM301
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-0
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V023B301/PKDM301.BIN
+- Part Number: V023B304
+  Code: PKDM304
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-0
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V023B304/PKDM304.BIN
+- Part Number: V023B305
+  Code: PKDM305
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-0
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V023B305/PKDM305.BIN
+- Part Number: V023B311
+  Code: PKDM311
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V023B314
+  Code: PKDM314
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V023B315
+  Code: PKDM315
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B321
+  Code: PKDM321
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B321/PKDM321.BIN
+- Part Number: V051B322
+  Code: PKDM322
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B322/PKDM322.BIN
+- Part Number: V051B323
+  Code: PKDM323
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B323/PKDM323.BIN
+- Part Number: V051B324
+  Code: PKDM324
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B324/PKDM324.BIN
+- Part Number: V051B325
+  Code: PKDM325
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B325/PKDM325.BIN
+- Part Number: V051B331
+  Code: PKDM331
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B332
+  Code: PKDM332
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B333
+  Code: PKDM333
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B334
+  Code: PKDM334
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B335
+  Code: PKDM335
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B420
+  Code: PKDM420
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B420/PKDM420.BIN
+- Part Number: V051B421
+  Code: PKDM421
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B424
+  Code: PKDM424
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B425
+  Code: PKDM425
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B428
+  Code: PKDM428
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B428/PKDM428.BIN
+- Part Number: V051B429
+  Code: PKDM429
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/C&T/CS82310/V051B429/PKDM429.BIN
+- Part Number: V051B430
+  Code: PKDM430
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B431
+  Code: PKDM431
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B434
+  Code: PKDM434
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B435
+  Code: PKDM435
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B438
+  Code: PKDM438
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V051B439
+  Code: PKDM439
+  Chipset: CS82310 (PEAK/DM 386 AT) (82C351, 82C355, 82C356) Rev-B1
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []

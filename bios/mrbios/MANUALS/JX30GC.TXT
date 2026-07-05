@@ -1,0 +1,192 @@
+This document is for the baby-sized (13.3" x 8.5") JX30GC VL-Bus motherboard.  
+The part number for this board is 09-00203-xx.
+
+It's identifying features are: an LED between expansion slots #5 and #6; seven 16-bit 
+expansion slots; two 32-bit VL-Bus/ISA expansion slots; four sockets for SIMMs; a ZIF socket 
+for an OverDrive CPU; IDE interface connector; one floppy connector; two serial
+port connectors; one parallel port connector.
+
+The VESA Local Bus speed is determined by the CPU speed.  If the CPU is a 486SX-25, or 486DX2-50, the VL-Bus 
+bus speed is 25MHz.  If the CPU is a 486SX-33, 486DX-33, or 486DX2-66, the VL-Bus
+bus speed is 33MHz. A 50 MHZ CLK is not yet a current VESA standard specification 
+The i486DX/4 100 Mhz allows the system board and VL Bus to run at 33MHZ 
+The i486DX/4  75 Mhz allows the system board and VL Bus to run at 25MHZ      
+
+The ISA bus speed for this motherboard is set at 8.33MHz.  The CPU clock speed is
+determined by the clock synthesizer.  If the CPU is a 486SX-25, 486DX2-50, or 486DX4/75 the Bus 
+clock speed is 1/3.  For the 486SX-33, 486DX-33, 486DX2-66 and i486DX4/100 CPUs, the Bus
+clock speed is 1/4. 
+
+The following shows all of the possible memory configurations.
+
+MEMORY CHART CONFIGURATION
+===================================
+Memory         Banks         
+----------------------------
+ MB      0    1    2    3   
+----    ---- ---- ---- ---- 
+ 1MB     1M
+ 2MB     1M   1M   
+ 4MB     4M                 
+ 6MB     1M   1M   4M
+ 8MB     4M   4M             
+10MB     1M   1M   4M   4M
+12MB     4M   4M   4M       
+16MB     4M   4M   4M   4M   
+16MB    16M                 
+18MB     1M   1M  16M
+20MB     4M  16M             
+24MB     4M   4M  16M        
+32MB    16M  16M             
+36MB     4M  16M  16M           
+40MB     4M   4M  16M  16M   
+48MB    16M  16M  16M        
+64MB    16M  16M  16M  16M   
+
+In the table above, 1M indicates that one 256x36 SIMM is installed in the socket,
+4M indicates that one 1Mx36 SIMM is installed in the socket, 16M indicates that, 
+one 4Mx36 SIMM is installed in the socket.  
+
+Micronics Computers has tested and verified the following 1Mx36 memory brands:
+Micron Technologies, Mitsubishi, Samsung, Texas Instruments, Toshiba
+
+Micronics Computers has tested and verified the following 4Mx36 memory brands:
+Mitsubishi, Samsung, Toshiba
+
++======================================+
++                                      +
++ MOTHERBOARD SWITCH & JUMPER SETTINGS +
++                                      +
++======================================+
+                                       
+DIP switch settings for CPU selection
+=====================================
+                                   DIP Switch 1
+                                   ----------------------
+CPU CLK Speed                      S1    S2    S3    S4
+---------------------------------------------------------
+33MHz :DX/33, DX2/66, DX4/100MHz   On    On    Off   Off
+25MHz :DX/25, DX2/50, DX4/75 MHz   Off   On    Off   Off
+
+W12  CPU selection
+  Pins 2-3   486DX, 486DX2, 486DX/4 & P24T
+  Pins 1-2   486SX
+
+W13  PQFP Surface mounted 486SX 
+  Pins 1-2   PQFP 486SX Enabled
+  Pins 2-3   PQFP 486SX Disabled
+
+W4   When Local Bus Master controllers are installed {VL SCSI}, 
+     jumper W4 must be removed to support local bus DMA.
+
+J14  Serial 16550 Port A  SMC Super I/O FDC37c665
+
+J9   Serial 16550 Port B  SMC Super I/O FDC37c665         
+
+J16  Parallel Printer Port
+
+W36  Parallel Printer port IRQ selection 
+ 
+  1-2:   IRQ 7 
+  2-3:   IRQ 5 
+
+W37, W38 Reserved / No jumpers installed 
+
+I/O Port addresses / CMOS Setup
+------------------
+COM1   3F8h     IRQ 4
+COM2   2F8h         3
+COM3   3E8h         4
+COM4   2E8h         3
+
+LPT1   378h         7 /5
+LPT2   278h         7 /5
+
+IRQ in use  {Autodisable if other controllers needs to use IRQs}
+--------
+IRQ  6  Floppy controller
+IRQ 14  Primary   IDE controller
+IRQ 15  Secondary IDE controller  
+
+J27  Floppy connector
+
+J26  Primary   IDE connector
+J32  Secondary IDE connector
+
+W21  IDE LED
+  Pin 1 - Signal
+  Pin 2 - Ground
+
+W5   Clearing CMOS Setup
+Temporarily install jumper, normal settings are open. 
+
+J8  Optional External 4.5-6.0 volt battery connector {Motorola 146818AP RTC Only}
+  Pin 1 - Battery Positive
+  Pin 2 - no connector
+  Pin 3 - Ground
+  Pin 4 - Ground
+
+The JX30GC Motherboard does not require an external battery to be installed.
+The Dallas / Benchmarq Real Time Clock Chip contains an internal battery for an approximate lifetime of 8-10 years. 
+
+W2   Color / Monochrome Display 
+  COLOR - Installed *
+  MONO  - Open
+
+J30  External speaker
+  Pin 1 - Speaker
+  Pin 2 - no connector
+  Pin 3 - Ground
+  Pin 4 - +5 volts DC
+
+J31  Keylock / Power LED
+  Pin 1 - Power LED signal
+  Pin 2 - no connector
+  Pin 3 - Ground
+  Pin 4 - Keyboard lock signal
+  Pin 5 - Ground
+
+W20  Reset switch
+  Pin 1 - Signal
+  Pin 2 - Ground
+
+W18  Turbo LED
+  Pin 1 - Signal
+  Pin 2 - Ground
+
+W19  Turbo switch
+  Pin 1 - Signal
+  Pin 2 - Ground
+
+W8   Flash ROM operation (see note below)
+  Pins 1-2   Recovery mode 
+  Pins 2-3   Normal operation (default)
+
+DO NOT change jumper W8 unless instructed by a Micronics Technical Support Engineer.
+Changing the jumper will result in the Bios being Erased.  You must have a Flash 
+recovery floppy diskette before attempting to recover.  The jumper is NOT moved when 
+updating the Flash ROM.
+
++=============================+
++                             +
++    Cache Configuration      +
++ Direct Mapped Write Through +
++                             +
++=============================+
+                W10     W11     W22     W23     W24             
+64K  Cache      1-2     1-2     2-3     2-3     1-2   (9) 8k X8 Sram -20Ns for U56-U60, U67-U70,  & U34 / TAG
+128k            1-2     2-3     1-2     1-2     2-3   (5) 32kX8 Sram -20Ns for U56-U60,  & U34
+256k            2-3     2-3     2-3     2-3     2-3   (9) 32kX8 Sram -20ns for U56-U60, U67-U70,  & U34 
+
++=============================+
++                             +
++    Cache Configuration      +
++ Direct Mapped Write Back    + 
++                             +
++=============================+
+                W16     W17                 
+64K  Cache      1-2     2-3       (1) 8k X8 Sram -20Ns for U61  
+128k            1-2     2-3       (1) 32kX8 Sram -20Ns for U61
+256k            2-3     2-3       (1) 32kX8 Sram -20ns for U61    
+
+

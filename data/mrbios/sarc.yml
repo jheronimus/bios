@@ -1,0 +1,48 @@
+- Part Number: V064B302
+  Code: SARC302
+  Chipset: RC2016A Rev. A3 (standard)
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B306
+  Code: SARC306
+  Chipset: RC2016A Rev. A3 with built-in EMS
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B30A
+  Code: SARC30A
+  Chipset: RC2016A Rev. A3 Cyrix
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B30E
+  Code: SARC30E
+  Chipset: RC2016A Rev. A3 Cyrix, with built-in EMS
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B312
+  Code: SARC312
+  Chipset: RC2016A Rev. A4/A5 (standard)
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B316
+  Code: SARC316
+  Chipset: RC2016A Rev. A4/A5 with built-in EMS
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B31A
+  Code: SARC31A
+  Chipset: RC2016A Rev. A4/A5 Cyrix
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V064B31E
+  Code: SARC31E
+  Chipset: RC2016A Rev. A4/A5 Cyrix, with built-in EMS
+  Should work with: ''
+  Versions found: ''
+  files: []

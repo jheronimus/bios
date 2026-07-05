@@ -1,0 +1,348 @@
+- Part Number: V069B400
+  Code: EFAR400
+  Chipset: 82EC495 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B401
+  Code: EFAR401
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B402
+  Code: EFAR402
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B404
+  Code: EFAR404
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B405
+  Code: EFAR405
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B406
+  Code: EFAR406
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B407
+  Code: EFAR407
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B408
+  Code: EFAR408
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B409
+  Code: EFAR409
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B40A
+  Code: EFAR40A
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B40B
+  Code: EFAR40B
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B40C
+  Code: EFAR40C
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B40D
+  Code: EFAR40D
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B40E
+  Code: EFAR40E
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V069B40F
+  Code: EFAR40F
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B410
+  Code: EFAR410
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B411
+  Code: EFAR411
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B412
+  Code: EFAR412
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B414
+  Code: EFAR414
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B415
+  Code: EFAR415
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B416
+  Code: EFAR416
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B417
+  Code: EFAR417
+  Chipset: 82EC798 WriteBack
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B418
+  Code: EFAR418
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B419
+  Code: EFAR419
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41A
+  Code: EFAR41A
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41B
+  Code: EFAR41B
+  Chipset: 82EC798 WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41C
+  Code: EFAR41C
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41D
+  Code: EFAR41D
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41E
+  Code: EFAR41E
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41F
+  Code: EFAR41F
+  Chipset: 82EC798 WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41G
+  Code: EFAR41G
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41H
+  Code: EFAR41H
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41J
+  Code: EFAR41J
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41K
+  Code: EFAR41K
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41L
+  Code: EFAR41L
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41M
+  Code: EFAR41M
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41N
+  Code: EFAR41N
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41P
+  Code: EFAR41P
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41Q
+  Code: EFAR41Q
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41R
+  Code: EFAR41R
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41S
+  Code: EFAR41S
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: C&T 82C711 Combo I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41T
+  Code: EFAR41T
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41U
+  Code: EFAR41U
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41V
+  Code: EFAR41V
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41W
+  Code: EFAR41W
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: NSC PC87310 Super I/O
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41X
+  Code: EFAR41X
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V070B41Y
+  Code: EFAR41Y
+  Chipset: 82EC798 WriteBack-Cyrix 486DLC
+  I/O chip: ''
+  Should work with: ''
+  Versions found: 1.52, 1.65
+  files:
+  - bios/mrbios/EFAR/82EC798/V070B41Y/1.52/EFAR41Y.BIN
+  - bios/mrbios/EFAR/82EC798/V070B41Y/1.65/EFAR41Y.BIN
+- Part Number: V070B42R
+  Code: EFAR42R
+  Chipset: 82EC802G(L)/82EC100G
+  I/O chip: ''
+  Should work with: '[Alaris Tornado 2](https://theretroweb.com/motherboards/s/alaris-tornado-2)'
+  Versions found: '2.05'
+  files:
+  - bios/mrbios/EFAR/82EC802/V070B42R/EFAR42R.BIN
+- Part Number: V070B42S
+  Code: EFAR42S
+  Chipset: 82EC802G(L)/82EC100G
+  I/O chip: ''
+  Should work with: '[Alaris Tornado 2](https://theretroweb.com/motherboards/s/alaris-tornado-2)'
+  Versions found: 2.17, 3.02
+  files:
+  - bios/mrbios/EFAR/82EC802/V070B42S/2.17/EFAR42S.BIN
+  - bios/mrbios/EFAR/82EC802/V070B42S/3.02/EFAR42S.BIN

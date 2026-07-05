@@ -1,0 +1,99 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+-------------------------------------------------------
+Headland Technologies  HT12/12+, HT22/18C, HT320, HT340
+-------------------------------------------------------
+
+Filename   Port      Description - HT12/HT12+
+--------   -------   ---------------------------------------------------------
+V039B200   HT12200   286 HT12/HT12+
+V039B201   HT12201   x039b200  (T-)
+V039B202   HT12202   x039b200  (T+)
+
+V039B210   HT12210   286 HT12/HT12+, built-in EMS
+V039B211   HT12211   x039b210  (T-)
+V039B212   HT12212   x039b210  (T+)
+
+
+Filename   Port      Description - HT22/HT18C  386SX
+--------   -------   ---------------------------------------------------------
+V056B300   HT22300   386SX HT22/HT18C
+V056B302   HT22302   x056B300  (T-) (turbo thru 8042 active low)
+V056B303   HT22303   x056B300  (T+) (turbo thru 8042 active high)
+
+V056B30A   HT2230A   x056B300  (711) with 82C711 multi-IO
+V056B30B   HT2230B   x056B300  (310) with PC87310 Super-IO
+
+V056B30C   HT2230C   x056B302  (T-)(711)
+V056B30D   HT2230D   x056B302  (T-)(310)
+
+V056B30E   HT2230E   x056B303  (T+)(711)
+V056B30F   HT2230F   x056B303  (T+)(711)
+
+
+Filename   Port      Description - HT320  386DX "Shasta" plus cache
+--------   -------   ---------------------------------------------------------
+V053B300   HT32300   386 HT320
+V053B302   HT32302   x053B300  (T-) (turbo thru 8042 active low)
+V053B303   HT32303   x053B300  (T+) (turbo thru 8042 active high)
+
+V053B30A   HT3230A   x053B300  (711) with 82C711 multi-IO
+V053B30B   HT3230B   x053B300  (310) with PC87310 Super-IO
+
+V053B30C   HT3230C   x053B302  (T-)(711)
+V053B30D   HT3230D   x053B302  (T-)(310)
+
+V053B30E   HT3230E   x053B303  (T+)(711)
+V053B30F   HT3230F   x053B303  (T+)(711)
+
+
+Filename   Port      Description - HT340  486 "Shasta" chipset  
+--------   -------   ---------------------------------------------------------
+V053B400   HT34400   486 HT340
+V053B408   HT34408   x053B400  (CL-) (Cache LED thru 8042 active low)
+V053B409   HT34409   x053B400  (CL+) (Cache LED thru 8042 active high)
+
+V053B40A   HT3440A   x053B400  (711) with 82C711 multi-IO
+V053B40B   HT3440B   x053B400  (310) with PC87310 Super-IO
+
+V053B40C   HT3440C   x053B408  (CL-)(711)
+V053B40D   HT3440D   x053B408  (CL-)(310)
+
+V053B40E   HT3440E   x053B409  (CL+)(711)
+V053B40F   HT3440F   x053B409  (CL+)(310)
+
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

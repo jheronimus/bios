@@ -1,0 +1,113 @@
+- Part Number: V062B300
+  Code: MXIC300
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B302
+  Code: MXIC302
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B303
+  Code: MXIC303
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B304
+  Code: MXIC304
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B305
+  Code: MXIC305
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B306
+  Code: MXIC308
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B307
+  Code: MXIC307
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: ''
+  Should work with: '[Caching Tech Corp. C386MX](https://theretroweb.com/motherboards/s/caching-tech-cor-c386mx#downloads)'
+  Versions found: '1.4'
+  files:
+  - bios/mrbios/MXIC/83C30X/V062B307/MXIC307.BIN
+- Part Number: V062B30A
+  Code: MXIC30A
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B30B
+  Code: MXIC30B
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B30C
+  Code: MXIC30C
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B30D
+  Code: MXIC30D
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V062B30E
+  Code: MXIC30E
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: ''
+  Should work with: '[TK TK83305-4N-D-03MiTAC/Trigon MBA-032QSoyo SY-015GADI 3DIMD](https://theretroweb.com/motherboards/s/tk-tk83305-4n-d-03#downloads)-1.0
+
+
+    [Biostar MB-1333MKA-F](https://theretroweb.com/motherboards/s/biostar-mb-1333mka-f#downloads)'
+  Versions found: '1.4'
+  files:
+  - bios/mrbios/MXIC/83C30X/V062B30E/MXIC30E.BIN
+- Part Number: V062B30H
+  Code: MXIC30H
+  CPU: 386DX
+  Chipset: Macronix MX83C30x
+  Turbo: ''
+  Should work with: '[Caching Tech Corp. C386MX](https://theretroweb.com/motherboards/s/caching-tech-cor-c386mx#downloads)[Octek
+    JAGUAR V 386 (rev 1.x)](https://theretroweb.com/motherboards/s/octek-jaguar-v-386-rev-1.x)[Octek
+    JAGUAR V 386 (rev 2.](https://theretroweb.com/motherboards/s/octek-jaguar-v-386-rev-2.0)0)'
+  Versions found: 1.51,1.65
+  files:
+  - bios/mrbios/MXIC/83C30X/V062B30H/1.51/MXIC30H.BIN
+  - bios/mrbios/MXIC/83C30X/V062B30H/1.65/MXIC30H.BIN

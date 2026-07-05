@@ -1,0 +1,17 @@
+Name:           ???
+Revision:       ???
+CPU/FPU:        386DX-40, (387DX ???)
+Chipset:        UMC UM82C481BF, UM82C482AF, UM82C206F
+ICs:            Cache - 9 chips
+Memory:         SIMM-30 (8)
+Exp. slots:     ???
+Id string:      ???
+BIOS:           Microid Research; 02/26/93
+ROM:            ??? (64k)
+File:           3umr001.bin
+MD5:            fda91512efeb4e6fcaf4a0e22ff1e262
+Comment:        WORKS with 486 !!! tested on UMC SX2 / 66
+Comment:        [386dx/um481-mr.zip]
+Comment:        [486/um481-mr.zip]
+
+source: http://chukaev.ru54.com/bios_en.htm

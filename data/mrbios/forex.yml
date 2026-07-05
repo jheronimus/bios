@@ -1,0 +1,281 @@
+- Part Number: V049B300
+  Code: FORX300
+  CPU: '386'
+  Chipset: 36C300/200 [36C300/46C402] WriteThru
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: 1.4, 1.65
+  files:
+  - bios/mrbios/FOREX/36C300/V049B300/1.40/FORX300.BIN
+  - bios/mrbios/FOREX/36C300/V049B300/1.65/FORX300.BIN
+- Part Number: V049B313
+  Code: FORX303
+  CPU: '386'
+  Chipset: 36C300/200 [36C300/46C402] WriteThru
+  Turbo: Turbo, active state high
+  Notes: ''
+  Should work with: '[Goldstar GS386](https://theretroweb.com/motherboards/s/goldstar-gs386)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/36C300/V049B303/FORX303.BIN
+- Part Number: V050B310
+  Code: FORX310
+  CPU: Unknown
+  Chipset: Unknown
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/UNKNOWN/V050B310/FORX310.BIN
+- Part Number: V050B313
+  Code: FORX313
+  CPU: Unknown
+  Chipset: Unknown
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/UNKNOWN/V050B313/FORX313.BIN
+- Part Number: V052B320
+  Code: FORX320
+  CPU: 386SX/486SLC
+  Chipset: 36C311 Single Chip 386SX with Cache
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/36C311/V052B320/FORX320.BIN
+- Part Number: V052B323
+  Code: FORX323
+  CPU: 386SX/486SLC
+  Chipset: 36C311 Single Chip 386SX with Cache
+  Turbo: Turbo, active state high
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/36C311/V052B323/FORX323.BIN
+- Part Number: V050B410
+  Code: FORX410
+  CPU: 386/486/Cyrix
+  Chipset: 46C411/402 WriteThru
+  Turbo: ''
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/46C411/V050B410/FORX410.BIN
+- Part Number: V050B413
+  Code: FORX413
+  CPU: 386/486/Cyrix
+  Chipset: 46C411/402 WriteThru
+  Turbo: Turbo, active state high
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/46C411/V050B413/FORX413.BIN
+- Part Number: V050B418
+  Code: FORX418
+  CPU: 386/486/Cyrix
+  Chipset: 46C411/402 WriteThru
+  Turbo: Cache-LED, active state low
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/46C411/V050B418/FORX418.BIN
+- Part Number: V050B419
+  Code: FORX419
+  CPU: 386/486/Cyrix
+  Chipset: 46C411/402 WriteThru
+  Turbo: Cache-LED, active state high
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/FOREX/46C411/V050B419/FORX419.BIN
+- Part Number: V082B430
+  Code: FORX420
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: ''
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B431
+  Code: FORX421
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Turbo, active state low
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B432
+  Code: FORX422
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Turbo, active state high
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B433
+  Code: FORX423
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Cache-LED, active state low
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B434
+  Code: FORX424
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Cache-LED, active state high
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B435
+  Code: FORX425
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: ''
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B436
+  Code: FORX426
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Turbo, active state low
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B437
+  Code: FORX427
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Turbo, active state high
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B438
+  Code: FORX428
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Cache-LED, active state low
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V082B439
+  Code: FORX429
+  CPU: 386/486/Cyrix
+  Chipset: 46C521 WriteBack
+  Turbo: Cache-LED, active state high
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B420
+  Code: FORX420
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: ''
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B421
+  Code: FORX421
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Turbo, active state low
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B422
+  Code: FORX422
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Turbo, active state high
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B423
+  Code: FORX423
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Cache-LED, active state low
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B424
+  Code: FORX424
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Cache-LED, active state high
+  Notes: 486DLC retrofit
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B425
+  Code: FORX425
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: ''
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B426
+  Code: FORX426
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Turbo, active state low
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B427
+  Code: FORX427
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Turbo, active state high
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B428
+  Code: FORX428
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Cache-LED, active state low
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V067B429
+  Code: FORX429
+  CPU: 386/486/Cyrix
+  Chipset: 46C421A/422 WriteBack
+  Turbo: Cache-LED, active state high
+  Notes: 486DLC design-in
+  Should work with: ''
+  Versions found: ''
+  files: []

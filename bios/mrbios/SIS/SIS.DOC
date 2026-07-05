@@ -1,0 +1,82 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+--------------------------------
+SIS - Silicon Integrated Systems
+--------------------------------
+
+------------------------------------------------------------------------------
+
+Filename   Port      Description  SIS 85C471
+--------   -------   ---------------------------------------------------------
+V089B410   SIS_410   4 Mem Banks, REG_6A=FF
+V089B411   SIS_411   6 Mem Banks, REG_6A=FF
+V089B412   SIS_412   8 Mem Banks, REG_6A=FF
+
+V089B413   SIS_413   4 Mem Banks, REG_6A=00
+V089B414   SIS_414   6 Mem Banks, REG_6A=00
+V089B415   SIS_415   8 Mem Banks, REG_6A=00
+
+NOTE: The versions above are but a few samples of the
+      many ingenious multiplex schemes possible with
+      this chipset.  (Hint: try V089B410 first).
+
+
+------------------------------------------------------------------------------
+
+Filename   Port      Description  SIS 85C460,461V  386/486 single chip
+--------   -------   ---------------------------------------------------------
+V072B400   SIS_400   460,461V  386,486,Cx
+V072B404   SIS_404   (TL-)  with turbo-LED active low
+V072B405   SIS_405   (TL+)  with turbo-LED active high
+
+V072B40G   SIS_40G   Green-PC, Appian ADI2 VL-IDE, (GENOA and FREE)
+V072B40Q   SIS_40Q   Green-PC, Promise 20230C, UMC Superio  (JBOND)
+
+
+------------------------------------------------------------------------------
+
+Filename   Port      Description  SIS "RABBIT"
+--------   -------   ---------------------------------------------------------
+V009B303   SIS_303   386, 85C3X0  Revs A,B,C  Turbo via PIO-0 (85C320 Pin 83)
+V009B306   SIS_306   (TL-)  PIO-0 and 8042 pins
+V009B307   SIS_307   (TL+)  PIO-0 and 8042 pins
+V009B308   SIS_308   (T-)   PIO-0 not used, only 8042 pins
+V009B309   SIS_309   (T+)   PIO-0 not used, only 8042 pins
+
+------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

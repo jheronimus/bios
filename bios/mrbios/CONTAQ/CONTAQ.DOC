@@ -1,0 +1,91 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+------------------------------------------------------------------------------
+
+-----------------------------------
+CONTAQ  82C596  386/486 WriteBack 
+-----------------------------------
+
+NOTICE!  Contaq's original definition of REG_17 required b5:0 = 27H.
+         Versions V080B41x immediately below initialize per this rule.
+         Some M/Boards do NOT work with this setting.  Some do.
+
+         Contaq's later definition of REG_17 requires b5:0 = 22H.
+         Versions V080B42x further below initialize per this new rule.
+         All M/Boards we tested DO work with this setting.
+
+>>--->   As a rule:  TRY USING VERSIONS '42x FIRST  !!!
+
+         If neither setting works right, and you've figured out some
+         value for these "magic bits" that works, call us and we'll
+         cook a bios to your liking!
+         
+
+Filename   Port      Description  '596 Single-Chip WB, REG_17 = 27
+--------   -------   ---------------------------------------------------------
+V080B410   CNTQ410   386/486/Cx	  REV-A
+V080B411   CNTQ411   386/486/Cx   REV-A  Layout: Cyrix #A20M #FLUSH
+V080B412   CNTQ412   386/486/Cx   REV-A  Layout: Cyrix #A20M #FLUSH, Fast-A20
+
+V080B417   CNTQ417   386/486/Cx   REV-0
+
+
+Filename   Port      Description  '596 Single-Chip WB, REG_17 = 22
+--------   -------   ---------------------------------------------------------
+V080B420   CNTQ420   386/486/Cx	  REV-A
+V080B421   CNTQ421   386/486/Cx   REV-A  Layout: Cyrix #A20M #FLUSH
+V080B422   CNTQ422   386/486/Cx   REV-A  Layout: Cyrix #A20M #FLUSH, Fast-A20
+
+V080B427   CNTQ427   386/486/Cx   REV-0
+
+
+
+------------------------------------------------------------------------------
+
+-----------------------------------
+CONTAQ  82C591/2  386/486 WriteBack 
+-----------------------------------
+
+Filename   Port      Description  '591 WriteBack Chipset
+--------   -------   ---------------------------------------------------------
+V045B400   CNTQ400   386/486/Cx WriteBack
+V045B404   CNTQ404   (TL-)
+V045B405   CNTQ405   (TL+)
+V045B406   CNTQ406   (CL-)
+V045B407   CNTQ407   (CL+)
+
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

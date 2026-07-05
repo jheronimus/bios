@@ -1,0 +1,10 @@
+baseURL = '/'
+relativeURLs = true
+canonifyURLs = false
+locale = 'en-us'
+title = 'MR BIOS & Unicore Award BIOS Archive'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

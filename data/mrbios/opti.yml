@@ -1,0 +1,2335 @@
+- Part Number: V002B306
+  Code: OPTI306
+  CPU: '386'
+  Chipset: 82C381 WriteThru
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C381/V002B306/OPTI306.BIN
+  - bios/mrbios/OPTI/82C381/V002B308/OPTI306.BIN
+- Part Number: V002B308
+  Code: OPTI308
+  CPU: '386'
+  Chipset: 82C381 WriteThru
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C381/V002B308/OPTI306.BIN
+- Part Number: V002B309
+  Code: OPTI309
+  CPU: '386'
+  Chipset: 82C381 WriteThru
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C381/V002B309/OPTI309.BIN
+- Part Number: V007B314
+  Code: OPTI314
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Shuttle HOT-306](https://theretroweb.com/motherboards/s/shuttle-hot-306)[QDI
+    P386SX/25 PW](https://theretroweb.com/motherboards/s/qdi-p386sx-25-pw)'
+  Versions found: 1.0A
+  files:
+  - bios/mrbios/OPTI/82C281/V007B314/OPTI314.BIN
+- Part Number: V007B315
+  Code: OPTI315
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: ''
+  Turbo: ''
+  Note: (Write-Poster and Cache DISABLED)
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C281/V007B315/OPTI315.BIN
+- Part Number: V007B316
+  Code: OPTI316
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: ''
+  Turbo: ''
+  Note: (Cache enabled)
+  Should work with: '[QDI P386SX/25 PW](https://theretroweb.com/motherboards/s/qdi-p386sx-25-pw)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C281/V007B316/OPTI316.BIN
+- Part Number: V007B319
+  Code: OPTI319
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31A
+  Code: OPTI31A
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31K
+  Code: OPTI31K
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C281/V007B31K/OPTI31K.BIN
+- Part Number: V007B31L
+  Code: OPTI31L
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C281/V007B31L/OPTI31L.BIN
+- Part Number: V007B31M
+  Code: OPTI31M
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31N
+  Code: OPTI31N
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31P
+  Code: OPTI31P
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31Q
+  Code: OPTI31Q
+  CPU: '386'
+  Chipset: 82C281 SxPW Single-Chip Posted-Write
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B317
+  Code: OPTI317
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Octek PANTHER II](https://theretroweb.com/motherboards/s/octek-panther-ii)'
+  Versions found: 1.0F, 1.65
+  files:
+  - bios/mrbios/OPTI/82C281/V007B317/1.0F/OPTI317.BIN
+  - bios/mrbios/OPTI/82C281/V007B317/1.65/OPTI317.BIN
+- Part Number: V007B31B
+  Code: OPTI31B
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31C
+  Code: OPTI31C
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B318
+  Code: OPTI318
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: External turbo circuit only
+  Should work with: '[Octek PANTHER II](https://theretroweb.com/motherboards/s/octek-panther-ii)
+    rev 1.2'
+  Versions found: 1.0F, 1.26, 1.65
+  files:
+  - bios/mrbios/OPTI/82C283/V007B318/1.0F/OPTI318.BIN
+  - bios/mrbios/OPTI/82C283/V007B318/1.26/OPTI318.BIN
+  - bios/mrbios/OPTI/82C283/V007B318/1.65/OPTI318.BIN
+- Part Number: V007B31D
+  Code: OPTI31D
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: ''
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31E
+  Code: OPTI31E
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: ''
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31F
+  Code: OPTI31F
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31G
+  Code: OPTI31G
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31H
+  Code: OPTI31H
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31J
+  Code: OPTI31J
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V007B31T
+  Code: OPTI31T
+  CPU: '386'
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Octek PANTHER II](https://theretroweb.com/motherboards/s/octek-panther-ii)'
+  Versions found: 1.31, 1.36
+  files:
+  - bios/mrbios/OPTI/82C283/V007B31T/1.31/OPTI31T.BIN
+  - bios/mrbios/OPTI/82C283/V007B31T/1.36/OPTI31T.BIN
+- Part Number: UNKNOWN
+  Code: OPTI435V
+  CPU: 386SX
+  Chipset: 82C283 SxPI Single-Chip
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Octek Panther IV (shipped with v 1.28)](https://theretroweb.com/motherboards/s/octek-panther-iv)'
+  Versions found: ''
+  files: []
+- Part Number: V020B324
+  Code: OPTI324
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Auva Computer/Autocomputer TAM33-P1/TAM40-P1SEE-THRU DATA SYSTEMS,
+    LTD. STO386-WB VER. 2.](https://theretroweb.com/motherboards/s/auva-computer-tam33-p1-tam40-p1#downloads)0
+
+
+    [PCChips M321](https://theretroweb.com/motherboards/s/pcchips-m321-rev.-2.x#downloads)[Infinity
+    Multipro VII-386DX](https://theretroweb.com/motherboards/s/infinity-multipro-vii-386dxv)V'
+  Versions found: 1.26,1.30,1.35,1.65
+  files:
+  - bios/mrbios/OPTI/82C391/V020B324/1.26/OPTI324.BIN
+  - bios/mrbios/OPTI/82C391/V020B324/1.30/OPTI324.BIN
+  - bios/mrbios/OPTI/82C391/V020B324/1.35/OPTI324.BIN
+  - bios/mrbios/OPTI/82C391/V020B324/1.65/OPTI324.BIN
+- Part Number: V020B32B
+  Code: OPTI32B
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C391/V020B32B/OPTI32B.BIN
+- Part Number: V020B32C
+  Code: OPTI32C
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C391/V020B32C/OPTI323.BIN
+- Part Number: V020B32E
+  Code: OPTI32E
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C391/V020B32E/OPTI323.BIN
+- Part Number: V020B32F
+  Code: OPTI32F
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C391/V020B32F/OPTI32F.BIN
+- Part Number: V020B32G
+  Code: OPTI32G
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C391/V020B32G/OPTI32G.BIN
+- Part Number: V020B32H
+  Code: OPTI32H
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C391/V020B32H/OPTI32H.BIN
+- Part Number: V020B32J
+  Code: OPTI32J
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32K
+  Code: OPTI32K
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32L
+  Code: OPTI32L
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32M
+  Code: OPTI32M
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32P
+  Code: OPTI32P
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32Q
+  Code: OPTI32Q
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32R
+  Code: OPTI32R
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B32S
+  Code: OPTI32S
+  CPU: '386'
+  Chipset: 82C391 WriteBack Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B330
+  Code: OPTI330
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B330/OPTI330.BIN
+- Part Number: V044B331
+  Code: OPTI331
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B331/OPTI331.BIN
+- Part Number: V044B332
+  Code: OPTI332
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B332/OPTI332.BIN
+- Part Number: V044B334
+  Code: OPTI334
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B334/OPTI334.BIN
+- Part Number: V044B335
+  Code: OPTI335
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B335/OPTI335.BIN
+- Part Number: V044B336
+  Code: OPTI336
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B336/OPTI336.BIN
+- Part Number: V044B337
+  Code: OPTI337
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B337/OPTI337.BIN
+- Part Number: V044B338
+  Code: OPTI338
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B339
+  Code: OPTI339
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B33A
+  Code: OPTI33A
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B33B
+  Code: OPTI33B
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B33C
+  Code: OPTI33C
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B33D
+  Code: OPTI33D
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B33E
+  Code: OPTI33E
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B33F
+  Code: OPTI33F
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B340
+  Code: OPTI340
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.44'
+  files:
+  - bios/mrbios/OPTI/82C291/V055B340/OPTI340.BIN
+- Part Number: V055B341
+  Code: OPTI341
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B342
+  Code: OPTI342
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B344
+  Code: OPTI344
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B345
+  Code: OPTI345
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B346
+  Code: OPTI346
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B347
+  Code: OPTI347
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B348
+  Code: OPTI348
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B349
+  Code: OPTI349
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.43'
+  files:
+  - bios/mrbios/OPTI/82C291/V055B349/OPTI349.BIN
+  - bios/mrbios/OPTI/82C291/V055B349/OPTI349.BIO
+- Part Number: V055B34A
+  Code: OPTI34A
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B34B
+  Code: OPTI34B
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B34C
+  Code: OPTI34C
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B34D
+  Code: OPTI34D
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B34E
+  Code: OPTI34E
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V055B34F
+  Code: OPTI34F
+  CPU: 386SX
+  Chipset: 82C291 SxWB Single-Chip WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V002B406
+  Code: OPTI406
+  CPU: ''
+  Chipset: 82C481 WriteThru
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: 1.0C, 1.65
+  files:
+  - bios/mrbios/OPTI/82C481/V002B406/1.0C/OPTI406.BIN
+  - bios/mrbios/OPTI/82C481/V002B406/1.65/OPTI406.BIN
+  - bios/mrbios/OPTI/82C481/V002B408/OPTI406.BIN
+  - bios/mrbios/OPTI/82C481/V002B409/OPTI406.BIN
+- Part Number: V002B408
+  Code: OPTI408
+  CPU: ''
+  Chipset: 82C481 WriteThru
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C481/V002B408/OPTI406.BIN
+- Part Number: V002B409
+  Code: OPTI409
+  CPU: ''
+  Chipset: 82C481 WriteThru
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C481/V002B409/OPTI406.BIN
+- Part Number: V020B424
+  Code: OPTI424
+  CPU: '486'
+  Chipset: 82C491 WriteBack (original)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C491/V020B424/OPTI424.BIN
+- Part Number: V020B428
+  Code: OPTI428
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: ''
+  Turbo: ''
+  Note: '[Orchid Technology Superboard 486](https://theretroweb.com/motherboards/s/orchid-technolog-superboard-486#bios)[See-Thru
+    STO486WB](https://theretroweb.com/motherboards/s/see-thru-sto486wb)'
+  Should work with: ''
+  Versions found: 1.26, 1.29, 1.30, 1.44, 1.65
+  files:
+  - bios/mrbios/OPTI/82C493/V020B428/1.26/OPTI428.BIN
+  - bios/mrbios/OPTI/82C493/V020B428/1.29/OPTI428.BIN
+  - bios/mrbios/OPTI/82C493/V020B428/1.30/OPTI428.BIN
+  - bios/mrbios/OPTI/82C493/V020B428/1.44/OPTI428.BIN
+  - bios/mrbios/OPTI/82C493/V020B428/1.65/OPTI428.BIN
+- Part Number: V020B42B
+  Code: OPTI42B
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C493/V020B42B/OPTI42B.BIN
+- Part Number: V020B42C
+  Code: OPTI42C
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C493/V020B42C/OPTI42C.BIN
+- Part Number: V020B42E
+  Code: OPTI42E
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C493/V020B42E/OPTI42E.BIN
+- Part Number: V020B42F
+  Code: OPTI42F
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C493/V020B42F/OPTI42F.BIN
+- Part Number: V020B42G
+  Code: OPTI42G
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C493/V020B42G/OPTI42G.BIN
+- Part Number: V020B42H
+  Code: OPTI42H
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C493/V020B42H/OPTI42H.BIN
+- Part Number: V020B42J
+  Code: OPTI42J
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42K
+  Code: OPTI42K
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42L
+  Code: OPTI42L
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42M
+  Code: OPTI42M
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42P
+  Code: OPTI42P
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42Q
+  Code: OPTI42Q
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42R
+  Code: OPTI42R
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V020B42S
+  Code: OPTI42S
+  CPU: '486'
+  Chipset: 82C493/5 -  486 WriteBack  Revs A,B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B430
+  Code: OPTI430
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B430/OPTI430.BIN
+- Part Number: V044B431
+  Code: OPTI431
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B431/OPTI431.BIN
+- Part Number: V044B432
+  Code: OPTI432
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B432/OPTI432.BIN
+- Part Number: V044B434
+  Code: OPTI434
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B434/OPTI434.BIN
+- Part Number: V044B435
+  Code: OPTI435
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B435/OPTI435.BIN
+- Part Number: V044B436
+  Code: OPTI436
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B436/OPTI436.BIN
+- Part Number: V044B437
+  Code: OPTI437
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C496/V044B437/OPTI437.BIN
+- Part Number: V044B438
+  Code: OPTI438
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B439
+  Code: OPTI439
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B43A
+  Code: OPTI43A
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B43B
+  Code: OPTI43B
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B43C
+  Code: OPTI43C
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B43D
+  Code: OPTI43D
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B43E
+  Code: OPTI43E
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V044B43F
+  Code: OPTI43F
+  CPU: 386,486
+  Chipset: 82C496/497 DxPI Rev. A & Rev. B
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B450
+  Code: OPTI450
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B451
+  Code: OPTI451
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B452
+  Code: OPTI452
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B454
+  Code: OPTI454
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B455
+  Code: OPTI455
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B456
+  Code: OPTI456
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B457
+  Code: OPTI457
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B458
+  Code: OPTI458
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B459
+  Code: OPTI459
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B45A
+  Code: OPTI45A
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B45B
+  Code: OPTI45B
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B45C
+  Code: OPTI45C
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B45D
+  Code: OPTI45D
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B45E
+  Code: OPTI45E
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V059B45F
+  Code: OPTI45F
+  CPU: 386,486,Cx486
+  Chipset: 82C498 DxWB WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B470
+  Code: OPTI470
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: 1.44, 1.45
+  files:
+  - bios/mrbios/OPTI/82C495SxLC/V068B470/1.44/OPTI470.BIN
+  - bios/mrbios/OPTI/82C495SxLC/V068B470/1.45/OPTI470.BIN
+- Part Number: V068B471
+  Code: OPTI471
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B472
+  Code: OPTI472
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B474
+  Code: OPTI474
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B475
+  Code: OPTI475
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B476
+  Code: OPTI476
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B477
+  Code: OPTI477
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B478
+  Code: OPTI478
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B479
+  Code: OPTI479
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47A
+  Code: OPTI47A
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47B
+  Code: OPTI47B
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47D
+  Code: OPTI47C
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47D
+  Code: OPTI47D
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47E
+  Code: OPTI47E
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47F
+  Code: OPTI47F
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47G
+  Code: OPTI47G
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47H
+  Code: OPTI47H
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47J
+  Code: OPTI47J
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47K
+  Code: OPTI47K
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47L
+  Code: OPTI47L
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47M
+  Code: OPTI47M
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47N
+  Code: OPTI47N
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47P
+  Code: OPTI47P
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47Q
+  Code: OPTI47Q
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47R
+  Code: OPTI47R
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47S
+  Code: OPTI47S
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47T
+  Code: OPTI47T
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47U
+  Code: OPTI47U
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47V
+  Code: OPTI47V
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V068B47W
+  Code: OPTI47W
+  CPU: 386,486,Cx486
+  Chipset: 82C495SxLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B480
+  Code: OPTI480
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B481
+  Code: OPTI481
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: Alaris Cougar
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/OPTI/82C499/V075B481/OPTI481.BIN
+- Part Number: V075B482
+  Code: OPTI482
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B484
+  Code: OPTI484
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B485
+  Code: OPTI485
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B486
+  Code: OPTI486
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B487
+  Code: OPTI487
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B488
+  Code: OPTI488
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B489
+  Code: OPTI489
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48A
+  Code: OPTI48A
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48B
+  Code: OPTI48B
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48C
+  Code: OPTI48C
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48D
+  Code: OPTI48D
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48E
+  Code: OPTI48E
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48F
+  Code: OPTI48F
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48G
+  Code: OPTI48G
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48H
+  Code: OPTI48H
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48J
+  Code: OPTI48J
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48K
+  Code: OPTI48K
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48L
+  Code: OPTI48L
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48M
+  Code: OPTI48M
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48N
+  Code: OPTI48N
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: ''
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48P
+  Code: OPTI48P
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48Q
+  Code: OPTI48Q
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48R
+  Code: OPTI48R
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48S
+  Code: OPTI48S
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48T
+  Code: OPTI48T
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48U
+  Code: OPTI48U
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48V
+  Code: OPTI48V
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48W
+  Code: OPTI48W
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V075B48Z
+  Code: OPTI48Z
+  CPU: 386,486,Cx486
+  Chipset: 82C499 DxSC Single Chip
+  I/O chip: NSC PC87311/312 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B490
+  Code: OPTI490
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B491
+  Code: OPTI491
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B492
+  Code: OPTI492
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B493
+  Code: OPTI493
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B494
+  Code: OPTI494
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B495
+  Code: OPTI495
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B496
+  Code: OPTI496
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B497
+  Code: OPTI497
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B498
+  Code: OPTI498
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B499
+  Code: OPTI499
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B49A
+  Code: OPTI49A
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B49B
+  Code: OPTI49B
+  CPU: 386,486,Cx486
+  Chipset: 82C495 SLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V077B49E
+  Code: OPTI49E
+  CPU: ''
+  Chipset: 82C495 SLC
+  I/O chip: ''
+  Turbo: ''
+  Note: with 8042 Turbo-polling P10-13, Turbo-LED P22-23 (DataExpert and Amer.Digi.)
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V078B4A0
+  Code: OPTI4A0
+  CPU: '486'
+  Chipset: 82C801 SCWB2 Single Chip WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V078B4A1
+  Code: OPTI4A1
+  CPU: '486'
+  Chipset: 82C801 SCWB2 Single Chip WriteBack
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V078B4A2
+  Code: OPTI4A2
+  CPU: '486'
+  Chipset: 82C801 SCWB2 Single Chip WriteBack
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V078B4A3
+  Code: OPTI4A3
+  CPU: '486'
+  Chipset: 82C801 SCWB2 Single Chip WriteBack
+  I/O chip: NSC PC87311 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V078B4A5
+  Code: OPTI4A5
+  CPU: '486'
+  Chipset: 82C801 SCWB2 Single Chip WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Octek HIPPO OP](https://theretroweb.com/motherboards/s/octek-hippo-op)'
+  Versions found: '1.53'
+  files:
+  - bios/mrbios/OPTI/82C801/V078B4A5/OPTI4A5.BIN
+- Part Number: V078B4A7
+  Code: OPTI4A7
+  CPU: '486'
+  Chipset: 82C801 SCWB2 Single Chip WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: Seanix ASI 9000
+  Versions found: ''
+  files: []
+- Part Number: V084B4B0
+  Code: OPTI4B0
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B1
+  Code: OPTI4B1
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B2
+  Code: OPTI4B2
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B3
+  Code: OPTI4B3
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: NSC PC87311 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B4
+  Code: OPTI4B4
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B5
+  Code: OPTI4B5
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B6
+  Code: OPTI4B6
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B7
+  Code: OPTI4B7
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B8
+  Code: OPTI4B8
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4B9
+  Code: OPTI4B9
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: NSC PC87311 Super I/O
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4BA
+  Code: OPTI4BA
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: OPTI-611 VL-IDE Controller
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4BB
+  Code: OPTI4BB
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: 8042 Turbo-Polling
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4BC
+  Code: OPTI4BC
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: ''
+  Turbo: ''
+  Note: Green-PC Energy Mgmt
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V084B4BH
+  Code: OPTI4BH
+  CPU: 386,486,Cyrix
+  Chipset: 82C495 XLC
+  I/O chip: SIS 82C206
+  Turbo: ''
+  Note: ''
+  Should work with: '[BEK-tronic BEK-3739](https://theretroweb.com/motherboards/s/bek-tronic-bek-3739)[Infomatic
+    Power Systems MB-495SX](https://theretroweb.com/motherboards/s/infomatic-power-mb-495sx)[Edom/WinTech
+    MA013](https://theretroweb.com/motherboards/s/edom-wintech-ma013-x)-X[JUKO 386DX
+    W](https://theretroweb.com/motherboards/s/dataexpert-exp3406-1.0)/B
+
+
+    Data Expert EXP3406'
+  Versions found: '1.6'
+  files:
+  - bios/mrbios/OPTI/82C495XLC/V084B4BH/OPTI4BH.BIN
+- Part Number: V085B4C1
+  Code: OPTI4C1
+  CPU: '486'
+  Chipset: 82C802G (SCWB2 PC/AT Single Chip)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Octek HIPPO DCA II 486-33](https://theretroweb.com/motherboards/s/octek-hippo-dca-ii-486-33)'
+  Versions found: 2.10, 3.01, 3.21
+  files:
+  - bios/mrbios/OPTI/82C802/V085B4C1/2.10/OPTI4C1.BIN
+  - bios/mrbios/OPTI/82C802/V085B4C1/3.01/OPTI4C1.BIN
+  - bios/mrbios/OPTI/82C802/V085B4C1/3.21/OPTI4C1.BIN
+- Part Number: V085B4CX
+  Code: OPTI4CX
+  CPU: '486'
+  Chipset: 82C802G (SCWB2 PC/AT Single Chip)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: 'BEK-tronic BEK-V429S
+
+
+    Edom/WinTech MV035'
+  Versions found: ''
+  files: []
+- Part Number: UNKNOWN
+  Code: OPTI4D4
+  CPU: '486'
+  Chipset: 82C895
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Jetway J-403TG V2.0](https://theretroweb.com/motherboards/s/jetway-j-403tg-v2.0#downloads)'
+  Versions found: '2.02'
+  files:
+  - bios/mrbios/OPTI/82C895/OPTI4D4/OPTI4D4.BIN
+- Part Number: UNKNOWN
+  Code: OPTI4DX
+  CPU: '486'
+  Chipset: 82C895
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: BEK-tronic BEK-V429S
+  Versions found: '3.46'
+  files: []
+- Part Number: V076B500
+  Code: OPTI500
+  CPU: Pentium
+  Chipset: 586 VHP Pentium Chipset
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V076B503
+  Code: OPTI503
+  CPU: Pentium
+  Chipset: 586 VHP Pentium Chipset, default WriteThru  (DataExpert)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V076B504
+  Code: OPTI504
+  CPU: Pentium
+  Chipset: 586 VHP Pentium Chipset, default WriteBack
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V076B508
+  Code: OPTI508
+  CPU: Pentium
+  Chipset: 586 VHP Pentium Chipset (Shuttle HOT-543)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V076B50C
+  Code: OPTI50C
+  CPU: Pentium
+  Chipset: 586 VHP Pentium Chipset (Octek Bison III)
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Octek BISON III REV. 1.0](https://theretroweb.com/motherboards/s/octek-bison-iii-rev.-1.0)[Biostar
+    MB-1575PCT](https://theretroweb.com/motherboards/s/biostar-mb-1575pct) (use 128KB
+    ROM)
+
+
+    Supermicr[o](https://theretroweb.com/motherboards/s/supermicro-p5vlpci)[P5VLP](https://theretroweb.com/motherboards/s/supermicro-p5vlpci)C[I](https://theretroweb.com/motherboards/s/supermicro-p54vlpci)[/](https://theretroweb.com/motherboards/s/supermicro-p54vlpci)[P54VLP](https://theretroweb.com/motherboards/s/supermicro-p54vlpci)CI
+    (use 128KB ROM)'
+  Versions found: '2.00'
+  files:
+  - bios/mrbios/OPTI/586VHP/V076B50C/OPTI50C.BIN
+- Part Number: ???
+  Code: TTI-TDS
+  CPU: ''
+  Chipset: 82C295 SLCWB PC/AT Chipset
+  I/O chip: ''
+  Turbo: ''
+  Note: ''
+  Should work with: '[Alaris Leopard REV A](https://theretroweb.com/motherboards/s/alaris-leopard-rev-a)'
+  Versions found: '1.67'
+  files:
+  - bios/mrbios/OPTI/82C295/TTI-TDS.BIN

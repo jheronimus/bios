@@ -1,0 +1,2 @@
+MRMORIS.EXE -c
+MRMORIS.EXE -r -f v097a5nh.BIO

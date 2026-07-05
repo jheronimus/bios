@@ -1,0 +1,175 @@
+- Part Number: V009B303
+  Code: SIS_303
+  CPU: ''
+  Chipset: 85C310/320/330 Rabbit Rev. A, B & C
+  I/O chip: None
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SIS/RABBIT/V009B303/SIS_303.BIN
+- Part Number: V009B306
+  Code: SIS_306
+  CPU: ''
+  Chipset: 85C310/320/330 Rabbit Rev. A, B & C
+  I/O chip: None
+  Turbo: Turbo via PIO-0 and hotkeys, active low
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SIS/RABBIT/V009B306/SIS_306.BIN
+- Part Number: V009B307
+  Code: SIS_307
+  CPU: ''
+  Chipset: 85C310/320/330 Rabbit Rev. A, B & C
+  I/O chip: None
+  Turbo: Turbo via PIO-0 and hotkeys, active high
+  Note: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/SIS/RABBIT/V009B307/SIS_307.BIN
+- Part Number: V009B308
+  Code: SIS_308
+  CPU: ''
+  Chipset: 85C310/320/330 Rabbit Rev. A, B & C
+  I/O chip: None
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V009B309
+  Code: SIS_309
+  CPU: ''
+  Chipset: 85C310/320/330 Rabbit Rev. A, B & C
+  I/O chip: None
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V072B400
+  Code: SIS_400
+  CPU: 386SX/386DX/486/Cx
+  Chipset: 85C460 & 85C461V Single-Chip
+  I/O chip: None
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V072B404
+  Code: SIS_404
+  CPU: 386SX/386DX/486/Cx
+  Chipset: 85C460 & 85C461V Single-Chip
+  I/O chip: None
+  Turbo: Turbo-LED, active state low
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V072B405
+  Code: SIS_405
+  CPU: 386SX/386DX/486/Cx
+  Chipset: 85C460 & 85C461V Single-Chip
+  I/O chip: None
+  Turbo: Turbo-LED, active state high
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V072B40G
+  Code: SIS_40G
+  CPU: 386SX/386DX/486/Cx
+  Chipset: 85C460 & 85C461V Single-Chip
+  I/O chip: Appian ADI2 VL-IDE, (GENOA and FREE)
+  Turbo: ''
+  Note: ''
+  Should work with: '[Asus ISA-486SV2 rev 3.10](https://theretroweb.com/motherboards/s/asus-isa-486sv2-rev-3.10)'
+  Versions found: '3.43'
+  files:
+  - bios/mrbios/SIS/85C461/V072B40G/SIS_40G.BIN
+- Part Number: V072B40Q
+  Code: SIS_40Q
+  CPU: 386SX/386DX/486/Cx
+  Chipset: 85C460 & 85C461V Single-Chip
+  I/O chip: Promise 20230C, UMC Superio  (JBOND)
+  Turbo: ''
+  Note: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B410
+  Code: SIS_410
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: 4 Mem Banks, REG_6A=FF
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B411
+  Code: SIS_411
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: 6 Mem Banks, REG_6A=FF
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B412
+  Code: SIS_412
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: 8 Mem Banks, REG_6A=FF
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B413
+  Code: SIS_413
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: 4 Mem Banks, REG_6A=00
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B414
+  Code: SIS_414
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: 6 Mem Banks, REG_6A=00
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B415
+  Code: SIS_415
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: 8 Mem Banks, REG_6A=00
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V089B41G
+  Code: SIS_41G
+  CPU: 486SX/486DX
+  Chipset: 85C471/407 Green PC ISA-VLB 486 Single Chip
+  I/O chip: None
+  Turbo: ''
+  Note: ''
+  Should work with: '[Gigabyte  GA-486VSAsus  VL/I-486SV2G](https://theretroweb.com/motherboards/s/asus-vl-i-486sv2g-rev.-1.0)'
+  Versions found: '3.21'
+  files:
+  - bios/mrbios/SIS/85C471/V089B41G/SIS_41G.BIN

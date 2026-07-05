@@ -1,0 +1,326 @@
+System BIOS for Zappa motherboard (Intel Triton)
+
+MR BIOS (r) V097B50I Version 3.21
+Copyright (c) 1995, Microid Research, Inc.
+
+MR BIOS is a registered trademark of Microid Research, Inc.
+MR CHIPS is a registered trademark of Microid Research, Inc.
+Instant! Boot is a trademark of Microid Research, Inc.
+Patents Pending.
+All Rights Reserved.
+
+Other trademarks are property of their respective owners.
+
+------------------------------------------------------------------------------
+
+ShareWare Version:  "Please copy this program in its entirety, without
+modification, and pass it on to others.  If you like it, please pay for
+each copy you install.  If you don't pay for it, please uninstall it.
+Remember, your purchase is a vote."
+
+License Fee:  USD $15.00 per installed copy
+
+Microid Research, Inc.
+2336-D Walsh Ave.
+Santa Clara, CA, 95051
+USA
+
+email: mrbios@mrbios.com
+
+------------------------------------------------------------------------------
+
+MR BIOS (r)  Copyright (c) 1995  Microid Research, Inc.
+
+Patents Pending
+
+Advanced buzzword features include:
+
+ (1) Plug 'n Play card support.
+       1a) Auto resource steering
+       1b) Win95 compatible
+ (2) PCI and Bridge support.
+       2a) Auto resource steering
+       2b) DEC PCI-PCI bridges
+ (3) Energy Star power management.
+       3a) APM for Windows and DOS
+       3b) VESA DPMS video mgmt
+       3c) SMI and STPCLK
+       3d) Timewarp correction
+ (4) Fast-ATA support.
+       4a) ATA Mode 4/5 (to 20 MB/S)
+       4b) Built-in CMD-640, OPTi-621 drivers
+ (5) Enhanced IDE support.
+       5a) LBA and CHS translations
+       5b) EDPT Table support
+       5c) IBM/Microsoft INT13 extensions
+       5c) 8 discs max, each to 137 GByte
+       5d) Drive remapping
+       5e) Boot SCSI (ahead of IDE)
+ (6) Atapi and Removable IDE.
+       6a) CD-ROM recognition
+       6b) SyQuest and Ejectable Media
+ (7) Enhanced Floppy support.
+       7a) 4 floppy/tape-drives max
+       7b) Drive remapping
+ (8) Enhanced Parallel Port.
+       8a) SPP, Bidir, EPP, ECP modes
+ (9) Anti-Virus protection.
+(10) Password Security.
+(11) PS/2 Mouse support.
+(12) Pentium and 6x86 CPU support.
+(13) Instant! Boot (tm).
+
+------------------------------------------------------------------------------
+
+---------------------------------------------
+MR_ZAPPA System BIOS and Flash Upload Utility
+---------------------------------------------
+
+Four files are included in this distribution kit.
+
+MR_ZAPPA.BIO - MR BIOS (r) System BIOS
+MR_ZAPPA.EXE - Flash Loader Utility
+MR_ZAPPA.TXT - This file you're reading
+AUTOEXEC.BAT - For Flash-Recovery disk
+
+The System BIOS file contains the Microid Research BIOS ("MR BIOS (r)"),
+customized for your Zappa motherboard.  It is designed to supercede the
+Intel distribution (or AMI 1992 core) BIOS that is currently running
+your computer.  The 1995 MR BIOS (r) core provides the latest state-
+of-the-art BIOS technologies that automate most of your computer's
+setup and deliver unmatched performance and utility.
+
+Unlike most programs that you are familiar with, the System BIOS does
+not execute from disk.  Instead, it is stored in a Flash-ROM component
+that resides on the motherboard and begins executing immediately upon
+powerup.  This Flash-ROM can be reprogrammed by means of a Flash Upload
+Utility.  In order to install MR BIOS (r) in your computer, you'll need
+to reprogram its Flash-ROM through use of the MR_ZAPPA.EXE Flash Loader.
+
+The Flash Loader Utility is simple to use, and performs its job very
+quickly.  Select option "3. Install" to initiate the Flash upload
+procedure.  After it completes the Flash upload, it will direct you to
+reset the computer or re-cycle its power.  Upon doing so, you will be
+greeted with an alarming message that the "CMOS Memory is Corrupt",
+and the BIOS Setup Utility will be activated.  Don't be alarmed.  The
+Flash Loader Utility intentionally clears the CMOS to simulate a
+factory-new condition and provoke a Setup session.
+
+Upon arriving in the Setup Utility, you will need to reset the time
+and date, and manually input the type(s) of Floppy drive(s) in your
+computer.  Beyond that, everything else will already be set for optimal
+performance and you can simply exit by pressing <F10>.  Or, you might
+browse around and tailor some options like Password Security or Power
+Management per your preference.  After this Setup session, your computer
+will reboot thereafter without any hysterical messages.
+
+Be advised that there is an element of danger in reprogramming the
+computer's Flash System BIOS.  If the Flash Load procedure does not
+complete for some reason (eg, if the power is shut off in the middle
+of things), or if the image being uploaded into the Flash-ROM is not
+appropriate, then the computer will simply not operate correctly (or
+at all) anymore.  For this reason, your Zappa motherboard implements
+a failsafe "Recovery" mode that can reload the original BIOS image
+from floppy diskette, even when the existing System BIOS is faulty.
+Please be sure to read the following section "Failsafe Recovery
+Preparation" before uploading the MR BIOS (r) System BIOS.
+
+------------------------------------------------------------------------------
+
+-----------------------------
+Failsafe Recovery Preparation
+-----------------------------
+
+The Zappa motherboard's Flash-ROM contains a protected "Boot-Block"
+that cannot be erased.  Its purpose is to provide failsafe recovery
+code that reloads the Flash-ROM in the event it somehow becomes
+corrupted.  Under normal conditions, there should never be occasion
+to activate the failsafe recovery mode (and you shouldn't play with
+it).  However, you should be aware of this facility, and prepare the
+necessary things in advance.  "Just in case".
+
+The jumper "J1L1" located in the rear-left corner of the motherboard
+is used to activate the Boot-Block Recovery mode.  When plugged 1-2
+(the way it is now), Normal operation is selected.  When plugged 2-3,
+the Recovery mode is selected.
+
+When activated by plugging J1L1 to 2-3, the Boot-Block code performs
+a minimal system boot, barely sufficient to load DOS from drive A:.
+The recovery floppy in drive A: needs to be bootable (formatted "/S"
+with DOS), and contain
+
+   -  DOS and COMMAND.COM
+   -  AUTOEXEC.BAT, specially prepared
+   -  MR_ZAPPA.EXE, the Flash Loader Utility
+   -  ZAPPA.BAK, the original BIOS backup image
+
+Before uploading MRBIOS (r) into the Flash-ROM, be sure to prepare
+a Failsafe Recovery diskette per these instructions:
+
+Step 1
+------
+Format a floppy "/S" (with DOS and COMMAND.COM).
+
+Step 2
+------
+Copy the contents of this distribution kit onto the floppy.  At minimum,
+the files AUTOEXEC.BAT and MR_ZAPPA.EXE need to be transferred onto it.
+
+Step 3
+------
+Generate ZAPPA.BAK backup image file:
+
+Run the MR_ZAPPA Flash Loader program directly from floppy in drive A:.
+
+Select option "1. Backup" upon entering the utility.  This will copy the
+content of your computer's Flash-BIOS into the file ZAPPA.BAK.
+
+Select option "5. Exit" to exit the program.  Type DIR A: and confirm
+that ZAPPA.BAK was generated on the floppy in drive A:.  (If not, you
+probably ran the program from drive C:, right?  In this case, COPY the
+ZAPPA.BAK file onto the floppy).
+
+Step 4
+------
+With this floppy in drive A:, reboot your computer via <Ctrl Alt Del>.
+If the floppy is prepared correctly, its AUTOEXEC.BAT file should put
+you directly into the MR_ZAPPA Flash Loader program.
+
+Select option "2. Verify".  This compares the Flash-BIOS in your computer
+with the backup file ZAPPA.BAK and reports the results.
+
+Select option "5. Exit" to exit the program.
+
+Step 5
+------
+Assuming Step 4 verification is successful, the floppy is now fully
+prepared.  Set the Write-Protect notch, label it, and put it away
+for safekeeping.
+
+------------------------------------------------------------------------------
+
+-------------------------------------
+MR BIOS (r) Installation Instructions
+-------------------------------------
+
+Step 1
+------
+Prepare a Failsafe Recovery diskette according to instructions above.
+
+Step 2
+------
+Invoke MR_ZAPPA.EXE Flash Loader, and select option "3. Install".
+
+This loads the MR_ZAPPA.BIO file into Flash.  Wait briefly for a message
+that indicates the procedure is completed.  Then press the reset button
+or recycle your computer's power.
+
+Be sure to wait for the completion message before resetting the computer.
+
+Step 3
+------
+The first bootup after loading the new BIOS, you will be directed into
+the BIOS Setup Utility.  Configure floppy drive(s) and other options.
+Exit by pressing <F10>.
+
+Step 4
+------
+Win95 Users:  In a few installations, Windows 95 has been reported to
+"remember" certain properties of the BIOS that has been replaced by
+MR BIOS.  This can lead to some bewildering behavior.  The best rule
+of thumb is to unconditionally run Win95's "Hardware Wizard" once after
+installing MR BIOS.  If weirdness persists, use the sledge-hammer
+approach and run Win95's "Setup".
+
+Step 5
+------
+Enjoy!
+
+------------------------------------------------------------------------------
+
+----------------------------------------
+Failsafe Recovery - Corrupted Flash BIOS
+----------------------------------------
+
+In the unlikely event that your Zappa motherboard's Flash BIOS somehow
+becomes corrupted and the computer will no longer boot, you will need
+to reload its Flash from the Failsafe Recovery diskette.
+
+First step: relax.  When the Flash BIOS is crashed, your computer will
+be *real* unhappy with it.  It'll try to distress and panic you.  It'll
+do anything (or nothing) within its power to get you to upload a new
+BIOS image.  So, relax.  Then, when you've recovered, let's proceed to
+recovering the Flash.
+
+Begin by turning off all power, opening the computer case, and locating
+the 3-pin jumper J1L1 in the rear left corner of the motherboard.  (It
+also has the letters "RCVR" next to it).  Carefully using a small needle
+nose pliers, unplug the J1L1 jumper from the upper 1-2 position, and
+install it in the lower 2-3 position.
+
+Turn the power back on, and insert the Failsafe Recovery diskette in
+drive A:.  The floppy drive's activity LED will become illuminated
+and stay that way for a minute or so, then it will turn back off.
+
+When drive A: LED turns back off, the Failsafe Recovery procedure is
+completed and the Flash BIOS is restored.  Shut off the computer's
+power and replace jumper J1L1 to its original 1-2 position.
+
+Notes:
+------
+(1) If you turn on your computer one morning and discover it won't
+boot, the problem may have nothing to do with its Flash-BIOS.  The
+computer might simply be unplugged or broken or etc.
+
+(2) The Failsafe Recovery procedure reloads the Flash BIOS from the
+file ZAPPA.BAK on the diskette.  If it was prepared per instructions
+above, the original Intel/AMI BIOS will be restored.  (Recall that
+step "1. Backup" copied the original Intel/AMI Flash image into the
+ZAPPA.BAK backup file).  You can also make a Failsafe Recovery diskette
+that reloads MR BIOS (r) instead, simply by COPYing or RENaming the
+MR_ZAPPA.BIO file to ZAPPA.BAK on the diskette.  If you want to do
+this, don't do it to the original (Intel/AMI) Failsafe Recovery disk.
+Prepare a second floppy.  This way, you'll always be able to recover
+things to the very original factory condition.  "Just in case".
+
+(3) You might have noticed that the AUTOEXEC.BAT file on the Recovery
+diskette contains the single line "MR_ZAPPA".  Therefore, when this
+diskette is booted, the MR_ZAPPA.EXE Flash Loader is invoked.  Upon
+being invoked, it checks the status of the J1L1 recovery jumper and
+automatically executes the "4. Restore" option when J1L1 is plugged
+in the 2-3 Recovery position.  (If J1L1 is in the Normal 1-2 position,
+the menu is presented instead and MR_ZAPPA waits for your manual input).
+
+------------------------------------------------------------------------------
+
+----------------
+Revision History
+----------------
+
+Microid Research Inc. is grateful for your suggestions, criticisms,
+and bug reports.  We're proud to share with you evidence of continued
+progress and improvements, much to your credit.  Thank you!
+
+Ver 3.10 - Original Zappa ShareWare release; with new PnP core.
+Ver 3.11 - n/a
+Ver 3.12 - Bugfix: PnP core overlapped manual setup of PCI interrupts.
+Ver 3.13 - n/a
+Ver 3.14 - Force bidirectional parallel-port for Nat'l Semi Super-I/O.
+Ver 3.15 - n/a
+Ver 3.16 - Asymmetric 2M dram support (16M/bank, single-sided).
+Ver 3.17 - Limit ATA-disc "auto" to Mode 3.  Mode 4 only avail via "manual".
+Ver 3.18 - Update for production Cyrix 6x86.
+Ver 3.19 - LPT modes: SPP,Bidir,EPP,ECP now user options. (SMC & NSC chips).
+Ver 3.20 - Upgrade: Add CMD 646 EIDE built-in driver.
+           Upgrade: Longer IDE spindown timer values (1,2,5 --> 2,5,10 min).
+           Workaround: De-enhance disk seeks to eliminate Norton8 complaint.
+           Workaround: Fix for Adaptec 2940 bios Ver 1.20 bug.
+           Workaround: Fix for S3 '968 32MB pageframe decode bug.
+           Workaround: Fix for Supra PnP Modem bug (drop Adaptec 1542CP fix).
+Ver 3.21 - Upgrade: Add aggressive "55nS" memory-type option.
+           Bugfix: Obscure bug in "manual" PCI-Int Setup affects mapping over
+                   bridge of Ints B,C,D (not A) for a few non-Zappa's.
+
+------------------------------------------------------------------------------
+End document
+------------------------------------------------------------------------------

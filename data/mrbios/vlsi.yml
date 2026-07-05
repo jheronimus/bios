@@ -1,0 +1,55 @@
+- Part Number: V019B301
+  Code: VLSI301
+  CPU: 386 SX/DX
+  Chipset: 386 Topcat-Intel 82340 non-cache
+  I/O chip: None
+  Should work with: ''
+  Versions found: 1.09, 1.65
+  files:
+  - bios/mrbios/VLSI/82340/V019B301/1.09/VLSI301.BIN
+  - bios/mrbios/VLSI/82340/V019B301/1.65/VLSI301.BIN
+- Part Number: V019B302
+  Code: VLSI302
+  CPU: 386 SX/DX
+  Chipset: 386 Topcat-Intel 82340 non-cache
+  I/O chip: VLSI 82C106
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/VLSI/82340/V019B302/VLSI302.BIN
+- Part Number: V019B312
+  Code: VLSI312
+  CPU: 386 SX/DX
+  Chipset: 386 Topcat-Intel 82340, 82385 cache
+  I/O chip: VLSI 82C106
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/VLSI/82340/V019B312/VLSI312.BIN
+- Part Number: V019B401
+  Code: VLSI401
+  CPU: '486'
+  Chipset: 386 Topcat-Intel 82340
+  I/O chip: None
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/VLSI/82340/V019B401/VLSI401.BIN
+- Part Number: V019B402
+  Code: VLSI402
+  CPU: '486'
+  Chipset: 386 Topcat-Intel 82340
+  I/O chip: VLSI 82C106
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/VLSI/82340/V019B402/VLSI402.BIN
+- Part Number: V019B404
+  Code: VLSI404
+  CPU: '486'
+  Chipset: 386 Topcat-Intel 82340
+  I/O chip: VLSI 82C106, on-board COM2 inhibited for SCO
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/VLSI/82340/V019B404/VLSI404.BIN

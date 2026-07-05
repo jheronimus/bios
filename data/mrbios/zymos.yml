@@ -1,0 +1,42 @@
+- Part Number: V004B300
+  Code: ZYMS300
+  CPU: 386SX
+  Chipset: POACH-SX / Intel-335
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ZYMOS/POACH/V004B300/ZYMS300.BIN
+- Part Number: V004B301
+  Code: ZYMS301
+  CPU: 386SX
+  Chipset: POACH-SX / Intel-335
+  I/O chip: None
+  Turbo: 8042 Pin 23 (only)  active state low
+  Should work with: '[Unknown SW-386SXUnknown BSR-101A 386SX M/B](https://theretroweb.com/motherboards/s/unknown-sw-386sx)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ZYMOS/POACH/V004B301/ZYMS301.BIN
+  - bios/mrbios/ZYMOS/POACH/V004B301/ZYMS301_HI.BIN
+  - bios/mrbios/ZYMOS/POACH/V004B301/ZYMS301_LO.BIN
+- Part Number: V004B302
+  Code: ZYMS302
+  CPU: 386SX
+  Chipset: POACH-SX / Intel-335
+  I/O chip: None
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ZYMOS/POACH/V004B302/ZYMS302.BIN
+- Part Number: V004B303
+  Code: ZYMS303
+  CPU: 386SX
+  Chipset: POACH-SX / Intel-335
+  I/O chip: None
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/ZYMOS/POACH/V004B303/ZYMS303.BIN

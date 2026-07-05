@@ -1,0 +1,125 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+----------------------
+EFAR Microsystems Inc.
+----------------------
+
+Filename   Port      Description  82EC798 ("798") - 386/486/Cyrix  WriteBack
+--------   -------   ---------------------------------------------------------
+V070B410   EFAR410   386,486,Cx486  798WB
+V070B411   EFAR411   x070B410  with  82C711 multi-IO
+V070B412   EFAR412   x070B410  with  PC87310 Super-IO
+
+V070B414   EFAR414   x070B410  (T-)
+V070B415   EFAR415   x070B410  (T+)
+V070B416   EFAR416   x070B410  (CL-)
+V070B417   EFAR417   x070B410  (CL+)
+
+V070B418   EFAR418   x070B411  (711) (T-)
+V070B419   EFAR419   x070B411  (711) (T+)
+V070B41A   EFAR41A   x070B411  (711) (CL-)
+V070B41B   EFAR41B   x070B411  (711) (CL+)
+
+V070B41C   EFAR41C   x070B412  (310) (T-)
+V070B41D   EFAR41D   x070B412  (310) (T+)
+V070B41E   EFAR41E   x070B412  (310) (CL-)
+V070B41F   EFAR41F   x070B412  (310) (CL+)
+
+Note - Vers 410-41F  fully support Cyrix 486DLC in 386 socket as a
+       "retrofit" without any special hardware considerations for it.
+       (To maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+V070B41G   EFAR41G   x070B410  (Cx)
+V070B41H   EFAR41H   x070B411  (Cx) with  82C711 multi-IO
+V070B41J   EFAR41J   x070B412  (Cx) with  PC87310 Super-IO
+
+V070B41K   EFAR41K   x070B410  (Cx) (T-)
+V070B41L   EFAR41L   x070B410  (Cx) (T+)
+V070B41M   EFAR41M   x070B410  (Cx) (CL-)
+V070B41N   EFAR41N   x070B410  (Cx) (CL+)
+
+V070B41P   EFAR41P   x070B411  (Cx) (711) (T-)
+V070B41Q   EFAR41Q   x070B411  (Cx) (711) (T+)
+V070B41R   EFAR41R   x070B411  (Cx) (711) (CL-)
+V070B41S   EFAR41S   x070B411  (Cx) (711) (CL+)
+
+V070B41T   EFAR41T   x070B412  (Cx) (310) (T-)
+V070B41U   EFAR41U   x070B412  (Cx) (310) (T+)
+V070B41V   EFAR41V   x070B412  (Cx) (310) (CL-)
+V070B41W   EFAR41W   x070B412  (Cx) (310) (CL+)
+
+V070B41X   EFAR41X   '41G      (Cx) with 486-cache default max waitstate
+
+
+Note - (Cx) - Vers 41G-41W  require specific "design-in" considerations for
+       Cyrix 486DLC.  These pins must be connected:  #KEN, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+
+==============================================================================
+
+
+Filename   Port      Description  82EC495 ("495") - 386/486 OPTi-495WB compat
+--------   -------   ---------------------------------------------------------
+V069B400   EFAR400   386,486,Cx486  495WB
+V069B401   EFAR401   x069B400  with  82C711 multi-IO
+V069B402   EFAR402   x069B400  with  PC87310 Super-IO
+
+V069B404   EFAR404   x069B400  (T-)
+V069B405   EFAR405   x069B400  (T+)
+V069B406   EFAR406   x069B400  (CL-)
+V069B407   EFAR407   x069B400  (CL+)
+
+V069B408   EFAR408   x069B401  (711) (T-)
+V069B409   EFAR409   x069B401  (711) (T+)
+V069B40A   EFAR40A   x069B401  (711) (CL-)
+V069B40B   EFAR40B   x069B401  (711) (CL+)
+
+V069B40C   EFAR40C   x069B402  (310) (T-)
+V069B40D   EFAR40D   x069B402  (310) (T+)
+V069B40E   EFAR40E   x069B402  (310) (CL-)
+V069B40F   EFAR40F   x069B402  (310) (CL+)
+
+Note - Vers 400-40F  fully support Cyrix 486DLC in 386 socket as a
+       "retrofit" without any special hardware considerations for it.
+       (To maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+==============================================================================
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+

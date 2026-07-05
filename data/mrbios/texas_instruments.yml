@@ -1,0 +1,102 @@
+- Part Number: V010B300
+  Code: TACT300
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger non-cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/TI/TIGER/V010B300/TACT300.BIN
+- Part Number: V010B302
+  Code: TACT302
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger with Intel 82385 cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/TI/TIGER/V010B302/TACT302.BIN
+- Part Number: V010B303
+  Code: TACT303
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger with Austek cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/TI/TIGER/V010B303/TACT303.BIN
+- Part Number: V010B30A
+  Code: TACT30A
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger non-cache
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/TI/TIGER/V010B30A/TACT30A.BIN
+- Part Number: V010B30B
+  Code: TACT30B
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger non-cache
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/TI/TIGER/V010B30B/TACT30B.ROM
+- Part Number: V010B30C
+  Code: TACT30C
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger with Austek cache
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V010B30D
+  Code: TACT30D
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger with Austek cache
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V010B30E
+  Code: TACT30E
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger with Intel 82385 cache
+  Turbo: Turbo-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V010B30F
+  Code: TACT30F
+  CPU: 386SX/DX
+  Chipset: TACT83000 Tiger with Intel 82385 cache
+  Turbo: Turbo-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V010B400
+  Code: TACT400
+  CPU: 486DX
+  Chipset: TACT83000 Tiger no external cache
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/TI/TIGER/V010B400/TACT400.BIN
+- Part Number: V010B40A
+  Code: TACT40A
+  CPU: 486DX
+  Chipset: TACT83000 Tiger no external cache
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V010B40B
+  Code: TACT40B
+  CPU: 486DX
+  Chipset: TACT83000 Tiger no external cache
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []

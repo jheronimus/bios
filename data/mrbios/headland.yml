@@ -1,0 +1,354 @@
+- INTL50C: V039B200
+  Code: HT12200
+  CPU: '286'
+  Chipset: HT12/HT12+
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT12/V039B200/HT12200.BIN
+- INTL50C: V039B201
+  Code: HT12201
+  CPU: '286'
+  Chipset: HT12/HT12+
+  I/O chip: None
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT12/V039B201/HT12201.BIN
+- INTL50C: V039B202
+  Code: HT12202
+  CPU: '286'
+  Chipset: HT12/HT12+
+  I/O chip: None
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT12/V039B202/HT12202.BIN
+- INTL50C: V039B210
+  Code: HT12210
+  CPU: '286'
+  Chipset: HT12/HT12+ with built-in EMS
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT12EMS/V039B210/HT12210.BIN
+- INTL50C: V039B211
+  Code: HT12211
+  CPU: '286'
+  Chipset: HT12/HT12+ with built-in EMS
+  I/O chip: None
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT12EMS/V039B211/HT12211.BIN
+- INTL50C: V039B212
+  Code: HT12212
+  CPU: '286'
+  Chipset: HT12/HT12+ with built-in EMS
+  I/O chip: None
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT12EMS/V039B212/HT12212.BIN
+- INTL50C: V056B300
+  Code: HT22300
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B302
+  Code: HT22302
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: None
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B303
+  Code: HT22303
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: None
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B30A
+  Code: HT2230A
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B30B
+  Code: HT2230B
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B30C
+  Code: HT2230C
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B30D
+  Code: HT2230D
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B30E
+  Code: HT2230E
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V056B30F
+  Code: HT2230F
+  CPU: 386SX
+  Chipset: HT22/HT18C
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT18/V053B30F/HT2230F.BIN
+- INTL50C: V053B300
+  Code: HT32300
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT320/V053B300/HT32300.BIN
+- INTL50C: V053B302
+  Code: HT32302
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: None
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B303
+  Code: HT32303
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: None
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files:
+  - bios/mrbios/HEADLAND/HT320/V053B303/HT32303.BIN
+- INTL50C: V053B307
+  Code: HT32307
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: ''
+  Turbo: ''
+  Should work with: '[Octek Jaguar IV-C (Rev 1.6)](https://theretroweb.com/motherboards/s/octek-jaguar-iv-c-r1-6)'
+  Versions found: '1.41'
+  files:
+  - bios/mrbios/HEADLAND/HT320/V053B307/HT32307.BIN
+- INTL50C: V053B308
+  Code: HT32308
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: ''
+  Turbo: ''
+  Should work with: Octek JAGUAR IV
+  Versions found: '1.45'
+  files:
+  - bios/mrbios/HEADLAND/HT320/V053B308/HT32308.BIN
+- INTL50C: V053B30A
+  Code: HT3230A
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B30B
+  Code: HT3230B
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B30C
+  Code: HT3230C
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B30D
+  Code: HT3230D
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B30E
+  Code: HT3230E
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B30F
+  Code: HT3230F
+  CPU: 386DX
+  Chipset: HT320 Shasta
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: ''
+  files:
+  - bios/mrbios/HEADLAND/HT18/V053B30F/HT2230F.BIN
+- INTL50C: V053B400
+  Code: HT34400
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: None
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B407
+  Code: HT34407
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: ''
+  Turbo: ''
+  Should work with: '[Octek HIPPO DCA 1 486 REV. 1.0](https://theretroweb.com/motherboards/s/octek-hippo-dca-1-486-rev.-1.0)
+
+    [Octek HIPPO VL+](https://theretroweb.com/motherboards/s/octek-hippo-vl-2)[Octek
+    HIPPO PRO 48](https://theretroweb.com/motherboards/s/octek-hippo-pro-486)6'
+  Versions found: 1.45,1.52,1.65,1.66,3.21
+  files:
+  - bios/mrbios/HEADLAND/HT340/V053B407/1.45/HT34407.BIN
+  - bios/mrbios/HEADLAND/HT340/V053B407/1.52/HT34407.BIN
+  - bios/mrbios/HEADLAND/HT340/V053B407/1.65/HT34407.BIN
+  - bios/mrbios/HEADLAND/HT340/V053B407/1.66/HT34407.BIN
+  - bios/mrbios/HEADLAND/HT340/V053B407/3.21/HT34407.BIN
+- INTL50C: V053B408
+  Code: HT34408
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: None
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B409
+  Code: HT34409
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: None
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40A
+  Code: HT3440A
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40B
+  Code: HT3440B
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: ''
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40C
+  Code: HT3440C
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40D
+  Code: HT3440D
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40E
+  Code: HT3440E
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: C&T 82C711 Combo I/O
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40F
+  Code: HT3440F
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: NSC PC87310 Super I/O
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: ''
+  files: []
+- INTL50C: V053B40G
+  Code: HT3440G
+  CPU: '486'
+  Chipset: HT340 Shasta
+  I/O chip: ''
+  Turbo: ''
+  Should work with: '[Octek HIPPO PRO 486](https://theretroweb.com/motherboards/s/octek-hippo-pro-486)'
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/HEADLAND/HT340/V053B40G/HT3440G.BIN

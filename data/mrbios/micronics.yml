@@ -1,0 +1,36 @@
+- Part Number: V001B300
+  Code: MICR300
+  CPU: 386, Cx486
+  Chipset: MICRONICS 386 (Discrete-Logic)
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/MICRONIC/386/V001B300/MICR300.BIN
+- Part Number: V001B310
+  Code: MICR310
+  CPU: 386, Cx486
+  Chipset: MICRONICS 386 (Discrete-Logic)
+  Notes: ASIC MIC-362/363
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/MICRONIC/386/V001B310/MICR310.BIN
+- Part Number: V001B320
+  Code: MICR320
+  CPU: 386, Cx486
+  Chipset: MICRONICS 386 (Discrete-Logic)
+  Notes: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/MICRONIC/386/V001B320/MICR320.BIN
+- Part Number: V001B330
+  Code: MICR330
+  CPU: 386, Cx486, 486
+  Chipset: MICRONICS 386 (Discrete-Logic)
+  Notes: ASIC MIC-461/462
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/MICRONIC/386/V001B330/MICR330.BIN

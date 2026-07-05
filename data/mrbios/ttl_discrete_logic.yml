@@ -1,0 +1,79 @@
+- Part Number: V000B200
+  Code: STD_286
+  Chipset: Generic 286 (TTL/Discrete Logic)
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/286/V000B200/STD_286.BIN
+- Part Number: V000B202
+  Code: STD_202
+  Chipset: Generic 286 (TTL/Discrete Logic)
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/286/V000B202/STD_202.BIN
+- Part Number: V000B203
+  Code: STD_203
+  Chipset: Generic 286 (TTL/Discrete Logic)
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/286/V000B203/STD_203.BIN
+- Part Number: V000B20A
+  Code: STD_20A
+  Chipset: Generic 286 (TTL/Discrete Logic)
+  Turbo: 8042 turbo 6/10 MHz - AST Premium 286
+  Should work with: ''
+  Versions found: ''
+  files: []
+- Part Number: V000B300
+  Code: STD_386
+  Chipset: Generic 386 (TTL/Discrete Logic)
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/386/V000B300/STD_386.BIN
+- Part Number: V000B302
+  Code: STD_302
+  Chipset: Generic 386 (TTL/Discrete Logic)
+  Turbo: Turbo, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/386/V000B302/STD_302.BIN
+- Part Number: V000B303
+  Code: STD_303
+  Chipset: Generic 386 (TTL/Discrete Logic)
+  Turbo: Turbo, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/386/V000B303/STD_303.BIN
+- Part Number: V000B400
+  Code: STD_486
+  Chipset: Generic 486 (TTL/Discrete Logic)
+  Turbo: ''
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/486/V000B400/STD_486.BIN
+- Part Number: V000B408
+  Code: STD_408
+  Chipset: Generic 486 (TTL/Discrete Logic)
+  Turbo: Cache-LED, active state low
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/486/V000B408/STD_408.BIN
+- Part Number: V000B409
+  Code: STD_409
+  Chipset: Generic 486 (TTL/Discrete Logic)
+  Turbo: Cache-LED, active state high
+  Should work with: ''
+  Versions found: '1.65'
+  files:
+  - bios/mrbios/DISCRETE/486/V000B409/STD_409.BIN

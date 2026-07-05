@@ -1,0 +1,1727 @@
+- Folder: 2A5KBA21
+  Manufacturer: A-Trend
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBA21/2A5KBA21.BIN
+- Folder: 2A5KBA22
+  Manufacturer: A-Trend
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBA22/2A5KBA22.BIN
+- Folder: 2A5KKA29
+  Manufacturer: A-Trend
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA29/2A5KKA29.BIN
+- Folder: 2A5KIA2A
+  Manufacturer: A-Trend
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIA2A/2A5KIA2A.BIN
+- Folder: 2A5KIA29
+  Manufacturer: A-Trend
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: A-Trend ATC-5130
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIA29/2A5KIA29.BIN
+- Folder: 2A5KIA2B
+  Manufacturer: A-Trend
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIA2B/2A5KIA2B.BIN
+- Folder: 2A5KKA1B
+  Manufacturer: ABit
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA1B/2A5KKA1B.BIN
+- Folder: 2A5KKA1A
+  Manufacturer: ABit
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA1A/2A5KKA1A.BIN
+- Folder: 2A5KKA19
+  Manufacturer: ABit
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA19/2A5KKA19.BIN
+- Folder: 2A5KIA19
+  Manufacturer: ABit
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIA19/2A5KIA19.BIN
+- Folder: 2A5KIA1A
+  Manufacturer: ABit
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIA1A/2A5KIA1A.BIN
+- Folder: 2A5KIAX9
+  Manufacturer: Achitec
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIAX9/2A5KIAX9.BIN
+- Folder: 2A5KKAK9
+  Manufacturer: Advantech
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+ITE8661
+  Release: '2.2'
+  Motherboard: AAEON Technology SBC-557
+  Aliases: 'AAEON Technology SBC-597
+
+    AAEON Technology PCM-5896'
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKAK9/2A5KKAK9.BIN
+- Folder: 2A5KIAWA
+  Manufacturer: AI
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIAWA/2A5KIAWA.BIN
+- Folder: 2A5KIAW9
+  Manufacturer: AI
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIAW9/2A5KIAW9.BIN
+- Folder: 2A5KIA59
+  Manufacturer: AIOM
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X+SMC37C669
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIA59/2A5KIA59.BIN
+- Folder: 2A5KIAY9
+  Manufacturer: Angel (SYNC)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIAY9/2A5KIAY9.BIN
+- Folder: 2A5KIAD9
+  Manufacturer: Anson Group
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIAD9/2A5KIAD9.BIN
+- Folder: 2A5KIAB9
+  Manufacturer: AOpen
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIAB9/2A5KIAB9.BIN
+- Folder: 2A5KKAT9
+  Manufacturer: ASK Technology
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKAT9/2A5KKAT9.BIN
+- Folder: 2A5KKA09
+  Manufacturer: ASUSTeK
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ASUS P5A
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA09/2A5KKA09.BIN
+- Folder: 2A5KKA0A
+  Manufacturer: ASUSTeK
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ASUS P5A w/ ALI 513XF
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA0A/2A5KKA0A.BIN
+- Folder: 2A5KKA5B
+  Manufacturer: Axiom
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA5B/2A5KKA5B.BIN
+- Folder: 2A5KKA59
+  Manufacturer: Axiom
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA59/2A5KKA59.BIN
+- Folder: 2A5KKA5A
+  Manufacturer: Axiom
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKA5A/2A5KKA5A.BIN
+- Folder: 2A5KBB11
+  Manufacturer: BEK-Tronic Technology
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBB11/2A5KBB11.BIN
+- Folder: 2A5KBB01
+  Manufacturer: Biostar
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBB01/2A5KBB01.BIN
+- Folder: 2A5KKB09
+  Manufacturer: Biostar
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKB09/2A5KKB09.BIN
+- Folder: 2A5KKB0A
+  Manufacturer: Biostar
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKB0A/2A5KKB0A.BIN
+- Folder: 2A5KKB0D
+  Manufacturer: Biostar
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Biostar Alladin V
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKB0D/2A5KKB0D.BIN
+- Folder: 2A5KKB0C
+  Manufacturer: Biostar
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Packard Bell
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKB0C/2A5KKB0C.BIN
+- Folder: 2A5KKB0B
+  Manufacturer: Biostar
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Biostar M5ALC
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKB0B/2A5KKB0B.BIN
+- Folder: 2A5KIB09
+  Manufacturer: Biostar
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Biostar M5ATA
+  Aliases: Amptron PM-9600 "TX_TWO"
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIB09/2A5KIB09.BIN
+- Folder: 2A5KBC71
+  Manufacturer: Canta
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBC71/2A5KBC71.BIN
+- Folder: 2A5KKC3A
+  Manufacturer: Chaintech
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKC3A/2A5KKC3A.BIN
+- Folder: 2A5KKC39
+  Manufacturer: Chaintech
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Chaintech CT-5RSA0/CT-5RSA2
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKC39/2A5KKC39.BIN
+- Folder: 2A5KBD01
+  Manufacturer: DataExpert
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBD01/2A5KBD01.BIN
+- Folder: 2A5KKD0A
+  Manufacturer: DataExpert
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD0A/2A5KKD0A.BIN
+- Folder: 2A5KKD09
+  Manufacturer: DataExpert
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD09/2A5KKD09.BIN
+- Folder: 2A5KIDA9
+  Manufacturer: Datavan
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIDA9/2A5KIDA9.BIN
+- Folder: 2A5KIDAC
+  Manufacturer: Datavan
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIDAC/2A5KIDAC.BIN
+- Folder: 2A5KBD31
+  Manufacturer: Digicom
+  Chipset: ALi 1449/61/51
+  I/O: SMC37C665
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBD31/2A5KBD31.BIN
+- Folder: 2A5KBD33
+  Manufacturer: Digicom
+  Chipset: ALi 1449/61/51
+  I/O: ALI5119
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBD33/2A5KBD33.BIN
+- Folder: 2A5KBD34
+  Manufacturer: Digicom
+  Chipset: ALi 1449/61/51
+  I/O: ALI5119
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBD34/2A5KBD34.BIN
+- Folder: 2A5KBD23
+  Manufacturer: Digital
+  Chipset: ALi 1449/61/51
+  I/O: ALI5119
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBD23/2A5KBD23.BIN
+- Folder: 2A5KKD2A
+  Manufacturer: Digital
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD2A/2A5KKD2A.BIN
+- Folder: 2A5KKD29
+  Manufacturer: Digital
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+SMC37C669
+  Release: '2.2'
+  Motherboard: Boser HS-4500
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD29/2A5KKD29.BIN
+- Folder: 2A5KKD2B
+  Manufacturer: Digital
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD2B/2A5KKD2B.BIN
+- Folder: 2A5KKD2D
+  Manufacturer: Digital
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD2D/2A5KKD2D.BIN
+- Folder: 2A5KKD2C
+  Manufacturer: Digital
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKD2C/2A5KKD2C.BIN
+- Folder: 2A5KIW09
+  Manufacturer: Edom/Wintech
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Edom/Wintech MP083
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIW09/2A5KIW09.BIN
+- Folder: 2A5KBE31
+  Manufacturer: EFA
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBE31/2A5KBE31.BIN
+- Folder: 2A5KKE69
+  Manufacturer: Expert
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKE69/2A5KKE69.BIN
+- Folder: 2A5KIE69
+  Manufacturer: Expert
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIE69/2A5KIE69.BIN
+- Folder: 2A5KBE99
+  Manufacturer: Express
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBE99/2A5KBE99.BIN
+- Folder: 2A5KBE9A
+  Manufacturer: Express
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBE9A/2A5KBE9A.BIN
+- Folder: 2A5KKF09
+  Manufacturer: FIC
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF09/2A5KKF09.BIN
+- Folder: 2A5KKF99
+  Manufacturer: Ford Lian
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF99/2A5KKF99.BIN
+- Folder: 2A5KKF9A
+  Manufacturer: Ford Lian
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Acorp 5ALi61
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF9A/2A5KKF9A.BIN
+- Folder: 2A5KKF9D
+  Manufacturer: Ford Lian
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Ford Lian AGP-ALI
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF9D/2A5KKF9D.BIN
+- Folder: 2A5KKF9C
+  Manufacturer: Ford Lian
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF9C/2A5KKF9C.BIN
+- Folder: 2A5KKF9B
+  Manufacturer: Ford Lian
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Ford Lian AGP-ALI
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF9B/2A5KKF9B.BIN
+- Folder: 2A5KIF9A
+  Manufacturer: Ford Lian
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Ford Lian AGP-ALI
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIF9A/2A5KIF9A.BIN
+- Folder: 2A5KIF99
+  Manufacturer: Ford Lian
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: RedFox 5ATXB rev:B
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIF99/2A5KIF99.BIN
+- Folder: 2A5KHF99
+  Manufacturer: Ford Lian
+  Chipset: ALi M153x
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M153x/2A5KHF99/2A5KHF99.BIN
+- Folder: 2A5KKF8B
+  Manufacturer: Formosa Industrial Computing
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF8B/2A5KKF8B.BIN
+- Folder: 2A5KKF8D
+  Manufacturer: Formosa Industrial Computing
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF8D/2A5KKF8D.BIN
+- Folder: 2A5KKF8A
+  Manufacturer: Formosa Industrial Computing
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF8A/2A5KKF8A.BIN
+- Folder: 2A5KKF2B
+  Manufacturer: Freetech
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F103 (Lark)
+  Aliases: Freetech/Flexus P5F97
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF2B/2A5KKF2B.BIN
+- Folder: 2A5KKF2C
+  Manufacturer: Freetech
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F93/P5F93U (Tercel)
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF2C/2A5KKF2C.BIN
+- Folder: 2A5KKF2D
+  Manufacturer: Freetech
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF2D/2A5KKF2D.BIN
+- Folder: 2A5KKF2A
+  Manufacturer: Freetech
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Freetech/Flexus P5F93/P5F93U (Tercel)
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF2A/2A5KKF2A.BIN
+- Folder: 2A5KKF29
+  Manufacturer: Freetech
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKF29/2A5KKF29.BIN
+- Folder: 2A5KKGA9
+  Manufacturer: Giantec
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKGA9/2A5KKGA9.BIN
+- Folder: 2A5KBG08
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG08/2A5KBG08.BIN
+- Folder: 2A5KBG01
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: Gigabyte GA586A* w/UMC 8663
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG01/2A5KBG01.BIN
+- Folder: 2A5KBG0A
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG0A/2A5KBG0A.BIN
+- Folder: 2A5KBG02
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: Gigabyte GA-586AP
+  Aliases: Gigabyte GA-586AP Rev 2
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG02/2A5KBG02.BIN
+- Folder: 2A5KBG05
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG05/2A5KBG05.BIN
+- Folder: 2A5KBG04
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG04/2A5KBG04.BIN
+- Folder: 2A5KBG03
+  Manufacturer: Gigabyte
+  Chipset: ALi 1449/61/51
+  I/O: UMC8663
+  Release: '2'
+  Motherboard: Gigabyte GA-586AL/S Rev. 2A
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG03/2A5KBG03.BIN
+- Folder: 2A5KKG0D
+  Manufacturer: Gigabyte
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG0D/2A5KKG0D.BIN
+- Folder: 2A5KKG09
+  Manufacturer: Gigabyte
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Gigabyte GA-5ATX
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG09/2A5KKG09.BIN
+- Folder: 2A5KIG09
+  Manufacturer: Gigabyte
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIG09/2A5KIG09.BIN
+- Folder: 2A5KBG21
+  Manufacturer: GTK
+  Chipset: ALi 1449/61/51
+  I/O: SMC37C651
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBG21/2A5KBG21.BIN
+- Folder: 2A5KKG5A
+  Manufacturer: GVC
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG5A/2A5KKG5A.BIN
+- Folder: 2A5KKG59
+  Manufacturer: GVC
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG59/2A5KKG59.BIN
+- Folder: 2A5KKG5B
+  Manufacturer: GVC
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG5B/2A5KKG5B.BIN
+- Folder: 2A5KKG5E
+  Manufacturer: GVC
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG5E/2A5KKG5E.BIN
+- Folder: 2A5KKG5C
+  Manufacturer: GVC
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: GVC w/ ALi513XF
+  Aliases: 'BCM VP1541
+
+    BCM VP1543'
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKG5C/2A5KKG5C.BIN
+- Folder: 2A5KBH03
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBH03/2A5KBH03.BIN
+- Folder: 2A5KBH02
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBH02/2A5KBH02.BIN
+- Folder: 2A5KBH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBH09/2A5KBH09.BIN
+- Folder: 2A5KBH01
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: Hsing Tech PCM7100 w/ NO Superio
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBH01/2A5KBH01.BIN
+- Folder: 2A5KIH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIH09/2A5KIH09.BIN
+- Folder: 2A5KHH09
+  Manufacturer: Hsing Tech (PCChips)
+  Chipset: ALi M153x
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M153x/2A5KHH09/2A5KHH09.BIN
+- Folder: 2A5KII9A
+  Manufacturer: ICP
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KII9A/2A5KII9A.BIN
+- Folder: 2A5KII79
+  Manufacturer: Inlog
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KII79/2A5KII79.BIN
+- Folder: 2A5KKU80
+  Manufacturer: Iwill
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Iwill XA100 Ver 1.2
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKU80/2A5KKU80.BIN
+- Folder: 2A5KKI3A
+  Manufacturer: Iwill
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Iwill XA100+ w/ ALi 513X
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKI3A/2A5KKI3A.BIN
+- Folder: 2A5KKI39
+  Manufacturer: Iwill
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKI39/2A5KKI39.BIN
+- Folder: 2A5KII39
+  Manufacturer: Iwill
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KII39/2A5KII39.BIN
+- Folder: 2A5KII3A
+  Manufacturer: Iwill
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Iwill P55XPlus
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KII3A/2A5KII3A.BIN
+- Folder: 2A5KBJ71
+  Manufacturer: J & J
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBJ71/2A5KBJ71.BIN
+- Folder: 2A5KBJ53
+  Manufacturer: J-Square
+  Chipset: ALi 1449/61/51
+  I/O: SMC37C651
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBJ53/2A5KBJ53.BIN
+- Folder: 2A5KBJ52
+  Manufacturer: J-Square
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBJ52/2A5KBJ52.BIN
+- Folder: 2A5KBJ51
+  Manufacturer: J-Square
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBJ51/2A5KBJ51.BIN
+- Folder: 2A5KBJ12
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBJ12/2A5KBJ12.BIN
+- Folder: 2A5KBJ11
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBJ11/2A5KBJ11.BIN
+- Folder: 2A5KKJ1E
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Jetway J-542A
+  Aliases: 'Jetway J-542BS
+
+    Jetway J-542C'
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKJ1E/2A5KKJ1E.BIN
+- Folder: 2A5KKJ1B
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKJ1B/2A5KKJ1B.BIN
+- Folder: 2A5KKJ1C
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKJ1C/2A5KKJ1C.BIN
+- Folder: 2A5KKJ1D
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKJ1D/2A5KKJ1D.BIN
+- Folder: 2A5KIJ19
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIJ19/2A5KIJ19.BIN
+- Folder: 2A5KIJ1A
+  Manufacturer: Jetway (Jetboard and Acorp)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIJ1A/2A5KIJ1A.BIN
+- Folder: 2A5KKK19
+  Manufacturer: Kaimei
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: Jamicon MB-KM-566A
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKK19/2A5KKK19.BIN
+- Folder: 2A5KIL19
+  Manufacturer: Lucky Star
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIL19/2A5KIL19.BIN
+- Folder: 2A5KKR09
+  Manufacturer: M-Tech (Rise)
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+W83877F
+  Release: '2.2'
+  Motherboard: M-Tech (Rise) R566
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKR09/2A5KKR09.BIN
+- Folder: 2A5KKR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF+W83877F
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKR0A/2A5KKR0A.BIN
+- Folder: 2A5KIR0A
+  Manufacturer: M-Tech (Rise)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIR0A/2A5KIR0A.BIN
+- Folder: 2A5KIR0B
+  Manufacturer: M-Tech (Rise)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIR0B/2A5KIR0B.BIN
+- Folder: 2A5KBM01
+  Manufacturer: Matra
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: Matra P54CAIO
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM01/2A5KBM01.BIN
+- Folder: 2A5KBM0A
+  Manufacturer: Matra
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM0A/2A5KBM0A.BIN
+- Folder: 2A5KBM09
+  Manufacturer: Matra
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: Matra P54CAIO
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM09/2A5KBM09.BIN
+- Folder: 2A5KKMDA
+  Manufacturer: Micronics
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKMDA/2A5KKMDA.BIN
+- Folder: 2A5KKMD9
+  Manufacturer: Micronics
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKMD9/2A5KKMD9.BIN
+- Folder: 2A5KKM39
+  Manufacturer: MiTAC
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKM39/2A5KKM39.BIN
+- Folder: 2A5KBM41
+  Manufacturer: MSI
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM41/2A5KBM41.BIN
+- Folder: 2A5KBM4A
+  Manufacturer: MSI
+  Chipset: ALi 1449/61/51
+  I/O: W83787F
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM4A/2A5KBM4A.BIN
+- Folder: 2A5KKM4B
+  Manufacturer: MSI
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKM4B/2A5KKM4B.BIN
+- Folder: 2A5KKM49
+  Manufacturer: MSI
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKM49/2A5KKM49.BIN
+- Folder: 2A5KIM4A
+  Manufacturer: MSI
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: MSI MS-5163
+  Aliases: 'MSI MS-5164 (AL7)
+
+    MSI MS-5167'
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIM4A/2A5KIM4A.BIN
+- Folder: 2A5KIM49
+  Manufacturer: MSI
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIM49/2A5KIM49.BIN
+- Folder: 2A5KIM4B
+  Manufacturer: MSI
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIM4B/2A5KIM4B.BIN
+- Folder: 2A5KKN69
+  Manufacturer: Nuseed
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKN69/2A5KKN69.BIN
+- Folder: 2A5KIO59
+  Manufacturer: OD COM
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIO59/2A5KIO59.BIN
+- Folder: 2A5KIO5A
+  Manufacturer: OD COM
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIO5A/2A5KIO5A.BIN
+- Folder: 2A5KIO5C
+  Manufacturer: OD COM
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIO5C/2A5KIO5C.BIN
+- Folder: 2A5KIO5B
+  Manufacturer: OD COM
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIO5B/2A5KIO5B.BIN
+- Folder: 2A5KIO49
+  Manufacturer: Oricom
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIO49/2A5KIO49.BIN
+- Folder: 2A5KBPC1
+  Manufacturer: Pineview
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBPC1/2A5KBPC1.BIN
+- Folder: 2A5KBP41
+  Manufacturer: Plato
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBP41/2A5KBP41.BIN
+- Folder: 2A5KKP6B
+  Manufacturer: Pro-tech
+  Chipset: ALi Aladdin V
+  I/O: ALI5123+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKP6B/2A5KKP6B.BIN
+- Folder: 2A5KKP6E
+  Manufacturer: Pro-tech
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKP6E/2A5KKP6E.BIN
+- Folder: 2A5KKP6D
+  Manufacturer: Pro-tech
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKP6D/2A5KKP6D.BIN
+- Folder: 2A5KKP6C
+  Manufacturer: Pro-tech
+  Chipset: ALi Aladdin V
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKP6C/2A5KKP6C.BIN
+- Folder: 2A5KKP69
+  Manufacturer: Pro-tech
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKP69/2A5KKP69.BIN
+- Folder: 2A5KIP69
+  Manufacturer: Pro-tech
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIP69/2A5KIP69.BIN
+- Folder: 2A5KIP6A
+  Manufacturer: Pro-tech
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI5123+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIP6A/2A5KIP6A.BIN
+- Folder: 2A5KIP6D
+  Manufacturer: Pro-tech
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI5123+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIP6D/2A5KIP6D.BIN
+- Folder: 2A5KIP6C
+  Manufacturer: Pro-tech
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIP6C/2A5KIP6C.BIN
+- Folder: 2A5KIP6B
+  Manufacturer: Pro-tech
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI5123+SMC37C669
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIP6B/2A5KIP6B.BIN
+- Folder: 2A5KBP51
+  Manufacturer: Proect
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: Proect PM54CPA
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBP51/2A5KBP51.BIN
+- Folder: 2A5KBP52
+  Manufacturer: Proect
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBP52/2A5KBP52.BIN
+- Folder: 2A5KKP79
+  Manufacturer: Promise
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKP79/2A5KKP79.BIN
+- Folder: 2A5KBP81
+  Manufacturer: Proteam/Azza
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBP81/2A5KBP81.BIN
+- Folder: 2A5KIR5A
+  Manufacturer: RT & C
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIR5A/2A5KIR5A.BIN
+- Folder: 2A5KIR59
+  Manufacturer: RT & C
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIR59/2A5KIR59.BIN
+- Folder: 2A5KKSMB
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKSMB/2A5KKSMB.BIN
+- Folder: 2A5KKSMC
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: SuperPower SP-A586B
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKSMC/2A5KKSMC.BIN
+- Folder: 2A5KKSMA
+  Manufacturer: San-Li and Hope Vision/Superpower
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: SuperPower SP-A586B
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKSMA/2A5KKSMA.BIN
+- Folder: 2A5KBSD1
+  Manufacturer: See Through
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBSD1/2A5KBSD1.BIN
+- Folder: 2A5KKH29
+  Manufacturer: Shuttle (Holco)
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKH29/2A5KKH29.BIN
+- Folder: 2A5KKH2A
+  Manufacturer: Shuttle (Holco)
+  Chipset: ALi Aladdin V
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKH2A/2A5KKH2A.BIN
+- Folder: 2A5KKSEA
+  Manufacturer: SMT
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKSEA/2A5KKSEA.BIN
+- Folder: 2A5KIS2A
+  Manufacturer: Soyo
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIS2A/2A5KIS2A.BIN
+- Folder: 2A5KIS29
+  Manufacturer: Soyo
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIS29/2A5KIS29.BIN
+- Folder: 2A5KBS81
+  Manufacturer: Sunlogic
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBS81/2A5KBS81.BIN
+- Folder: 2A5KKTPA
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKTPA/2A5KKTPA.BIN
+- Folder: 2A5KKTP9
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: Commate S7AX
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKTP9/2A5KKTP9.BIN
+- Folder: 2A5KKTPB
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKTPB/2A5KKTPB.BIN
+- Folder: 2A5KITP9
+  Manufacturer: TCC(Taiwan computer)
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KITP9/2A5KITP9.BIN
+- Folder: 2A5KBM2A
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM2A/2A5KBM2A.BIN
+- Folder: 2A5KBM29
+  Manufacturer: TMC/MyComp/MyNix/Megastar
+  Chipset: ALi 1449/61/51
+  I/O: SMC37C665
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBM29/2A5KBM29.BIN
+- Folder: 2A5KKTJ9
+  Manufacturer: Totem
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2'
+  Motherboard: Totem TM-586 AL100
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKTJ9/2A5KKTJ9.BIN
+- Folder: 2A5KB001
+  Manufacturer: Unknown
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KB001/2A5KB001.BIN
+- Folder: 2A5KB008
+  Manufacturer: Unknown
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KB008/2A5KB008.BIN
+- Folder: 2A5KK00B
+  Manufacturer: Unknown
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KK00B/2A5KK00B.BIN
+- Folder: 2A5KKBER
+  Manufacturer: Unknown
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKBER/2A5KKBER.BIN
+- Folder: 2A5KKIV9
+  Manufacturer: Unknown
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKIV9/2A5KKIV9.BIN
+- Folder: 2A5KK00A
+  Manufacturer: Unknown
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KK00A/2A5KK00A.BIN
+- Folder: 2A5KK009
+  Manufacturer: Unknown
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KK009/2A5KK009.BIN
+- Folder: 2A5KI009
+  Manufacturer: Unknown
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KI009/2A5KI009.BIN
+- Folder: 2A5KI00A
+  Manufacturer: Unknown
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KI00A/2A5KI00A.BIN
+- Folder: 2A5KIU80
+  Manufacturer: Unknown
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIU80/2A5KIU80.BIN
+- Folder: 2A5KH009
+  Manufacturer: Unknown
+  Chipset: ALi M153x
+  I/O: ALI5113
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M153x/2A5KH009/2A5KH009.BIN
+- Folder: 2A5KKV59
+  Manufacturer: Vision Top Technology
+  Chipset: ALi Aladdin V
+  I/O: ALI513XF
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin V/2A5KKV59/2A5KKV59.BIN
+- Folder: 2A5KIV59
+  Manufacturer: Vision Top Technology
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIV59/2A5KIV59.BIN
+- Folder: 2A5KIW59
+  Manufacturer: Wincom/Mercury
+  Chipset: ALi IV+ M1531/M1543 (aka Super TX)
+  I/O: ALI513X
+  Release: '2.2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/Aladdin IV+/2A5KIW59/2A5KIW59.BIN
+- Folder: 2A5KBZ02
+  Manufacturer: XO Infotech
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBZ02/2A5KBZ02.BIN
+- Folder: 2A5KBZ01
+  Manufacturer: XO Infotech
+  Chipset: ALi 1449/61/51
+  I/O: None
+  Release: '2'
+  Motherboard: ''
+  Aliases: ''
+  files:
+  - bios/unicore/ALI/M1449/2A5KBZ01/2A5KBZ01.BIN

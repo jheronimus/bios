@@ -1,0 +1,117 @@
+              +----------------------------------------------+
+              |   MR BIOS (r)  Production BIOS Version 1.65  |
+              +----------------------------------------------+
+              |   Copyright (c) 1994,  Microid Research Inc  |
+              |    2336-D Walsh Ave, Santa Clara, CA 95051   |
+              |   Tel (408) 727-6991  /  Fax (408) 727-6996  |
+              +----------------------------------------------+
+
+
+-------------------
+FOREX Computer Corp
+-------------------
+
+Filename   Port      Description  46C521  WriteBack  (486DLC retrofit)
+--------   -------   ---------------------------------------------------------
+V082B430   FORX420   386/486/Cyrix '521
+V082B431   FORX421   x082B430  (T-)
+V082B432   FORX422   x082b430  (T+)
+V082B433   FORX423   x082b430  (CL-)        <-- demo board
+V082B434   FORX424   x082b430  (CL+)
+
+Note - Vers 430-434  fully support Cyrix 486DLC in 386 socket
+       without any special hardware considerations for it.  (To
+       maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+Filename   Port      Description  46C521  WriteBack (486DLC design-in)
+--------   -------   ---------------------------------------------------------
+V082B435   FORX425   386/486/Cyrix '521
+V082B436   FORX426   x082B435  (T-)
+V082B437   FORX427   x082b435  (T+)
+V082B438   FORX428   x082b435  (CL-)
+V082B439   FORX429   x082b435  (CL+)
+
+Note - Vers 435-439  require specific design-in considerations for
+       Cyrix 486DLC.  These pins must be connected: #FLUSH, #KEN, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+
+Filename   Port      Description  46C421A+46C422  WriteBack  (486DLC retrofit)
+--------   -------   ---------------------------------------------------------
+V067B420   FORX420   386/486/Cyrix '421-A   (NOTE! Rev-0 is NOT supported)
+V067B421   FORX421   x067B420  (T-)
+V067B422   FORX422   x067b420  (T+)
+V067B423   FORX423   x067b420  (CL-)
+V067B424   FORX424   x067b420  (CL+)
+
+Note - Vers 420-424  fully support Cyrix 486DLC in 386 socket
+       without any special hardware considerations for it.  (To
+       maintain cache coherence, Cyrix CCR0 "BARB" is set, &tc).
+
+
+Filename   Port      Description  46C421A+46C422  WriteBack (486DLC design-in)
+--------   -------   ---------------------------------------------------------
+V067B425   FORX425   386/486/Cyrix '421-A   (NOTE! Rev-0 is NOT supported)
+V067B426   FORX426   x067B425  (T-)
+V067B427   FORX427   x067b425  (T+)
+V067B428   FORX428   x067b425  (CL-)
+V067B429   FORX429   x067b425  (CL+)
+
+Note - Vers 425-429  require specific design-in considerations for
+       Cyrix 486DLC.  These pins must be connected: #FLUSH, #KEN, #A20M.
+
+       These versions give best Cyrix performance (compared with "retrofit"
+       versions), but will MALFUNCTION unless the board is designed for it.
+
+
+Filename   Port      Description   36C311 Single Chip 386SX with Cache
+--------   -------   ---------------------------------------------------------
+V052B320   FORX320   386SX/486SLC with cache
+V052B323   FORX323   x052B320  (T+)       <-- eval board
+
+
+Filename   Port      Description   46C411 + 46C402  WriteThru
+--------   -------   ---------------------------------------------------------
+V050B410   FORX410   386/486/Cyrix - 2nd generation chipset
+V050B413   FORX413   x050B410  (T+)
+V050B418   FORX418   x050B410  (CL-)
+V050B419   FORX419   x050B410  (CL+)
+
+
+Filename   Port      Description   36C300 + 36C200/46C402  WriteThru
+--------   -------   ---------------------------------------------------------
+V049B300   FORX300   386 chipset - 1st generation
+V049B303   FORX303   x049B300  (T+)
+
+
+
+-----------------------------------------------------------------
+ 8042 Turbo/Turbo-LED control:  (T-) (T+) (TL-) (TL+) (CL-) (CL+)
+-----------------------------------------------------------------
+
+Hot-Key TURBO and/or LED control via keystrokes  <CTRL> <ALT> <-/+>  will
+simultaneously activate all commonly used 8042 pins: 23,24, 27,28,29,30.
+
+The system board layout must connect one of these pins to an existing
+Turbo/LED circuit.  Consideration should be given to the remaining pins
+which are also driven.  MR BIOS (r) 8042 or AMI KF keyboard controller
+may be used for this purpose.  Award, Phoenix, and Quadtel 8042's cannot
+be used with any MR BIOS (r) version designated as having this special
+8042 functionality.
+
+                  Active
+Legend  Function  State   Description
+------  --------  -----   -------------------------------------------- 
+(T-)    Turbo      Low    8042 turbo/LED circuit ONLY (no chipset register
+(T+)    Turbo      High   turbo).  Also, Setup Utility SPEED screen appears.
+
+(TL-)   Turbo-LED  Low    Both chipset turbo and 8042 pins are activated.
+(TL+)   Turbo-LED  High
+
+(CL-)   Cache-LED  Low    Used mainly with 486, Cache state indicates "turbo".
+(CL+)   Cache-LED  High
+
+
