@@ -21,7 +21,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WC/V09AB5WC.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WC/V09AB5WC.BIO
 - Part number: V097B5SW
   Shareware filename: 'MR_5TA2
 
@@ -76,7 +78,8 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GA1AC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5AA/V09AB5AA.BIN
 - Part number: V097B50C
   Shareware filename: 'MR_ACER
 
@@ -137,7 +140,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IAB9
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5SB/V09BB5SB.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5SB/V09BB5SB.BIO
 - Part number: V09AB5SG
   Shareware filename: ''
   BIOS ID: ''
@@ -148,7 +153,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SG/V09AB5SG.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SG/V09AB5SG.BIO
 - Part number: V097B5SE
   Shareware filename: ''
   BIOS ID: ''
@@ -191,7 +198,9 @@
     Ability Technologies MB-586TX'
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5UA/V09BB5UA.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5UA/V09BB5UA.BIO
 - Part number: V09BB5IA
   Shareware filename: ''
   BIOS ID: ''
@@ -202,7 +211,9 @@
   Aliases: ''
   Stock BIOS string: AMI 51-1220-001437-00111111-071595-i430TX-001_10_TX-H
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5IA/V09BB5IA.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5IA/V09BB5IA.BIO
 - Part number: V09AB5UB
   Shareware filename: ''
   BIOS ID: ''
@@ -225,7 +236,9 @@
 
     Award 10031996C'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UB/V09AB5UB.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UB/V09AB5UB.BIO
 - Part number: V097B51A
   Shareware filename: MR_ASUS1
   BIOS ID: INTL51A
@@ -304,6 +317,19 @@
   - bios/mrbios/INTEL/430FX/V097B50A/V097B50A.BIN
   - bios/mrbios/INTEL/SHAREWARE/MR_ASUS/3.19/MR_ASUS.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_ASUS/3.21/MR_ASUS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUS1/MR_ASUS1.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUS2/MR_ASUS2.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.22/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.26/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.27/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.28/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSS/3.30/MR_ASUSS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSU/3.22/MR_ASUSU.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSU/3.30/MR_ASUSU.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.22/MR_ASUSW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.27/MR_ASUSW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.28/MR_ASUSW.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_ASUSW/3.30/MR_ASUSW.BIO
 - Part number: V098B5SA
   Shareware filename: MR_ASUS2
   BIOS ID: INT25SA
@@ -341,7 +367,9 @@
   Aliases: Asus TX97-X
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WB/V09BB5WB.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WB/V09BB5WB.BIO
 - Part number: V09BB5WC
   Shareware filename: ''
   BIOS ID: ''
@@ -352,7 +380,9 @@
   Aliases: Asus TX97-L
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WC/V09BB5WC.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WC/V09BB5WC.BIO
 - Part number: V09AB5WB
   Shareware filename: ''
   BIOS ID: ''
@@ -363,7 +393,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WB/V09AB5WB.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WB/V09AB5WB.BIO
 - Part number: V09AB5WL
   Shareware filename: ''
   BIOS ID: ''
@@ -374,7 +406,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WL/V09AB5WL.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WL/V09AB5WL.BIO
 - Part number: V097B50D
   Shareware filename: 'MR_ATEN
 
@@ -400,6 +434,8 @@
   - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.22/MR_EDOM.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.27/MR_EDOM.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_EDOM/3.28/MR_EDOM.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOMS/MR_EDOMS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_EDOMU/MR_EDOMU.BIO
 - Part number: V098B5UC
   Shareware filename: ''
   BIOS ID: ''
@@ -446,7 +482,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GP8E
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SR/V09AB5SR.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SR/V09AB5SR.BIO
 - Part number: V09AB5UE
   Shareware filename: ''
   BIOS ID: ''
@@ -459,7 +497,9 @@
 
     Award 2A59GM39C'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UE/V09AB5UE.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UE/V09AB5UE.BIO
 - Part number: V097B5S0
   Shareware filename: MR_TRICS
   BIOS ID: INTL5S0
@@ -484,7 +524,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GB3DC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WJ/V09AB5WJ.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WJ/V09AB5WJ.BIO
 - Part number: V097B5UU
   Shareware filename: MR_BSTAR
   BIOS ID: INTL5UU
@@ -530,6 +572,8 @@
   - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.22/MR_TEC.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.27/MR_TEC.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_TEC/3.28/MR_TEC.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TECU/MR_TECU.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_TECW/MR_TECW.BIO
 - Part number: V097B5WM
   Shareware filename: MR_TECW
   BIOS ID: INTL5WM
@@ -581,7 +625,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IB0B
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5SU/V09BB5SU.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5SU/V09BB5SU.BIO
 - Part number: V097B5UT
   Shareware filename: ''
   BIOS ID: ''
@@ -618,7 +664,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WH/V09AB5WH.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WH/V09AB5WH.BIO
 - Part number: V09AB5UH
   Shareware filename: ''
   BIOS ID: ''
@@ -629,7 +677,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GC39
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UH/V09AB5UH.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UH/V09AB5UH.BIO
 - Part number: V09AB5UG
   Shareware filename: ''
   BIOS ID: ''
@@ -640,7 +690,8 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GC39C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UG/V09AB5UG.BIN
 - Part number: V097B5NC
   Shareware filename: ''
   BIOS ID: ''
@@ -733,7 +784,9 @@
 
     Award 2A59ID4BC'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BA5WD/V09BA5WD.BIN
+  - bios/mrbios/INTEL/430TX/V09BA5WD/V09BA5WD.BIO
 - Part number: V09BA5SD
   Shareware filename: ''
   BIOS ID: ''
@@ -744,7 +797,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59ID49C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BA5SD/V09BA5SD.BIN
+  - bios/mrbios/INTEL/430TX/V09BA5SD/V09BA5SD.BIO
 - Part number: V09AB5WT
   Shareware filename: ''
   BIOS ID: ''
@@ -755,7 +810,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GD4B
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WT/V09AB5WT.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WT/V09AB5WT.BIO
 - Part number: V09AB5WF
   Shareware filename: ''
   BIOS ID: ''
@@ -770,7 +827,9 @@
 
     Award 2A59GSN9C'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WF/V09AB5WF.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WF/V09AB5WF.BIO
 - Part number: V097B5SB
   Shareware filename: ''
   BIOS ID: ''
@@ -878,7 +937,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IW0B
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5AE/V09BB5AE.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5AE/V09BB5AE.BIO
 - Part number: V09AB5LM
   Shareware filename: ''
   BIOS ID: ''
@@ -889,7 +950,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5LM/V09AB5LM.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5LM/V09AB5LM.BIO
 - Part number: V09BB5AC
   Shareware filename: ''
   BIOS ID: ''
@@ -900,7 +963,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IE39
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5AC/V09BB5AC.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5AC/V09BB5AC.BIO
 - Part number: V09AB5AD
   Shareware filename: ''
   BIOS ID: ''
@@ -911,7 +976,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GE3AC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5AD/V09AB5AD.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5AD/V09AB5AD.BIO
 - Part number: V097B5VE
   Shareware filename: ''
   BIOS ID: ''
@@ -998,7 +1065,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WQ/V09BB5WQ.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WQ/V09BB5WQ.BIO
 - Part number: V098B5WC
   Shareware filename: ''
   BIOS ID: ''
@@ -1080,7 +1149,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5SF/V09BB5SF.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5SF/V09BB5SF.BIO
 - Part number: V09AA5WA
   Shareware filename: ''
   BIOS ID: ''
@@ -1091,7 +1162,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GF09C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AA5WA/V09AA5WA.BIN
+  - bios/mrbios/INTEL/430VX/V09AA5WA/V09AA5WA.BIO
 - Part number: V09BB5AF
   Shareware filename: ''
   BIOS ID: ''
@@ -1102,7 +1175,9 @@
   Aliases: Acorp 5TX29
   Stock BIOS string: Award 2A59IF99
   Versions found: '3.45'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5AF/V09BB5AF.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5AF/V09BB5AF.BIO
 - Part number: V09AO5WG
   Shareware filename: ''
   BIOS ID: ''
@@ -1113,7 +1188,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AO5WG/V09AO5WG.BIN
 - Part number: V09AB5WG
   Shareware filename: ''
   BIOS ID: ''
@@ -1124,7 +1200,9 @@
   Aliases: GENOA 586F63
   Stock BIOS string: Award 2A59GF2C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WG/V09AB5WG.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WG/V09AB5WG.BIO
 - Part number: V097B50F
   Shareware filename: MR_FUGU
   BIOS ID: INTL50F
@@ -1151,7 +1229,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GF39C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AA5SI/V09AA5SI.BIN
+  - bios/mrbios/INTEL/430VX/V09AA5SI/V09AA5SI.BIO
 - Part number: V097A5WA
   Shareware filename: MR_MTRON
   BIOS ID: INTL5WA
@@ -1176,7 +1256,9 @@
   Aliases: DTK PAM-0056I
   Stock BIOS string: Award 2A59GG39C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UL/V09AB5UL.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UL/V09AB5UL.BIO
 - Part number: V09AB5WI
   Shareware filename: ''
   BIOS ID: ''
@@ -1187,7 +1269,9 @@
   Aliases: DTK PAM-0056I
   Stock BIOS string: Award 2A59GG39C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WI/V09AB5WI.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WI/V09AB5WI.BIO
 - Part number: V098B5WG
   Shareware filename: ''
   BIOS ID: ''
@@ -1253,7 +1337,9 @@
   Aliases: TMC AI5TV
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WA/V09AB5WA.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WA/V09AB5WA.BIO
 - Part number: V09BB5WU
   Shareware filename: ''
   BIOS ID: ''
@@ -1264,7 +1350,9 @@
   Aliases: DataExpert TX430II
   Stock BIOS string: Award 2A59IFDE
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WU/V09BB5WU.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WU/V09BB5WU.BIO
 - Part number: V09BB5SG
   Shareware filename: ''
   BIOS ID: ''
@@ -1275,7 +1363,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IG99
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5SG/V09BB5SG.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5SG/V09BB5SG.BIO
 - Part number: V09AB5SC
   Shareware filename: ''
   BIOS ID: ''
@@ -1286,7 +1376,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SC/V09AB5SC.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SC/V09AB5SC.BIO
 - Part number: V09AB5SE
   Shareware filename: ''
   BIOS ID: ''
@@ -1297,7 +1389,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SE/V09AB5SE.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SE/V09AB5SE.BIO
 - Part number: V097A5WH
   Shareware filename: ''
   BIOS ID: ''
@@ -1333,7 +1427,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BH5WK/V09BH5WK.BIN
 - Part number: V09AB5SH
   Shareware filename: ''
   BIOS ID: ''
@@ -1344,7 +1439,9 @@
   Aliases: Jetway J-656VXD VER:2
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SH/V09AB5SH.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SH/V09AB5SH.BIO
 - Part number: V09AH5SH
   Shareware filename: ''
   BIOS ID: ''
@@ -1355,7 +1452,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AH5SH/V09AH5SH.BIN
 - Part number: V09AH5SI
   Shareware filename: ''
   BIOS ID: ''
@@ -1366,7 +1464,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AH5SI/V09AH5SI.BIN
 - Part number: V09BB5UH
   Shareware filename: ''
   BIOS ID: ''
@@ -1377,7 +1476,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5UH/V09BB5UH.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5UH/V09BB5UH.BIO
 - Part number: V098I5NL
   Shareware filename: ''
   BIOS ID: ''
@@ -2003,7 +2104,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SD/V09AB5SD.BIN
 - Part number: V09AB5SQ
   Shareware filename: ''
   BIOS ID: ''
@@ -2015,7 +2117,8 @@
   Aliases: ''
   Stock BIOS string: AMI 1.00.XX.DQ0T
   Versions found: '3.45'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SQ/V09AB5SQ.BIN
 - Part number: V09AA5SQ
   Shareware filename: ''
   BIOS ID: ''
@@ -2028,7 +2131,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.45'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AA5SQ/V09AA5SQ.BIN
 - Part number: V09AB5NI
   Shareware filename: ''
   BIOS ID: ''
@@ -2040,7 +2144,9 @@
   Aliases: ''
   Stock BIOS string: AMI 1.00.XX.DN0R
   Versions found: '3.45'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5NI/V09AB5NI.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5NI/V09AB5NI.BIO
 - Part number: V09AB5SZ
   Shareware filename: ''
   BIOS ID: ''
@@ -2052,7 +2158,8 @@
   Aliases: ''
   Stock BIOS string: AMI 1.00.0X.CY1T
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SZ/V09AB5SZ.BIN
 - Part number: V09AB5NV
   Shareware filename: ''
   BIOS ID: ''
@@ -2064,7 +2171,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5NV/V09AB5NV.BIO
 - Part number: V097B5SI
   Shareware filename: ''
   BIOS ID: ''
@@ -2101,7 +2209,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59II3B
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5AI/V09BB5AI.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5AI/V09BB5AI.BIO
 - Part number: V097B50J
   Shareware filename: MR_JBOND
   BIOS ID: INTL50J
@@ -2155,7 +2265,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GJ39
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WM/V09AB5WM.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WM/V09AB5WM.BIO
 - Part number: V09AB5ST
   Shareware filename: ''
   BIOS ID: ''
@@ -2166,7 +2278,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GJMB
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5ST/V09AB5ST.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5ST/V09AB5ST.BIO
 - Part number: V097B5SK
   Shareware filename: MR_JETS
   BIOS ID: INTL5SK
@@ -2232,6 +2346,8 @@
   - bios/mrbios/INTEL/SHAREWARE/MR_JET/3.22/MR_JET.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_JET/3.27/MR_JET.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_JET/3.28/MR_JET.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JETS/MR_JETS.BIO
+  - bios/mrbios/INTEL/SHAREWARE/MR_JETW/MR_JETW.BIO
 - Part number: V098B5WK
   Shareware filename: ''
   BIOS ID: ''
@@ -2265,7 +2381,9 @@
 
     Award 2A59IJ19'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5AJ/V09BB5AJ.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5AJ/V09BB5AJ.BIO
 - Part number: V09AB5SF
   Shareware filename: ''
   BIOS ID: ''
@@ -2276,7 +2394,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GJ1CC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SF/V09AB5SF.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SF/V09AB5SF.BIO
 - Part number: V09AB5LK
   Shareware filename: ''
   BIOS ID: ''
@@ -2287,7 +2407,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5LK/V09AB5LK.BIN
 - Part number: V09AB5SJ
   Shareware filename: ''
   BIOS ID: ''
@@ -2298,7 +2419,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SJ/V09AB5SJ.BIN
 - Part number: V097B5NJ
   Shareware filename: MR_JBNDN
   BIOS ID: INTL5NJ
@@ -2338,7 +2460,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IL1CC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5IB/V09BB5IB.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5IB/V09BB5IB.BIO
 - Part number: V09AB5UJ
   Shareware filename: ''
   BIOS ID: ''
@@ -2349,7 +2473,9 @@
   Aliases: Lucky Star 5I-VX2
   Stock BIOS string: Award 2A59GL1C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UJ/V09AB5UJ.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UJ/V09AB5UJ.BIO
 - Part number: V09BB5WD
   Shareware filename: ''
   BIOS ID: ''
@@ -2360,7 +2486,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IS2EC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WD/V09BB5WD.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WD/V09BB5WD.BIO
 - Part number: V09BB5WE
   Shareware filename: ''
   BIOS ID: ''
@@ -2373,7 +2501,9 @@
 
     Award 2A59ISM9C'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WE/V09BB5WE.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WE/V09BB5WE.BIO
 - Part number: V09AB5WD
   Shareware filename: ''
   BIOS ID: ''
@@ -2386,7 +2516,9 @@
 
     Award 2A59GT4BC'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WD/V09AB5WD.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WD/V09AB5WD.BIO
 - Part number: V097B50H
   Shareware filename: 'MR_MCRNC
 
@@ -2469,7 +2601,9 @@
   Aliases: Tekram P5V30-B4
   Stock BIOS string: Award 2A59GTG9C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WE/V09AB5WE.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WE/V09AB5WE.BIO
 - Part number: V098B5WB
   Shareware filename: ''
   BIOS ID: ''
@@ -2493,7 +2627,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WN/V09AB5WN.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WN/V09AB5WN.BIO
 - Part number: V097B5WB
   Shareware filename: MR_MYLEX
   BIOS ID: INTL5WB
@@ -2595,7 +2731,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5IO/V09BB5IO.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5IO/V09BB5IO.BIO
 - Part number: V09AB50H
   Shareware filename: ''
   BIOS ID: ''
@@ -2606,7 +2744,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GO0D
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB50H/V09AB50H.BIN
+  - bios/mrbios/INTEL/430VX/V09AB50H/V09AB50H.BIO
 - Part number: V09AB5UA
   Shareware filename: ''
   BIOS ID: ''
@@ -2617,7 +2757,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UA/V09AB5UA.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UA/V09AB5UA.BIO
 - Part number: V097B5XP
   Shareware filename: ''
   BIOS ID: ''
@@ -2641,7 +2783,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.45'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AP5UE/V09AP5UE.BIN
 - Part number: V09AB5SP
   Shareware filename: ''
   BIOS ID: ''
@@ -2652,7 +2795,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GV5G
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SP/V09AB5SP.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SP/V09AB5SP.BIO
 - Part number: V097B5NQ
   Shareware filename: ''
   BIOS ID: ''
@@ -2689,7 +2834,8 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5NA/V09AB5NA.BIN
 - Part number: V097B5UE
   Shareware filename: ''
   BIOS ID: ''
@@ -2804,7 +2950,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IH2E
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5IL/V09BB5IL.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5IL/V09BB5IL.BIO
 - Part number: V09BB5IN
   Shareware filename: ''
   BIOS ID: ''
@@ -2815,7 +2963,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IH2H
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5IN/V09BB5IN.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5IN/V09BB5IN.BIO
 - Part number: V09BB5IM
   Shareware filename: ''
   BIOS ID: ''
@@ -2826,7 +2976,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IH2H
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5IM/V09BB5IM.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5IM/V09BB5IM.BIO
 - Part number: V09AB5UC
   Shareware filename: ''
   BIOS ID: ''
@@ -2837,7 +2989,9 @@
   Aliases: Shuttle HOT-557
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UC/V09AB5UC.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UC/V09AB5UC.BIO
 - Part number: V09AB5IS
   Shareware filename: ''
   BIOS ID: ''
@@ -2848,7 +3002,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GH2K
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5IS/V09AB5IS.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5IS/V09AB5IS.BIO
 - Part number: V09AB5SK
   Shareware filename: ''
   BIOS ID: ''
@@ -2859,7 +3015,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59GH21C
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SK/V09AB5SK.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SK/V09AB5SK.BIO
 - Part number: V097A5ND
   Shareware filename: ''
   BIOS ID: ''
@@ -2923,7 +3081,9 @@
 
     Award 2A59IS2BC'
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WY/V09BB5WY.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WY/V09BB5WY.BIO
 - Part number: V09AB5LD
   Shareware filename: ''
   BIOS ID: ''
@@ -2938,7 +3098,9 @@
     Biostar MB-8500TVD-A'
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5LD/V09AB5LD.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5LD/V09AB5LD.BIO
 - Part number: V09AB5UD
   Shareware filename: ''
   BIOS ID: ''
@@ -2953,7 +3115,9 @@
     Biostar MB-8500TUR'
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UD/V09AB5UD.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UD/V09AB5UD.BIO
 - Part number: V09AB5US
   Shareware filename: ''
   BIOS ID: ''
@@ -2964,7 +3128,9 @@
   Aliases: Soyo SY-5TA2
   Stock BIOS string: Award 2A59GS9A
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5US/V09AB5US.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5US/V09AB5US.BIO
 - Part number: V097B50S
   Shareware filename: MR_SUPER
   BIOS ID: INTL50S
@@ -3024,7 +3190,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59ISX9
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WV/V09BB5WV.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WV/V09BB5WV.BIO
 - Part number: V097B5WT
   Shareware filename: ''
   BIOS ID: ''
@@ -3061,7 +3229,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IM2A
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WT/V09BB5WT.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WT/V09BB5WT.BIO
 - Part number: V097B50P
   Shareware filename: MR_TMC
   BIOS ID: INTL50P
@@ -3103,7 +3273,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5AC/V09AB5AC.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5AC/V09AB5AC.BIO
 - Part number: V097B5U0
   Shareware filename: MR_82430
   BIOS ID: INTL5U0
@@ -3229,7 +3401,9 @@
   Aliases: ''
   Stock BIOS string: Award 2A59IT5J
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5ST/V09BB5ST.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5ST/V09BB5ST.BIO
 - Part number: V09AB5SA
   Shareware filename: ''
   BIOS ID: ''
@@ -3240,7 +3414,9 @@
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SA/V09AB5SA.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SA/V09AB5SA.BIO
 - Part number: V097A5UQ
   Shareware filename: ''
   BIOS ID: ''
@@ -3389,7 +3565,9 @@
   Aliases: BCM SQ-575
   Stock BIOS string: Award 2A59IB3IC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5WK/V09BB5WK.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5WK/V09BB5WK.BIO
 - Part number: V09AB5WK
   Shareware filename: ''
   BIOS ID: ''
@@ -3400,7 +3578,9 @@
   Aliases: Acorp 586VX
   Stock BIOS string: Award 2A59GSM9C-00
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WK/V09AB5WK.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WK/V09AB5WK.BIO
 - Part number: V09AB5WS
   Shareware filename: ''
   BIOS ID: ''
@@ -3411,7 +3591,9 @@
   Aliases: Acorp 5VX32 ver:B
   Stock BIOS string: Award 2A59GSMB
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5WS/V09AB5WS.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5WS/V09AB5WS.BIO
 - Part number: V09AB5UF
   Shareware filename: ''
   BIOS ID: ''
@@ -3422,7 +3604,9 @@
   Aliases: BCM SQ-575
   Stock BIOS string: Award 2A59IB3IC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5UF/V09AB5UF.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5UF/V09AB5UF.BIO
 - Part number: V09BB5UP
   Shareware filename: ''
   BIOS ID: ''
@@ -3433,7 +3617,9 @@
   Aliases: Astro AM 430TX
   Stock BIOS string: Award 2A59IV39
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430TX/V09BB5UP/V09BB5UP.BIN
+  - bios/mrbios/INTEL/430TX/V09BB5UP/V09BB5UP.BIO
 - Part number: V09AC5SI
   Shareware filename: ''
   BIOS ID: ''
@@ -3444,7 +3630,8 @@
   Aliases: ''
   Stock BIOS string: 51-1700-008045-00111111-071595-i430VX-H
   Versions found: '3.45'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AC5SI/V09AC5SI.BIN
 - Part number: V09AB5SI
   Shareware filename: ''
   BIOS ID: ''
@@ -3455,7 +3642,9 @@
   Aliases: COUGAR PERIPHERALS Unknown
   Stock BIOS string: 51-1700-008045-00111111-071595-i430VX-H
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5SI/V09AB5SI.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5SI/V09AB5SI.BIO
 - Part number: V09AB5IA
   Shareware filename: ''
   BIOS ID: ''
@@ -3474,7 +3663,9 @@
     COUGAR PERIPHERALS unknown'
   Stock BIOS string: Award 2A59GV3EC
   Versions found: '3.46'
-  files: []
+  files:
+  - bios/mrbios/INTEL/430VX/V09AB5IA/V09AB5IA.BIN
+  - bios/mrbios/INTEL/430VX/V09AB5IA/V09AB5IA.BIO
 - Part number: V097B50Y
   Shareware filename: MR_YMCRO
   BIOS ID: INTL50Y

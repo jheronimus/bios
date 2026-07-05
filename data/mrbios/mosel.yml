@@ -23,7 +23,8 @@
   Turbo: Turbo, active state high
   Should work with: ''
   Versions found: '1.65'
-  files: []
+  files:
+  - bios/mrbios/MOSEL/MS400/V047B405/MOSL405.BIN
 - Part Number: V047B410
   Code: MOSL410
   Chipset: MS400 Single Chip

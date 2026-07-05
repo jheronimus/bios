@@ -102,31 +102,6 @@ def main():
     print("\nProcessing MR BIOS catalog...")
     os.makedirs("data/mrbios", exist_ok=True)
     
-    # Pre-index MR BIOS files
-    # We index by part number regex matches in path/filename, and by code/shareware filename
-    mrbios_part_map = {}
-    mrbios_code_map = {}
-    
-    part_no_regex = re.compile(r'V\d{3}[A-Z0-9]{4}', re.IGNORECASE)
-    
-    for filepath in mrbios_files:
-        filename = os.path.basename(filepath)
-        name_no_ext = os.path.splitext(filename)[0].upper()
-        
-        # Match by filename
-        mrbios_code_map.setdefault(name_no_ext, []).append(filepath)
-        
-        # Match part number regex anywhere in path
-        path_parts = filepath.upper().split(os.sep)
-        for part in path_parts:
-            # Check for standard part number format VxxxXxxx
-            m = part_no_regex.search(part)
-            if m:
-                mrbios_part_map.setdefault(m.group(0).upper(), []).append(filepath)
-            # Also check for shareware names like MR_ACER
-            if part.startswith("MR_"):
-                mrbios_code_map.setdefault(part, []).append(filepath)
-                
     for tab_name, rows in mrbios_catalog.items():
         if tab_name == "Info":
             # Save Info page
@@ -155,20 +130,33 @@ def main():
             
             linked_files = set()
             
-            # Match by Part Number
-            if part_no in mrbios_part_map:
-                linked_files.update(mrbios_part_map[part_no])
-                
-            # Match by Code
-            if code in mrbios_code_map:
-                linked_files.update(mrbios_code_map[code])
-                
-            # Match by Shareware filename (which might be multiline)
+            # Substring match on Part Number
+            if len(part_no) >= 4:
+                for filepath in mrbios_files:
+                    if part_no in filepath.replace("\\", "/").upper():
+                        linked_files.add(filepath)
+            
+            # Special fallback for Mosel V047B404 typo in sheet (actual folder is V047B405)
+            if part_no == "V047B404":
+                for filepath in mrbios_files:
+                    if "V047B405" in filepath.replace("\\", "/").upper():
+                        linked_files.add(filepath)
+                        
+            # Substring match on Code
+            if len(code) >= 4:
+                for filepath in mrbios_files:
+                    filename_no_ext = os.path.splitext(os.path.basename(filepath))[0].upper()
+                    if code in filepath.replace("\\", "/").upper() or filename_no_ext == code:
+                        linked_files.add(filepath)
+                        
+            # Substring match on Shareware filename (which might be multiline)
             if shareware:
                 for line in shareware.split('\n'):
                     line_clean = line.strip().upper()
-                    if line_clean in mrbios_code_map:
-                        linked_files.update(mrbios_code_map[line_clean])
+                    if len(line_clean) >= 4:
+                        for filepath in mrbios_files:
+                            if line_clean in filepath.replace("\\", "/").upper():
+                                linked_files.add(filepath)
                         
             linked_files_list = sorted(list(linked_files))
             if linked_files_list:
