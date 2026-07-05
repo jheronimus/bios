@@ -8,12 +8,19 @@ The Unicore collection includes 3337 images, around half of them are identified.
 Sources of information include:
 
 [MrBIOS 1.65 documentation](https://archive.org/details/target5)
+
 [Evergreen Spectra companion CD v4](https://archive.org/details/evergreenspectrabios)
+
 [Vogons](https://www.vogons.org/viewtopic.php?f=61&t=59146)
+
 [The Retro Web](https://theretroweb.com/bios?biosManufacturerId=284Id=284)
+
 [BIOS Companion by Phil Croucher](https://archive.org/details/pc_engineers_vol1_BIOS)
+
 [BIOS Kompendium by Hans-Peter Shulz](https://www.hzdr.de/FWR/VB/BIOS/mrboard.htm) (note: I'm pretty sure the lines in this table got misplaced, but I did use this to identify the chipset for some Socket 7 images). Dead.
+
 [archived version of Wim's BIOS](https://web.archive.org/web/19990508213249/http://www.ping.be/bios/mrbios.html)
+
 [list of Triton motherboards](https://web.archive.org/web/20010802132444/http://mrbios.com/tritonmb.htm)
 
 For Intel-made Soc5/Soc7 boards it's recommended to use Evergreen Spectra [floppy](https://www.vogonsdrivers.com/getfile.php?fileid=551) and [CD](http://www.vogonsdrivers.com/getfile.php?fileid=547). 
