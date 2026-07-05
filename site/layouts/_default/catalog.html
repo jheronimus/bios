@@ -5,9 +5,12 @@
   <!-- Navigation tab bar for categories -->
   <ul class="tab-list">
     {{ range .Parent.Pages.ByTitle }}
-      <li class="tab-item{{ if eq .Permalink $.Permalink }} active{{ end }}">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </li>
+      {{ $name := .File.BaseFileName }}
+      {{ if not (or (eq $name "missing") (eq $name "motherboards_with_stock_mrbios") (eq $name "revision_history")) }}
+        <li class="tab-item{{ if eq .Permalink $.Permalink }} active{{ end }}">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
     {{ end }}
   </ul>
 

@@ -5,13 +5,36 @@
     {{ .Content }}
   </div>
   
+  {{ $chipsets := slice }}
+  {{ $special := slice }}
+  
+  {{ range .Pages.ByTitle }}
+    {{ $name := .File.BaseFileName }}
+    {{ if or (eq $name "missing") (eq $name "motherboards_with_stock_mrbios") (eq $name "revision_history") }}
+      {{ $special = $special | append . }}
+    {{ else }}
+      {{ $chipsets = $chipsets | append . }}
+    {{ end }}
+  {{ end }}
+
   <h2>Chipsets</h2>
   <ul class="tab-list">
-    {{ range .Pages }}
+    {{ range $chipsets }}
       <li class="tab-item">
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
   </ul>
+
+  {{ if gt (len $special) 0 }}
+    <h2 style="margin-top: 3rem;">Other Resources</h2>
+    <ul class="tab-list">
+      {{ range $special }}
+        <li class="tab-item">
+          <a href="{{ .RelPermalink }}" style="border-color: var(--accent-purple); color: var(--text-main);">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
 </div>
 {{ end }}
