@@ -5,9 +5,7 @@
   Turbo: ''
   Should work with: ''
   Versions found: ''
-  files:
-  - bios/mrbios/FOREX/UNKNOWN/V050B310/FORX310.BIN
-  - bios/mrbios/FOREX/UNKNOWN/V050B313/FORX313.BIN
+  files: []
 - Part Number: UNKNOWN
   Code: HKT_302
   Chipset: HK3000 (MR BIOS 8042 Keyboard Controller)
@@ -15,6 +13,4 @@
   Turbo: ''
   Should work with: ''
   Versions found: ''
-  files:
-  - bios/mrbios/FOREX/UNKNOWN/V050B310/FORX310.BIN
-  - bios/mrbios/FOREX/UNKNOWN/V050B313/FORX313.BIN
+  files: []

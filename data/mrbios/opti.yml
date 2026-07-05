@@ -275,9 +275,7 @@
   Note: ''
   Should work with: '[Octek Panther IV (shipped with v 1.28)](https://theretroweb.com/motherboards/s/octek-panther-iv)'
   Versions found: ''
-  files:
-  - bios/mrbios/FOREX/UNKNOWN/V050B310/FORX310.BIN
-  - bios/mrbios/FOREX/UNKNOWN/V050B313/FORX313.BIN
+  files: []
 - Part Number: V020B324
   Code: OPTI324
   CPU: '386'
@@ -2256,8 +2254,6 @@
   Should work with: '[Jetway J-403TG V2.0](https://theretroweb.com/motherboards/s/jetway-j-403tg-v2.0#downloads)'
   Versions found: '2.02'
   files:
-  - bios/mrbios/FOREX/UNKNOWN/V050B310/FORX310.BIN
-  - bios/mrbios/FOREX/UNKNOWN/V050B313/FORX313.BIN
   - bios/mrbios/OPTI/82C895/OPTI4D4/OPTI4D4.BIN
 - Part Number: UNKNOWN
   Code: OPTI4DX
@@ -2269,8 +2265,6 @@
   Should work with: BEK-tronic BEK-V429S
   Versions found: '3.46'
   files:
-  - bios/mrbios/FOREX/UNKNOWN/V050B310/FORX310.BIN
-  - bios/mrbios/FOREX/UNKNOWN/V050B313/FORX313.BIN
   - bios/mrbios/OPTI/82C895/OPTI4DX/MRBIOS.BIN
 - Part Number: V076B500
   Code: OPTI500
