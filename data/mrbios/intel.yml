@@ -455,6 +455,7 @@
   files:
   - bios/mrbios/INTEL/430HX/V098B5UC/V098B5UC.BIN
   - bios/mrbios/INTEL/430HX/V098B5UC/V098B5UC.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: P54C-HP/DIGIS-P54HP_H.2'
 - Part number: V097A5SF
   Shareware filename: ''
   BIOS ID: ''
@@ -514,6 +515,7 @@
   - bios/mrbios/INTEL/430FX/V097B5S0/V097B5S0.BIN
   - bios/mrbios/INTEL/430FX/V097B5S0/V097B5S0.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_TRICS/MR_TRICS.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: TRICOM MARKED: INTEL 82430 REV B:2 AWD 2A59CF3DC'
 - Part number: V09AB5WJ
   Shareware filename: ''
   BIOS ID: ''
@@ -692,6 +694,7 @@
   Versions found: '3.46'
   files:
   - bios/mrbios/INTEL/430VX/V09AB5UG/V09AB5UG.BIN
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: 5VMG M101 AWARD BIOS 2A59GC39C'
 - Part number: V097B5NC
   Shareware filename: ''
   BIOS ID: ''
@@ -772,6 +775,7 @@
   Versions found: '3.46'
   files:
   - bios/mrbios/INTEL/430HX/V098B5SC/V098B5SC.BIN
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: G586-IPC_REV:B'
 - Part number: V09BA5WD
   Shareware filename: ''
   BIOS ID: ''
@@ -1043,6 +1047,7 @@
   - bios/mrbios/INTEL/430FX/V097B5SZ/V097B5SZ.BIN
   - bios/mrbios/INTEL/430FX/V097B5SZ/V097B5SZ.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_P55IT/MR_P55IT.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: Unmarked motherboard book says P55-IT awd 2A59CPA9C-00'
 - Part number: V098B5SE
   Shareware filename: ''
   BIOS ID: ''
@@ -1055,6 +1060,7 @@
   Versions found: '3.46'
   files:
   - bios/mrbios/INTEL/430HX/V098B5SE/V098B5SE.BIN
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: NONAME MB AWARD 2A59FPACC-00'
 - Part number: V09BB5WQ
   Shareware filename: ''
   BIOS ID: ''
@@ -1203,6 +1209,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5WG/V09AB5WG.BIN
   - bios/mrbios/INTEL/430VX/V09AB5WG/V09AB5WG.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: GENOA "586F63"'
 - Part number: V097B50F
   Shareware filename: MR_FUGU
   BIOS ID: INTL50F
@@ -1442,6 +1449,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5SH/V09AB5SH.BIN
   - bios/mrbios/INTEL/430VX/V09AB5SH/V09AB5SH.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: JET "J-656VXD" VER:2'
 - Part number: V09AH5SH
   Shareware filename: ''
   BIOS ID: ''
@@ -1506,8 +1514,7 @@
 - Part number: V097W51G
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: ''
   Motherboard: Dell "FX" with Virge S3 Trio 64+ onboard Video
@@ -1519,8 +1526,7 @@
 - Part number: V097B51G
   Shareware filename: MR_DELL
   BIOS ID: INTL51G
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: DELL XPS
@@ -1533,8 +1539,7 @@
 - Part number: V097V51G
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: ''
   Motherboard: Dell XPS with onboard video
@@ -1547,8 +1552,7 @@
 - Part number: V097B5NA
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: IBM Aptiva/Intel Advanced/MN Morrison
@@ -1561,8 +1565,7 @@
 - Part number: V097B50G
   Shareware filename: MR_ALADN
   BIOS ID: INTL50G
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/AL Alladdin
@@ -1577,11 +1580,11 @@
   - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.27/MR_ALADN.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.28/MR_ALADN.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_ALADN/3.30/MR_ALADN.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: Intel Aladdin, Zappa ZE Bios 1.00.xx.BR0T'
 - Part number: V097E50G
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/AL Alladdin'
@@ -1593,8 +1596,7 @@
 - Part number: V097B50L
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/AS Atlantis
@@ -1608,8 +1610,7 @@
 
     MR_EV2'
   BIOS ID: INTL51X
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/AS Atlantis (Crystal 4232 sound chip, ATI Mach 64 video)
@@ -1623,11 +1624,11 @@
   - bios/mrbios/INTEL/SHAREWARE/MR_ATLAN/3.30/MR_ATLAN.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_EV2/3.28/MR_EV2.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_EV2/3.30/MR_EV2.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: Intel Atlantis and Endeavor-2 Bios 1.00.xx.CL0'
 - Part number: V097E50L
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/AS Atlantis'
@@ -1639,8 +1640,7 @@
 - Part number: V097E51X
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/AS Atlantis'
@@ -1652,8 +1652,7 @@
 - Part number: V097B50X
   Shareware filename: MR_ATX
   BIOS ID: INTL50X
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ATX Thor
@@ -1668,8 +1667,7 @@
 - Part number: V097E50X
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/ATX Thor'
@@ -1681,8 +1679,7 @@
 - Part number: V097B50V
   Shareware filename: MR_ENDVR
   BIOS ID: INTL50V
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/EV Endeavor (Creative sound chip, no onboard video)
@@ -1702,8 +1699,7 @@
 - Part number: V097E50V
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/EV Endeavor'
@@ -1715,8 +1711,7 @@
 - Part number: V097E5NP
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC ???
   Motherboard: '"Evergreen Technology" Intel Advanced/HL Hillary'
@@ -1728,8 +1723,7 @@
 - Part number: V097B5NN
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC ???
   Motherboard: Intel Advanced/PL (Packard Bell)
@@ -1742,8 +1736,7 @@
 - Part number: V097C50N
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC ???
   Motherboard: Intel Advanced/MA Monaco
@@ -1756,8 +1749,7 @@
 - Part number: V097B5NP
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/HL (Packard Bell)
@@ -1769,8 +1761,7 @@
 - Part number: V097B50N
   Shareware filename: MR_MORIS
   BIOS ID: INTL50N
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/MN Morrison
@@ -1784,8 +1775,7 @@
 - Part number: V097E50N
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/MN Morrison'
@@ -1797,8 +1787,7 @@
 - Part number: V097B5NH
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/MN S64 Morrison64 (HP 7170)
@@ -1811,8 +1800,7 @@
 - Part number: V097A50N
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/MN Morrison with onboard Crystal 4232 sound
@@ -1825,8 +1813,7 @@
 - Part number: V097V50N
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/MN Morrison with onboard video
@@ -1839,8 +1826,7 @@
 - Part number: V097A5NH
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/MN Morrison with Trio 32+ VGA and Crystal 4232 sound
@@ -1853,8 +1839,7 @@
 - Part number: V097A5NI
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ZE Zappa E
@@ -1867,8 +1852,7 @@
 - Part number: V097B5NI
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ZE Zappa E
@@ -1881,8 +1865,7 @@
 - Part number: V097E5NI
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/ZE Zappa E'
@@ -1894,15 +1877,13 @@
 - Part number: V097B50I
   Shareware filename: MR_ZAPPA
   BIOS ID: INTL50I
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ZP Zappa P
   Aliases: Intel Advanced/ZED Zappa ED (since 3.27)
   Stock BIOS string: ''
-  Versions found: 3.12, 3.14, 3.15, 3.19, 3.20, 3.21, 3.22, 3.24, 3.27, 3.28, 3.30,
-    3.46
+  Versions found: 3.12, 3.14, 3.15, 3.19, 3.20, 3.21, 3.22, 3.24, 3.27, 3.28, 3.30, 3.46
   files:
   - bios/mrbios/INTEL/430FX/V097B50I/V097B50I.BIN
   - bios/mrbios/INTEL/430FX/V097B50I/V097B50I.BIO
@@ -1920,8 +1901,7 @@
 - Part number: V097E50I
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430FX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/ZP Zappa P'
@@ -1933,8 +1913,7 @@
 - Part number: V098B5NH
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC ???
   Motherboard: HP Pavilion 7020/7270/7275Z/7280P/7285/7295V Ruby
@@ -1947,8 +1926,7 @@
 - Part number: V098B5NI
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ML Marl
@@ -1961,8 +1939,7 @@
 - Part number: V098B5NV
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ML Marl (Sold under Trigem Amazon)
@@ -1975,8 +1952,7 @@
 - Part number: V098E5NI
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel Advanced/ML Marl'
@@ -1988,8 +1964,7 @@
 - Part number: V098S50P
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel Advanced/ML Marl (Sold under PROCOM TECHNOLOGY)
@@ -2001,8 +1976,7 @@
 - Part number: V098A5NH
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC ???
   Motherboard: HP Pavillion 73xx Series
@@ -2015,8 +1989,7 @@
 - Part number: V098B5NC
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC ???
   Motherboard: Intel CU430HX Cumberland On-Board Video and Audio
@@ -2029,8 +2002,7 @@
 - Part number: V098B5NT
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel TC430HX Tucson
@@ -2043,8 +2015,7 @@
 - Part number: V098E5NT
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: '"Evergreen Technology" Intel TC430HX Tucson'
@@ -2056,8 +2027,7 @@
 - Part number: V098S5NG
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel TC430HX Tucson (sold under SILICON GAMING)
@@ -2069,8 +2039,7 @@
 - Part number: V098V5NT
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel TC430HX Tucson w/On-Board Video & Audio
@@ -2083,8 +2052,7 @@
 - Part number: V098Y5NT
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430HX
   I/O chip: NSC 306
   Motherboard: Intel TC430HX Tucson w/On-Board Video & Audio [S3-375]
@@ -2096,8 +2064,7 @@
 - Part number: V09AB5SD
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430VX
   I/O chip: SMC 93x
   Motherboard: DELL XPS VX
@@ -2109,8 +2076,7 @@
 - Part number: V09AB5SQ
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430VX
   I/O chip: SMC 93x
   Motherboard: Gateway 2000 ATX (Intel MA430VX Mailman)
@@ -2122,12 +2088,10 @@
 - Part number: V09AA5SQ
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430VX
   I/O chip: SMC ???
-  Motherboard: Intel MA430VX Mailman Gateway 2000 (Inverted A20) Need MRFLASH Rev
-    2.22
+  Motherboard: Intel MA430VX Mailman Gateway 2000 (Inverted A20) Need MRFLASH Rev 2.22
   Aliases: ''
   Stock BIOS string: ''
   Versions found: '3.45'
@@ -2136,8 +2100,7 @@
 - Part number: V09AB5NI
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430VX
   I/O chip: NSC 306
   Motherboard: Packard Bell NV430VX (Orlando/Tampa)
@@ -2150,8 +2113,7 @@
 - Part number: V09AB5SZ
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430VX
   I/O chip: SMC ???
   Motherboard: Intel TE430VX Tigereye
@@ -2163,8 +2125,7 @@
 - Part number: V09AB5NV
   Shareware filename: ''
   BIOS ID: ''
-  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might
-    brick the board!)'
+  Manufacturer: 'Intel (warning: the BIOS chip is soldered, flashing wrong BIOS might brick the board!)'
   Chipset: 430VX
   I/O chip: NSC ???
   Motherboard: Packard Bell, NEC, Dell "VX" with Virge S3 Trio 64+ On-Board Video
@@ -2421,6 +2382,7 @@
   Versions found: '3.46'
   files:
   - bios/mrbios/INTEL/430VX/V09AB5SJ/V09AB5SJ.BIN
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: JET "J-656VXD" VER:2'
 - Part number: V097B5NJ
   Shareware filename: MR_JBNDN
   BIOS ID: INTL5NJ
@@ -2439,6 +2401,7 @@
   - bios/mrbios/INTEL/430FX/V097B5NJ/V097B5NJ.BIN
   - bios/mrbios/INTEL/430FX/V097B5NJ/V097B5NJ.BIO
   - bios/mrbios/INTEL/SHAREWARE/MR_JBNDN/MR_JBNDN.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: J.Bond? Award 2A59CR29C'
 - Part number: V09BB5AK
   Shareware filename: ''
   BIOS ID: ''
@@ -2489,6 +2452,7 @@
   files:
   - bios/mrbios/INTEL/430TX/V09BB5WD/V09BB5WD.BIN
   - bios/mrbios/INTEL/430TX/V09BB5WD/V09BB5WD.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: MTECH R540 AWARD 2A59IS2EC'
 - Part number: V09BB5WE
   Shareware filename: ''
   BIOS ID: ''
@@ -2504,6 +2468,7 @@
   files:
   - bios/mrbios/INTEL/430TX/V09BB5WE/V09BB5WE.BIN
   - bios/mrbios/INTEL/430TX/V09BB5WE/V09BB5WE.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: MTECH R541_006 AWARD 2A59IR0BC'
 - Part number: V09AB5WD
   Shareware filename: ''
   BIOS ID: ''
@@ -2519,6 +2484,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5WD/V09AB5WD.BIN
   - bios/mrbios/INTEL/430VX/V09AB5WD/V09AB5WD.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: MTECH R529 AWARD: 2A59GROAC, AWARD: 2A59GT4BC'
 - Part number: V097B50H
   Shareware filename: 'MR_MCRNC
 
@@ -2617,6 +2583,7 @@
   files:
   - bios/mrbios/INTEL/430HX/V098B5WB/V098B5WB.BIN
   - bios/mrbios/INTEL/430HX/V098B5WB/V098B5WB.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: P54C-TR4 Award Bios 2A59FM4AC'
 - Part number: V09AB5WN
   Shareware filename: ''
   BIOS ID: ''
@@ -2811,6 +2778,7 @@
   files:
   - bios/mrbios/INTEL/430FX/V097B5NQ/V097B5NQ.BIN
   - bios/mrbios/INTEL/430FX/V097B5NQ/V097B5NQ.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: No Name: 2A59CQ1AC'
 - Part number: V098B5NQ
   Shareware filename: ''
   BIOS ID: ''
@@ -3044,6 +3012,7 @@
   files:
   - bios/mrbios/INTEL/430FX/V097A5SK/V097A5SK.BIN
   - bios/mrbios/INTEL/430FX/V097A5SK/V097A5SK.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: No Name MB Award bios 2A59CR0AC'
 - Part number: V097A5UK
   Shareware filename: ''
   BIOS ID: ''
@@ -3101,6 +3070,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5LD/V09AB5LD.BIN
   - bios/mrbios/INTEL/430VX/V09AB5LD/V09AB5LD.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: MB-8500TVD-A  BIOS: 51-0509-001223 00111111 82430VX-F'
 - Part number: V09AB5UD
   Shareware filename: ''
   BIOS ID: ''
@@ -3443,6 +3413,7 @@
   files:
   - bios/mrbios/INTEL/430HX/V098B5SG/V098B5SG.BIN
   - bios/mrbios/INTEL/430HX/V098B5SG/V098B5SG.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: No Name: "U7908V3" Award Bios 2A59FU69C'
 - Part number: V097A5WB
   Shareware filename: MR_FG1PB
   BIOS ID: INTL5WB
@@ -3581,6 +3552,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5WK/V09AB5WK.BIN
   - bios/mrbios/INTEL/430VX/V09AB5WK/V09AB5WK.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: NONAME BOARD AWARD 2A59GSM9C'
 - Part number: V09AB5WS
   Shareware filename: ''
   BIOS ID: ''
@@ -3607,6 +3579,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5UF/V09AB5UF.BIN
   - bios/mrbios/INTEL/430VX/V09AB5UF/V09AB5UF.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: VT586VX  Award: 2A59GV59C'
 - Part number: V09BB5UP
   Shareware filename: ''
   BIOS ID: ''
@@ -3645,6 +3618,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5SI/V09AB5SI.BIN
   - bios/mrbios/INTEL/430VX/V09AB5SI/V09AB5SI.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: COUGAR PERIPHERALS 51-1700-008045-00111111'
 - Part number: V09AB5IA
   Shareware filename: ''
   BIOS ID: ''
@@ -3666,6 +3640,7 @@
   files:
   - bios/mrbios/INTEL/430VX/V09AB5IA/V09AB5IA.BIN
   - bios/mrbios/INTEL/430VX/V09AB5IA/V09AB5IA.BIO
+  note: 'mrbios.com/tritonmb.htm (archived 2001-08-02) identifies this as: COUGAR PERIPHERALS Award Bios 2A59GV3EC'
 - Part number: V097B50Y
   Shareware filename: MR_YMCRO
   BIOS ID: INTL50Y
