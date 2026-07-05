@@ -1,8 +1,8 @@
 # Ticket-006: Regression Test & Verification
 
 - **Label**: `roadmap:task`
-- **Status**: Open
-- **Assignee**: Unassigned
+- **Status**: Closed
+- **Assignee**: Antigravity
 - **Blocked by**: [Hugo Templates for MR BIOS and Unicore Catalogs](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-004-hugo-templates.md)
 
 ## Question
@@ -17,3 +17,11 @@ How do we verify that the data migration is 100% complete and correct (no rows/t
    - Total rows extracted from MR BIOS sheets.
    - Total rows extracted from Unicore sheets.
    - Any mismatched or missing binary files.
+
+## Resolution
+- Created [verify.py](file:///Users/ilembitov/Projects/bios/scripts/verify.py) implementing standalone assert-based data verification tests.
+- Verified 100% catalog integrity:
+  - Validated all 36 chipset categories.
+  - Compared and matched exactly 4,244 database entries.
+  - Checked and verified that all 3,980 referenced BIOS files exist locally.
+
