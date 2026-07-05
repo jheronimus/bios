@@ -29,11 +29,8 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
     <div class="footer-links">
-      <a href="https://github.com/ilembitov/bios" target="_blank">GitHub Repository</a>
-      <a href="https://docs.google.com/spreadsheets/d/1vtPsoKNyGD3ujMWK_G7ldm7G-jBiyPGXZOp8ZeyuFf8/edit" target="_blank">Original MR BIOS Sheet</a>
-      <a href="https://docs.google.com/spreadsheets/d/1LAG0ofYZlIE-chpsF85FRbC5i21hUMRf8iWHp90YDLQ/edit" target="_blank">Original Unicore Sheet</a>
+      <a href="https://github.com/{{ .Site.Params.githubRepo }}" target="_blank">GitHub Repository</a>
     </div>
   </footer>
 
