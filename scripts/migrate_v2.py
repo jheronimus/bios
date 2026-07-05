@@ -72,7 +72,7 @@ def main():
             # Save Info page
             os.makedirs("site/content/unicore", exist_ok=True)
             with open("site/content/unicore/_index.md", "w", encoding="utf-8") as f:
-                f.write(f"---\ntitle: \"Unicore Awards BIOS catalog\"\n---\n\n{rows}\n")
+                f.write(f"---\ntitle: \"Unicore Upgrades\"\n---\n")
             print("Wrote site/content/unicore/_index.md")
             continue
             
@@ -95,7 +95,7 @@ def main():
         # Write matching Markdown content file
         md_filename = sanitize_filename(tab_name)
         with open(f"site/content/unicore/{md_filename}.md", "w", encoding="utf-8") as f_md:
-            f_md.write(f"---\ntitle: \"{tab_name} Chipsets\"\nlayout: \"catalog\"\ncatalog_type: \"unicore\"\ncatalog_name: \"{md_filename}\"\n---\n")
+            f_md.write(f"---\ntitle: \"{tab_name}\"\nlayout: \"catalog\"\ncatalog_type: \"unicore\"\ncatalog_name: \"{md_filename}\"\n---\n")
 
     # 4. Process MR BIOS catalog and link files
     # MR BIOS files are matched by Part Number or Code
@@ -132,7 +132,7 @@ def main():
             # Save Info page
             os.makedirs("site/content/mrbios", exist_ok=True)
             with open("site/content/mrbios/_index.md", "w", encoding="utf-8") as f:
-                f.write(f"---\ntitle: \"MR BIOS catalog\"\n---\n\n{rows}\n")
+                f.write(f"---\ntitle: \"MR BIOS\"\n---\n")
             print("Wrote site/content/mrbios/_index.md")
             continue
             
@@ -185,7 +185,7 @@ def main():
         # Write matching Markdown content file
         md_filename = sanitize_filename(tab_name)
         with open(f"site/content/mrbios/{md_filename}.md", "w", encoding="utf-8") as f_md:
-            f_md.write(f"---\ntitle: \"{tab_name} Chipsets\"\nlayout: \"catalog\"\ncatalog_type: \"mrbios\"\ncatalog_name: \"{md_filename}\"\n---\n")
+            f_md.write(f"---\ntitle: \"{tab_name}\"\nlayout: \"catalog\"\ncatalog_type: \"mrbios\"\ncatalog_name: \"{md_filename}\"\n---\n")
 
     print("\nMigration completed successfully!")
 
