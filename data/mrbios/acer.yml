@@ -109,7 +109,8 @@
 
     Elonex PC-425X'
   Versions found: '1.41'
-  files: []
+  files:
+  - bios/mrbios/ACER/V058B310/ACER310.BIN
 - Part Number: V058B314
   Code: ACER314
   Chipset: M1217
@@ -189,7 +190,8 @@
   Note: With fast-A20 optimization
   Should work with: '[ECS 8517 V3.3](https://theretroweb.com/motherboards/s/ecs-8517-v3.3)'
   Versions found: '1.4'
-  files: []
+  files:
+  - bios/mrbios/ACER/V058B31E/ACER31E.BIN
 - Part Number: V058B31F
   Code: ACER31F
   Chipset: M1217-Cyrix 486SLC
