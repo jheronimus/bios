@@ -91,6 +91,11 @@ def main():
         with open(out_yaml_path, "w", encoding="utf-8") as f:
             yaml.safe_dump(updated_rows, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
         print(f"Wrote {out_yaml_path} with {len(updated_rows)} entries ({linked_count} linked to binaries)")
+        
+        # Write matching Markdown content file
+        md_filename = sanitize_filename(tab_name)
+        with open(f"site/content/unicore/{md_filename}.md", "w", encoding="utf-8") as f_md:
+            f_md.write(f"---\ntitle: \"{tab_name} Chipsets\"\nlayout: \"catalog\"\ncatalog_type: \"unicore\"\ncatalog_name: \"{md_filename}\"\n---\n")
 
     # 4. Process MR BIOS catalog and link files
     # MR BIOS files are matched by Part Number or Code
@@ -176,6 +181,11 @@ def main():
         with open(out_yaml_path, "w", encoding="utf-8") as f:
             yaml.safe_dump(updated_rows, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
         print(f"Wrote {out_yaml_path} with {len(updated_rows)} entries ({linked_count} linked to binaries)")
+        
+        # Write matching Markdown content file
+        md_filename = sanitize_filename(tab_name)
+        with open(f"site/content/mrbios/{md_filename}.md", "w", encoding="utf-8") as f_md:
+            f_md.write(f"---\ntitle: \"{tab_name} Chipsets\"\nlayout: \"catalog\"\ncatalog_type: \"mrbios\"\ncatalog_name: \"{md_filename}\"\n---\n")
 
     print("\nMigration completed successfully!")
 

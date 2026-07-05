@@ -18,17 +18,16 @@ This roadmap tracks the migration of the MR BIOS and Unicore Award BIOS Google D
 - **[Unicore and MR BIOS HTML Data Extraction Script](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-001-data-extraction.md)** — Parsed all 30 MR BIOS HTML sheets and 8 Unicore upgrades HTML sheets cleanly into structured scratch JSON files.
 - **[YAML Catalog and Image Organization Schema](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-002-data-schema.md)** — Structured BIOS metadata into data/ as YAML lists and moved binaries to bios/, linking them dynamically.
 - **[Hugo Static Site Bootstrap](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-003-hugo-bootstrap.md)** — Bootstrapped Hugo project inside site/, defined custom layouts, and created responsive CSS design.
+- **[Git Repository Initialization](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-007-git-init.md)** — Git repository initialized and first commit created containing over 19,000 migrated files.
 
 ## Frontier
 
 - [Hugo Templates for MR BIOS and Unicore Catalogs](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-004-hugo-templates.md) (unblocked)
-- [Git Repository Initialization](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-007-git-init.md) (unblocked)
 
 ## Open Tickets
 
 - [Hugo Templates for MR BIOS and Unicore Catalogs](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-004-hugo-templates.md)
-- [Git Repository Initialization](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-007-git-init.md)
-- [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md) (Blocked by ticket-004, ticket-007)
+- [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md) (Blocked by ticket-004)
 - [Regression Test & Verification](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-006-verification.md) (Blocked by ticket-004)
 
 ## Fog

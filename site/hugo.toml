@@ -3,6 +3,10 @@ relativeURLs = true
 canonifyURLs = false
 locale = 'en-us'
 title = 'MR BIOS & Unicore Award BIOS Archive'
+dataDir = '../data'
+
+[params]
+  githubRepo = 'ilembitov/bios'
 
 [markup]
   [markup.goldmark]

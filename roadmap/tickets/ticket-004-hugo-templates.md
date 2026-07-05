@@ -1,8 +1,8 @@
 # Ticket-004: Hugo Templates for MR BIOS and Unicore Catalogs
 
 - **Label**: `roadmap:task`
-- **Status**: Open
-- **Assignee**: Unassigned
+- **Status**: In-Progress
+- **Assignee**: Antigravity
 - **Blocked by**: [YAML Catalog and Image Organization Schema](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-002-data-schema.md), [Hugo Static Site Bootstrap](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-003-hugo-bootstrap.md)
 - **Blocks**: [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md), [Regression Test & Verification](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-006-verification.md)
 

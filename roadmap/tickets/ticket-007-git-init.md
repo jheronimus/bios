@@ -13,3 +13,10 @@ How do we initialize git version control locally, prepare exclusions, and make t
 2. Verify `.gitignore` contains exclusions for system files (Mac `.DS_Store`) and Hugo builds.
 3. Stage all source files, metadata, scripts, and BIOS binaries (`git add .`).
 4. Commit the staged changes with a descriptive message (`git commit -m "feat: migrate BIOS catalogs and bootstrap Hugo site"`).
+
+## Resolution
+- Confirmed macOS and python environment exclusions in [.gitignore](file:///Users/ilembitov/Projects/bios/.gitignore) (added `.venv/`).
+- Initialized local Git repository (`git init`).
+- Staged all migrated data files (YAML databases, BIOS binary images, custom Hugo bootstrap, and roadmap map files).
+- Created first commit successfully. Over 19,000 files registered.
+
