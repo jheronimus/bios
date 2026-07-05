@@ -1,7 +1,7 @@
 # Ticket-004: Hugo Templates for MR BIOS and Unicore Catalogs
 
 - **Label**: `roadmap:task`
-- **Status**: In-Progress
+- **Status**: Closed
 - **Assignee**: Antigravity
 - **Blocked by**: [YAML Catalog and Image Organization Schema](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-002-data-schema.md), [Hugo Static Site Bootstrap](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-003-hugo-bootstrap.md)
 - **Blocks**: [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md), [Regression Test & Verification](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-006-verification.md)
@@ -18,3 +18,13 @@ How do we create layout templates in Hugo to dynamically read our YAML files fro
 4. Add direct download buttons for each row, pointing to:
    `https://raw.githubusercontent.com/<username>/<repo>/main/bios/<catalog_type>/<relative_path>`
 5. Add basic responsive CSS styles for table sizing, highlighting, and mobile scroll-bars.
+
+## Resolution
+- Modified [migrate_v2.py](file:///Users/ilembitov/Projects/bios/scripts/migrate_v2.py) to automatically output custom Markdown pages for every category tab in `site/content/mrbios/` and `site/content/unicore/`.
+- Configured [hugo.toml](file:///Users/ilembitov/Projects/bios/site/hugo.toml) with the param `githubRepo = 'ilembitov/bios'` and custom `dataDir = '../data'`.
+- Created a single, unified layout template: [catalog.html](file:///Users/ilembitov/Projects/bios/site/layouts/_default/catalog.html).
+  - Uses a master-list key matching filter to ensure consistent column ordering across builds without rendering empty/unused columns.
+  - Generates beautiful tables containing raw content and active links.
+  - Automatically renders direct raw CDN GitHub download buttons referencing the file's path in the repository.
+  - Embeds category navigation tab bars on the top of catalog pages, enabling instant browsing between chipsets.
+

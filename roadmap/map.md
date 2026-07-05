@@ -19,16 +19,17 @@ This roadmap tracks the migration of the MR BIOS and Unicore Award BIOS Google D
 - **[YAML Catalog and Image Organization Schema](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-002-data-schema.md)** — Structured BIOS metadata into data/ as YAML lists and moved binaries to bios/, linking them dynamically.
 - **[Hugo Static Site Bootstrap](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-003-hugo-bootstrap.md)** — Bootstrapped Hugo project inside site/, defined custom layouts, and created responsive CSS design.
 - **[Git Repository Initialization](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-007-git-init.md)** — Git repository initialized and first commit created containing over 19,000 migrated files.
+- **[Hugo Templates for MR BIOS and Unicore Catalogs](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-004-hugo-templates.md)** — Implemented a unified catalog layout template (`catalog.html`) with dynamic column ordering, raw CDN download links, and header navigation.
 
 ## Frontier
 
-- [Hugo Templates for MR BIOS and Unicore Catalogs](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-004-hugo-templates.md) (unblocked)
+- [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md) (unblocked)
+- [Regression Test & Verification](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-006-verification.md) (unblocked)
 
 ## Open Tickets
 
-- [Hugo Templates for MR BIOS and Unicore Catalogs](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-004-hugo-templates.md)
-- [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md) (Blocked by ticket-004)
-- [Regression Test & Verification](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-006-verification.md) (Blocked by ticket-004)
+- [GitHub Actions CI/CD Pipeline for GitHub Pages](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-005-ci-cd.md)
+- [Regression Test & Verification](file:///Users/ilembitov/Projects/bios/roadmap/tickets/ticket-006-verification.md)
 
 ## Fog
 
