@@ -1,17 +1,15 @@
-# macOS system files
+# macOS dotfiles
 .DS_Store
 .AppleDouble
 .LSOverride
+.Spotlight-V100
+.Trashes
 
 # Icon files
 Icon
 
 # Thumbnails
 ._*
-
-# Files that might be created by other IDEs/editors
-.Spotlight-V100
-.Trashes
 
 # Hugo build directory
 /site/public/
@@ -23,3 +21,9 @@ plan.*
 
 # Python virtual environment
 .venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
